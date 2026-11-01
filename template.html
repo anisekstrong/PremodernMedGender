@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Who Dissertations Cite: Gender & Sexuality in the Ancient and Medieval Mediterranean</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<style>
+.viz-root{color-scheme:light;
+  --surface-0:#f4f3ef;--surface-1:#fcfcfb;--border:#e2e0d9;--grid:#ecebe6;
+  --text-primary:#0b0b0b;--text-secondary:#52514e;--text-muted:#77756f;
+  --ant:#2a78d6;--late:#eb6834;--med:#1baf7a;--cross:#8a8984;--link:#9c9a92;--focus:#0b0b0b}
+@media (prefers-color-scheme:dark){:root:where(:not([data-theme="light"])) .viz-root{color-scheme:dark;
+  --surface-0:#121211;--surface-1:#1a1a19;--border:#33322f;--grid:#262624;
+  --text-primary:#f0efec;--text-secondary:#c3c2b7;--text-muted:#94938b;
+  --ant:#3987e5;--late:#d95926;--med:#199e70;--cross:#8f8e88;--link:#6b6a64;--focus:#f0efec}}
+:root[data-theme="dark"] .viz-root{color-scheme:dark;
+  --surface-0:#121211;--surface-1:#1a1a19;--border:#33322f;--grid:#262624;
+  --text-primary:#f0efec;--text-secondary:#c3c2b7;--text-muted:#94938b;
+  --ant:#3987e5;--late:#d95926;--med:#199e70;--cross:#8f8e88;--link:#6b6a64;--focus:#f0efec}
+*{box-sizing:border-box}
+body{margin:0}
+.viz-root{background:var(--surface-0);color:var(--text-primary);font:14px/1.5 Inter,system-ui,sans-serif;min-height:100vh}
+.wrap{max-width:1280px;margin:0 auto;padding:28px 24px 48px}
+h1{font:600 28px/1.2 "Source Serif 4",Georgia,serif;margin:0 0 6px;letter-spacing:-.01em}
+.lede{color:var(--text-secondary);max-width:860px;margin:0 0 6px;font-size:15px}
+.caveat{color:var(--text-secondary);font-size:13px;max-width:900px;margin:8px 0 18px;padding:10px 14px;border-left:3px solid var(--late);background:var(--surface-1);border-radius:0 6px 6px 0}
+.controls{display:flex;flex-wrap:wrap;gap:18px;align-items:center;margin-bottom:12px}
+.ctl{display:flex;align-items:center;gap:8px;color:var(--text-secondary);font-size:13px}
+.ctl input[type=range]{width:120px;accent-color:var(--text-secondary)}
+.ctl output{color:var(--text-primary);font-variant-numeric:tabular-nums;min-width:1.5em}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--border);background:var(--surface-1);color:var(--text-primary);border-radius:999px;padding:4px 10px 4px 8px;font:500 12.5px Inter,sans-serif;cursor:pointer;display:flex;align-items:center;gap:6px}
+.chip[aria-pressed=false]{opacity:.45}
+.sw{width:10px;height:10px;border-radius:50%;display:inline-block}
+input[type=search]{border:1px solid var(--border);background:var(--surface-1);color:var(--text-primary);border-radius:6px;padding:5px 9px;font:13px Inter,sans-serif;width:190px}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:16px}
+@media (max-width:900px){.grid{grid-template-columns:1fr}}
+.card{background:var(--surface-1);border:1px solid var(--border);border-radius:10px}
+#map{position:relative;height:680px;overflow:hidden}
+#map svg{width:100%;height:100%;display:block;cursor:grab}
+.hint{position:absolute;left:12px;bottom:10px;font-size:12px;color:var(--text-muted);pointer-events:none}
+.side{padding:16px 18px;max-height:680px;overflow:auto}
+.side h2{font:600 18px/1.25 "Source Serif 4",serif;margin:0 0 4px}
+.side .big{font:600 30px/1 Inter,sans-serif;font-variant-numeric:tabular-nums}
+.muted{color:var(--text-muted)} .sec{color:var(--text-secondary)}
+.bars{margin:10px 0 14px}
+.bar{display:grid;grid-template-columns:118px 1fr 22px;gap:8px;align-items:center;font-size:12.5px;margin:4px 0;color:var(--text-secondary)}
+.bar i{display:block;height:8px;border-radius:0 4px 4px 0;min-width:2px}
+.bar b{font-weight:500;color:var(--text-primary);text-align:right;font-variant-numeric:tabular-nums}
+.dlist{list-style:none;padding:0;margin:6px 0 0;font-size:12.5px}
+.dlist li{padding:6px 0;border-top:1px solid var(--grid);display:flex;gap:8px}
+.dlist li .sw{margin-top:5px;flex:none}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12.5px;color:var(--text-secondary);margin:10px 0 0}
+.legend span{display:flex;align-items:center;gap:6px}
+.manote{color:var(--text-secondary);font-size:13px;max-width:900px;margin:-6px 0 16px;padding:10px 14px;border-left:3px solid var(--ant);background:var(--surface-1);border-radius:0 6px 6px 0}
+.toggle{border:1px solid var(--border);background:var(--surface-1);border-radius:6px;padding:4px 10px;cursor:pointer}
+.toggle input{accent-color:var(--text-primary);margin:0}
+.badge{font:600 10.5px Inter,sans-serif;color:var(--text-secondary);border:1px solid var(--border);border-radius:4px;padding:0 4px;margin-left:4px}
+.seg{display:inline-flex;align-items:center;border:1px solid var(--border);border-radius:8px;overflow:hidden;background:var(--surface-1)}
+.seg-l{font-size:12px;color:var(--text-muted);padding:0 8px}
+.seg button{border:0;border-left:1px solid var(--border);background:none;color:var(--text-secondary);font:500 12.5px Inter,sans-serif;padding:5px 10px;cursor:pointer}
+.seg button[aria-pressed=true]{background:var(--text-primary);color:var(--surface-1)}
+.stk{margin:8px 0}.stk-l{font-size:12px;color:var(--text-secondary);margin-bottom:3px}
+.stk-b{display:flex;height:10px;border-radius:3px;overflow:hidden;gap:2px;background:var(--surface-1)}.stk-b i{display:block;height:100%}
+.stk-v{font-size:11.5px;color:var(--text-muted);margin-top:2px;font-variant-numeric:tabular-nums}
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:16px}@media (max-width:900px){.cols2{grid-template-columns:1fr}}
+.tip{position:absolute;pointer-events:none;background:var(--surface-1);border:1px solid var(--border);border-radius:8px;padding:8px 10px;font-size:12.5px;box-shadow:0 4px 14px rgba(0,0,0,.12);max-width:260px;opacity:0;transition:opacity .08s}
+.tip strong{display:block;font-weight:600;color:var(--text-primary)}
+.node-label{font:500 11px Inter,sans-serif;fill:var(--text-primary);paint-order:stroke;stroke:var(--surface-1);stroke-width:3px;stroke-linejoin:round;pointer-events:none}
+.tabs{display:flex;gap:4px;margin:26px 0 0;border-bottom:1px solid var(--border)}
+.tab{background:none;border:0;border-bottom:2px solid transparent;color:var(--text-secondary);font:500 14px Inter,sans-serif;padding:8px 12px;cursor:pointer;margin-bottom:-1px}
+.tab[aria-selected=true]{color:var(--text-primary);border-bottom-color:var(--text-primary)}
+.panel{padding:18px 0}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--grid);vertical-align:top}
+th{font-weight:600;color:var(--text-secondary);font-size:12px;cursor:pointer;user-select:none;white-space:nowrap}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.cols3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:900px){.cols3{grid-template-columns:1fr}}
+.cols3 .card{padding:14px 16px}
+.cols3 h3{font:600 15px "Source Serif 4",serif;margin:0 0 2px;display:flex;align-items:center;gap:8px}
+.cols3 ol{margin:8px 0 0;padding-left:22px;font-size:13px}
+.cols3 li{padding:2px 0}
+.prose{max-width:820px;font-size:14px;color:var(--text-secondary)}
+.prose h3{color:var(--text-primary);font:600 16px "Source Serif 4",serif;margin:20px 0 4px}
+.prose strong{color:var(--text-primary)}
+button:focus-visible,input:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="viz-root">
+<div class="wrap">
+  <h1>Who dissertations cite on gender and sexuality in the ancient and medieval Mediterranean</h1>
+  <p class="lede">A co-citation network built from the bibliographies of <b id="nd"></b> <span id="ndw">PhD dissertations</span> (2010–2026). Each circle is a modern scholar. Its size is the number of dissertations that cite them at least once. Two scholars are linked when the same dissertations tend to cite both, and frequently paired scholars are pulled close together.</p>
+  <p class="caveat"><b>A sample, not a census.</b> The counts come from bibliographies parsed from the full text, not from estimates. But 28 dissertations from 19 universities cannot stand for the whole field: 10 cover Greek and Roman antiquity, 10 late antiquity and early Byzantium, and 8 the medieval Latin, Jewish and Islamic Mediterranean, and 9 are from Harvard. See <a href="#" data-goto="method" style="color:inherit">Method & limits</a>.</p>
+
+  <p class="manote" id="manote" hidden><b>Including 6 master's and BA theses (34 works in all).</b> All six are on classical, mostly Roman, topics, and their bibliographies are much shorter (46–121 scholars, against roughly 100–1,100 for the dissertations). This view tilts the map toward Roman gender and sexuality, and largely shows what is taught: Richlin, Skinner, Fantham, Beard and Keith all rise, while Foucault and Halperin lose share. Counts are out of 34.</p>
+  <div class="controls" role="group" aria-label="Map filters">
+    <div class="seg" role="group" aria-label="Colour by"><span class="seg-l">Colour by</span><button aria-pressed="true" data-mode="field">Field</button><button aria-pressed="false" data-mode="gender">Gender</button><button aria-pressed="false" data-mode="life">Living / deceased</button></div>
+    <div class="chips" id="chips"></div>
+    <label class="ctl">Cited by at least <input type="range" id="minc" min="3" max="9" step="1" value="3"><output id="mincv">3</output> <span id="mincw">dissertations</span></label>
+    <label class="ctl">Link strength ≥ <input type="range" id="mins" min="0.35" max="0.9" step="0.05" value="0.5"><output id="minsv">0.50</output></label>
+    <input type="search" id="q" placeholder="Find a scholar…" aria-label="Find a scholar">
+    <label class="ctl toggle"><input type="checkbox" id="ma"> Include master's &amp; BA theses <span class="muted">(+6)</span></label>
+  </div>
+
+  <div class="grid">
+    <div class="card" id="map"><svg role="img" aria-label="Co-citation network of scholars"></svg><div class="tip" id="tip"></div><div class="hint">Scroll to zoom · drag to pan · click a scholar for details · hover to see unlabeled names</div></div>
+    <aside class="card side" id="side" aria-live="polite"></aside>
+  </div>
+  <div class="legend" id="legend"></div>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" aria-selected="true" data-tab="table">All scholars on the map</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="fields">Most cited within each field</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="skew">Skew: gender &amp; living</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="sample" id="sampletab">The 28 dissertations</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="method">Method & limits</button>
+  </div>
+  <section class="panel" id="p-table"></section>
+  <section class="panel" id="p-fields" hidden></section>
+  <section class="panel" id="p-skew" hidden></section>
+  <section class="panel" id="p-sample" hidden></section>
+  <section class="panel prose" id="p-method" hidden>
+    <h3>The sample</h3>
+    <p>28 PhD dissertations (2010–2026) in which gender or sexuality is central and the setting is the ancient or medieval Mediterranean, broadly understood. 9 came from Harvard's open repository (DASH), found by keyword search and screened by hand. The other 19 were chosen to spread across universities and subfields, and were supplied as PDFs. Each one's author, title, year, institution and doctoral status was checked against the document itself and a repository, catalogue or ProQuest record. The full list is in the "28 dissertations" tab.</p>
+    <p><strong>Excluded after checking:</strong> 6 master's theses and 1 undergraduate capstone (Ortega, Orizaga, Schenck, Palmer, Perkins, Cattan-Prugl, and an out-of-scope UCSB thesis on Polybius). Two doctoral dissertations were also left out as geographically borderline: Blakelock (Toronto 2017, on sexuality in twelfth-century French schools) and Alameen (Temple 2013, comparing ancient Egypt and Igboland). Adding those two changes no count by more than one.</p>
+    <h3>How the counts were made</h3>
+    <p><strong>Extraction.</strong> Each PDF was converted to text, and its bibliography located and split into entries by code. Sections labelled as primary sources (ancient and medieval texts and their editions, Arabic sources and the like) are skipped. Ancient authors cited by name are not counted, and nor are lexica and encyclopedias (Liddell–Scott, Lewis & Short, Pauly–Wissowa). Co-authors and editors are counted. Footnote-only citations are not, since only the bibliography is read.</p>
+    <p><strong>Counting.</strong> A scholar counts once per dissertation, however many of their works it cites. Names are matched by surname and first name. A citation given with initials only is assigned automatically only when exactly one known scholar fits.</p>
+    <p><strong>Hand audit.</strong> For every scholar on the map, each initials-only citation was checked against the title of the cited work. This found and fixed some cases where same-initial scholars were conflated:</p>
+    <ul>
+      <li>P. G. McC. Brown on Menander vs. the historian Peter Brown</li>
+      <li>Charles M. Edwards vs. Catharine Edwards</li>
+      <li>Erich vs. Eliezer Segal</li>
+      <li>Alan vs. Averil Cameron</li>
+      <li>Suzanne vs. Stephen D. Moore</li>
+      <li>J. N. D. Kelly vs. Joan Kelly</li>
+      <li>Sally Humphreys</li>
+      <li>L. P. Wilkinson</li>
+      <li>John vs. Jeffrey Henderson</li>
+      <li>J. H. Elliott, the historian of Spain, vs. John H. Elliott, the New Testament scholar</li>
+    </ul>
+    <p>The audit also resolved initials-only citations that had been dropped as ambiguous (Sharon L. James, Averil Cameron, Malcolm Davies, Therese Martin) and merged spelling variants (Maud/Maude Gleason, Matthew/Mathew Kuefler). One citation that could not be attributed with confidence remains dropped.</p>
+    <p><strong>Links.</strong> Link strength is cosine-normalised co-citation: the number of dissertations citing both scholars, divided by the square root of the product of their separate counts. It runs from 0 to 1. Only pairs cited together in at least two dissertations are linked. The layout is a force simulation, so distances are approximate and the orientation means nothing.</p>
+    <h3>Gender and living/deceased views</h3>
+    <p><strong>Gender</strong> follows each scholar's own public self-identification (pronouns, institutional biographies). Judith Butler, who identifies as nonbinary, is shown as nonbinary. These are attributes of the cited scholars, not inferences from first names.</p>
+    <p><strong>Living or deceased</strong> is as of November 2026, from three checks:</p>
+    <ul>
+      <li>Every death was confirmed against an obituary or institutional notice.</li>
+      <li>Every scholar born before about 1950 was searched for a death notice.</li>
+      <li>Every uncertain case was checked.</li>
+    </ul>
+    <p>The checks corrected 25 scholars first assumed to be living, including several recent deaths: Averil Cameron and Teresa de Lauretis (2026), Manuela Marín (July 2026), Henri Pleket (2025) and Christiane Klapisch-Zuber (2024). Pat Easterling's 2026 death rests on a single tribute.</p>
+    <p>For one scholar (Saara Lilja) the evidence was too weak, so her status is "not determined". Younger scholars were not individually searched, so a very recent death could be missed. "Living" means no death notice was found.</p>
+    <p><strong>Reading the skew.</strong> The figures cover only scholars on the map (cited 3 or more times), and "share of citations" weights each scholar by how many works cite them. Gender balance among the cited is not the same as gender balance in the field's authorship, which this study does not measure.</p>
+    <h3>Known limits</h3>
+    <p><strong>Sample size and selection.</strong> 28 dissertations is enough to see broad patterns, not to rank closely matched scholars. A one-dissertation difference is within noise. The non-Harvard dissertations were chosen for spread, not at random, and only open-access or downloadable ones could be included.</p>
+    <p><strong>Institution effect.</strong> 9 of the 28 are from Harvard, mostly early Christianity, so the late-antique cluster partly reflects one program's reading lists.</p>
+    <p><strong>Field size.</strong> Classicists share a large common bibliography, so antiquity scholars clear the map's threshold more easily than specialists in smaller fields. The "Most cited within each field" tab corrects for this.</p>
+    <p><strong>What a citation means.</strong> A bibliography entry shows a scholar was used, not how much or approvingly. A theorist cited once for framing counts the same as a specialist cited throughout.</p>
+    <h3>Changes from the first version (21 dissertations)</h3>
+    <p>Added 7 dissertations: Minardi, Walsh, Stewart, Robinson, Admiral, Vogler and Wise. Corrected the misattributions listed above, which removed five scholars (Joan Kelly, Eliezer Segal, Diane Owen Hughes, "Stephen" Humphreys, Louise Wilkinson) whose place on the first map came from others' citations. The top four (Butler, Foucault, Halperin, Richlin) were unaffected by the corrections.</p>
+  </section>
+</div>
+</div>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const ALL = JSON.parse(document.getElementById('data').textContent);
+let D = ALL.phd;
+const GROUPS = {ant:{label:'Mainly antiquity dissertations', short:'Antiquity'},
+  late:{label:'Mainly late antiquity & early Byzantium', short:'Late antiquity'},
+  med:{label:'Mainly medieval & Islamic Mediterranean', short:'Medieval & Islamic'},
+  cross:{label:'Cited across fields', short:'Cross-field'}};
+const FIELD = {ant:'Antiquity (Greek, Roman, Near East)', late:'Late antiquity, early Christianity & early Byzantium, rabbinics', med:'Medieval & Islamic Mediterranean'};
+const css = v => getComputedStyle(document.querySelector('.viz-root')).getPropertyValue('--'+v).trim();
+document.getElementById('nd').textContent = D.n;
+let nodeById = new Map(D.nodes.map(n => [n.id, n]));
+const MODES = {
+  field:{attr:'group', cats:{ant:{label:GROUPS.ant.label, short:'Antiquity', col:'ant'}, late:{label:GROUPS.late.label, short:'Late antiquity', col:'late'}, med:{label:GROUPS.med.label, short:'Medieval & Islamic', col:'med'}, cross:{label:'Cited across fields', short:'Cross-field', col:'cross'}},
+    note:'Colour = which field\'s dissertations account for at least two thirds of the scholar\'s citations.'},
+  gender:{attr:'gen', cats:{w:{label:'Women', short:'Women', col:'late'}, m:{label:'Men', short:'Men', col:'ant'}, nb:{label:'Nonbinary', short:'Nonbinary', col:'med'}, u:{label:'Not determined', short:'Unknown', col:'cross'}},
+    note:'Gender as publicly self-identified (pronouns, biographies). Judith Butler, who identifies as nonbinary, is shown as such.'},
+  life:{attr:'life', cats:{living:{label:'Living', short:'Living', col:'ant'}, deceased:{label:'Deceased', short:'Deceased', col:'late'}, u:{label:'Not determined', short:'Unknown', col:'cross'}},
+    note:'Living or deceased as of November 2026, checked against obituaries and institutional notices.'}
+};
+const state = {minc:3, mins:0.5, mode:'field', groups:new Set(Object.keys(MODES.field.cats)), sel:null, q:''};
+const cat = n => n[MODES[state.mode].attr] || 'u';
+const colOf = n => `var(--${MODES[state.mode].cats[cat(n)].col})`;
+const GLAB = {w:'Woman', m:'Man', nb:'Nonbinary', u:'Gender not determined'};
+const lifeText = n => n.life==='deceased' ? `Deceased${n.death?` (${n.death})`:''}` : n.life==='living' ? 'Living' : 'Status not determined';
+
+const chips = d3.select('#chips');
+function buildChips(){
+  chips.selectAll('*').remove();
+  Object.entries(MODES[state.mode].cats).forEach(([g,v]) => {
+    if (!D.nodes.some(n => (n[MODES[state.mode].attr]||'u')===g)) return;
+    chips.append('button').attr('class','chip').attr('aria-pressed', state.groups.has(g)?'true':'false').attr('data-g',g)
+      .html(`<span class="sw" style="background:var(--${v.col})"></span>${v.short}`)
+      .on('click', function(){ const on=this.getAttribute('aria-pressed')==='true';
+        this.setAttribute('aria-pressed', on?'false':'true'); on?state.groups.delete(g):state.groups.add(g); draw(); });
+  });
+  d3.select('#legend').html(Object.entries(MODES[state.mode].cats).filter(([g])=>D.nodes.some(n => (n[MODES[state.mode].attr]||'u')===g)).map(([g,v])=>`<span><span class="sw" style="background:var(--${v.col})"></span>${v.label}</span>`).join('') +
+    `<span class="muted">${MODES[state.mode].note}</span>`);
+}
+buildChips();
+document.querySelectorAll('.seg button').forEach(b => b.onclick = () => {
+  state.mode = b.dataset.mode; state.groups = new Set(Object.keys(MODES[state.mode].cats));
+  document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', x===b));
+  buildChips(); state.sel ? side(state.sel) : side(); draw(); skew();
+});
+
+const svg = d3.select('#map svg'), gRoot = svg.append('g');
+const gLinks = gRoot.append('g'), gNodes = gRoot.append('g'), gLabels = gRoot.append('g');
+let K=1;
+const zoom = d3.zoom().scaleExtent([0.4,6]).on('zoom', e => { gRoot.attr('transform', e.transform); K=e.transform.k;
+  gLabels.selectAll('text').style('font-size', (11/K)+'px').style('stroke-width', (3/K)+'px').attr('y', d=>d.y - r(d.count) - 4/K); })
+  .on('end', () => highlight(state.sel));
+svg.call(zoom).on('click', e => { if (e.target === svg.node()) { state.sel=null; highlight(); side(); } });
+const tip = document.getElementById('tip');
+const r = d3.scaleSqrt().domain([1, d3.max(D.nodes, d=>d.count)]).range([2.5, 17]);
+let sim, curNodes=[], curLinks=[], adj=new Map();
+
+function draw(){
+  const W = svg.node().clientWidth, H = svg.node().clientHeight;
+  const prev = new Map(curNodes.map(n=>[n.id,n]));
+  curNodes = D.nodes.filter(n => n.count>=state.minc && state.groups.has(cat(n)))
+    .map(n => Object.assign({}, n, prev.has(n.id)?{x:prev.get(n.id).x,y:prev.get(n.id).y}:{}));
+  const ids = new Set(curNodes.map(n=>n.id));
+  curLinks = D.links.filter(l => l[3]>=state.mins && ids.has(l[0]) && ids.has(l[1]))
+    .map(l => ({source:l[0], target:l[1], c:l[2], s:l[3]}));
+  adj = new Map(curNodes.map(n=>[n.id,new Set()]));
+  curLinks.forEach(l => { adj.get(l.source).add(l.target); adj.get(l.target).add(l.source); });
+  if (sim) sim.stop();
+  sim = d3.forceSimulation(curNodes)
+    .force('link', d3.forceLink(curLinks).id(d=>d.id).distance(l => 50 + 160*(1-l.s)).strength(l => 0.08 + 0.5*l.s*l.s))
+    .force('charge', d3.forceManyBody().strength(-170))
+    .force('collide', d3.forceCollide(d => r(d.count)+3))
+    .force('x', d3.forceX(W/2).strength(0.13)).force('y', d3.forceY(H/2).strength(0.15))
+    .stop();
+  for (let i=0;i<400;i++) sim.tick();
+  if (curNodes.length){ const xs=d3.extent(curNodes,d=>d.x), ys=d3.extent(curNodes,d=>d.y);
+    const k=Math.min(2.2, 0.9*Math.min(W/(xs[1]-xs[0]+60), H/(ys[1]-ys[0]+60)));
+    svg.call(zoom.transform, d3.zoomIdentity.translate(W/2,H/2).scale(k).translate(-(xs[0]+xs[1])/2,-(ys[0]+ys[1])/2)); }
+
+  gLinks.selectAll('line').data(curLinks, d=>d.source.id+'|'+d.target.id).join('line')
+    .attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y)
+    .attr('stroke', css('link')).attr('stroke-width', d=>0.5+1.5*d.s).attr('stroke-opacity', d=>0.12+0.35*d.s);
+  gNodes.selectAll('circle').data(curNodes, d=>d.id).join('circle')
+    .attr('cx',d=>d.x).attr('cy',d=>d.y).attr('r',d=>r(d.count))
+    .attr('fill', d=>colOf(d)).attr('stroke', css('surface-1')).attr('stroke-width', 1.5)
+    .style('cursor','pointer').attr('tabindex',0).attr('role','button')
+    .attr('aria-label', d=>`${d.name}, cited in ${d.count} of ${D.n} ${D===ALL.ma?'works':'dissertations'}`)
+    .on('mouseenter', (e,d)=>{ showTip(e,d); if(!state.sel) highlight(d.id); })
+    .on('mousemove', (e,d)=>showTip(e,d))
+    .on('mouseleave', ()=>{ tip.style.opacity=0; if(!state.sel) highlight(); })
+    .on('click', (e,d)=>{ e.stopPropagation(); state.sel=d.id; highlight(d.id); side(d.id); })
+    .on('keydown', (e,d)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); state.sel=d.id; highlight(d.id); side(d.id);} });
+  const labelMin = Math.max(state.minc, 5);
+  gLabels.selectAll('text').data(curNodes, d=>d.id).join('text').attr('class','node-label')
+    .attr('x',d=>d.x).attr('y',d=>d.y - r(d.count) - 4).attr('text-anchor','middle')
+    .text(d=>d.name).attr('display', d=>d.count>=labelMin?null:'none');
+  highlight(state.sel && ids.has(state.sel) ? state.sel : null);
+  table();
+}
+
+function placeLabels(visible){
+  const boxes=[]; const keep=new Set();
+  [...visible].sort((a,b)=>b.count-a.count).forEach(d=>{
+    const w=d.name.length*6.3/K, h=14/K, x=d.x-w/2, y=d.y-r(d.count)-4/K-h;
+    if (!boxes.some(b=>x<b.x+b.w && x+w>b.x && y<b.y+b.h && y+h>b.y)) { boxes.push({x,y,w,h}); keep.add(d.id); }
+  });
+  return keep;
+}
+function highlight(id){
+  const q = state.q;
+  const match = d => q && d.name.toLowerCase().includes(q);
+  const on = id ? new Set([id, ...(adj.get(id)||[])]) : null;
+  gNodes.selectAll('circle').attr('opacity', d => (on ? (on.has(d.id)?1:0.15) : (q ? (match(d)?1:0.2) : 1)))
+    .attr('stroke', d => (d.id===id || match(d)) ? css('focus') : css('surface-1'));
+  gLinks.selectAll('line').attr('stroke-opacity', d => on ? ((d.source.id===id||d.target.id===id)?0.25+0.6*d.s:0.03) : 0.12+0.35*d.s);
+  const cand = curNodes.filter(d => on ? on.has(d.id) : (d.count>=Math.max(state.minc,4) || d.group==='med' || match(d)));
+  const must = new Set(curNodes.filter(d=>d.id===id || match(d)).map(d=>d.id));
+  const keep = placeLabels(cand.filter(d=>!must.has(d.id)).concat([]));
+  gLabels.selectAll('text').attr('display', d => (keep.has(d.id) || must.has(d.id)) ? null : 'none');
+}
+
+function showTip(e,d){
+  const box = document.getElementById('map').getBoundingClientRect();
+  tip.innerHTML = `<strong>${d.name}</strong>Cited in ${d.count} of ${D.n} ${D===ALL.ma?'works':'dissertations'}<br>${state.mode==='gender'?GLAB[d.gen||'u']+'<br>':state.mode==='life'?lifeText(d)+'<br>':''}<span class="muted">${Object.entries(d.by).map(([g,c])=>`${GROUPS[g].short} ${c}`).join(' · ')}</span>`;
+  let x = e.clientX - box.left + 14, y = e.clientY - box.top + 14;
+  if (x > box.width - 270) x -= 290;
+  tip.style.left = x+'px'; tip.style.top = y+'px'; tip.style.opacity = 1;
+}
+
+function side(id){
+  const el = document.getElementById('side');
+  if (!id){
+    const top = D.nodes.slice(0,10);
+    el.innerHTML = `<h2>Most widely cited</h2><p class="muted" style="margin:0 0 8px">Share of the ${D.n} ${D===ALL.ma?'works':'dissertations'} citing each scholar at least once. Click any circle for details.</p>` +
+      `<div class="bars">${top.map(n=>`<div class="bar"><span>${n.name}</span><i style="width:${100*n.count/D.n}%;background:${colOf(n)}"></i><b>${n.count}</b></div>`).join('')}</div>` + (state.mode!=='field' ? skewMini() : '') +
+      `<p class="muted" style="font-size:12.5px">${(() => { const all3 = D.nodes.filter(n => Object.keys(n.by).length === 3).sort((a,b)=>b.count-a.count).slice(0,4).map(n=>n.name);
+         const mx = Math.round(100 * D.nodes[0].count / D.n);
+         return `Cited in all three fields: ${all3.join(', ')}. Theory travels further than any period specialist. No scholar is cited by more than ${mx}% of the ${D===ALL.ma?'works':'dissertations'}.`; })()}</p>`;
+    return;
+  }
+  const n = nodeById.get(id);
+  const nb = [...(adj.get(id)||[])].map(k=>nodeById.get(k)).sort((a,b)=>b.count-a.count).slice(0,8);
+  el.innerHTML = `<p class="muted" style="margin:0"><span class="sw" style="background:var(--${n.group})"></span> ${GROUPS[n.group].label}</p>
+    <h2 style="margin-top:6px">${n.name}</h2>
+    <p class="muted" style="margin:0 0 6px;font-size:12.5px">${GLAB[n.gen||'u']} · ${lifeText(n)}</p>
+    <div><span class="big">${n.count}</span> <span class="sec">of ${D.n} ${D===ALL.ma?'works':'dissertations'}</span></div>
+    <div class="bars">${Object.keys(FIELD).map(g=>`<div class="bar"><span>${GROUPS[g].short}</span><i style="width:${100*(n.by[g]||0)/D.per[g].n}%;background:var(--${g})"></i><b>${n.by[g]||0}/${D.per[g].n}</b></div>`).join('')}</div>
+    ${nb.length?`<p class="sec" style="margin:0 0 4px;font-size:12.5px"><b>Most often cited alongside:</b> ${nb.map(x=>`<a href="#" data-id="${x.id}" style="color:inherit">${x.name}</a>`).join(', ')}</p>`:''}
+    <p class="sec" style="margin:12px 0 0;font-size:12.5px"><b>Cited by</b></p>
+    <ul class="dlist">${n.cited_by.map(s=>{const d=D.diss[s];return `<li><span class="sw" style="background:var(--${d.g})"></span><span>${d.a} (${d.y}), <i>${d.t}</i>. <span class="muted">${d.i}</span></span></li>`}).join('')}</ul>
+    <p style="margin-top:12px"><a href="#" id="clr" style="color:var(--text-secondary);font-size:12.5px">← Back to overview</a></p>`;
+  el.querySelectorAll('a[data-id]').forEach(a=>a.onclick=ev=>{ev.preventDefault(); const k=a.dataset.id; if(!adj.has(k)) return; state.sel=k; highlight(k); side(k);});
+  el.querySelector('#clr').onclick = ev => { ev.preventDefault(); state.sel=null; highlight(); side(); };
+}
+
+function shares(attr, nodes, weight){
+  const t = {}; let tot = 0;
+  nodes.forEach(n => { const k = n[attr]||'u', w = weight(n); t[k] = (t[k]||0) + w; tot += w; });
+  return {t, tot};
+}
+function stack(attr, nodes, weight, label){
+  const {t, tot} = shares(attr, nodes, weight); const cats = MODES[attr==='gen'?'gender':'life'].cats;
+  if (!tot) return '';
+  return `<div class="stk"><div class="stk-l">${label}</div><div class="stk-b">${Object.keys(cats).filter(k=>t[k]).map(k=>`<i style="width:${100*t[k]/tot}%;background:var(--${cats[k].col})" title="${cats[k].label}: ${Math.round(100*t[k]/tot)}%"></i>`).join('')}</div><div class="stk-v">${Object.keys(cats).filter(k=>t[k]).map(k=>`${cats[k].short} ${Math.round(100*t[k]/tot)}%`).join(' · ')}</div></div>`;
+}
+function skewMini(){
+  const attr = MODES[state.mode].attr, ns = D.nodes;
+  return `<h2 style="font-size:15px;margin:14px 0 4px">${state.mode==='gender'?'Gender skew':'Living vs. deceased'}</h2>` +
+    stack(attr, ns, n=>1, `Scholars on the map (${ns.length})`) +
+    stack(attr, ns, n=>n.count, 'Share of all citations') +
+    stack(attr, ns.slice(0,20), n=>1, 'Top 20 most cited') +
+    `<p class="muted" style="font-size:12px;margin:6px 0 0">Full breakdown by field in the "Skew" tab.</p>`;
+}
+function skew(){
+  const el = document.getElementById('p-skew'); const ns = D.nodes;
+  const block = (attr, title) => `<div class="card" style="padding:14px 16px"><h3 style="font:600 15px 'Source Serif 4',serif;margin:0 0 8px">${title}</h3>` +
+    stack(attr, ns, n=>1, `Scholars on the map (${ns.length})`) + stack(attr, ns, n=>n.count, 'Share of all citations') + stack(attr, ns.slice(0,20), n=>1, 'Top 20') +
+    Object.keys(FIELD).map(g => stack(attr, ns.filter(n=>n.by[g]), n=>n.by[g]||0, `Citations in ${({ant:(D===ALL.ma?'antiquity works':'antiquity dissertations'), late:'late-antique & early Byzantine dissertations', med:'medieval & Islamic dissertations'})[g]}`)).join('') + `</div>`;
+  const dec = ns.filter(n=>n.life==='deceased' && n.death);
+  const decades = {}; dec.forEach(n=>{const d=Math.floor(n.death/10)*10; decades[d]=(decades[d]||0)+1;});
+  el.innerHTML = `<p class="muted" style="margin:0 0 12px;max-width:860px">How the cited scholars break down by gender and by whether they are living. "Share of all citations" weights each scholar by how many ${D===ALL.ma?'works':'dissertations'} cite them, so it measures where citations actually go. Only scholars on the map (cited by at least 3) are included, so the long tail of once- or twice-cited scholars, where any skew may differ, is not.</p>
+    <div class="cols2">${block('gen','Gender')}${block('life','Living or deceased')}</div>
+    <p class="muted" style="font-size:12.5px;margin-top:12px"><b>Deceased scholars by decade of death:</b> ${Object.keys(decades).sort().map(d=>`${d}s ${decades[d]}`).join(' · ')}. The most cited: ${dec.sort((a,b)=>b.count-a.count).slice(0,6).map(n=>`${n.name} (d. ${n.death}, ${n.count})`).join(', ')}.</p>`;
+}
+
+let sortKey='count', sortDir=-1;
+function table(){
+  const rows = D.nodes.filter(n=>n.count>=state.minc && state.groups.has(cat(n))).slice()
+    .sort((a,b)=> sortKey==='name' ? sortDir*a.name.localeCompare(b.name) : sortDir*((a[sortKey]??a.by[sortKey]??0)-(b[sortKey]??b.by[sortKey]??0)) || a.name.localeCompare(b.name));
+  const val = (n,k)=> k==='count'?n.count:(n.by[k]||0);
+  const head = [['name','Scholar',''],['count',`${D===ALL.ma?'Works':'Dissertations'} (of ${D.n})`,'num'],['ant',`Antiquity (of ${D.per.ant.n})`,'num'],['late',`Late antiquity (of ${D.per.late.n})`,'num'],['med',`Medieval & Islamic (of ${D.per.med.n})`,'num'],['group','Field group',''],['gen','Gender',''],['life','Living / deceased','']];
+  document.getElementById('p-table').innerHTML = `<p class="muted" style="margin:0 0 8px">${rows.length} scholars match the current filters. Click a column to sort.</p><div style="overflow:auto"><table><thead><tr>${head.map(([k,l,c])=>`<th class="${c}" data-k="${k}">${l}${sortKey===k?(sortDir<0?' ↓':' ↑'):''}</th>`).join('')}</tr></thead><tbody>${rows.map(n=>`<tr><td>${n.name}</td><td class="num">${n.count}</td><td class="num">${n.by.ant||0}</td><td class="num">${n.by.late||0}</td><td class="num">${n.by.med||0}</td><td><span class="sw" style="background:var(--${n.group})"></span> ${GROUPS[n.group].short}</td><td>${MODES.gender.cats[n.gen||'u'].short}</td><td>${lifeText(n)}</td></tr>`).join('')}</tbody></table></div>`;
+  document.querySelectorAll('#p-table th').forEach(th=>th.onclick=()=>{const k=th.dataset.k; if(['group','gen','life'].includes(k)) return; sortDir = (sortKey===k)?-sortDir:(k==='name'?1:-1); sortKey=k; table();});
+}
+
+function fields(){
+  document.getElementById('p-fields').innerHTML = `<p class="muted" style="margin:0 0 12px">Ranked only within each field's own dissertations, so the smaller fields aren't drowned out by antiquity. With so few dissertations per field, ties are common and the medieval list is only suggestive.</p><div class="cols3">` +
+    Object.keys(FIELD).map(g=>`<div class="card"><h3><span class="sw" style="background:var(--${g})"></span>${FIELD[g]}</h3><div class="muted" style="font-size:12.5px">${D.per[g].n} ${D===ALL.ma && g==='ant' ? 'works (10 dissertations + 6 theses)' : 'dissertations'}</div><ol>${D.per[g].top.slice(0,20).map(([nm,c])=>`<li>${nm} <span class="muted">· ${c}</span></li>`).join('')}</ol></div>`).join('') + `</div>`;
+}
+function sample(){
+  const ds = Object.values(D.diss).sort((a,b)=>a.g.localeCompare(b.g)||(!!a.deg-!!b.deg)||(+a.y||9999)-(+b.y||9999));
+  document.getElementById('p-sample').innerHTML = `<div style="overflow:auto"><table><thead><tr><th>Field</th><th>Author</th><th class="num">Year</th><th>Title</th><th>Institution</th><th class="num">Scholars cited</th><th>Source</th></tr></thead><tbody>${ds.map(d=>`<tr><td><span class="sw" style="background:var(--${d.g})"></span> ${GROUPS[d.g].short}</td><td>${d.a}${d.deg?` <span class="badge">${d.deg}</span>`:''}</td><td class="num">${d.y}</td><td><i>${d.t}</i></td><td>${d.i}</td><td class="num">${d.ns}</td><td class="muted">${d.src}</td></tr>`).join('')}</tbody></table></div>`;
+}
+
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>selectTab(t.dataset.tab));
+function selectTab(k){ document.querySelectorAll('.tab').forEach(x=>x.setAttribute('aria-selected', x.dataset.tab===k)); ['table','fields','skew','sample','method'].forEach(p=>document.getElementById('p-'+p).hidden = p!==k); }
+document.querySelectorAll('[data-goto]').forEach(a=>a.onclick=e=>{e.preventDefault(); selectTab(a.dataset.goto); document.querySelector('.tabs').scrollIntoView({behavior:'smooth'});});
+const minc = document.getElementById('minc'), mins = document.getElementById('mins');
+minc.oninput = () => { state.minc=+minc.value; document.getElementById('mincv').value=minc.value; draw(); };
+mins.oninput = () => { state.mins=+mins.value; document.getElementById('minsv').value=(+mins.value).toFixed(2); draw(); };
+document.getElementById('q').oninput = e => { state.q = e.target.value.trim().toLowerCase(); highlight(state.sel); };
+window.addEventListener('resize', () => draw());
+function setDataset(useMA){
+  D = useMA ? ALL.ma : ALL.phd;
+  nodeById = new Map(D.nodes.map(n => [n.id, n]));
+  if (state.sel && !nodeById.has(state.sel)) state.sel = null;
+  document.getElementById('nd').textContent = D.n;
+  document.getElementById('ndw').textContent = useMA ? "works: 28 PhD dissertations plus 6 master's and BA theses" : 'PhD dissertations';
+  document.getElementById('mincw').textContent = useMA ? 'works' : 'dissertations';
+  document.getElementById('manote').hidden = !useMA;
+  document.getElementById('sampletab').textContent = useMA ? 'The 34 works' : 'The 28 dissertations';
+  r.domain([1, d3.max(ALL.ma.nodes, d=>d.count)]);
+  buildChips(); fields(); sample(); skew(); state.sel ? side(state.sel) : side(); draw();
+}
+document.getElementById('ma').onchange = e => setDataset(e.target.checked);
+r.domain([1, d3.max(ALL.ma.nodes, d=>d.count)]);
+fields(); sample(); skew(); side(); draw();
+</script>
+</body>
+</html>

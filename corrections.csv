@@ -1,0 +1,179 @@
+type,work_id,as_printed,resolved_to,reason
+initials resolved by cited title,Heffron_2020,"Cameron, A.",cameron|averil,Christianity and the Rhetoric of Empire; Parastaseis
+initials resolved by cited title,Valtadorou_2020,"Cameron, A.",cameron|averil,Images of Women in Antiquity (ed. with Kuhrt)
+initials resolved by cited title,Sapsford_2017,"Cameron, A.",cameron|alan,Callimachus and his Critics
+initials resolved by cited title,Hollaender_2021,"James, S.L.",james|sharon,Companion to Women in the Ancient World
+initials resolved by cited title,Grozdanoski_2019,"Martin, T.",martin|therese,women as makers of medieval art
+initials resolved by cited title,Valtadorou_2020,"Davies, M.",davies|malcolm,"PMGF, Trachiniae, Stesichorus"
+initials resolved by cited title,Hollaender_2021,"Brown, P.G.",brown|peter g. mcc.,Menander -- not Peter Brown
+initials resolved by cited title,Hollaender_2021,"Brown, P.G.M.",brown|peter g. mcc.,checked against cited title
+initials resolved by cited title,Hollaender_2021,"Moore, S.",moore|suzanne,"'Here's Looking at You, Kid!' -- not Stephen D. Moore"
+initials resolved by cited title,Valtadorou_2020,"Edwards, C.",edwards|charles m.,"'Aphrodite on a Ladder', Hesperia"
+initials resolved by cited title,Sapsford_2017,"Segal, E.",segal|erich,Roman Laughter
+initials resolved by cited title,Valtadorou_2020,"Segal, E.",segal|erich,Oxford Readings in Greek Tragedy
+initials resolved by cited title,Valtadorou_2020,"Hughes, D.",hughes|d. (papyrologist),P.Oxy. XLVII -- not Diane Owen Hughes
+initials resolved by cited title,Hollaender_2021,"Humphreys, S.C.",humphreys|sally,checked against cited title
+initials resolved by cited title,Valtadorou_2020,"Humphreys, S.",humphreys|sally,checked against cited title
+initials resolved by cited title,Heffron_2020,"Kelly, J.",kelly|j. n. d.,Golden Mouth
+initials resolved by cited title,McAvoy_2017,"Wilkinson, L.",wilkinson|l. p.,checked against cited title
+initials resolved by cited title,Sapsford_2017,"Wilkinson, L.",wilkinson|l. p.,checked against cited title
+initials resolved by cited title,Grozdanoski_2019,"Jones, A.",jones|alan,checked against cited title
+initials resolved by cited title,Wise_2017,"James, S.L.",james|sharon,checked against cited title
+initials resolved by cited title,Wise_2017,"Henderson, J.",henderson|john,"In Ovid with Bed -- John Henderson, not Jeffrey"
+initials resolved by cited title,Stewart_2012,"Evans, J.",evans|j. a. s.,Procopius
+initials resolved by cited title,Heffron_2020,"Evans, J.",evans|j. a. s.,The Empress Theodora
+initials resolved by cited title,Hollaender_2021,"Gardner, J.F.",gardner|jane,Sexing a Roman -- not Julian Gardner
+initials resolved by cited title,Wise_2017,"Gardner, J.",gardner|jane,Women in Roman Law and Society
+initials resolved by cited title,Valtadorou_2020,"Phillips, K.",phillips|kyle,"Perseus and Andromeda, AJA 1968 -- not Kim M. Phillips"
+initials resolved by cited title,Wise_2017,"James, S.",james|sharon,Romance kharjas
+initials resolved by cited title,Heffron_2020,"Jones, A.",jones|a. h. m.,checked against cited title
+initials resolved by cited title,Stewart_2012,"Jones, A.",jones|a. h. m.,checked against cited title
+same-name override,Woodacre_2011,elliott|john,elliott|john huxtable,"J. H. Elliott, historian of Spain (not the NT scholar)"
+spelling variant merged,,gleason|maude,gleason|maud,
+spelling variant merged,,kuefler|mathew,kuefler|matthew,
+spelling variant merged,,kuefler|manly,kuefler|matthew,
+spelling variant merged,,osiek|carolyn,osiek|caroline,
+spelling variant merged,,wissowa|georgi,wissowa|georg,
+parsing artefact removed,,lifestyles|christian,,book-title fragment parsed as a name
+parsing artefact removed,,renunciation|sexual,,book-title fragment parsed as a name
+reference work excluded,,glare|p,,"lexicon/encyclopedia, not scholarship"
+reference work excluded,,lewis|charlton,,"lexicon/encyclopedia, not scholarship"
+reference work excluded,,liddell|henry,,"lexicon/encyclopedia, not scholarship"
+reference work excluded,,pauly|august,,"lexicon/encyclopedia, not scholarship"
+reference work excluded,,scott|robert,,"lexicon/encyclopedia, not scholarship"
+reference work excluded,,short|charles,,"lexicon/encyclopedia, not scholarship"
+reference work excluded,,wissowa|georg,,"lexicon/encyclopedia, not scholarship"
+title word excluded as surname,,analysis,,guards against title fragments
+title word excluded as surname,,ancient,,guards against title fragments
+title word excluded as surname,,antiquity,,guards against title fragments
+title word excluded as surname,,art,,guards against title fragments
+title word excluded as surname,,aspects,,guards against title fragments
+title word excluded as surname,,bodies,,guards against title fragments
+title word excluded as surname,,body,,guards against title fragments
+title word excluded as surname,,capital,,guards against title fragments
+title word excluded as surname,,children,,guards against title fragments
+title word excluded as surname,,christianity,,guards against title fragments
+title word excluded as surname,,commentary,,guards against title fragments
+title word excluded as surname,,creativity,,guards against title fragments
+title word excluded as surname,,culture,,guards against title fragments
+title word excluded as surname,,early,,guards against title fragments
+title word excluded as surname,,economy,,guards against title fragments
+title word excluded as surname,,empire,,guards against title fragments
+title word excluded as surname,,essays,,guards against title fragments
+title word excluded as surname,,family,,guards against title fragments
+title word excluded as surname,,garments,,guards against title fragments
+title word excluded as surname,,gender,,guards against title fragments
+title word excluded as surname,,greek,,guards against title fragments
+title word excluded as surname,,history,,guards against title fragments
+title word excluded as surname,,identity,,guards against title fragments
+title word excluded as surname,,ideology,,guards against title fragments
+title word excluded as surname,,images,,guards against title fragments
+title word excluded as surname,,intermarriage,,guards against title fragments
+title word excluded as surname,,introduction,,guards against title fragments
+title word excluded as surname,,islands,,guards against title fragments
+title word excluded as surname,,late,,guards against title fragments
+title word excluded as surname,,law,,guards against title fragments
+title word excluded as surname,,leadership,,guards against title fragments
+title word excluded as surname,,life,,guards against title fragments
+title word excluded as surname,,literature,,guards against title fragments
+title word excluded as surname,,love,,guards against title fragments
+title word excluded as surname,,marriage,,guards against title fragments
+title word excluded as surname,,martyrdom,,guards against title fragments
+title word excluded as surname,,medieval,,guards against title fragments
+title word excluded as surname,,men,,guards against title fragments
+title word excluded as surname,,modern,,guards against title fragments
+title word excluded as surname,,order,,guards against title fragments
+title word excluded as surname,,political,,guards against title fragments
+title word excluded as surname,,power,,guards against title fragments
+title word excluded as surname,,practice,,guards against title fragments
+title word excluded as surname,,praxis,,guards against title fragments
+title word excluded as surname,,reading,,guards against title fragments
+title word excluded as surname,,religion,,guards against title fragments
+title word excluded as surname,,representation,,guards against title fragments
+title word excluded as surname,,representations,,guards against title fragments
+title word excluded as surname,,roman,,guards against title fragments
+title word excluded as surname,,rome,,guards against title fragments
+title word excluded as surname,,sexuality,,guards against title fragments
+title word excluded as surname,,slaves,,guards against title fragments
+title word excluded as surname,,social,,guards against title fragments
+title word excluded as surname,,society,,guards against title fragments
+title word excluded as surname,,status,,guards against title fragments
+title word excluded as surname,,studies,,guards against title fragments
+title word excluded as surname,,texts,,guards against title fragments
+title word excluded as surname,,theory,,guards against title fragments
+title word excluded as surname,,woman,,guards against title fragments
+title word excluded as surname,,women,,guards against title fragments
+title word excluded as surname,,world,,guards against title fragments
+living status verified,,Paul J. Achtemeier,deceased 2013,Draft confirmed (died Jan 2013)
+living status verified,,William S. Anderson,deceased 2022,"Berkeley in memoriam: William Scovil Anderson, 16 Sep 1927 - 22 Mar 2022. https://dagrs.berkeley.edu/node/1096"
+living status verified,,Roland Barthes,deceased 1980,Draft confirmed
+living status verified,,Margarete Bieber,deceased 1978,Draft confirmed
+living status verified,,John Boardman,deceased 2024,Draft confirmed (died May 2024)
+living status verified,,Larissa Bonfante,deceased 2019,Draft confirmed
+living status verified,,John Boswell,deceased 1994,Draft confirmed
+living status verified,,Pierre Bourdieu,deceased 2002,Draft confirmed
+living status verified,,James Brundage,deceased 2021,Confirmed: obituary Nov 2021 https://www2.ljworld.com/life-events/obituaries/2021/nov/14/james-brundage/
+living status verified,,Norman Calder,deceased 1998,Draft confirmed
+living status verified,,Alan Cameron,deceased 2017,Draft confirmed
+living status verified,,Averil Cameron,deceased 2026,"Professor Dame Averil Cameron (1940-2026), d. April 2026. Keble College: https://www.keble.ox.ac.uk/news/professor-dame-averil-cameron-1940-2026/ ; Church Times obituary 22 May 2026."
+living status verified,,Michel de Certeau,deceased 1986,Draft confirmed
+living status verified,,Elizabeth A. Clark,deceased 2021,Died Sept 2021 aged 82 (Duke Today). https://today.duke.edu/2021/09/elizabeth-clark-taught-religion-duke-four-decades-dies-age-82
+living status verified,,Edward Courtney,deceased 2019,UVA Classics in memoriam: died 24 Nov 2019. https://classics.as.virginia.edu/memoriam-edward-courtney
+living status verified,,Raffaella Cribiore,deceased 2023,Died 2023 (1948-2023). SCS: https://classicalstudies.org/scs-news/memoriam-raffaella-cribiore-1948-2023 ; Columbia Classics In Memoriam July 2023.
+living status verified,,Leo C. Curran,deceased 2007,UB news release 12 Oct 2007: died 29 Sep 2007 aged 73. https://www.buffalo.edu/news/releases/2007/10/8891.html
+living status verified,,Mary Douglas,deceased 2007,Draft confirmed
+living status verified,,Kenneth J. Dover,deceased 2010,Draft confirmed
+living status verified,,P. Easterling,deceased 2026,"Pat Easterling (1934-2026), tribute dated 29 Aug 2026. https://www.alastairmacaulay.com/all-essays/pat-easterling-1934-2026"
+living status verified,,Garrett G. Fagan,deceased 2017,Draft confirmed
+living status verified,,Elaine Fantham,deceased 2016,Draft confirmed
+living status verified,,Michel Foucault,deceased 1984,Draft confirmed
+living status verified,,Jane F. Gardner,deceased 2023,"Reading Classics blog: 'Professor Jane F Gardner, 1934–2023' (Feb 2023). https://blogs.reading.ac.uk/classics-at-reading/2023/02/03"
+living status verified,,Clifford Geertz,deceased 2006,Draft confirmed
+living status verified,,Hamilton A. Gibb,deceased 1971,Draft confirmed
+living status verified,,Shlomo Dov Goitein,deceased 1985,Draft confirmed
+living status verified,,Mark Golden,deceased 2020,Died 9 April 2020 in Winnipeg (b. 1948). CAMWS memorial: https://camws.org/node/1774 ; CAC bulletin 26.07.2 (2020).
+living status verified,,Thomas N. Habinek,deceased 2019,Draft confirmed (1953-2019)
+living status verified,,Kenneth Holum,deceased 2017,BAR 'Milestones: Kenneth G. Holum 1939-2017'; UMD History memorial. https://library.biblicalarchaeology.org/department/milestones-kenneth-g-holum-1939-2017/
+living status verified,,Keith Hopkins,deceased 2004,Draft confirmed
+living status verified,,Natalie Kampen,deceased 2012,1944-2012. WIA Report: https://wiareport.com/2012/08/in-memoriam-natalie-boymel-kampen-1944-2012/ ; Columbia Art History notice.
+living status verified,,George A. Kennedy,deceased 2022,Died 28 July 2022 (b. 1928). https://en.wikipedia.org/wiki/George_A._Kennedy_(classicist)
+living status verified,,Eva C. Keuls,deceased 2014,"LibraryThing author page: b. 18 Dec 1923 Amsterdam, d. 13 Mar 2014 Le Vigan, France: https://www.librarything.com/a/33210 . (A user-edited source; I found no formal obituary.)"
+living status verified,,Martin Kilmer,deceased 2018,"Martin Foster Kilmer, 23 May 1943 - 5 Nov 2018, obituary in Canadian Classical Bulletin https://cac-scec.ca/wp-content/uploads/bulletin/ccb25/ccb25.04.0.html"
+living status verified,,Christiane Klapisch-Zuber,deceased 2024,Died Paris 29 Nov 2024. https://en.wikipedia.org/wiki/Christiane_Klapisch-Zuber
+living status verified,,D.E.E. Kleiner,deceased 2023,Died 2023 (1947-2023). Yale News In Memoriam: https://news.yale.edu/2023/11/27/diana-kleiner-art-historian-and-founding-director-yale-open-courses
+living status verified,,David Konstan,deceased 2024,Died 2 May 2024 (b. 1940). SCS In Memoriam: https://classicalstudies.org/scs-news/memoriam-david-konstan ; Brown Classics notice.
+living status verified,,Amélie Kuhrt,deceased 2023,Died 2 Jan 2023. UCL notice https://www.ucl.ac.uk/history/news/2023/feb/professor-amelie-kuhrt-fba-23-september-1944-2-january-2023
+living status verified,,Teresa de Lauretis,deceased 2026,"Died 3 Feb 2026 in San Francisco, aged 87. El Salto obituary: https://www.elsaltodiario.com/obituario/muere-teresa-lauretis-creadora-teoria-queer"
+living status verified,,Eleanor Leach,deceased 2018,"Eleanor Winsor Leach, 1937 - 16 Feb 2018. IU Classics in memoriam https://classics.indiana.edu/about/history/in-memoriam/leach-eleanor.html"
+living status verified,,Claude Lévi-Strauss,deceased 2009,matches draft
+living status verified,,Saara Lilja,u,LOW CONFIDENCE: only source LibraryThing Common Knowledge 'Saara Lilja (1923-2003)' https://www.librarything.de/author/liljasaara ; no obituary found
+living status verified,,François Lissarrague,deceased 2021,matches draft
+living status verified,,Hugh Lloyd-Jones,deceased 2009,matches draft
+living status verified,,Nicole Loraux,deceased 2003,matches draft
+living status verified,,Ramsay MacMullen,deceased 2022,Died 28 Nov 2022. Yale News https://news.yale.edu/2022/11/30/ramsay-macmullen-distinguished-roman-historian-and-yale-citizen
+living status verified,,Saba Mahmood,deceased 2018,matches draft
+living status verified,,Miroslav Marcovich,deceased 2001,matches draft
+living status verified,,Manuela Marín,deceased 2026,Died 19 July 2026; retired CSIC Research Professor. Casa Arabe: https://en.casaarabe.es/noticias-arabes/show/arabist-manuela-marin-passes-away
+living status verified,,Dale B. Martin,deceased 2023,"Died 17 Nov 2023, Galveston TX. Wikipedia https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Dale_B._Martin"
+living status verified,,Wayne Meeks,deceased 2023,Wayne A. Meeks 1932-2023 (Jan 2023). YDS https://divinity.yale.edu/news/wayne-meeks-1932-2023 ; Yale News https://news.yale.edu/2023/01/17/wayne-meeks-influential-scholar-new-testament-studies
+living status verified,,Arnaldo Momigliano,deceased 1987,matches draft
+living status verified,,José Esteban Muñoz,deceased 2013,matches draft
+living status verified,,Jacob Neusner,deceased 2016,matches draft
+living status verified,,Werner Peek,deceased 1994,matches draft
+living status verified,,Henri Willy Pleket,deceased 2025,Died 5 Jan 2025. Leiden University in memoriam https://www.universiteitleiden.nl/nieuws/2025/01/in-memoriam-prof-dr-henri-pleket
+living status verified,,Lawrence Richardson,deceased 2013,matches draft
+living status verified,,Joseph Schacht,deceased 1969,matches draft
+living status verified,,Eve K. Sedgwick,deceased 2009,matches draft
+living status verified,,Charles Segal,deceased 2002,matches draft
+living status verified,,Juha Sihvola,deceased 2012,matches draft
+living status verified,,Erika Simon,deceased 2019,matches draft
+living status verified,,Christiane Sourvinou-Inwood,deceased 2007,matches draft
+living status verified,,Ronald Syme,deceased 1989,matches draft
+living status verified,,Owsei Temkin,deceased 2002,matches draft
+living status verified,,Victor W. Turner,deceased 1983,matches draft
+living status verified,,Jean-Pierre Vernant,deceased 2007,matches draft
+living status verified,,William L. Westermann,deceased 1954,matches draft
+living status verified,,Martin L. West,deceased 2015,matches draft
+living status verified,,Gordon Williams,deceased 2010,matches draft
+living status verified,,John J. Winkler,deceased 1990,matches draft
+living status verified,,Monique Wittig,deceased 2003,matches draft

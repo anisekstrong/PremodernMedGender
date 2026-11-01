@@ -1,0 +1,2227 @@
+[
+{
+"id": "achtemeier|paul",
+"name": "Paul J. Achtemeier",
+"gender": "m",
+"status": "deceased",
+"death": 2013,
+"verify": false,
+"evidence": "Draft confirmed (died Jan 2013)"
+},
+{
+"id": "ackerman|susan",
+"name": "Susan Ackerman",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "ali|kecia",
+"name": "Kecia Ali",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "anderson|william",
+"name": "William S. Anderson",
+"gender": "m",
+"status": "deceased",
+"death": 2022,
+"verify": true,
+"evidence": "Berkeley in memoriam: William Scovil Anderson, 16 Sep 1927 - 22 Mar 2022. https://dagrs.berkeley.edu/node/1096"
+},
+{
+"id": "avila|maria",
+"name": "María Luisa Ávila",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bagnall|roger",
+"name": "Roger S. Bagnall",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Columbia professors emeriti page."
+},
+{
+"id": "bal|mieke",
+"name": "Mieke Bal",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "barrett|anthony",
+"name": "Anthony A. Barrett",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "barringer|judith",
+"name": "Judith M. Barringer",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "barthes|roland",
+"name": "Roland Barthes",
+"gender": "m",
+"status": "deceased",
+"death": 1980,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "bartman|elizabeth",
+"name": "Elizabeth Bartman",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "barton|carlin",
+"name": "Carlin Barton",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bartsch|shadi",
+"name": "Shadi Bartsch",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bassi|karen",
+"name": "Karen Bassi",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bauckham|richard",
+"name": "Richard Bauckham",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "beard|mary",
+"name": "Mary Beard",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "behr|john",
+"name": "John Behr",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bell|sinclair",
+"name": "Sinclair Bell",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "berg|ria",
+"name": "Ria Berg",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bieber|margarete",
+"name": "Margarete Bieber",
+"gender": "w",
+"status": "deceased",
+"death": 1978,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "blundell|sue",
+"name": "Sue Blundell",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found)"
+},
+{
+"id": "boardman|john",
+"name": "John Boardman",
+"gender": "m",
+"status": "deceased",
+"death": 2024,
+"verify": false,
+"evidence": "Draft confirmed (died May 2024)"
+},
+{
+"id": "boatwright|mary",
+"name": "Mary Boatwright",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bond|sarah",
+"name": "Sarah E. Bond",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bonfante|larissa",
+"name": "Larissa Bonfante",
+"gender": "w",
+"status": "deceased",
+"death": 2019,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "boswell|john",
+"name": "John Boswell",
+"gender": "m",
+"status": "deceased",
+"death": 1994,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "bourdieu|pierre",
+"name": "Pierre Bourdieu",
+"gender": "m",
+"status": "deceased",
+"death": 2002,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "bowersock|g",
+"name": "G. Bowersock",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); Glen W. Bowersock b. 1936, Wikipedia lists no death. https://en.wikipedia.org/wiki/Glen_Bowersock"
+},
+{
+"id": "boyarin|daniel",
+"name": "Daniel Boyarin",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "brakke|david",
+"name": "David Brakke",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "braund|susanna",
+"name": "Susanna M. Braund",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bremmer|jan",
+"name": "Jan Bremmer",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "brennan|tad",
+"name": "T.C. Brennan",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "brisson|luc",
+"name": "Luc Brisson",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; CNRS UMR 8230 member page."
+},
+{
+"id": "brockopp|jonathan",
+"name": "Jonathan Brockopp",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "brooten|bernadette",
+"name": "Bernadette Brooten",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); Brandeis faculty page https://www.brandeis.edu/departments/nejs/faculty/brooten.html"
+},
+{
+"id": "brown|peter",
+"name": "Peter Brown",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1935, Wikipedia present tense. https://en.wikipedia.org/wiki/Peter_Brown_(historian)"
+},
+{
+"id": "brundage|james",
+"name": "James Brundage",
+"gender": "m",
+"status": "deceased",
+"death": 2021,
+"verify": false,
+"evidence": "Confirmed: obituary Nov 2021 https://www2.ljworld.com/life-events/obituaries/2021/nov/14/james-brundage/"
+},
+{
+"id": "buell|denise",
+"name": "Denise Kimber Buell",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "burrus|virginia",
+"name": "Virginia Burrus",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "butler|judith",
+"name": "Judith Butler",
+"gender": "nb",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "bynum|caroline",
+"name": "Caroline Walker Bynum",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); St Andrews honorary doctorate 2026 https://graduation.wp.st-andrews.ac.uk/2026/laureation-address-professor-caroline-walker-bynum/"
+},
+{
+"id": "cairns|douglas",
+"name": "Douglas Cairns",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "calder|norman",
+"name": "Norman Calder",
+"gender": "m",
+"status": "deceased",
+"death": 1998,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "cameron|alan",
+"name": "Alan Cameron",
+"gender": "m",
+"status": "deceased",
+"death": 2017,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "cameron|averil",
+"name": "Averil Cameron",
+"gender": "w",
+"status": "deceased",
+"death": 2026,
+"verify": false,
+"evidence": "Professor Dame Averil Cameron (1940-2026), d. April 2026. Keble College: https://www.keble.ox.ac.uk/news/professor-dame-averil-cameron-1940-2026/ ; Church Times obituary 22 May 2026."
+},
+{
+"id": "cantarella|eva",
+"name": "Eva Cantarella",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found)"
+},
+{
+"id": "castelli|elizabeth",
+"name": "Elizabeth Castelli",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "certeau|michel",
+"name": "Michel de Certeau",
+"gender": "m",
+"status": "deceased",
+"death": 1986,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "christesen|paul",
+"name": "Paul Christesen",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "clarke|john",
+"name": "John R. Clarke",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "clark|elizabeth",
+"name": "Elizabeth A. Clark",
+"gender": "w",
+"status": "deceased",
+"death": 2021,
+"verify": true,
+"evidence": "Died Sept 2021 aged 82 (Duke Today). https://today.duke.edu/2021/09/elizabeth-clark-taught-religion-duke-four-decades-dies-age-82"
+},
+{
+"id": "clark|gillian",
+"name": "Gillian Clark",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "coarelli|f",
+"name": "F. Coarelli",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); Filippo Coarelli b. 1936. https://en.wikipedia.org/wiki/Filippo_Coarelli"
+},
+{
+"id": "cohen|david",
+"name": "David Cohen",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "cohen|edward",
+"name": "Edward E. Cohen",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "cohen|shaye",
+"name": "Shaye J. D. Cohen",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Harvard CJS retirement notice July 2025."
+},
+{
+"id": "coleman|kathleen",
+"name": "Kathleen Coleman",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "conrad|lawrence",
+"name": "Lawrence Conrad",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); Lawrence I. Conrad b. 1949. https://en.wikipedia.org/wiki/Lawrence_Conrad"
+},
+{
+"id": "conte|gian",
+"name": "Gian Biagio Conte",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1941 (search hits on 'Biagio Conte' death 2023 are the Palermo missionary, a different person). https://en.wikipedia.org/wiki/Gian_Biagio_Conte"
+},
+{
+"id": "cooper|kate",
+"name": "Kate Cooper",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "cornell|timothy",
+"name": "Timothy J. Cornell",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "courtney|edward",
+"name": "Edward Courtney",
+"gender": "m",
+"status": "deceased",
+"death": 2019,
+"verify": true,
+"evidence": "UVA Classics in memoriam: died 24 Nov 2019. https://classics.as.virginia.edu/memoriam-edward-courtney"
+},
+{
+"id": "crenshaw|kimberle",
+"name": "Kimberlé Crenshaw",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "cribiore|raffaella",
+"name": "Raffaella Cribiore",
+"gender": "w",
+"status": "deceased",
+"death": 2023,
+"verify": false,
+"evidence": "Died 2023 (1948-2023). SCS: https://classicalstudies.org/scs-news/memoriam-raffaella-cribiore-1948-2023 ; Columbia Classics In Memoriam July 2023."
+},
+{
+"id": "curran|leo",
+"name": "Leo C. Curran",
+"gender": "m",
+"status": "deceased",
+"death": 2007,
+"verify": true,
+"evidence": "UB news release 12 Oct 2007: died 29 Sep 2007 aged 73. https://www.buffalo.edu/news/releases/2007/10/8891.html"
+},
+{
+"id": "dambra|eve",
+"name": "Eve D’Ambra",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "dangelo|mary",
+"name": "Mary Rose D’Angelo",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "dasen|veronique",
+"name": "Veronique Dasen",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "davidson|james",
+"name": "James N. Davidson",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "davies|glenys",
+"name": "Glenys Davies",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "dickie|matthew",
+"name": "Matthew W. Dickie",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); UIC lists him as Professor Emeritus, not on In Memoriam page. https://clasmed.uic.edu/profiles/matthew-w-dickie"
+},
+{
+"id": "dixon|suzanne",
+"name": "Suzanne Dixon",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1946, Wikipedia lists no death."
+},
+{
+"id": "dolansky|fanny",
+"name": "Fanny Dolansky",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "douglas|mary",
+"name": "Mary Douglas",
+"gender": "w",
+"status": "deceased",
+"death": 2007,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "dover|kenneth",
+"name": "Kenneth J. Dover",
+"gender": "m",
+"status": "deceased",
+"death": 2010,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "dunning|benjamin",
+"name": "Benjamin Dunning",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "easterling|p",
+"name": "P. Easterling",
+"gender": "w",
+"status": "deceased",
+"death": 2026,
+"verify": true,
+"evidence": "Pat Easterling (1934-2026), tribute dated 29 Aug 2026. https://www.alastairmacaulay.com/all-essays/pat-easterling-1934-2026"
+},
+{
+"id": "eckstein|arthur",
+"name": "Arthur M. Eckstein",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found)"
+},
+{
+"id": "edmondson|jonathon",
+"name": "Jonathon Edmondson",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "edwards|catharine",
+"name": "Catharine Edwards",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "elm|susanna",
+"name": "Susanna Elm",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "elsner|jas",
+"name": "Jas Elsner",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "fagan|garrett",
+"name": "Garrett G. Fagan",
+"gender": "m",
+"status": "deceased",
+"death": 2017,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "fantham|elaine",
+"name": "Elaine Fantham",
+"gender": "w",
+"status": "deceased",
+"death": 2016,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "faraone|christopher",
+"name": "Christopher A. Faraone",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "fisher|nick",
+"name": "Nick Fisher",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found for the Cardiff historian. (A 2022 obituary for a different Nick Fisher, journalist/screenwriter, is a namesake.)"
+},
+{
+"id": "flemming|rebecca",
+"name": "Rebecca Flemming",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "flower|harriet",
+"name": "Harriet Flower",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "fogen|thorsten",
+"name": "Thorsten Fögen",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "fonrobert|charlotte",
+"name": "Charlotte Elisheva Fonrobert",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "foucault|michel",
+"name": "Michel Foucault",
+"gender": "m",
+"status": "deceased",
+"death": 1984,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "foxhall|lin",
+"name": "Lin Foxhall",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "freeman|elizabeth",
+"name": "Elizabeth Freeman",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "frontisi-ducroux|francoise",
+"name": "Françoise Frontisi-Ducroux",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1937"
+},
+{
+"id": "gardner|jane",
+"name": "Jane F. Gardner",
+"gender": "w",
+"status": "deceased",
+"death": 2023,
+"verify": true,
+"evidence": "Reading Classics blog: 'Professor Jane F Gardner, 1934–2023' (Feb 2023). https://blogs.reading.ac.uk/classics-at-reading/2023/02/03"
+},
+{
+"id": "garland|lynda",
+"name": "Lynda Garland",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "geertz|clifford",
+"name": "Clifford Geertz",
+"gender": "m",
+"status": "deceased",
+"death": 2006,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "george|michele",
+"name": "Michele George",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "gibb|hamilton",
+"name": "Hamilton A. Gibb",
+"gender": "m",
+"status": "deceased",
+"death": 1971,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "gill|christopher",
+"name": "Christopher Gill",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; 2025 Routledge book 'Stoic Ethics: The Basics' (with Polat)."
+},
+{
+"id": "gilmore|david",
+"name": "David Gilmore",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found for anthropologist David D. Gilmore. (A 2025 obituary for a different David Gilmore, SIU photography professor, is a namesake.)"
+},
+{
+"id": "gleason|maud",
+"name": "Maud W. Gleason",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "goitein|shlomo",
+"name": "Shlomo Dov Goitein",
+"gender": "m",
+"status": "deceased",
+"death": 1985,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "golden|mark",
+"name": "Mark Golden",
+"gender": "m",
+"status": "deceased",
+"death": 2020,
+"verify": false,
+"evidence": "Died 9 April 2020 in Winnipeg (b. 1948). CAMWS memorial: https://camws.org/node/1774 ; CAC bulletin 26.07.2 (2020)."
+},
+{
+"id": "goldhill|simon",
+"name": "Simon Goldhill",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "graf|fritz",
+"name": "Fritz Graf",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Goettingen/OSU profiles, Fribourg hon. doctorate 2018."
+},
+{
+"id": "gruen|erich",
+"name": "Erich S. Gruen",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1935. https://en.wikipedia.org/wiki/Erich_S._Gruen"
+},
+{
+"id": "gunderson|erik",
+"name": "Erik Gunderson",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "habinek|thomas",
+"name": "Thomas N. Habinek",
+"gender": "m",
+"status": "deceased",
+"death": 2019,
+"verify": false,
+"evidence": "Draft confirmed (1953-2019)"
+},
+{
+"id": "hallaq|wael",
+"name": "Wael B. Hallaq",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "hallett|christopher",
+"name": "Christopher H. Hallett",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "hallett|judith",
+"name": "Judith Hallett",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "halliwell|stephen",
+"name": "Stephen Halliwell",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "hall|edith",
+"name": "Edith Hall",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "halperin|david",
+"name": "David Halperin",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "hanson|ann",
+"name": "Ann Ellis Hanson",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found)"
+},
+{
+"id": "harlow|mary",
+"name": "Mary Harlow",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "harrison|thomas",
+"name": "Thomas Harrison",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "hemelrijk|emily",
+"name": "Emily Hemelrijk",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "henry|madeline",
+"name": "Madeline M. Henry",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "herrin|judith",
+"name": "Judith Herrin",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "hollywood|amy",
+"name": "Amy Hollywood",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "holum|kenneth",
+"name": "Kenneth Holum",
+"gender": "m",
+"status": "deceased",
+"death": 2017,
+"verify": true,
+"evidence": "BAR 'Milestones: Kenneth G. Holum 1939-2017'; UMD History memorial. https://library.biblicalarchaeology.org/department/milestones-kenneth-g-holum-1939-2017/"
+},
+{
+"id": "hopkins|keith",
+"name": "Keith Hopkins",
+"gender": "m",
+"status": "deceased",
+"death": 2004,
+"verify": false,
+"evidence": "Draft confirmed"
+},
+{
+"id": "hunter|david",
+"name": "David Hunter",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "hylen|susan",
+"name": "Susan Hylen",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "ilan|tal",
+"name": "Tal Ilan",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "isaac|benjamin",
+"name": "Benjamin H. Isaac",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1945. https://en.wikipedia.org/wiki/Benjamin_Isaac"
+},
+{
+"id": "jackson|ralph",
+"name": "Ralph Jackson",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "james|liz",
+"name": "Liz James",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "james|sharon",
+"name": "Sharon L. James",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "joshel|sandra",
+"name": "Sandra R. Joshel",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found)"
+},
+{
+"id": "joyce|rosemary",
+"name": "Rosemary Joyce",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "kampen|natalie",
+"name": "Natalie Kampen",
+"gender": "w",
+"status": "deceased",
+"death": 2012,
+"verify": false,
+"evidence": "1944-2012. WIA Report: https://wiareport.com/2012/08/in-memoriam-natalie-boymel-kampen-1944-2012/ ; Columbia Art History notice."
+},
+{
+"id": "keith|alison",
+"name": "Alison Keith",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "kennedy|george",
+"name": "George A. Kennedy",
+"gender": "m",
+"status": "deceased",
+"death": 2022,
+"verify": true,
+"evidence": "Died 28 July 2022 (b. 1928). https://en.wikipedia.org/wiki/George_A._Kennedy_(classicist)"
+},
+{
+"id": "kennell|nigel",
+"name": "Nigel M. Kennell",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "keuls|eva",
+"name": "Eva C. Keuls",
+"gender": "w",
+"status": "deceased",
+"death": 2014,
+"verify": true,
+"evidence": "LibraryThing author page: b. 18 Dec 1923 Amsterdam, d. 13 Mar 2014 Le Vigan, France: https://www.librarything.com/a/33210 . (A user-edited source; I found no formal obituary.)"
+},
+{
+"id": "kilmer|martin",
+"name": "Martin Kilmer",
+"gender": "m",
+"status": "deceased",
+"death": 2018,
+"verify": true,
+"evidence": "Martin Foster Kilmer, 23 May 1943 - 5 Nov 2018, obituary in Canadian Classical Bulletin https://cac-scec.ca/wp-content/uploads/bulletin/ccb25/ccb25.04.0.html"
+},
+{
+"id": "king|helen",
+"name": "Helen King",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "king|karen",
+"name": "Karen King",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "klapisch-zuber|christiane",
+"name": "Christiane Klapisch-Zuber",
+"gender": "w",
+"status": "deceased",
+"death": 2024,
+"verify": true,
+"evidence": "Died Paris 29 Nov 2024. https://en.wikipedia.org/wiki/Christiane_Klapisch-Zuber"
+},
+{
+"id": "kleiner|diana",
+"name": "D.E.E. Kleiner",
+"gender": "w",
+"status": "deceased",
+"death": 2023,
+"verify": false,
+"evidence": "Died 2023 (1947-2023). Yale News In Memoriam: https://news.yale.edu/2023/11/27/diana-kleiner-art-historian-and-founding-director-yale-open-courses"
+},
+{
+"id": "knust|jennifer",
+"name": "Jennifer Wright Knust",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "konstan|david",
+"name": "David Konstan",
+"gender": "m",
+"status": "deceased",
+"death": 2024,
+"verify": false,
+"evidence": "Died 2 May 2024 (b. 1940). SCS In Memoriam: https://classicalstudies.org/scs-news/memoriam-david-konstan ; Brown Classics notice."
+},
+{
+"id": "kousser|rachel",
+"name": "Rachel Kousser",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "kraemer|ross",
+"name": "Ross Kraemer",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Brown lists her as Professor Emerita."
+},
+{
+"id": "krueger|derek",
+"name": "Derek Krueger",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "kuefler|matthew",
+"name": "Matthew Kuefler",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "kuehn|thomas",
+"name": "Thomas Kuehn",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Clemson news on a Festschrift for Professor Emeritus Kuehn."
+},
+{
+"id": "kuhrt|amelie",
+"name": "Amélie Kuhrt",
+"gender": "w",
+"status": "deceased",
+"death": 2023,
+"verify": true,
+"evidence": "Died 2 Jan 2023. UCL notice https://www.ucl.ac.uk/history/news/2023/feb/professor-amelie-kuhrt-fba-23-september-1944-2-january-2023"
+},
+{
+"id": "laes|christian",
+"name": "Christian Laes",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "langlands|rebecca",
+"name": "Rebecca Langlands",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "laqueur|thomas",
+"name": "Thomas Laqueur",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; listed as Berkeley emeritus faculty."
+},
+{
+"id": "latham|jacob",
+"name": "Jacob Latham",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "lauretis|teresa",
+"name": "Teresa de Lauretis",
+"gender": "w",
+"status": "deceased",
+"death": 2026,
+"verify": false,
+"evidence": "Died 3 Feb 2026 in San Francisco, aged 87. El Salto obituary: https://www.elsaltodiario.com/obituario/muere-teresa-lauretis-creadora-teoria-queer"
+},
+{
+"id": "leach|eleanor",
+"name": "Eleanor Leach",
+"gender": "w",
+"status": "deceased",
+"death": 2018,
+"verify": true,
+"evidence": "Eleanor Winsor Leach, 1937 - 16 Feb 2018. IU Classics in memoriam https://classics.indiana.edu/about/history/in-memoriam/leach-eleanor.html"
+},
+{
+"id": "lee|mireille",
+"name": "Mireille Lee",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "lefkowitz|mary",
+"name": "Mary R. Lefkowitz",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1935; Athens Prize May 2024; Wikipedia lists as living https://en.wikipedia.org/wiki/Mary_Lefkowitz"
+},
+{
+"id": "levi-strauss|claude",
+"name": "Claude Lévi-Strauss",
+"gender": "m",
+"status": "deceased",
+"death": 2009,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "lilja|saara",
+"name": "Saara Lilja",
+"gender": "w",
+"status": "u",
+"death": null,
+"verify": true,
+"evidence": "LOW CONFIDENCE: only source LibraryThing Common Knowledge 'Saara Lilja (1923-2003)' https://www.librarything.de/author/liljasaara ; no obituary found"
+},
+{
+"id": "lissarrague|francois",
+"name": "François Lissarrague",
+"gender": "m",
+"status": "deceased",
+"death": 2021,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "llewellyn-jones|lloyd",
+"name": "Lloyd Llewellyn-Jones",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "lloyd-jones|hugh",
+"name": "Hugh Lloyd-Jones",
+"gender": "m",
+"status": "deceased",
+"death": 2009,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "loraux|nicole",
+"name": "Nicole Loraux",
+"gender": "w",
+"status": "deceased",
+"death": 2003,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "macdonald|dennis",
+"name": "Dennis Ronald MacDonald",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "macmullen|ramsay",
+"name": "Ramsay MacMullen",
+"gender": "m",
+"status": "deceased",
+"death": 2022,
+"verify": true,
+"evidence": "Died 28 Nov 2022. Yale News https://news.yale.edu/2022/11/30/ramsay-macmullen-distinguished-roman-historian-and-yale-citizen"
+},
+{
+"id": "mahmood|saba",
+"name": "Saba Mahmood",
+"gender": "w",
+"status": "deceased",
+"death": 2018,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "marcovich|miroslav",
+"name": "Miroslav Marcovich",
+"gender": "m",
+"status": "deceased",
+"death": 2001,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "marin|manuela",
+"name": "Manuela Marín",
+"gender": "w",
+"status": "deceased",
+"death": 2026,
+"verify": false,
+"evidence": "Died 19 July 2026; retired CSIC Research Professor. Casa Arabe: https://en.casaarabe.es/noticias-arabes/show/arabist-manuela-marin-passes-away"
+},
+{
+"id": "martin|dale",
+"name": "Dale B. Martin",
+"gender": "m",
+"status": "deceased",
+"death": 2023,
+"verify": true,
+"evidence": "Died 17 Nov 2023, Galveston TX. Wikipedia https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Dale_B._Martin"
+},
+{
+"id": "mcdonnell|myles",
+"name": "Myles McDonnell",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "mcginn|thomas",
+"name": "Thomas A.J. McGinn",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "meeks|wayne",
+"name": "Wayne Meeks",
+"gender": "m",
+"status": "deceased",
+"death": 2023,
+"verify": true,
+"evidence": "Wayne A. Meeks 1932-2023 (Jan 2023). YDS https://divinity.yale.edu/news/wayne-meeks-1932-2023 ; Yale News https://news.yale.edu/2023/01/17/wayne-meeks-influential-scholar-new-testament-studies"
+},
+{
+"id": "milnor|kristina",
+"name": "Kristina Milnor",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "mir-hosseini|ziba",
+"name": "Ziba Mir-Hosseini",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "momigliano|arnaldo",
+"name": "Arnaldo Momigliano",
+"gender": "m",
+"status": "deceased",
+"death": 1987,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "moore|stephen",
+"name": "Stephen D. Moore",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "munoz|jose",
+"name": "José Esteban Muñoz",
+"gender": "m",
+"status": "deceased",
+"death": 2013,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "nasrallah|laura",
+"name": "Laura Nasrallah",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "nauta|ruud",
+"name": "Ruud R. Nauta",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "neils|jenifer",
+"name": "Jenifer Neils",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Case Western emerita, Hovorka Prize news."
+},
+{
+"id": "neusner|jacob",
+"name": "Jacob Neusner",
+"gender": "m",
+"status": "deceased",
+"death": 2016,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "nijf|onno",
+"name": "Onno van Nijf",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "norena|carlos",
+"name": "Carlos Norena",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "nussbaum|martha",
+"name": "Martha Nussbaum",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; 2025-26 activity (Kluge Prize news, forthcoming OUP book on opera)."
+},
+{
+"id": "oakley|john",
+"name": "John Oakley",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "ogden|daniel",
+"name": "Daniel Ogden",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "olson|kelly",
+"name": "Kelly Olson",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "orlin|eric",
+"name": "Eric Orlin",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "osiek|caroline",
+"name": "Caroline Osiek",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "parker|holt",
+"name": "Holt N. Parker",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "peek|werner",
+"name": "Werner Peek",
+"gender": "m",
+"status": "deceased",
+"death": 1994,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "peirce|leslie",
+"name": "Leslie Peirce",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "perkins|judith",
+"name": "Judith Perkins",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 13 June 1944 https://en.wikipedia.org/wiki/Judith_Perkins"
+},
+{
+"id": "pleket|henri",
+"name": "Henri Willy Pleket",
+"gender": "m",
+"status": "deceased",
+"death": 2025,
+"verify": true,
+"evidence": "Died 5 Jan 2025. Leiden University in memoriam https://www.universiteitleiden.nl/nieuws/2025/01/in-memoriam-prof-dr-henri-pleket"
+},
+{
+"id": "pomeroy|sarah",
+"name": "Sarah B. Pomeroy",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1938 https://en.wikipedia.org/wiki/Sarah_B._Pomeroy"
+},
+{
+"id": "powell|a",
+"name": "Anton Powell",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "powers|david",
+"name": "David Powers",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "purcell|nicholas",
+"name": "Nicholas Purcell",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "rapoport|yossef",
+"name": "Yossef Rapoport",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "reed|annette",
+"name": "Annette Yoshiko Reed",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "richardson|lawrence",
+"name": "Lawrence Richardson",
+"gender": "m",
+"status": "deceased",
+"death": 2013,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "richlin|amy",
+"name": "Amy Richlin",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "roller|lynn",
+"name": "Lynn E. Roller",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; UC Davis faculty profile."
+},
+{
+"id": "roscoe|will",
+"name": "Will Roscoe",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "salmon|john",
+"name": "John Salmon",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found). Assumed J. B. Salmon (Wealthy Corinth, 1984; Nottingham); no birth year or obituary found. Not to be confused with J.H.M. Salmon (French historian, 1925-2005) or E.T. Salmon (Samnium, d. 1988)"
+},
+{
+"id": "sansone|david",
+"name": "David Sansone",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; listed among Illinois retired faculty."
+},
+{
+"id": "scanlon|thomas",
+"name": "Thomas F. Scanlon",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "schacht|joseph",
+"name": "Joseph Schacht",
+"gender": "m",
+"status": "deceased",
+"death": 1969,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "scheid|john",
+"name": "John Scheid",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "schoedel|william",
+"name": "William R. Schoedel",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1930; listed as Professor Emeritus at UIUC https://religion.illinois.edu/directory/profile/schoedel"
+},
+{
+"id": "schultz|celia",
+"name": "Celia E. Schultz",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "schussler fiorenza|elisabeth",
+"name": "Elisabeth Schüssler Fiorenza",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "scodel|ruth",
+"name": "Ruth Scodel",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "scott|joan",
+"name": "Joan W. Scott",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "sebesta|judith",
+"name": "Judith Lynn Sebesta",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); USD classics emerita, honoured 2012 https://rogueclassicism.com/2012/04/21/honours-for-judith-lynn-sebesta/"
+},
+{
+"id": "sedgwick|eve",
+"name": "Eve K. Sedgwick",
+"gender": "w",
+"status": "deceased",
+"death": 2009,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "segal|charles",
+"name": "Charles Segal",
+"gender": "m",
+"status": "deceased",
+"death": 2002,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "serwint|nancy",
+"name": "Nancy Jean Serwint",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "sharrock|alison",
+"name": "Alison Sharrock",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "shatzmiller|maya",
+"name": "Maya Shatzmiller",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Western CV dated May 2022."
+},
+{
+"id": "sihvola|juha",
+"name": "Juha Sihvola",
+"gender": "m",
+"status": "deceased",
+"death": 2012,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "simon|erika",
+"name": "Erika Simon",
+"gender": "w",
+"status": "deceased",
+"death": 2019,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "sissa|giulia",
+"name": "Giulia Sissa",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "skinner|marilyn",
+"name": "Marilyn B. Skinner",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; Wikipedia mirror lists her under Living people."
+},
+{
+"id": "small|jocelyn",
+"name": "Jocelyn Penny Small",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "sourvinou-inwood|christiane",
+"name": "Christiane Sourvinou-Inwood",
+"gender": "w",
+"status": "deceased",
+"death": 2007,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "stafford|emma",
+"name": "Emma Stafford",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "staples|ariadne",
+"name": "Ariadne Staples",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "stevenson|tom",
+"name": "Tom Stevenson",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "stevenson|walter",
+"name": "Walter Stevenson",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "storey|ian",
+"name": "Ian Storey",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "stroumsa|guy",
+"name": "Guy Stroumsa",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "sutton|robert",
+"name": "Robert F. Sutton",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death found; AIA member spotlight (2022)."
+},
+{
+"id": "syme|ronald",
+"name": "Ronald Syme",
+"gender": "m",
+"status": "deceased",
+"death": 1989,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "taylor|rabun",
+"name": "Rabun Taylor",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "temkin|owsei",
+"name": "Owsei Temkin",
+"gender": "m",
+"status": "deceased",
+"death": 2002,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "totelin|laurence",
+"name": "Laurence Totelin",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "tougher|shaun",
+"name": "Shaun Tougher",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "treggiari|susan",
+"name": "Susan Treggiari",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found) https://en.wikipedia.org/wiki/Susan_Treggiari"
+},
+{
+"id": "turner|victor",
+"name": "Victor W. Turner",
+"gender": "m",
+"status": "deceased",
+"death": 1983,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "upson-saia|kristi",
+"name": "Kristi Upson-Saia",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "varone|antonio",
+"name": "Antonio Varone",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "vernant|jean",
+"name": "Jean-Pierre Vernant",
+"gender": "m",
+"status": "deceased",
+"death": 2007,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "vout|caroline",
+"name": "Caroline Vout",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "wallace-hadrill|andrew",
+"name": "Andrew Wallace-Hadrill",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false,
+"evidence": "No death notice found in search."
+},
+{
+"id": "westermann|william",
+"name": "William L. Westermann",
+"gender": "m",
+"status": "deceased",
+"death": 1954,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "west|martin",
+"name": "Martin L. West",
+"gender": "m",
+"status": "deceased",
+"death": 2015,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "wilkinson|kate",
+"name": "Kate Wilkinson",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "williams|craig",
+"name": "Craig A. Williams",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "williams|gordon",
+"name": "Gordon Williams",
+"gender": "m",
+"status": "deceased",
+"death": 2010,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "winkler|john",
+"name": "John J. Winkler",
+"gender": "m",
+"status": "deceased",
+"death": 1990,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "winter|bruce",
+"name": "Bruce Winter",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); Bruce W. Winter b. 1939 https://en.wikipedia.org/wiki/Bruce_W._Winter"
+},
+{
+"id": "wittig|monique",
+"name": "Monique Wittig",
+"gender": "w",
+"status": "deceased",
+"death": 2003,
+"verify": false,
+"evidence": "matches draft"
+},
+{
+"id": "woolf|greg",
+"name": "Greg Woolf",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "wyke|maria",
+"name": "Maria Wyke",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "zajko|vanda",
+"name": "Vanda Zajko",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": false
+},
+{
+"id": "zanker|paul",
+"name": "Paul Zanker",
+"gender": "m",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1937; Cultori di Roma prize 2024 https://en.wikipedia.org/wiki/Paul_Zanker"
+},
+{
+"id": "zeitlin|froma",
+"name": "Froma I. Zeitlin",
+"gender": "w",
+"status": "living",
+"death": null,
+"verify": true,
+"evidence": "living (no death found); b. 1933; Princeton 90th-birthday notice https://classics.princeton.edu/department/news/emerita-froma-zeitlin-celebrates-90th-birthday"
+}
+]

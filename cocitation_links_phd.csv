@@ -1,0 +1,4815 @@
+scholar_a,scholar_b,cocited_in,strength_cosine
+Kecia Ali,Jonathan Brockopp,2,0.667
+Kecia Ali,Clifford Geertz,2,0.577
+Kecia Ali,Wael B. Hallaq,2,0.667
+Kecia Ali,Ziba Mir-Hosseini,2,0.667
+Kecia Ali,Leslie Peirce,2,0.667
+Kecia Ali,David Powers,3,0.866
+Kecia Ali,Yossef Rapoport,2,0.667
+Kecia Ali,Maya Shatzmiller,2,0.667
+María Luisa Ávila,Jonathan Brockopp,2,0.667
+María Luisa Ávila,Wael B. Hallaq,2,0.667
+María Luisa Ávila,Manuela Marín,3,1.0
+María Luisa Ávila,Ziba Mir-Hosseini,2,0.667
+María Luisa Ávila,David Powers,2,0.577
+María Luisa Ávila,Yossef Rapoport,2,0.667
+María Luisa Ávila,Maya Shatzmiller,2,0.667
+Jonathan Brockopp,Wael B. Hallaq,2,0.667
+Jonathan Brockopp,Manuela Marín,2,0.667
+Jonathan Brockopp,Ziba Mir-Hosseini,2,0.667
+Jonathan Brockopp,David Powers,3,0.866
+Jonathan Brockopp,Yossef Rapoport,2,0.667
+Jonathan Brockopp,Maya Shatzmiller,2,0.667
+Clifford Geertz,Wael B. Hallaq,2,0.577
+Clifford Geertz,Saba Mahmood,2,0.577
+Clifford Geertz,Ziba Mir-Hosseini,2,0.577
+Clifford Geertz,Leslie Peirce,2,0.577
+Clifford Geertz,David Powers,2,0.5
+Clifford Geertz,Yossef Rapoport,2,0.577
+Clifford Geertz,Maya Shatzmiller,2,0.577
+Wael B. Hallaq,Manuela Marín,2,0.667
+Wael B. Hallaq,Ziba Mir-Hosseini,3,1.0
+Wael B. Hallaq,Leslie Peirce,2,0.667
+Wael B. Hallaq,David Powers,3,0.866
+Wael B. Hallaq,Yossef Rapoport,3,1.0
+Wael B. Hallaq,Maya Shatzmiller,3,1.0
+Manuela Marín,Ziba Mir-Hosseini,2,0.667
+Manuela Marín,David Powers,2,0.577
+Manuela Marín,Yossef Rapoport,2,0.667
+Manuela Marín,Maya Shatzmiller,2,0.667
+Ziba Mir-Hosseini,Leslie Peirce,2,0.667
+Ziba Mir-Hosseini,David Powers,3,0.866
+Ziba Mir-Hosseini,Yossef Rapoport,3,1.0
+Ziba Mir-Hosseini,Maya Shatzmiller,3,1.0
+Leslie Peirce,David Powers,2,0.577
+Leslie Peirce,Yossef Rapoport,2,0.667
+Leslie Peirce,Maya Shatzmiller,2,0.667
+David Powers,Yossef Rapoport,3,0.866
+David Powers,Maya Shatzmiller,3,0.866
+Yossef Rapoport,Maya Shatzmiller,3,1.0
+Roger S. Bagnall,Peter Brown,2,0.338
+Roger S. Bagnall,Elizabeth A. Clark,2,0.4
+Roger S. Bagnall,Rebecca Flemming,2,0.338
+Roger S. Bagnall,Michel Foucault,2,0.27
+Roger S. Bagnall,Ann Ellis Hanson,2,0.516
+Roger S. Bagnall,Caroline Osiek,2,0.516
+Roger S. Bagnall,Amy Richlin,2,0.298
+Roger S. Bagnall,Owsei Temkin,2,0.447
+Roger S. Bagnall,Bruce Winter,2,0.447
+Jan Bremmer,Rebecca Flemming,2,0.378
+Jan Bremmer,Michel Foucault,3,0.452
+Jan Bremmer,Thomas A.J. McGinn,2,0.447
+Jan Bremmer,Amy Richlin,3,0.5
+Peter Brown,Elizabeth Castelli,3,0.507
+Peter Brown,Elizabeth A. Clark,4,0.676
+Peter Brown,Shaye J. D. Cohen,2,0.338
+Peter Brown,Kate Cooper,3,0.655
+Peter Brown,Susanna Elm,3,0.567
+Peter Brown,Rebecca Flemming,3,0.429
+Peter Brown,Charlotte Elisheva Fonrobert,2,0.436
+Peter Brown,Michel Foucault,4,0.456
+Peter Brown,Thomas Laqueur,2,0.378
+Peter Brown,Thomas A.J. McGinn,2,0.338
+Peter Brown,Amy Richlin,4,0.504
+Peter Brown,William R. Schoedel,2,0.436
+Peter Brown,Owsei Temkin,2,0.378
+Peter Brown,Bruce Winter,2,0.378
+Elizabeth Castelli,Elizabeth A. Clark,3,0.6
+Elizabeth Castelli,Shaye J. D. Cohen,3,0.6
+Elizabeth Castelli,Susanna Elm,2,0.447
+Elizabeth Castelli,Rebecca Flemming,3,0.507
+Elizabeth Castelli,Charlotte Elisheva Fonrobert,2,0.516
+Elizabeth Castelli,Michel Foucault,4,0.539
+Elizabeth Castelli,Thomas Laqueur,4,0.894
+Elizabeth Castelli,Laura Nasrallah,2,0.516
+Elizabeth Castelli,Caroline Osiek,2,0.516
+Elizabeth Castelli,Amy Richlin,2,0.298
+Elizabeth Castelli,William R. Schoedel,3,0.775
+Elizabeth Castelli,Elisabeth Schüssler Fiorenza,2,0.516
+Elizabeth Castelli,Owsei Temkin,3,0.671
+Elizabeth Castelli,Bruce Winter,2,0.447
+Elizabeth A. Clark,Shaye J. D. Cohen,3,0.6
+Elizabeth A. Clark,Kate Cooper,2,0.516
+Elizabeth A. Clark,Susanna Elm,2,0.447
+Elizabeth A. Clark,Rebecca Flemming,2,0.338
+Elizabeth A. Clark,Charlotte Elisheva Fonrobert,2,0.516
+Elizabeth A. Clark,Michel Foucault,2,0.27
+Elizabeth A. Clark,Thomas Laqueur,2,0.447
+Elizabeth A. Clark,Thomas A.J. McGinn,2,0.4
+Elizabeth A. Clark,Laura Nasrallah,2,0.516
+Elizabeth A. Clark,Caroline Osiek,2,0.516
+Elizabeth A. Clark,Amy Richlin,3,0.447
+Elizabeth A. Clark,Elisabeth Schüssler Fiorenza,2,0.516
+Elizabeth A. Clark,Bruce Winter,3,0.671
+Shaye J. D. Cohen,Charlotte Elisheva Fonrobert,3,0.775
+Shaye J. D. Cohen,Michel Foucault,4,0.539
+Shaye J. D. Cohen,Thomas Laqueur,2,0.447
+Shaye J. D. Cohen,Laura Nasrallah,3,0.775
+Shaye J. D. Cohen,Caroline Osiek,2,0.516
+Shaye J. D. Cohen,Amy Richlin,2,0.298
+Shaye J. D. Cohen,Elisabeth Schüssler Fiorenza,3,0.775
+Shaye J. D. Cohen,Bruce Winter,2,0.447
+Kate Cooper,Susanna Elm,3,0.866
+Kate Cooper,Rebecca Flemming,2,0.436
+Kate Cooper,Michel Foucault,2,0.348
+Kate Cooper,Thomas A.J. McGinn,2,0.516
+Kate Cooper,Amy Richlin,3,0.577
+Kate Cooper,Bruce Winter,2,0.577
+Susanna Elm,Rebecca Flemming,3,0.567
+Susanna Elm,Michel Foucault,3,0.452
+Susanna Elm,Thomas Laqueur,2,0.5
+Susanna Elm,Thomas A.J. McGinn,2,0.447
+Susanna Elm,Amy Richlin,3,0.5
+Susanna Elm,William R. Schoedel,2,0.577
+Susanna Elm,Owsei Temkin,2,0.5
+Susanna Elm,Bruce Winter,2,0.5
+Rebecca Flemming,Michel Foucault,3,0.342
+Rebecca Flemming,Ann Ellis Hanson,2,0.436
+Rebecca Flemming,Thomas Laqueur,3,0.567
+Rebecca Flemming,Thomas A.J. McGinn,3,0.507
+Rebecca Flemming,Caroline Osiek,2,0.436
+Rebecca Flemming,Amy Richlin,3,0.378
+Rebecca Flemming,William R. Schoedel,3,0.655
+Rebecca Flemming,Owsei Temkin,4,0.756
+Rebecca Flemming,Bruce Winter,3,0.567
+Charlotte Elisheva Fonrobert,Michel Foucault,3,0.522
+Charlotte Elisheva Fonrobert,Amy Richlin,2,0.385
+Michel Foucault,Thomas Laqueur,3,0.452
+Michel Foucault,Laura Nasrallah,2,0.348
+Michel Foucault,Amy Richlin,5,0.503
+Michel Foucault,William R. Schoedel,3,0.522
+Michel Foucault,Elisabeth Schüssler Fiorenza,2,0.348
+Michel Foucault,Owsei Temkin,3,0.452
+Ann Ellis Hanson,Thomas A.J. McGinn,2,0.516
+Ann Ellis Hanson,Caroline Osiek,2,0.667
+Ann Ellis Hanson,Amy Richlin,2,0.385
+Ann Ellis Hanson,Owsei Temkin,2,0.577
+Ann Ellis Hanson,Bruce Winter,2,0.577
+Thomas Laqueur,Laura Nasrallah,2,0.577
+Thomas Laqueur,Caroline Osiek,2,0.577
+Thomas Laqueur,William R. Schoedel,3,0.866
+Thomas Laqueur,Elisabeth Schüssler Fiorenza,2,0.577
+Thomas Laqueur,Owsei Temkin,3,0.75
+Thomas Laqueur,Bruce Winter,2,0.5
+Thomas A.J. McGinn,Amy Richlin,5,0.745
+Thomas A.J. McGinn,Bruce Winter,2,0.447
+Laura Nasrallah,Caroline Osiek,2,0.667
+Laura Nasrallah,Elisabeth Schüssler Fiorenza,3,1.0
+Laura Nasrallah,Bruce Winter,2,0.577
+Caroline Osiek,Elisabeth Schüssler Fiorenza,2,0.667
+Caroline Osiek,Owsei Temkin,2,0.577
+Caroline Osiek,Bruce Winter,3,0.866
+Amy Richlin,Bruce Winter,2,0.333
+William R. Schoedel,Owsei Temkin,3,0.866
+Elisabeth Schüssler Fiorenza,Bruce Winter,2,0.577
+Owsei Temkin,Bruce Winter,2,0.5
+James Brundage,Christiane Klapisch-Zuber,2,0.667
+James Brundage,Thomas Kuehn,2,0.667
+Christiane Klapisch-Zuber,Thomas Kuehn,3,1.0
+María Luisa Ávila,Judith Butler,2,0.348
+María Luisa Ávila,Norman Calder,2,0.667
+Jonathan Brockopp,Norman Calder,2,0.667
+Judith Butler,Norman Calder,2,0.348
+Judith Butler,Manuela Marín,2,0.348
+Norman Calder,Manuela Marín,2,0.667
+Norman Calder,David Powers,2,0.577
+Judith Butler,Michel Foucault,7,0.636
+Judith Butler,David Halperin,6,0.603
+Judith Butler,José Esteban Muñoz,3,0.452
+Judith Butler,Monique Wittig,3,0.522
+Norman Calder,Hamilton A. Gibb,2,0.667
+Norman Calder,Joseph Schacht,2,0.667
+Michel Foucault,David Halperin,9,0.905
+Michel Foucault,Teresa de Lauretis,2,0.348
+Michel Foucault,José Esteban Muñoz,4,0.603
+Michel Foucault,Monique Wittig,3,0.522
+Hamilton A. Gibb,Joseph Schacht,3,1.0
+David Halperin,Teresa de Lauretis,2,0.385
+David Halperin,José Esteban Muñoz,4,0.667
+David Halperin,Monique Wittig,3,0.577
+José Esteban Muñoz,Monique Wittig,2,0.577
+Susan Ackerman,Mieke Bal,2,0.667
+Susan Ackerman,Amélie Kuhrt,2,0.577
+Susan Ackerman,Arnaldo Momigliano,2,0.667
+Mieke Bal,Amélie Kuhrt,2,0.577
+Mieke Bal,Arnaldo Momigliano,3,1.0
+Edith Hall,Amélie Kuhrt,2,0.447
+Amélie Kuhrt,Arnaldo Momigliano,2,0.577
+Judith M. Barringer,Roland Barthes,2,0.577
+Judith M. Barringer,Karen Bassi,2,0.667
+Judith M. Barringer,Sue Blundell,3,0.866
+Judith M. Barringer,John Boardman,2,0.667
+Judith M. Barringer,Larissa Bonfante,3,0.775
+Judith M. Barringer,Jan Bremmer,2,0.577
+Judith M. Barringer,Douglas Cairns,3,1.0
+Judith M. Barringer,Eva Cantarella,3,0.655
+Judith M. Barringer,Paul Christesen,2,0.667
+Judith M. Barringer,David Cohen,2,0.516
+Judith M. Barringer,Edward E. Cohen,2,0.577
+Judith M. Barringer,James N. Davidson,2,0.577
+Judith M. Barringer,Glenys Davies,2,0.577
+Judith M. Barringer,Kenneth J. Dover,3,0.655
+Judith M. Barringer,Nick Fisher,2,0.667
+Judith M. Barringer,Michel Foucault,2,0.348
+Judith M. Barringer,Lin Foxhall,2,0.577
+Judith M. Barringer,Mark Golden,2,0.667
+Judith M. Barringer,Simon Goldhill,2,0.471
+Judith M. Barringer,Christopher H. Hallett,2,0.667
+Judith M. Barringer,Stephen Halliwell,2,0.667
+Judith M. Barringer,David Halperin,2,0.385
+Judith M. Barringer,Nigel M. Kennell,2,0.667
+Judith M. Barringer,Eva C. Keuls,3,1.0
+Judith M. Barringer,Martin Kilmer,2,0.667
+Judith M. Barringer,Mireille Lee,3,0.775
+Judith M. Barringer,François Lissarrague,3,0.866
+Judith M. Barringer,Hugh Lloyd-Jones,3,1.0
+Judith M. Barringer,Nicole Loraux,3,1.0
+Judith M. Barringer,Myles McDonnell,2,0.577
+Judith M. Barringer,Jenifer Neils,3,1.0
+Judith M. Barringer,Onno van Nijf,2,0.577
+Judith M. Barringer,John Oakley,3,1.0
+Judith M. Barringer,Daniel Ogden,2,0.516
+Judith M. Barringer,Amy Richlin,2,0.385
+Judith M. Barringer,David Sansone,2,0.667
+Judith M. Barringer,Thomas F. Scanlon,2,0.667
+Judith M. Barringer,Nancy Jean Serwint,3,1.0
+Judith M. Barringer,Erika Simon,3,1.0
+Judith M. Barringer,Jocelyn Penny Small,2,0.667
+Judith M. Barringer,Christiane Sourvinou-Inwood,3,0.866
+Judith M. Barringer,Ian Storey,3,1.0
+Judith M. Barringer,Robert F. Sutton,3,1.0
+Judith M. Barringer,Jean-Pierre Vernant,3,1.0
+Judith M. Barringer,Caroline Vout,2,0.577
+Judith M. Barringer,John J. Winkler,2,0.667
+Judith M. Barringer,Paul Zanker,2,0.577
+Roland Barthes,Sue Blundell,2,0.5
+Roland Barthes,John Boardman,2,0.577
+Roland Barthes,Larissa Bonfante,2,0.447
+Roland Barthes,Douglas Cairns,2,0.577
+Roland Barthes,Eva Cantarella,2,0.378
+Roland Barthes,Paul Christesen,2,0.577
+Roland Barthes,Glenys Davies,2,0.5
+Roland Barthes,Kenneth J. Dover,2,0.378
+Roland Barthes,Michel Foucault,3,0.452
+Roland Barthes,Simon Goldhill,2,0.408
+Roland Barthes,Christopher H. Hallett,2,0.577
+Roland Barthes,David Halperin,3,0.5
+Roland Barthes,Nigel M. Kennell,2,0.577
+Roland Barthes,Eva C. Keuls,2,0.577
+Roland Barthes,Mireille Lee,2,0.447
+Roland Barthes,François Lissarrague,2,0.5
+Roland Barthes,Hugh Lloyd-Jones,2,0.577
+Roland Barthes,Nicole Loraux,2,0.577
+Roland Barthes,Myles McDonnell,2,0.5
+Roland Barthes,Jenifer Neils,2,0.577
+Roland Barthes,Onno van Nijf,2,0.5
+Roland Barthes,John Oakley,2,0.577
+Roland Barthes,Amy Richlin,3,0.5
+Roland Barthes,Thomas F. Scanlon,2,0.577
+Roland Barthes,Nancy Jean Serwint,2,0.577
+Roland Barthes,Erika Simon,2,0.577
+Roland Barthes,Christiane Sourvinou-Inwood,2,0.5
+Roland Barthes,Ian Storey,2,0.577
+Roland Barthes,Robert F. Sutton,2,0.577
+Roland Barthes,Jean-Pierre Vernant,2,0.577
+Roland Barthes,Caroline Vout,2,0.5
+Roland Barthes,Paul Zanker,2,0.5
+Karen Bassi,Sue Blundell,2,0.577
+Karen Bassi,Larissa Bonfante,2,0.516
+Karen Bassi,Jan Bremmer,2,0.577
+Karen Bassi,Douglas Cairns,2,0.667
+Karen Bassi,Eva Cantarella,2,0.436
+Karen Bassi,David Cohen,2,0.516
+Karen Bassi,Edward E. Cohen,3,0.866
+Karen Bassi,James N. Davidson,2,0.577
+Karen Bassi,Kenneth J. Dover,2,0.436
+Karen Bassi,Nick Fisher,2,0.667
+Karen Bassi,Michel Foucault,3,0.522
+Karen Bassi,Lin Foxhall,3,0.866
+Karen Bassi,Mark Golden,2,0.667
+Karen Bassi,Simon Goldhill,2,0.471
+Karen Bassi,Stephen Halliwell,2,0.667
+Karen Bassi,David Halperin,2,0.385
+Karen Bassi,Eva C. Keuls,2,0.667
+Karen Bassi,Martin Kilmer,2,0.667
+Karen Bassi,Mireille Lee,2,0.516
+Karen Bassi,François Lissarrague,2,0.577
+Karen Bassi,Hugh Lloyd-Jones,2,0.667
+Karen Bassi,Nicole Loraux,2,0.667
+Karen Bassi,Myles McDonnell,2,0.577
+Karen Bassi,Jenifer Neils,2,0.667
+Karen Bassi,Onno van Nijf,2,0.577
+Karen Bassi,John Oakley,2,0.667
+Karen Bassi,Daniel Ogden,2,0.516
+Karen Bassi,Amy Richlin,2,0.385
+Karen Bassi,John Salmon,2,0.667
+Karen Bassi,David Sansone,2,0.667
+Karen Bassi,Nancy Jean Serwint,2,0.667
+Karen Bassi,Erika Simon,2,0.667
+Karen Bassi,Jocelyn Penny Small,2,0.667
+Karen Bassi,Christiane Sourvinou-Inwood,2,0.577
+Karen Bassi,Ian Storey,2,0.667
+Karen Bassi,Robert F. Sutton,2,0.667
+Karen Bassi,Jean-Pierre Vernant,2,0.667
+Karen Bassi,John J. Winkler,2,0.667
+Sue Blundell,John Boardman,2,0.577
+Sue Blundell,Larissa Bonfante,4,0.894
+Sue Blundell,Pierre Bourdieu,2,0.5
+Sue Blundell,Jan Bremmer,2,0.5
+Sue Blundell,Douglas Cairns,3,0.866
+Sue Blundell,Eva Cantarella,3,0.567
+Sue Blundell,Paul Christesen,2,0.577
+Sue Blundell,David Cohen,2,0.447
+Sue Blundell,Edward E. Cohen,2,0.5
+Sue Blundell,James N. Davidson,2,0.5
+Sue Blundell,Glenys Davies,3,0.75
+Sue Blundell,Kenneth J. Dover,3,0.567
+Sue Blundell,Nick Fisher,2,0.577
+Sue Blundell,Michel Foucault,2,0.302
+Sue Blundell,Lin Foxhall,2,0.5
+Sue Blundell,Mark Golden,2,0.577
+Sue Blundell,Simon Goldhill,2,0.408
+Sue Blundell,Christopher H. Hallett,2,0.577
+Sue Blundell,Stephen Halliwell,2,0.577
+Sue Blundell,David Halperin,2,0.333
+Sue Blundell,Nigel M. Kennell,2,0.577
+Sue Blundell,Eva C. Keuls,3,0.866
+Sue Blundell,Martin Kilmer,2,0.577
+Sue Blundell,Mireille Lee,4,0.894
+Sue Blundell,François Lissarrague,3,0.75
+Sue Blundell,Hugh Lloyd-Jones,3,0.866
+Sue Blundell,Nicole Loraux,3,0.866
+Sue Blundell,Myles McDonnell,2,0.5
+Sue Blundell,Jenifer Neils,3,0.866
+Sue Blundell,Onno van Nijf,2,0.5
+Sue Blundell,John Oakley,3,0.866
+Sue Blundell,Daniel Ogden,3,0.671
+Sue Blundell,Amy Richlin,2,0.333
+Sue Blundell,David Sansone,2,0.577
+Sue Blundell,Thomas F. Scanlon,2,0.577
+Sue Blundell,Nancy Jean Serwint,3,0.866
+Sue Blundell,Erika Simon,3,0.866
+Sue Blundell,Jocelyn Penny Small,2,0.577
+Sue Blundell,Christiane Sourvinou-Inwood,3,0.75
+Sue Blundell,Ian Storey,3,0.866
+Sue Blundell,Robert F. Sutton,3,0.866
+Sue Blundell,Jean-Pierre Vernant,3,0.866
+Sue Blundell,Caroline Vout,2,0.5
+Sue Blundell,John J. Winkler,2,0.577
+Sue Blundell,Paul Zanker,2,0.5
+John Boardman,Larissa Bonfante,2,0.516
+John Boardman,Douglas Cairns,2,0.667
+John Boardman,Eva Cantarella,2,0.436
+John Boardman,Paul Christesen,2,0.667
+John Boardman,Glenys Davies,2,0.577
+John Boardman,Kenneth J. Dover,2,0.436
+John Boardman,Christopher H. Hallett,2,0.667
+John Boardman,Nigel M. Kennell,2,0.667
+John Boardman,Eva C. Keuls,2,0.667
+John Boardman,Mireille Lee,2,0.516
+John Boardman,François Lissarrague,2,0.577
+John Boardman,Hugh Lloyd-Jones,2,0.667
+John Boardman,Nicole Loraux,2,0.667
+John Boardman,Myles McDonnell,2,0.577
+John Boardman,Jenifer Neils,2,0.667
+John Boardman,Onno van Nijf,2,0.577
+John Boardman,John Oakley,2,0.667
+John Boardman,Amy Richlin,2,0.385
+John Boardman,Thomas F. Scanlon,2,0.667
+John Boardman,Nancy Jean Serwint,2,0.667
+John Boardman,Erika Simon,2,0.667
+John Boardman,Christiane Sourvinou-Inwood,3,0.866
+John Boardman,Ian Storey,2,0.667
+John Boardman,Robert F. Sutton,2,0.667
+John Boardman,Jean-Pierre Vernant,2,0.667
+John Boardman,Caroline Vout,3,0.866
+John Boardman,Paul Zanker,2,0.577
+Larissa Bonfante,Pierre Bourdieu,2,0.447
+Larissa Bonfante,Jan Bremmer,2,0.447
+Larissa Bonfante,Douglas Cairns,3,0.775
+Larissa Bonfante,Eva Cantarella,4,0.676
+Larissa Bonfante,Paul Christesen,3,0.775
+Larissa Bonfante,David Cohen,2,0.4
+Larissa Bonfante,Edward E. Cohen,2,0.447
+Larissa Bonfante,James N. Davidson,2,0.447
+Larissa Bonfante,Glenys Davies,4,0.894
+Larissa Bonfante,Kenneth J. Dover,4,0.676
+Larissa Bonfante,Nick Fisher,2,0.516
+Larissa Bonfante,Michel Foucault,2,0.27
+Larissa Bonfante,Lin Foxhall,3,0.671
+Larissa Bonfante,Mark Golden,3,0.775
+Larissa Bonfante,Simon Goldhill,2,0.365
+Larissa Bonfante,Christopher H. Hallett,3,0.775
+Larissa Bonfante,Stephen Halliwell,2,0.516
+Larissa Bonfante,David Halperin,2,0.298
+Larissa Bonfante,Nigel M. Kennell,3,0.775
+Larissa Bonfante,Eva C. Keuls,3,0.775
+Larissa Bonfante,Martin Kilmer,3,0.775
+Larissa Bonfante,Mireille Lee,5,1.0
+Larissa Bonfante,Saara Lilja,2,0.516
+Larissa Bonfante,François Lissarrague,3,0.671
+Larissa Bonfante,Hugh Lloyd-Jones,3,0.775
+Larissa Bonfante,Nicole Loraux,3,0.775
+Larissa Bonfante,Myles McDonnell,3,0.671
+Larissa Bonfante,Jenifer Neils,3,0.775
+Larissa Bonfante,Onno van Nijf,3,0.671
+Larissa Bonfante,John Oakley,3,0.775
+Larissa Bonfante,Daniel Ogden,3,0.6
+Larissa Bonfante,Henri Willy Pleket,2,0.447
+Larissa Bonfante,Amy Richlin,3,0.447
+Larissa Bonfante,John Salmon,2,0.516
+Larissa Bonfante,David Sansone,3,0.775
+Larissa Bonfante,Thomas F. Scanlon,3,0.775
+Larissa Bonfante,Nancy Jean Serwint,3,0.775
+Larissa Bonfante,Erika Simon,3,0.775
+Larissa Bonfante,Jocelyn Penny Small,3,0.775
+Larissa Bonfante,Christiane Sourvinou-Inwood,3,0.671
+Larissa Bonfante,Ian Storey,3,0.775
+Larissa Bonfante,Robert F. Sutton,3,0.775
+Larissa Bonfante,Jean-Pierre Vernant,3,0.775
+Larissa Bonfante,Caroline Vout,3,0.671
+Larissa Bonfante,John J. Winkler,2,0.516
+Larissa Bonfante,Paul Zanker,3,0.671
+Pierre Bourdieu,Glenys Davies,2,0.5
+Pierre Bourdieu,Kenneth J. Dover,2,0.378
+Pierre Bourdieu,Michel Foucault,2,0.302
+Pierre Bourdieu,Simon Goldhill,2,0.408
+Pierre Bourdieu,David Halperin,2,0.333
+Pierre Bourdieu,Mireille Lee,2,0.447
+Pierre Bourdieu,Miroslav Marcovich,2,0.577
+Pierre Bourdieu,Daniel Ogden,2,0.447
+Jan Bremmer,Douglas Cairns,2,0.577
+Jan Bremmer,Eva Cantarella,3,0.567
+Jan Bremmer,David Cohen,3,0.671
+Jan Bremmer,Edward E. Cohen,2,0.5
+Jan Bremmer,James N. Davidson,2,0.5
+Jan Bremmer,Kenneth J. Dover,2,0.378
+Jan Bremmer,Nick Fisher,2,0.577
+Jan Bremmer,Lin Foxhall,2,0.5
+Jan Bremmer,Mark Golden,2,0.577
+Jan Bremmer,Simon Goldhill,2,0.408
+Jan Bremmer,Stephen Halliwell,2,0.577
+Jan Bremmer,David Halperin,2,0.333
+Jan Bremmer,Eva C. Keuls,2,0.577
+Jan Bremmer,Martin Kilmer,2,0.577
+Jan Bremmer,Mireille Lee,2,0.447
+Jan Bremmer,François Lissarrague,2,0.5
+Jan Bremmer,Hugh Lloyd-Jones,2,0.577
+Jan Bremmer,Nicole Loraux,2,0.577
+Jan Bremmer,Jenifer Neils,2,0.577
+Jan Bremmer,John Oakley,2,0.577
+Jan Bremmer,Daniel Ogden,3,0.671
+Jan Bremmer,David Sansone,2,0.577
+Jan Bremmer,Nancy Jean Serwint,2,0.577
+Jan Bremmer,Erika Simon,2,0.577
+Jan Bremmer,Jocelyn Penny Small,2,0.577
+Jan Bremmer,Christiane Sourvinou-Inwood,2,0.5
+Jan Bremmer,Ian Storey,2,0.577
+Jan Bremmer,Robert F. Sutton,2,0.577
+Jan Bremmer,Jean-Pierre Vernant,2,0.577
+Jan Bremmer,John J. Winkler,2,0.577
+Jan Bremmer,Paul Zanker,2,0.5
+Douglas Cairns,Eva Cantarella,3,0.655
+Douglas Cairns,Paul Christesen,2,0.667
+Douglas Cairns,David Cohen,2,0.516
+Douglas Cairns,Edward E. Cohen,2,0.577
+Douglas Cairns,James N. Davidson,2,0.577
+Douglas Cairns,Glenys Davies,2,0.577
+Douglas Cairns,Kenneth J. Dover,3,0.655
+Douglas Cairns,Nick Fisher,2,0.667
+Douglas Cairns,Michel Foucault,2,0.348
+Douglas Cairns,Lin Foxhall,2,0.577
+Douglas Cairns,Mark Golden,2,0.667
+Douglas Cairns,Simon Goldhill,2,0.471
+Douglas Cairns,Christopher H. Hallett,2,0.667
+Douglas Cairns,Stephen Halliwell,2,0.667
+Douglas Cairns,David Halperin,2,0.385
+Douglas Cairns,Nigel M. Kennell,2,0.667
+Douglas Cairns,Eva C. Keuls,3,1.0
+Douglas Cairns,Martin Kilmer,2,0.667
+Douglas Cairns,Mireille Lee,3,0.775
+Douglas Cairns,François Lissarrague,3,0.866
+Douglas Cairns,Hugh Lloyd-Jones,3,1.0
+Douglas Cairns,Nicole Loraux,3,1.0
+Douglas Cairns,Myles McDonnell,2,0.577
+Douglas Cairns,Jenifer Neils,3,1.0
+Douglas Cairns,Onno van Nijf,2,0.577
+Douglas Cairns,John Oakley,3,1.0
+Douglas Cairns,Daniel Ogden,2,0.516
+Douglas Cairns,Amy Richlin,2,0.385
+Douglas Cairns,David Sansone,2,0.667
+Douglas Cairns,Thomas F. Scanlon,2,0.667
+Douglas Cairns,Nancy Jean Serwint,3,1.0
+Douglas Cairns,Erika Simon,3,1.0
+Douglas Cairns,Jocelyn Penny Small,2,0.667
+Douglas Cairns,Christiane Sourvinou-Inwood,3,0.866
+Douglas Cairns,Ian Storey,3,1.0
+Douglas Cairns,Robert F. Sutton,3,1.0
+Douglas Cairns,Jean-Pierre Vernant,3,1.0
+Douglas Cairns,Caroline Vout,2,0.577
+Douglas Cairns,John J. Winkler,2,0.667
+Douglas Cairns,Paul Zanker,2,0.577
+Eva Cantarella,Paul Christesen,3,0.655
+Eva Cantarella,David Cohen,4,0.676
+Eva Cantarella,Edward E. Cohen,3,0.567
+Eva Cantarella,James N. Davidson,3,0.567
+Eva Cantarella,Glenys Davies,3,0.567
+Eva Cantarella,Kenneth J. Dover,5,0.714
+Eva Cantarella,Nick Fisher,3,0.655
+Eva Cantarella,Michel Foucault,3,0.342
+Eva Cantarella,Lin Foxhall,3,0.567
+Eva Cantarella,Mark Golden,3,0.655
+Eva Cantarella,Simon Goldhill,2,0.309
+Eva Cantarella,Christopher H. Hallett,3,0.655
+Eva Cantarella,Stephen Halliwell,2,0.436
+Eva Cantarella,David Halperin,3,0.378
+Eva Cantarella,Nigel M. Kennell,3,0.655
+Eva Cantarella,Eva C. Keuls,3,0.655
+Eva Cantarella,Martin Kilmer,3,0.655
+Eva Cantarella,Mireille Lee,4,0.676
+Eva Cantarella,Saara Lilja,3,0.655
+Eva Cantarella,François Lissarrague,4,0.756
+Eva Cantarella,Hugh Lloyd-Jones,3,0.655
+Eva Cantarella,Nicole Loraux,3,0.655
+Eva Cantarella,Myles McDonnell,3,0.567
+Eva Cantarella,Jenifer Neils,3,0.655
+Eva Cantarella,Onno van Nijf,3,0.567
+Eva Cantarella,John Oakley,3,0.655
+Eva Cantarella,Daniel Ogden,3,0.507
+Eva Cantarella,Henri Willy Pleket,3,0.567
+Eva Cantarella,Amy Richlin,5,0.63
+Eva Cantarella,John Salmon,2,0.436
+Eva Cantarella,David Sansone,3,0.655
+Eva Cantarella,Thomas F. Scanlon,3,0.655
+Eva Cantarella,Nancy Jean Serwint,3,0.655
+Eva Cantarella,Erika Simon,3,0.655
+Eva Cantarella,Jocelyn Penny Small,3,0.655
+Eva Cantarella,Christiane Sourvinou-Inwood,3,0.567
+Eva Cantarella,Ian Storey,3,0.655
+Eva Cantarella,Robert F. Sutton,3,0.655
+Eva Cantarella,Jean-Pierre Vernant,3,0.655
+Eva Cantarella,Caroline Vout,3,0.567
+Eva Cantarella,John J. Winkler,3,0.655
+Eva Cantarella,Paul Zanker,4,0.756
+Paul Christesen,Glenys Davies,3,0.866
+Paul Christesen,Kenneth J. Dover,3,0.655
+Paul Christesen,Lin Foxhall,2,0.577
+Paul Christesen,Mark Golden,2,0.667
+Paul Christesen,Christopher H. Hallett,3,1.0
+Paul Christesen,Nigel M. Kennell,3,1.0
+Paul Christesen,Eva C. Keuls,2,0.667
+Paul Christesen,Martin Kilmer,2,0.667
+Paul Christesen,Mireille Lee,3,0.775
+Paul Christesen,Saara Lilja,2,0.667
+Paul Christesen,François Lissarrague,2,0.577
+Paul Christesen,Hugh Lloyd-Jones,2,0.667
+Paul Christesen,Nicole Loraux,2,0.667
+Paul Christesen,Myles McDonnell,3,0.866
+Paul Christesen,Jenifer Neils,2,0.667
+Paul Christesen,Onno van Nijf,3,0.866
+Paul Christesen,John Oakley,2,0.667
+Paul Christesen,Henri Willy Pleket,2,0.577
+Paul Christesen,Amy Richlin,3,0.577
+Paul Christesen,John Salmon,2,0.667
+Paul Christesen,David Sansone,2,0.667
+Paul Christesen,Thomas F. Scanlon,3,1.0
+Paul Christesen,Nancy Jean Serwint,2,0.667
+Paul Christesen,Erika Simon,2,0.667
+Paul Christesen,Jocelyn Penny Small,2,0.667
+Paul Christesen,Christiane Sourvinou-Inwood,2,0.577
+Paul Christesen,Ian Storey,2,0.667
+Paul Christesen,Robert F. Sutton,2,0.667
+Paul Christesen,Jean-Pierre Vernant,2,0.667
+Paul Christesen,Caroline Vout,3,0.866
+Paul Christesen,Paul Zanker,3,0.866
+David Cohen,Edward E. Cohen,3,0.671
+David Cohen,James N. Davidson,3,0.671
+David Cohen,Kenneth J. Dover,3,0.507
+David Cohen,Nick Fisher,3,0.775
+David Cohen,Michel Foucault,3,0.405
+David Cohen,Lin Foxhall,2,0.447
+David Cohen,Mark Golden,2,0.516
+David Cohen,Simon Goldhill,2,0.365
+David Cohen,Stephen Halliwell,2,0.516
+David Cohen,David Halperin,3,0.447
+David Cohen,Eva C. Keuls,2,0.516
+David Cohen,Martin Kilmer,2,0.516
+David Cohen,Mireille Lee,2,0.4
+David Cohen,Saara Lilja,2,0.516
+David Cohen,François Lissarrague,2,0.447
+David Cohen,Hugh Lloyd-Jones,2,0.516
+David Cohen,Nicole Loraux,2,0.516
+David Cohen,Jenifer Neils,2,0.516
+David Cohen,John Oakley,2,0.516
+David Cohen,Daniel Ogden,3,0.6
+David Cohen,Henri Willy Pleket,2,0.447
+David Cohen,Amy Richlin,4,0.596
+David Cohen,David Sansone,2,0.516
+David Cohen,Nancy Jean Serwint,2,0.516
+David Cohen,Erika Simon,2,0.516
+David Cohen,Jocelyn Penny Small,2,0.516
+David Cohen,Christiane Sourvinou-Inwood,2,0.447
+David Cohen,Ian Storey,2,0.516
+David Cohen,Robert F. Sutton,2,0.516
+David Cohen,Jean-Pierre Vernant,2,0.516
+David Cohen,John J. Winkler,3,0.775
+David Cohen,Paul Zanker,2,0.447
+Edward E. Cohen,James N. Davidson,3,0.75
+Edward E. Cohen,Kenneth J. Dover,3,0.567
+Edward E. Cohen,Nick Fisher,3,0.866
+Edward E. Cohen,Michel Foucault,4,0.603
+Edward E. Cohen,Lin Foxhall,3,0.75
+Edward E. Cohen,Mark Golden,2,0.577
+Edward E. Cohen,Simon Goldhill,2,0.408
+Edward E. Cohen,Stephen Halliwell,2,0.577
+Edward E. Cohen,David Halperin,3,0.5
+Edward E. Cohen,Eva C. Keuls,2,0.577
+Edward E. Cohen,Martin Kilmer,2,0.577
+Edward E. Cohen,Mireille Lee,2,0.447
+Edward E. Cohen,Saara Lilja,2,0.577
+Edward E. Cohen,François Lissarrague,2,0.5
+Edward E. Cohen,Hugh Lloyd-Jones,2,0.577
+Edward E. Cohen,Nicole Loraux,2,0.577
+Edward E. Cohen,Myles McDonnell,2,0.5
+Edward E. Cohen,Jenifer Neils,2,0.577
+Edward E. Cohen,Onno van Nijf,2,0.5
+Edward E. Cohen,John Oakley,2,0.577
+Edward E. Cohen,Daniel Ogden,2,0.447
+Edward E. Cohen,Henri Willy Pleket,2,0.5
+Edward E. Cohen,Amy Richlin,3,0.5
+Edward E. Cohen,John Salmon,2,0.577
+Edward E. Cohen,David Sansone,2,0.577
+Edward E. Cohen,Nancy Jean Serwint,2,0.577
+Edward E. Cohen,Erika Simon,2,0.577
+Edward E. Cohen,Jocelyn Penny Small,2,0.577
+Edward E. Cohen,Christiane Sourvinou-Inwood,2,0.5
+Edward E. Cohen,Ian Storey,2,0.577
+Edward E. Cohen,Robert F. Sutton,2,0.577
+Edward E. Cohen,Jean-Pierre Vernant,2,0.577
+Edward E. Cohen,John J. Winkler,3,0.866
+James N. Davidson,Kenneth J. Dover,3,0.567
+James N. Davidson,Nick Fisher,3,0.866
+James N. Davidson,Michel Foucault,3,0.452
+James N. Davidson,Lin Foxhall,2,0.5
+James N. Davidson,Mark Golden,2,0.577
+James N. Davidson,Simon Goldhill,3,0.612
+James N. Davidson,Stephen Halliwell,3,0.866
+James N. Davidson,David Halperin,3,0.5
+James N. Davidson,Eva C. Keuls,2,0.577
+James N. Davidson,Martin Kilmer,2,0.577
+James N. Davidson,Mireille Lee,2,0.447
+James N. Davidson,Saara Lilja,2,0.577
+James N. Davidson,François Lissarrague,2,0.5
+James N. Davidson,Hugh Lloyd-Jones,2,0.577
+James N. Davidson,Nicole Loraux,2,0.577
+James N. Davidson,Jenifer Neils,2,0.577
+James N. Davidson,John Oakley,2,0.577
+James N. Davidson,Daniel Ogden,3,0.671
+James N. Davidson,Henri Willy Pleket,3,0.75
+James N. Davidson,Amy Richlin,2,0.333
+James N. Davidson,David Sansone,2,0.577
+James N. Davidson,Nancy Jean Serwint,2,0.577
+James N. Davidson,Erika Simon,2,0.577
+James N. Davidson,Jocelyn Penny Small,2,0.577
+James N. Davidson,Christiane Sourvinou-Inwood,2,0.5
+James N. Davidson,Ian Storey,2,0.577
+James N. Davidson,Robert F. Sutton,2,0.577
+James N. Davidson,Jean-Pierre Vernant,2,0.577
+James N. Davidson,John J. Winkler,3,0.866
+Glenys Davies,Kenneth J. Dover,3,0.567
+Glenys Davies,Lin Foxhall,2,0.5
+Glenys Davies,Mark Golden,2,0.577
+Glenys Davies,Christopher H. Hallett,3,0.866
+Glenys Davies,Nigel M. Kennell,3,0.866
+Glenys Davies,Eva C. Keuls,2,0.577
+Glenys Davies,Martin Kilmer,2,0.577
+Glenys Davies,Mireille Lee,4,0.894
+Glenys Davies,Saara Lilja,2,0.577
+Glenys Davies,François Lissarrague,2,0.5
+Glenys Davies,Hugh Lloyd-Jones,2,0.577
+Glenys Davies,Nicole Loraux,2,0.577
+Glenys Davies,Myles McDonnell,3,0.75
+Glenys Davies,Jenifer Neils,2,0.577
+Glenys Davies,Onno van Nijf,3,0.75
+Glenys Davies,John Oakley,2,0.577
+Glenys Davies,Daniel Ogden,2,0.447
+Glenys Davies,Henri Willy Pleket,2,0.5
+Glenys Davies,Amy Richlin,3,0.5
+Glenys Davies,John Salmon,2,0.577
+Glenys Davies,David Sansone,2,0.577
+Glenys Davies,Thomas F. Scanlon,3,0.866
+Glenys Davies,Nancy Jean Serwint,2,0.577
+Glenys Davies,Erika Simon,2,0.577
+Glenys Davies,Jocelyn Penny Small,2,0.577
+Glenys Davies,Christiane Sourvinou-Inwood,2,0.5
+Glenys Davies,Ian Storey,2,0.577
+Glenys Davies,Robert F. Sutton,2,0.577
+Glenys Davies,Jean-Pierre Vernant,2,0.577
+Glenys Davies,Caroline Vout,3,0.75
+Glenys Davies,Paul Zanker,3,0.75
+Kenneth J. Dover,Nick Fisher,3,0.655
+Kenneth J. Dover,Michel Foucault,5,0.57
+Kenneth J. Dover,Lin Foxhall,3,0.567
+Kenneth J. Dover,Mark Golden,3,0.655
+Kenneth J. Dover,Simon Goldhill,3,0.463
+Kenneth J. Dover,Christopher H. Hallett,3,0.655
+Kenneth J. Dover,Stephen Halliwell,2,0.436
+Kenneth J. Dover,David Halperin,5,0.63
+Kenneth J. Dover,Nigel M. Kennell,3,0.655
+Kenneth J. Dover,Eva C. Keuls,3,0.655
+Kenneth J. Dover,Martin Kilmer,3,0.655
+Kenneth J. Dover,Mireille Lee,4,0.676
+Kenneth J. Dover,Saara Lilja,3,0.655
+Kenneth J. Dover,François Lissarrague,3,0.567
+Kenneth J. Dover,Hugh Lloyd-Jones,3,0.655
+Kenneth J. Dover,Nicole Loraux,3,0.655
+Kenneth J. Dover,Miroslav Marcovich,2,0.436
+Kenneth J. Dover,Myles McDonnell,3,0.567
+Kenneth J. Dover,Jenifer Neils,3,0.655
+Kenneth J. Dover,Onno van Nijf,3,0.567
+Kenneth J. Dover,John Oakley,3,0.655
+Kenneth J. Dover,Daniel Ogden,2,0.338
+Kenneth J. Dover,Henri Willy Pleket,3,0.567
+Kenneth J. Dover,Amy Richlin,4,0.504
+Kenneth J. Dover,John Salmon,2,0.436
+Kenneth J. Dover,David Sansone,3,0.655
+Kenneth J. Dover,Thomas F. Scanlon,3,0.655
+Kenneth J. Dover,Nancy Jean Serwint,3,0.655
+Kenneth J. Dover,Erika Simon,3,0.655
+Kenneth J. Dover,Jocelyn Penny Small,3,0.655
+Kenneth J. Dover,Christiane Sourvinou-Inwood,3,0.567
+Kenneth J. Dover,Ian Storey,3,0.655
+Kenneth J. Dover,Robert F. Sutton,3,0.655
+Kenneth J. Dover,Jean-Pierre Vernant,3,0.655
+Kenneth J. Dover,Caroline Vout,3,0.567
+Kenneth J. Dover,John J. Winkler,3,0.655
+Kenneth J. Dover,Paul Zanker,3,0.567
+Nick Fisher,Michel Foucault,3,0.522
+Nick Fisher,Lin Foxhall,2,0.577
+Nick Fisher,Mark Golden,2,0.667
+Nick Fisher,Simon Goldhill,2,0.471
+Nick Fisher,Stephen Halliwell,2,0.667
+Nick Fisher,David Halperin,3,0.577
+Nick Fisher,Eva C. Keuls,2,0.667
+Nick Fisher,Martin Kilmer,2,0.667
+Nick Fisher,Mireille Lee,2,0.516
+Nick Fisher,Saara Lilja,2,0.667
+Nick Fisher,François Lissarrague,2,0.577
+Nick Fisher,Hugh Lloyd-Jones,2,0.667
+Nick Fisher,Nicole Loraux,2,0.667
+Nick Fisher,Jenifer Neils,2,0.667
+Nick Fisher,John Oakley,2,0.667
+Nick Fisher,Daniel Ogden,2,0.516
+Nick Fisher,Henri Willy Pleket,2,0.577
+Nick Fisher,Amy Richlin,2,0.385
+Nick Fisher,David Sansone,2,0.667
+Nick Fisher,Nancy Jean Serwint,2,0.667
+Nick Fisher,Erika Simon,2,0.667
+Nick Fisher,Jocelyn Penny Small,2,0.667
+Nick Fisher,Christiane Sourvinou-Inwood,2,0.577
+Nick Fisher,Ian Storey,2,0.667
+Nick Fisher,Robert F. Sutton,2,0.667
+Nick Fisher,Jean-Pierre Vernant,2,0.667
+Nick Fisher,John J. Winkler,3,1.0
+Michel Foucault,Lin Foxhall,3,0.452
+Michel Foucault,Mark Golden,2,0.348
+Michel Foucault,Simon Goldhill,5,0.615
+Michel Foucault,Stephen Halliwell,2,0.348
+Michel Foucault,Eva C. Keuls,2,0.348
+Michel Foucault,Martin Kilmer,2,0.348
+Michel Foucault,Mireille Lee,2,0.27
+Michel Foucault,Saara Lilja,2,0.348
+Michel Foucault,François Lissarrague,2,0.302
+Michel Foucault,Hugh Lloyd-Jones,2,0.348
+Michel Foucault,Nicole Loraux,2,0.348
+Michel Foucault,Miroslav Marcovich,3,0.522
+Michel Foucault,Myles McDonnell,2,0.302
+Michel Foucault,Jenifer Neils,2,0.348
+Michel Foucault,Onno van Nijf,2,0.302
+Michel Foucault,John Oakley,2,0.348
+Michel Foucault,Daniel Ogden,2,0.27
+Michel Foucault,Henri Willy Pleket,2,0.302
+Michel Foucault,John Salmon,2,0.348
+Michel Foucault,David Sansone,2,0.348
+Michel Foucault,Nancy Jean Serwint,2,0.348
+Michel Foucault,Erika Simon,2,0.348
+Michel Foucault,Jocelyn Penny Small,2,0.348
+Michel Foucault,Christiane Sourvinou-Inwood,2,0.302
+Michel Foucault,Ian Storey,2,0.348
+Michel Foucault,Robert F. Sutton,2,0.348
+Michel Foucault,Jean-Pierre Vernant,2,0.348
+Michel Foucault,John J. Winkler,3,0.522
+Lin Foxhall,Mark Golden,3,0.866
+Lin Foxhall,Simon Goldhill,2,0.408
+Lin Foxhall,Christopher H. Hallett,2,0.577
+Lin Foxhall,Stephen Halliwell,2,0.577
+Lin Foxhall,David Halperin,2,0.333
+Lin Foxhall,Nigel M. Kennell,2,0.577
+Lin Foxhall,Eva C. Keuls,2,0.577
+Lin Foxhall,Martin Kilmer,3,0.866
+Lin Foxhall,Mireille Lee,3,0.671
+Lin Foxhall,Saara Lilja,2,0.577
+Lin Foxhall,François Lissarrague,2,0.5
+Lin Foxhall,Hugh Lloyd-Jones,2,0.577
+Lin Foxhall,Nicole Loraux,2,0.577
+Lin Foxhall,Myles McDonnell,3,0.75
+Lin Foxhall,Jenifer Neils,2,0.577
+Lin Foxhall,Onno van Nijf,3,0.75
+Lin Foxhall,John Oakley,2,0.577
+Lin Foxhall,Daniel Ogden,2,0.447
+Lin Foxhall,Henri Willy Pleket,2,0.5
+Lin Foxhall,Amy Richlin,3,0.5
+Lin Foxhall,John Salmon,3,0.866
+Lin Foxhall,David Sansone,3,0.866
+Lin Foxhall,Thomas F. Scanlon,2,0.577
+Lin Foxhall,Nancy Jean Serwint,2,0.577
+Lin Foxhall,Erika Simon,2,0.577
+Lin Foxhall,Jocelyn Penny Small,3,0.866
+Lin Foxhall,Christiane Sourvinou-Inwood,2,0.5
+Lin Foxhall,Ian Storey,2,0.577
+Lin Foxhall,Robert F. Sutton,2,0.577
+Lin Foxhall,Jean-Pierre Vernant,2,0.577
+Lin Foxhall,Caroline Vout,2,0.5
+Lin Foxhall,John J. Winkler,2,0.577
+Lin Foxhall,Paul Zanker,2,0.5
+Mark Golden,Simon Goldhill,2,0.471
+Mark Golden,Christopher H. Hallett,2,0.667
+Mark Golden,Stephen Halliwell,2,0.667
+Mark Golden,David Halperin,2,0.385
+Mark Golden,Nigel M. Kennell,2,0.667
+Mark Golden,Eva C. Keuls,2,0.667
+Mark Golden,Martin Kilmer,3,1.0
+Mark Golden,Mireille Lee,3,0.775
+Mark Golden,Saara Lilja,2,0.667
+Mark Golden,François Lissarrague,2,0.577
+Mark Golden,Hugh Lloyd-Jones,2,0.667
+Mark Golden,Nicole Loraux,2,0.667
+Mark Golden,Myles McDonnell,2,0.577
+Mark Golden,Jenifer Neils,2,0.667
+Mark Golden,Onno van Nijf,2,0.577
+Mark Golden,John Oakley,2,0.667
+Mark Golden,Daniel Ogden,2,0.516
+Mark Golden,Henri Willy Pleket,2,0.577
+Mark Golden,Amy Richlin,2,0.385
+Mark Golden,John Salmon,2,0.667
+Mark Golden,David Sansone,3,1.0
+Mark Golden,Thomas F. Scanlon,2,0.667
+Mark Golden,Nancy Jean Serwint,2,0.667
+Mark Golden,Erika Simon,2,0.667
+Mark Golden,Jocelyn Penny Small,3,1.0
+Mark Golden,Christiane Sourvinou-Inwood,2,0.577
+Mark Golden,Ian Storey,2,0.667
+Mark Golden,Robert F. Sutton,2,0.667
+Mark Golden,Jean-Pierre Vernant,2,0.667
+Mark Golden,Caroline Vout,2,0.577
+Mark Golden,John J. Winkler,2,0.667
+Mark Golden,Paul Zanker,2,0.577
+Simon Goldhill,Stephen Halliwell,3,0.707
+Simon Goldhill,David Halperin,5,0.68
+Simon Goldhill,Eva C. Keuls,2,0.471
+Simon Goldhill,Martin Kilmer,2,0.471
+Simon Goldhill,Mireille Lee,2,0.365
+Simon Goldhill,François Lissarrague,2,0.408
+Simon Goldhill,Hugh Lloyd-Jones,2,0.471
+Simon Goldhill,Nicole Loraux,2,0.471
+Simon Goldhill,Miroslav Marcovich,3,0.707
+Simon Goldhill,Jenifer Neils,2,0.471
+Simon Goldhill,John Oakley,2,0.471
+Simon Goldhill,Daniel Ogden,3,0.548
+Simon Goldhill,Henri Willy Pleket,2,0.408
+Simon Goldhill,Amy Richlin,2,0.272
+Simon Goldhill,David Sansone,2,0.471
+Simon Goldhill,Nancy Jean Serwint,2,0.471
+Simon Goldhill,Erika Simon,2,0.471
+Simon Goldhill,Jocelyn Penny Small,2,0.471
+Simon Goldhill,Christiane Sourvinou-Inwood,2,0.408
+Simon Goldhill,Ian Storey,2,0.471
+Simon Goldhill,Robert F. Sutton,2,0.471
+Simon Goldhill,Jean-Pierre Vernant,2,0.471
+Simon Goldhill,John J. Winkler,2,0.471
+Christopher H. Hallett,Nigel M. Kennell,3,1.0
+Christopher H. Hallett,Eva C. Keuls,2,0.667
+Christopher H. Hallett,Martin Kilmer,2,0.667
+Christopher H. Hallett,Mireille Lee,3,0.775
+Christopher H. Hallett,Saara Lilja,2,0.667
+Christopher H. Hallett,François Lissarrague,2,0.577
+Christopher H. Hallett,Hugh Lloyd-Jones,2,0.667
+Christopher H. Hallett,Nicole Loraux,2,0.667
+Christopher H. Hallett,Myles McDonnell,3,0.866
+Christopher H. Hallett,Jenifer Neils,2,0.667
+Christopher H. Hallett,Onno van Nijf,3,0.866
+Christopher H. Hallett,John Oakley,2,0.667
+Christopher H. Hallett,Henri Willy Pleket,2,0.577
+Christopher H. Hallett,Amy Richlin,3,0.577
+Christopher H. Hallett,John Salmon,2,0.667
+Christopher H. Hallett,David Sansone,2,0.667
+Christopher H. Hallett,Thomas F. Scanlon,3,1.0
+Christopher H. Hallett,Nancy Jean Serwint,2,0.667
+Christopher H. Hallett,Erika Simon,2,0.667
+Christopher H. Hallett,Jocelyn Penny Small,2,0.667
+Christopher H. Hallett,Christiane Sourvinou-Inwood,2,0.577
+Christopher H. Hallett,Ian Storey,2,0.667
+Christopher H. Hallett,Robert F. Sutton,2,0.667
+Christopher H. Hallett,Jean-Pierre Vernant,2,0.667
+Christopher H. Hallett,Caroline Vout,3,0.866
+Christopher H. Hallett,Paul Zanker,3,0.866
+Stephen Halliwell,David Halperin,2,0.385
+Stephen Halliwell,Eva C. Keuls,2,0.667
+Stephen Halliwell,Martin Kilmer,2,0.667
+Stephen Halliwell,Mireille Lee,2,0.516
+Stephen Halliwell,François Lissarrague,2,0.577
+Stephen Halliwell,Hugh Lloyd-Jones,2,0.667
+Stephen Halliwell,Nicole Loraux,2,0.667
+Stephen Halliwell,Jenifer Neils,2,0.667
+Stephen Halliwell,John Oakley,2,0.667
+Stephen Halliwell,Daniel Ogden,3,0.775
+Stephen Halliwell,Henri Willy Pleket,2,0.577
+Stephen Halliwell,David Sansone,2,0.667
+Stephen Halliwell,Nancy Jean Serwint,2,0.667
+Stephen Halliwell,Erika Simon,2,0.667
+Stephen Halliwell,Jocelyn Penny Small,2,0.667
+Stephen Halliwell,Christiane Sourvinou-Inwood,2,0.577
+Stephen Halliwell,Ian Storey,2,0.667
+Stephen Halliwell,Robert F. Sutton,2,0.667
+Stephen Halliwell,Jean-Pierre Vernant,2,0.667
+Stephen Halliwell,John J. Winkler,2,0.667
+David Halperin,Eva C. Keuls,2,0.385
+David Halperin,Martin Kilmer,2,0.385
+David Halperin,Mireille Lee,2,0.298
+David Halperin,Saara Lilja,2,0.385
+David Halperin,François Lissarrague,2,0.333
+David Halperin,Hugh Lloyd-Jones,2,0.385
+David Halperin,Nicole Loraux,2,0.385
+David Halperin,Miroslav Marcovich,3,0.577
+David Halperin,Jenifer Neils,2,0.385
+David Halperin,John Oakley,2,0.385
+David Halperin,Daniel Ogden,2,0.298
+David Halperin,Henri Willy Pleket,2,0.333
+David Halperin,Amy Richlin,3,0.333
+David Halperin,David Sansone,2,0.385
+David Halperin,Nancy Jean Serwint,2,0.385
+David Halperin,Erika Simon,2,0.385
+David Halperin,Jocelyn Penny Small,2,0.385
+David Halperin,Christiane Sourvinou-Inwood,2,0.333
+David Halperin,Ian Storey,2,0.385
+David Halperin,Robert F. Sutton,2,0.385
+David Halperin,Jean-Pierre Vernant,2,0.385
+David Halperin,John J. Winkler,3,0.577
+Nigel M. Kennell,Eva C. Keuls,2,0.667
+Nigel M. Kennell,Martin Kilmer,2,0.667
+Nigel M. Kennell,Mireille Lee,3,0.775
+Nigel M. Kennell,Saara Lilja,2,0.667
+Nigel M. Kennell,François Lissarrague,2,0.577
+Nigel M. Kennell,Hugh Lloyd-Jones,2,0.667
+Nigel M. Kennell,Nicole Loraux,2,0.667
+Nigel M. Kennell,Myles McDonnell,3,0.866
+Nigel M. Kennell,Jenifer Neils,2,0.667
+Nigel M. Kennell,Onno van Nijf,3,0.866
+Nigel M. Kennell,John Oakley,2,0.667
+Nigel M. Kennell,Henri Willy Pleket,2,0.577
+Nigel M. Kennell,Amy Richlin,3,0.577
+Nigel M. Kennell,John Salmon,2,0.667
+Nigel M. Kennell,David Sansone,2,0.667
+Nigel M. Kennell,Thomas F. Scanlon,3,1.0
+Nigel M. Kennell,Nancy Jean Serwint,2,0.667
+Nigel M. Kennell,Erika Simon,2,0.667
+Nigel M. Kennell,Jocelyn Penny Small,2,0.667
+Nigel M. Kennell,Christiane Sourvinou-Inwood,2,0.577
+Nigel M. Kennell,Ian Storey,2,0.667
+Nigel M. Kennell,Robert F. Sutton,2,0.667
+Nigel M. Kennell,Jean-Pierre Vernant,2,0.667
+Nigel M. Kennell,Caroline Vout,3,0.866
+Nigel M. Kennell,Paul Zanker,3,0.866
+Eva C. Keuls,Martin Kilmer,2,0.667
+Eva C. Keuls,Mireille Lee,3,0.775
+Eva C. Keuls,François Lissarrague,3,0.866
+Eva C. Keuls,Hugh Lloyd-Jones,3,1.0
+Eva C. Keuls,Nicole Loraux,3,1.0
+Eva C. Keuls,Myles McDonnell,2,0.577
+Eva C. Keuls,Jenifer Neils,3,1.0
+Eva C. Keuls,Onno van Nijf,2,0.577
+Eva C. Keuls,John Oakley,3,1.0
+Eva C. Keuls,Daniel Ogden,2,0.516
+Eva C. Keuls,Amy Richlin,2,0.385
+Eva C. Keuls,David Sansone,2,0.667
+Eva C. Keuls,Thomas F. Scanlon,2,0.667
+Eva C. Keuls,Nancy Jean Serwint,3,1.0
+Eva C. Keuls,Erika Simon,3,1.0
+Eva C. Keuls,Jocelyn Penny Small,2,0.667
+Eva C. Keuls,Christiane Sourvinou-Inwood,3,0.866
+Eva C. Keuls,Ian Storey,3,1.0
+Eva C. Keuls,Robert F. Sutton,3,1.0
+Eva C. Keuls,Jean-Pierre Vernant,3,1.0
+Eva C. Keuls,Caroline Vout,2,0.577
+Eva C. Keuls,John J. Winkler,2,0.667
+Eva C. Keuls,Paul Zanker,2,0.577
+Martin Kilmer,Mireille Lee,3,0.775
+Martin Kilmer,Saara Lilja,2,0.667
+Martin Kilmer,François Lissarrague,2,0.577
+Martin Kilmer,Hugh Lloyd-Jones,2,0.667
+Martin Kilmer,Nicole Loraux,2,0.667
+Martin Kilmer,Myles McDonnell,2,0.577
+Martin Kilmer,Jenifer Neils,2,0.667
+Martin Kilmer,Onno van Nijf,2,0.577
+Martin Kilmer,John Oakley,2,0.667
+Martin Kilmer,Daniel Ogden,2,0.516
+Martin Kilmer,Henri Willy Pleket,2,0.577
+Martin Kilmer,Amy Richlin,2,0.385
+Martin Kilmer,John Salmon,2,0.667
+Martin Kilmer,David Sansone,3,1.0
+Martin Kilmer,Thomas F. Scanlon,2,0.667
+Martin Kilmer,Nancy Jean Serwint,2,0.667
+Martin Kilmer,Erika Simon,2,0.667
+Martin Kilmer,Jocelyn Penny Small,3,1.0
+Martin Kilmer,Christiane Sourvinou-Inwood,2,0.577
+Martin Kilmer,Ian Storey,2,0.667
+Martin Kilmer,Robert F. Sutton,2,0.667
+Martin Kilmer,Jean-Pierre Vernant,2,0.667
+Martin Kilmer,Caroline Vout,2,0.577
+Martin Kilmer,John J. Winkler,2,0.667
+Martin Kilmer,Paul Zanker,2,0.577
+Mireille Lee,Saara Lilja,2,0.516
+Mireille Lee,François Lissarrague,3,0.671
+Mireille Lee,Hugh Lloyd-Jones,3,0.775
+Mireille Lee,Nicole Loraux,3,0.775
+Mireille Lee,Myles McDonnell,3,0.671
+Mireille Lee,Jenifer Neils,3,0.775
+Mireille Lee,Onno van Nijf,3,0.671
+Mireille Lee,John Oakley,3,0.775
+Mireille Lee,Daniel Ogden,3,0.6
+Mireille Lee,Henri Willy Pleket,2,0.447
+Mireille Lee,Amy Richlin,3,0.447
+Mireille Lee,John Salmon,2,0.516
+Mireille Lee,David Sansone,3,0.775
+Mireille Lee,Thomas F. Scanlon,3,0.775
+Mireille Lee,Nancy Jean Serwint,3,0.775
+Mireille Lee,Erika Simon,3,0.775
+Mireille Lee,Jocelyn Penny Small,3,0.775
+Mireille Lee,Christiane Sourvinou-Inwood,3,0.671
+Mireille Lee,Ian Storey,3,0.775
+Mireille Lee,Robert F. Sutton,3,0.775
+Mireille Lee,Jean-Pierre Vernant,3,0.775
+Mireille Lee,Caroline Vout,3,0.671
+Mireille Lee,John J. Winkler,2,0.516
+Mireille Lee,Paul Zanker,3,0.671
+Saara Lilja,Myles McDonnell,2,0.577
+Saara Lilja,Onno van Nijf,2,0.577
+Saara Lilja,Henri Willy Pleket,3,0.866
+Saara Lilja,Amy Richlin,3,0.577
+Saara Lilja,John Salmon,2,0.667
+Saara Lilja,David Sansone,2,0.667
+Saara Lilja,Thomas F. Scanlon,2,0.667
+Saara Lilja,Jocelyn Penny Small,2,0.667
+Saara Lilja,Caroline Vout,2,0.577
+Saara Lilja,John J. Winkler,2,0.667
+Saara Lilja,Paul Zanker,2,0.577
+François Lissarrague,Hugh Lloyd-Jones,3,0.866
+François Lissarrague,Nicole Loraux,3,0.866
+François Lissarrague,Myles McDonnell,2,0.5
+François Lissarrague,Jenifer Neils,3,0.866
+François Lissarrague,Onno van Nijf,2,0.5
+François Lissarrague,John Oakley,3,0.866
+François Lissarrague,Daniel Ogden,2,0.447
+François Lissarrague,Amy Richlin,2,0.333
+François Lissarrague,David Sansone,2,0.577
+François Lissarrague,Thomas F. Scanlon,2,0.577
+François Lissarrague,Nancy Jean Serwint,3,0.866
+François Lissarrague,Erika Simon,3,0.866
+François Lissarrague,Jocelyn Penny Small,2,0.577
+François Lissarrague,Christiane Sourvinou-Inwood,3,0.75
+François Lissarrague,Ian Storey,3,0.866
+François Lissarrague,Robert F. Sutton,3,0.866
+François Lissarrague,Jean-Pierre Vernant,3,0.866
+François Lissarrague,Caroline Vout,2,0.5
+François Lissarrague,John J. Winkler,2,0.577
+François Lissarrague,Paul Zanker,2,0.5
+Hugh Lloyd-Jones,Nicole Loraux,3,1.0
+Hugh Lloyd-Jones,Myles McDonnell,2,0.577
+Hugh Lloyd-Jones,Jenifer Neils,3,1.0
+Hugh Lloyd-Jones,Onno van Nijf,2,0.577
+Hugh Lloyd-Jones,John Oakley,3,1.0
+Hugh Lloyd-Jones,Daniel Ogden,2,0.516
+Hugh Lloyd-Jones,Amy Richlin,2,0.385
+Hugh Lloyd-Jones,David Sansone,2,0.667
+Hugh Lloyd-Jones,Thomas F. Scanlon,2,0.667
+Hugh Lloyd-Jones,Nancy Jean Serwint,3,1.0
+Hugh Lloyd-Jones,Erika Simon,3,1.0
+Hugh Lloyd-Jones,Jocelyn Penny Small,2,0.667
+Hugh Lloyd-Jones,Christiane Sourvinou-Inwood,3,0.866
+Hugh Lloyd-Jones,Ian Storey,3,1.0
+Hugh Lloyd-Jones,Robert F. Sutton,3,1.0
+Hugh Lloyd-Jones,Jean-Pierre Vernant,3,1.0
+Hugh Lloyd-Jones,Caroline Vout,2,0.577
+Hugh Lloyd-Jones,John J. Winkler,2,0.667
+Hugh Lloyd-Jones,Paul Zanker,2,0.577
+Nicole Loraux,Myles McDonnell,2,0.577
+Nicole Loraux,Jenifer Neils,3,1.0
+Nicole Loraux,Onno van Nijf,2,0.577
+Nicole Loraux,John Oakley,3,1.0
+Nicole Loraux,Daniel Ogden,2,0.516
+Nicole Loraux,Amy Richlin,2,0.385
+Nicole Loraux,David Sansone,2,0.667
+Nicole Loraux,Thomas F. Scanlon,2,0.667
+Nicole Loraux,Nancy Jean Serwint,3,1.0
+Nicole Loraux,Erika Simon,3,1.0
+Nicole Loraux,Jocelyn Penny Small,2,0.667
+Nicole Loraux,Christiane Sourvinou-Inwood,3,0.866
+Nicole Loraux,Ian Storey,3,1.0
+Nicole Loraux,Robert F. Sutton,3,1.0
+Nicole Loraux,Jean-Pierre Vernant,3,1.0
+Nicole Loraux,Caroline Vout,2,0.577
+Nicole Loraux,John J. Winkler,2,0.667
+Nicole Loraux,Paul Zanker,2,0.577
+Myles McDonnell,Jenifer Neils,2,0.577
+Myles McDonnell,Onno van Nijf,4,1.0
+Myles McDonnell,John Oakley,2,0.577
+Myles McDonnell,Henri Willy Pleket,2,0.5
+Myles McDonnell,Amy Richlin,4,0.667
+Myles McDonnell,John Salmon,3,0.866
+Myles McDonnell,David Sansone,2,0.577
+Myles McDonnell,Thomas F. Scanlon,3,0.866
+Myles McDonnell,Nancy Jean Serwint,2,0.577
+Myles McDonnell,Erika Simon,2,0.577
+Myles McDonnell,Jocelyn Penny Small,2,0.577
+Myles McDonnell,Christiane Sourvinou-Inwood,2,0.5
+Myles McDonnell,Ian Storey,2,0.577
+Myles McDonnell,Robert F. Sutton,2,0.577
+Myles McDonnell,Jean-Pierre Vernant,2,0.577
+Myles McDonnell,Caroline Vout,3,0.75
+Myles McDonnell,Paul Zanker,3,0.75
+Jenifer Neils,Onno van Nijf,2,0.577
+Jenifer Neils,John Oakley,3,1.0
+Jenifer Neils,Daniel Ogden,2,0.516
+Jenifer Neils,Amy Richlin,2,0.385
+Jenifer Neils,David Sansone,2,0.667
+Jenifer Neils,Thomas F. Scanlon,2,0.667
+Jenifer Neils,Nancy Jean Serwint,3,1.0
+Jenifer Neils,Erika Simon,3,1.0
+Jenifer Neils,Jocelyn Penny Small,2,0.667
+Jenifer Neils,Christiane Sourvinou-Inwood,3,0.866
+Jenifer Neils,Ian Storey,3,1.0
+Jenifer Neils,Robert F. Sutton,3,1.0
+Jenifer Neils,Jean-Pierre Vernant,3,1.0
+Jenifer Neils,Caroline Vout,2,0.577
+Jenifer Neils,John J. Winkler,2,0.667
+Jenifer Neils,Paul Zanker,2,0.577
+Onno van Nijf,John Oakley,2,0.577
+Onno van Nijf,Henri Willy Pleket,2,0.5
+Onno van Nijf,Amy Richlin,4,0.667
+Onno van Nijf,John Salmon,3,0.866
+Onno van Nijf,David Sansone,2,0.577
+Onno van Nijf,Thomas F. Scanlon,3,0.866
+Onno van Nijf,Nancy Jean Serwint,2,0.577
+Onno van Nijf,Erika Simon,2,0.577
+Onno van Nijf,Jocelyn Penny Small,2,0.577
+Onno van Nijf,Christiane Sourvinou-Inwood,2,0.5
+Onno van Nijf,Ian Storey,2,0.577
+Onno van Nijf,Robert F. Sutton,2,0.577
+Onno van Nijf,Jean-Pierre Vernant,2,0.577
+Onno van Nijf,Caroline Vout,3,0.75
+Onno van Nijf,Paul Zanker,3,0.75
+John Oakley,Daniel Ogden,2,0.516
+John Oakley,Amy Richlin,2,0.385
+John Oakley,David Sansone,2,0.667
+John Oakley,Thomas F. Scanlon,2,0.667
+John Oakley,Nancy Jean Serwint,3,1.0
+John Oakley,Erika Simon,3,1.0
+John Oakley,Jocelyn Penny Small,2,0.667
+John Oakley,Christiane Sourvinou-Inwood,3,0.866
+John Oakley,Ian Storey,3,1.0
+John Oakley,Robert F. Sutton,3,1.0
+John Oakley,Jean-Pierre Vernant,3,1.0
+John Oakley,Caroline Vout,2,0.577
+John Oakley,John J. Winkler,2,0.667
+John Oakley,Paul Zanker,2,0.577
+Daniel Ogden,Henri Willy Pleket,2,0.447
+Daniel Ogden,Amy Richlin,2,0.298
+Daniel Ogden,David Sansone,2,0.516
+Daniel Ogden,Nancy Jean Serwint,2,0.516
+Daniel Ogden,Erika Simon,2,0.516
+Daniel Ogden,Jocelyn Penny Small,2,0.516
+Daniel Ogden,Christiane Sourvinou-Inwood,2,0.447
+Daniel Ogden,Ian Storey,2,0.516
+Daniel Ogden,Robert F. Sutton,2,0.516
+Daniel Ogden,Jean-Pierre Vernant,2,0.516
+Daniel Ogden,John J. Winkler,2,0.516
+Daniel Ogden,Paul Zanker,2,0.447
+Henri Willy Pleket,Amy Richlin,3,0.5
+Henri Willy Pleket,John Salmon,2,0.577
+Henri Willy Pleket,David Sansone,2,0.577
+Henri Willy Pleket,Thomas F. Scanlon,2,0.577
+Henri Willy Pleket,Jocelyn Penny Small,2,0.577
+Henri Willy Pleket,Caroline Vout,2,0.5
+Henri Willy Pleket,John J. Winkler,2,0.577
+Henri Willy Pleket,Paul Zanker,2,0.5
+Amy Richlin,John Salmon,3,0.577
+Amy Richlin,David Sansone,2,0.385
+Amy Richlin,Thomas F. Scanlon,3,0.577
+Amy Richlin,Nancy Jean Serwint,2,0.385
+Amy Richlin,Erika Simon,2,0.385
+Amy Richlin,Jocelyn Penny Small,2,0.385
+Amy Richlin,Christiane Sourvinou-Inwood,2,0.333
+Amy Richlin,Ian Storey,2,0.385
+Amy Richlin,Robert F. Sutton,2,0.385
+Amy Richlin,Jean-Pierre Vernant,2,0.385
+Amy Richlin,Caroline Vout,3,0.5
+Amy Richlin,John J. Winkler,2,0.385
+Amy Richlin,Paul Zanker,4,0.667
+John Salmon,David Sansone,2,0.667
+John Salmon,Thomas F. Scanlon,2,0.667
+John Salmon,Jocelyn Penny Small,2,0.667
+John Salmon,Caroline Vout,2,0.577
+John Salmon,Paul Zanker,2,0.577
+David Sansone,Thomas F. Scanlon,2,0.667
+David Sansone,Nancy Jean Serwint,2,0.667
+David Sansone,Erika Simon,2,0.667
+David Sansone,Jocelyn Penny Small,3,1.0
+David Sansone,Christiane Sourvinou-Inwood,2,0.577
+David Sansone,Ian Storey,2,0.667
+David Sansone,Robert F. Sutton,2,0.667
+David Sansone,Jean-Pierre Vernant,2,0.667
+David Sansone,Caroline Vout,2,0.577
+David Sansone,John J. Winkler,2,0.667
+David Sansone,Paul Zanker,2,0.577
+Thomas F. Scanlon,Nancy Jean Serwint,2,0.667
+Thomas F. Scanlon,Erika Simon,2,0.667
+Thomas F. Scanlon,Jocelyn Penny Small,2,0.667
+Thomas F. Scanlon,Christiane Sourvinou-Inwood,2,0.577
+Thomas F. Scanlon,Ian Storey,2,0.667
+Thomas F. Scanlon,Robert F. Sutton,2,0.667
+Thomas F. Scanlon,Jean-Pierre Vernant,2,0.667
+Thomas F. Scanlon,Caroline Vout,3,0.866
+Thomas F. Scanlon,Paul Zanker,3,0.866
+Nancy Jean Serwint,Erika Simon,3,1.0
+Nancy Jean Serwint,Jocelyn Penny Small,2,0.667
+Nancy Jean Serwint,Christiane Sourvinou-Inwood,3,0.866
+Nancy Jean Serwint,Ian Storey,3,1.0
+Nancy Jean Serwint,Robert F. Sutton,3,1.0
+Nancy Jean Serwint,Jean-Pierre Vernant,3,1.0
+Nancy Jean Serwint,Caroline Vout,2,0.577
+Nancy Jean Serwint,John J. Winkler,2,0.667
+Nancy Jean Serwint,Paul Zanker,2,0.577
+Erika Simon,Jocelyn Penny Small,2,0.667
+Erika Simon,Christiane Sourvinou-Inwood,3,0.866
+Erika Simon,Ian Storey,3,1.0
+Erika Simon,Robert F. Sutton,3,1.0
+Erika Simon,Jean-Pierre Vernant,3,1.0
+Erika Simon,Caroline Vout,2,0.577
+Erika Simon,John J. Winkler,2,0.667
+Erika Simon,Paul Zanker,2,0.577
+Jocelyn Penny Small,Christiane Sourvinou-Inwood,2,0.577
+Jocelyn Penny Small,Ian Storey,2,0.667
+Jocelyn Penny Small,Robert F. Sutton,2,0.667
+Jocelyn Penny Small,Jean-Pierre Vernant,2,0.667
+Jocelyn Penny Small,Caroline Vout,2,0.577
+Jocelyn Penny Small,John J. Winkler,2,0.667
+Jocelyn Penny Small,Paul Zanker,2,0.577
+Christiane Sourvinou-Inwood,Ian Storey,3,0.866
+Christiane Sourvinou-Inwood,Robert F. Sutton,3,0.866
+Christiane Sourvinou-Inwood,Jean-Pierre Vernant,3,0.866
+Christiane Sourvinou-Inwood,Caroline Vout,3,0.75
+Christiane Sourvinou-Inwood,John J. Winkler,2,0.577
+Christiane Sourvinou-Inwood,Paul Zanker,2,0.5
+Ian Storey,Robert F. Sutton,3,1.0
+Ian Storey,Jean-Pierre Vernant,3,1.0
+Ian Storey,Caroline Vout,2,0.577
+Ian Storey,John J. Winkler,2,0.667
+Ian Storey,Paul Zanker,2,0.577
+Robert F. Sutton,Jean-Pierre Vernant,3,1.0
+Robert F. Sutton,Caroline Vout,2,0.577
+Robert F. Sutton,John J. Winkler,2,0.667
+Robert F. Sutton,Paul Zanker,2,0.577
+Jean-Pierre Vernant,Caroline Vout,2,0.577
+Jean-Pierre Vernant,John J. Winkler,2,0.667
+Jean-Pierre Vernant,Paul Zanker,2,0.577
+Caroline Vout,Paul Zanker,3,0.75
+Paul J. Achtemeier,Carlin Barton,2,0.577
+Paul J. Achtemeier,Richard Bauckham,2,0.667
+Paul J. Achtemeier,Pierre Bourdieu,2,0.577
+Paul J. Achtemeier,Daniel Boyarin,3,0.707
+Paul J. Achtemeier,Peter Brown,2,0.436
+Paul J. Achtemeier,Denise Kimber Buell,3,0.866
+Paul J. Achtemeier,Virginia Burrus,2,0.516
+Paul J. Achtemeier,Judith Butler,2,0.348
+Paul J. Achtemeier,Elizabeth Castelli,3,0.775
+Paul J. Achtemeier,Benjamin Dunning,2,0.667
+Paul J. Achtemeier,Michel Foucault,2,0.348
+Paul J. Achtemeier,Christopher Gill,2,0.577
+Paul J. Achtemeier,Maud W. Gleason,3,0.612
+Paul J. Achtemeier,Simon Goldhill,2,0.471
+Paul J. Achtemeier,Erik Gunderson,2,0.667
+Paul J. Achtemeier,David Halperin,2,0.385
+Paul J. Achtemeier,Amy Hollywood,2,0.667
+Paul J. Achtemeier,David Hunter,2,0.577
+Paul J. Achtemeier,Helen King,2,0.471
+Paul J. Achtemeier,Karen King,2,0.667
+Paul J. Achtemeier,Jennifer Wright Knust,2,0.667
+Paul J. Achtemeier,Thomas Laqueur,2,0.577
+Paul J. Achtemeier,Dale B. Martin,3,0.775
+Paul J. Achtemeier,Wayne Meeks,2,0.667
+Paul J. Achtemeier,Judith Perkins,2,0.667
+Paul J. Achtemeier,Guy Stroumsa,2,0.667
+Carlin Barton,Pierre Bourdieu,2,0.5
+Carlin Barton,G. Bowersock,2,0.577
+Carlin Barton,Daniel Boyarin,2,0.408
+Carlin Barton,Bernadette Brooten,2,0.5
+Carlin Barton,Peter Brown,2,0.378
+Carlin Barton,Denise Kimber Buell,2,0.5
+Carlin Barton,Virginia Burrus,2,0.447
+Carlin Barton,Judith Butler,3,0.452
+Carlin Barton,Elizabeth Castelli,2,0.447
+Carlin Barton,Kenneth J. Dover,2,0.378
+Carlin Barton,Benjamin Dunning,2,0.577
+Carlin Barton,Catharine Edwards,2,0.408
+Carlin Barton,Michel Foucault,2,0.302
+Carlin Barton,Christopher Gill,2,0.5
+Carlin Barton,Maud W. Gleason,4,0.707
+Carlin Barton,Erik Gunderson,2,0.577
+Carlin Barton,Amy Hollywood,2,0.577
+Carlin Barton,David Hunter,2,0.5
+Carlin Barton,Helen King,2,0.408
+Carlin Barton,Karen King,2,0.577
+Carlin Barton,Matthew Kuefler,2,0.5
+Carlin Barton,Thomas Laqueur,2,0.5
+Carlin Barton,Dale B. Martin,2,0.447
+Carlin Barton,Wayne Meeks,2,0.577
+Carlin Barton,Judith Perkins,2,0.577
+Richard Bauckham,Daniel Boyarin,2,0.471
+Richard Bauckham,Peter Brown,2,0.436
+Richard Bauckham,Denise Kimber Buell,3,0.866
+Richard Bauckham,Virginia Burrus,2,0.516
+Richard Bauckham,Elizabeth Castelli,2,0.516
+Richard Bauckham,Michel Foucault,3,0.522
+Richard Bauckham,Christopher Gill,2,0.577
+Richard Bauckham,Maud W. Gleason,2,0.408
+Richard Bauckham,Simon Goldhill,2,0.471
+Richard Bauckham,Erik Gunderson,2,0.667
+Richard Bauckham,David Halperin,3,0.577
+Richard Bauckham,David Hunter,2,0.577
+Richard Bauckham,Jennifer Wright Knust,3,1.0
+Richard Bauckham,Dale B. Martin,3,0.775
+Richard Bauckham,Stephen D. Moore,2,0.667
+Richard Bauckham,Eve K. Sedgwick,2,0.577
+Richard Bauckham,Guy Stroumsa,3,1.0
+Pierre Bourdieu,Daniel Boyarin,3,0.612
+Pierre Bourdieu,Denise Kimber Buell,2,0.5
+Pierre Bourdieu,Judith Butler,2,0.302
+Pierre Bourdieu,Elizabeth Castelli,2,0.447
+Pierre Bourdieu,Benjamin Dunning,2,0.577
+Pierre Bourdieu,Christopher Gill,2,0.5
+Pierre Bourdieu,Maud W. Gleason,2,0.354
+Pierre Bourdieu,Amy Hollywood,2,0.577
+Pierre Bourdieu,Helen King,2,0.408
+Pierre Bourdieu,Karen King,2,0.577
+Pierre Bourdieu,Thomas Laqueur,2,0.5
+Pierre Bourdieu,Dale B. Martin,2,0.447
+Pierre Bourdieu,Wayne Meeks,2,0.577
+Pierre Bourdieu,Judith Perkins,2,0.577
+G. Bowersock,Bernadette Brooten,2,0.577
+G. Bowersock,Peter Brown,2,0.436
+G. Bowersock,Virginia Burrus,2,0.516
+G. Bowersock,Judith Butler,3,0.522
+G. Bowersock,Kathleen Coleman,2,0.667
+G. Bowersock,Kenneth J. Dover,2,0.436
+G. Bowersock,Michel Foucault,3,0.522
+G. Bowersock,Christopher Gill,2,0.577
+G. Bowersock,Maud W. Gleason,2,0.408
+G. Bowersock,Simon Goldhill,2,0.471
+G. Bowersock,David Halperin,2,0.385
+G. Bowersock,David Hunter,2,0.577
+G. Bowersock,Helen King,2,0.471
+G. Bowersock,Matthew Kuefler,2,0.577
+G. Bowersock,Martha Nussbaum,2,0.577
+G. Bowersock,Juha Sihvola,2,0.667
+G. Bowersock,Giulia Sissa,2,0.577
+Daniel Boyarin,Bernadette Brooten,3,0.612
+Daniel Boyarin,Peter Brown,2,0.309
+Daniel Boyarin,Denise Kimber Buell,3,0.612
+Daniel Boyarin,Virginia Burrus,3,0.548
+Daniel Boyarin,Judith Butler,4,0.492
+Daniel Boyarin,Elizabeth Castelli,4,0.73
+Daniel Boyarin,Kenneth J. Dover,2,0.309
+Daniel Boyarin,Benjamin Dunning,3,0.707
+Daniel Boyarin,Rebecca Flemming,2,0.309
+Daniel Boyarin,Michel Foucault,4,0.492
+Daniel Boyarin,Christopher Gill,2,0.408
+Daniel Boyarin,Maud W. Gleason,4,0.577
+Daniel Boyarin,Simon Goldhill,3,0.5
+Daniel Boyarin,Erik Gunderson,2,0.471
+Daniel Boyarin,David Halperin,4,0.544
+Daniel Boyarin,Amy Hollywood,3,0.707
+Daniel Boyarin,David Hunter,2,0.408
+Daniel Boyarin,Helen King,3,0.5
+Daniel Boyarin,Karen King,3,0.707
+Daniel Boyarin,Jennifer Wright Knust,2,0.471
+Daniel Boyarin,Matthew Kuefler,2,0.408
+Daniel Boyarin,Thomas Laqueur,3,0.612
+Daniel Boyarin,Miroslav Marcovich,2,0.471
+Daniel Boyarin,Dale B. Martin,4,0.73
+Daniel Boyarin,Wayne Meeks,3,0.707
+Daniel Boyarin,Stephen D. Moore,2,0.471
+Daniel Boyarin,Martha Nussbaum,2,0.408
+Daniel Boyarin,Judith Perkins,3,0.707
+Daniel Boyarin,William R. Schoedel,2,0.471
+Daniel Boyarin,Eve K. Sedgwick,2,0.408
+Daniel Boyarin,Giulia Sissa,2,0.408
+Daniel Boyarin,Guy Stroumsa,2,0.471
+Daniel Boyarin,Owsei Temkin,2,0.408
+Bernadette Brooten,Peter Brown,2,0.378
+Bernadette Brooten,Virginia Burrus,3,0.671
+Bernadette Brooten,Judith Butler,4,0.603
+Bernadette Brooten,Elizabeth Castelli,2,0.447
+Bernadette Brooten,Kenneth J. Dover,2,0.378
+Bernadette Brooten,Benjamin Dunning,2,0.577
+Bernadette Brooten,Rebecca Flemming,2,0.378
+Bernadette Brooten,Michel Foucault,4,0.603
+Bernadette Brooten,Maud W. Gleason,3,0.53
+Bernadette Brooten,Simon Goldhill,2,0.408
+Bernadette Brooten,David Halperin,3,0.5
+Bernadette Brooten,Amy Hollywood,2,0.577
+Bernadette Brooten,David Hunter,2,0.5
+Bernadette Brooten,Helen King,2,0.408
+Bernadette Brooten,Karen King,2,0.577
+Bernadette Brooten,Matthew Kuefler,3,0.75
+Bernadette Brooten,Thomas Laqueur,2,0.5
+Bernadette Brooten,Miroslav Marcovich,2,0.577
+Bernadette Brooten,Dale B. Martin,2,0.447
+Bernadette Brooten,Wayne Meeks,2,0.577
+Bernadette Brooten,Stephen D. Moore,2,0.577
+Bernadette Brooten,Martha Nussbaum,2,0.5
+Bernadette Brooten,Judith Perkins,2,0.577
+Bernadette Brooten,William R. Schoedel,2,0.577
+Bernadette Brooten,Eve K. Sedgwick,2,0.5
+Bernadette Brooten,Giulia Sissa,2,0.5
+Bernadette Brooten,Owsei Temkin,2,0.5
+Peter Brown,Denise Kimber Buell,2,0.378
+Peter Brown,Virginia Burrus,4,0.676
+Peter Brown,Judith Butler,3,0.342
+Peter Brown,Catharine Edwards,2,0.309
+Peter Brown,Maud W. Gleason,3,0.401
+Peter Brown,Simon Goldhill,2,0.309
+Peter Brown,Erik Gunderson,2,0.436
+Peter Brown,David Halperin,2,0.252
+Peter Brown,David Hunter,4,0.756
+Peter Brown,Jennifer Wright Knust,2,0.436
+Peter Brown,Matthew Kuefler,3,0.567
+Peter Brown,Dale B. Martin,2,0.338
+Peter Brown,Guy Stroumsa,2,0.436
+Denise Kimber Buell,Virginia Burrus,2,0.447
+Denise Kimber Buell,Judith Butler,2,0.302
+Denise Kimber Buell,Elizabeth Castelli,3,0.671
+Denise Kimber Buell,Benjamin Dunning,2,0.577
+Denise Kimber Buell,Michel Foucault,3,0.452
+Denise Kimber Buell,Christopher Gill,3,0.75
+Denise Kimber Buell,Maud W. Gleason,3,0.53
+Denise Kimber Buell,Simon Goldhill,2,0.408
+Denise Kimber Buell,Erik Gunderson,2,0.577
+Denise Kimber Buell,David Halperin,3,0.5
+Denise Kimber Buell,Amy Hollywood,2,0.577
+Denise Kimber Buell,David Hunter,2,0.5
+Denise Kimber Buell,Helen King,2,0.408
+Denise Kimber Buell,Karen King,2,0.577
+Denise Kimber Buell,Jennifer Wright Knust,3,0.866
+Denise Kimber Buell,Thomas Laqueur,2,0.5
+Denise Kimber Buell,Dale B. Martin,4,0.894
+Denise Kimber Buell,Wayne Meeks,2,0.577
+Denise Kimber Buell,Stephen D. Moore,2,0.577
+Denise Kimber Buell,Judith Perkins,2,0.577
+Denise Kimber Buell,Eve K. Sedgwick,2,0.5
+Denise Kimber Buell,Guy Stroumsa,3,0.866
+Virginia Burrus,Judith Butler,3,0.405
+Virginia Burrus,Elizabeth Castelli,2,0.4
+Virginia Burrus,Kenneth J. Dover,2,0.338
+Virginia Burrus,Catharine Edwards,2,0.365
+Virginia Burrus,Rebecca Flemming,2,0.338
+Virginia Burrus,Michel Foucault,4,0.539
+Virginia Burrus,Maud W. Gleason,4,0.632
+Virginia Burrus,Simon Goldhill,2,0.365
+Virginia Burrus,Erik Gunderson,2,0.516
+Virginia Burrus,David Halperin,3,0.447
+Virginia Burrus,David Hunter,4,0.894
+Virginia Burrus,Jennifer Wright Knust,2,0.516
+Virginia Burrus,Matthew Kuefler,4,0.894
+Virginia Burrus,Dale B. Martin,2,0.4
+Virginia Burrus,Eve K. Sedgwick,2,0.447
+Virginia Burrus,Guy Stroumsa,2,0.516
+Judith Butler,Elizabeth Castelli,3,0.405
+Judith Butler,Kathleen Coleman,3,0.522
+Judith Butler,Kenneth J. Dover,5,0.57
+Judith Butler,Benjamin Dunning,3,0.522
+Judith Butler,Catharine Edwards,3,0.369
+Judith Butler,Rebecca Flemming,2,0.228
+Judith Butler,Christopher Gill,3,0.452
+Judith Butler,Maud W. Gleason,6,0.64
+Judith Butler,Simon Goldhill,3,0.369
+Judith Butler,Amy Hollywood,3,0.522
+Judith Butler,David Hunter,2,0.302
+Judith Butler,Helen King,4,0.492
+Judith Butler,Karen King,3,0.522
+Judith Butler,Matthew Kuefler,3,0.452
+Judith Butler,Thomas Laqueur,3,0.452
+Judith Butler,Miroslav Marcovich,2,0.348
+Judith Butler,Dale B. Martin,3,0.405
+Judith Butler,Wayne Meeks,3,0.522
+Judith Butler,Stephen D. Moore,2,0.348
+Judith Butler,Martha Nussbaum,4,0.603
+Judith Butler,Judith Perkins,3,0.522
+Judith Butler,William R. Schoedel,2,0.348
+Judith Butler,Eve K. Sedgwick,3,0.452
+Judith Butler,Juha Sihvola,2,0.348
+Judith Butler,Giulia Sissa,4,0.603
+Judith Butler,Owsei Temkin,2,0.302
+Elizabeth Castelli,Benjamin Dunning,3,0.775
+Elizabeth Castelli,Christopher Gill,2,0.447
+Elizabeth Castelli,Maud W. Gleason,3,0.474
+Elizabeth Castelli,Simon Goldhill,3,0.548
+Elizabeth Castelli,Erik Gunderson,2,0.516
+Elizabeth Castelli,David Halperin,3,0.447
+Elizabeth Castelli,Amy Hollywood,3,0.775
+Elizabeth Castelli,David Hunter,2,0.447
+Elizabeth Castelli,Helen King,3,0.548
+Elizabeth Castelli,Karen King,3,0.775
+Elizabeth Castelli,Jennifer Wright Knust,2,0.516
+Elizabeth Castelli,Miroslav Marcovich,2,0.516
+Elizabeth Castelli,Dale B. Martin,4,0.8
+Elizabeth Castelli,Wayne Meeks,3,0.775
+Elizabeth Castelli,Stephen D. Moore,2,0.516
+Elizabeth Castelli,Martha Nussbaum,2,0.447
+Elizabeth Castelli,Judith Perkins,3,0.775
+Elizabeth Castelli,Giulia Sissa,2,0.447
+Elizabeth Castelli,Guy Stroumsa,2,0.516
+Kathleen Coleman,Kenneth J. Dover,3,0.655
+Kathleen Coleman,Catharine Edwards,2,0.471
+Kathleen Coleman,Michel Foucault,2,0.348
+Kathleen Coleman,Christopher Gill,2,0.577
+Kathleen Coleman,Maud W. Gleason,2,0.408
+Kathleen Coleman,Simon Goldhill,2,0.471
+Kathleen Coleman,David Halperin,2,0.385
+Kathleen Coleman,Helen King,2,0.471
+Kathleen Coleman,Martha Nussbaum,3,0.866
+Kathleen Coleman,Juha Sihvola,2,0.667
+Kathleen Coleman,Giulia Sissa,2,0.577
+Kenneth J. Dover,Catharine Edwards,4,0.617
+Kenneth J. Dover,Christopher Gill,2,0.378
+Kenneth J. Dover,Maud W. Gleason,5,0.668
+Kenneth J. Dover,Erik Gunderson,2,0.436
+Kenneth J. Dover,Helen King,2,0.309
+Kenneth J. Dover,Matthew Kuefler,2,0.378
+Kenneth J. Dover,Martha Nussbaum,3,0.567
+Kenneth J. Dover,Eve K. Sedgwick,3,0.567
+Kenneth J. Dover,Juha Sihvola,2,0.436
+Kenneth J. Dover,Giulia Sissa,3,0.567
+Benjamin Dunning,Rebecca Flemming,2,0.436
+Benjamin Dunning,Michel Foucault,2,0.348
+Benjamin Dunning,Christopher Gill,2,0.577
+Benjamin Dunning,Maud W. Gleason,2,0.408
+Benjamin Dunning,Simon Goldhill,2,0.471
+Benjamin Dunning,David Halperin,2,0.385
+Benjamin Dunning,Amy Hollywood,3,1.0
+Benjamin Dunning,Helen King,3,0.707
+Benjamin Dunning,Karen King,3,1.0
+Benjamin Dunning,Thomas Laqueur,3,0.866
+Benjamin Dunning,Miroslav Marcovich,2,0.667
+Benjamin Dunning,Dale B. Martin,3,0.775
+Benjamin Dunning,Wayne Meeks,3,1.0
+Benjamin Dunning,Stephen D. Moore,2,0.667
+Benjamin Dunning,Martha Nussbaum,2,0.577
+Benjamin Dunning,Judith Perkins,3,1.0
+Benjamin Dunning,William R. Schoedel,2,0.667
+Benjamin Dunning,Giulia Sissa,2,0.577
+Benjamin Dunning,Owsei Temkin,2,0.577
+Catharine Edwards,Rebecca Flemming,3,0.463
+Catharine Edwards,Michel Foucault,2,0.246
+Catharine Edwards,Maud W. Gleason,4,0.577
+Catharine Edwards,Erik Gunderson,2,0.471
+Catharine Edwards,David Halperin,2,0.272
+Catharine Edwards,David Hunter,2,0.408
+Catharine Edwards,Matthew Kuefler,2,0.408
+Catharine Edwards,Martha Nussbaum,2,0.408
+Catharine Edwards,Eve K. Sedgwick,2,0.408
+Catharine Edwards,Giulia Sissa,2,0.408
+Rebecca Flemming,Simon Goldhill,3,0.463
+Rebecca Flemming,David Halperin,2,0.252
+Rebecca Flemming,Amy Hollywood,2,0.436
+Rebecca Flemming,David Hunter,2,0.378
+Rebecca Flemming,Helen King,4,0.617
+Rebecca Flemming,Karen King,2,0.436
+Rebecca Flemming,Matthew Kuefler,2,0.378
+Rebecca Flemming,Miroslav Marcovich,2,0.436
+Rebecca Flemming,Dale B. Martin,2,0.338
+Rebecca Flemming,Wayne Meeks,2,0.436
+Rebecca Flemming,Stephen D. Moore,2,0.436
+Rebecca Flemming,Martha Nussbaum,2,0.378
+Rebecca Flemming,Judith Perkins,2,0.436
+Rebecca Flemming,Juha Sihvola,2,0.436
+Rebecca Flemming,Giulia Sissa,2,0.378
+Michel Foucault,Christopher Gill,3,0.452
+Michel Foucault,Maud W. Gleason,5,0.533
+Michel Foucault,Erik Gunderson,2,0.348
+Michel Foucault,Amy Hollywood,2,0.348
+Michel Foucault,David Hunter,3,0.452
+Michel Foucault,Helen King,3,0.369
+Michel Foucault,Karen King,2,0.348
+Michel Foucault,Jennifer Wright Knust,3,0.522
+Michel Foucault,Matthew Kuefler,3,0.452
+Michel Foucault,Dale B. Martin,4,0.539
+Michel Foucault,Wayne Meeks,2,0.348
+Michel Foucault,Stephen D. Moore,3,0.522
+Michel Foucault,Martha Nussbaum,3,0.452
+Michel Foucault,Judith Perkins,2,0.348
+Michel Foucault,Eve K. Sedgwick,4,0.603
+Michel Foucault,Juha Sihvola,2,0.348
+Michel Foucault,Giulia Sissa,4,0.603
+Michel Foucault,Guy Stroumsa,3,0.522
+Christopher Gill,Maud W. Gleason,2,0.354
+Christopher Gill,Simon Goldhill,2,0.408
+Christopher Gill,David Halperin,3,0.5
+Christopher Gill,Amy Hollywood,2,0.577
+Christopher Gill,Helen King,3,0.612
+Christopher Gill,Karen King,2,0.577
+Christopher Gill,Jennifer Wright Knust,2,0.577
+Christopher Gill,Thomas Laqueur,2,0.5
+Christopher Gill,Dale B. Martin,3,0.671
+Christopher Gill,Wayne Meeks,2,0.577
+Christopher Gill,Stephen D. Moore,2,0.577
+Christopher Gill,Martha Nussbaum,2,0.5
+Christopher Gill,Judith Perkins,2,0.577
+Christopher Gill,Eve K. Sedgwick,2,0.5
+Christopher Gill,Juha Sihvola,2,0.577
+Christopher Gill,Giulia Sissa,2,0.5
+Christopher Gill,Guy Stroumsa,2,0.577
+Maud W. Gleason,Simon Goldhill,2,0.289
+Maud W. Gleason,Erik Gunderson,3,0.612
+Maud W. Gleason,David Halperin,4,0.471
+Maud W. Gleason,Amy Hollywood,2,0.408
+Maud W. Gleason,David Hunter,3,0.53
+Maud W. Gleason,Helen King,2,0.289
+Maud W. Gleason,Karen King,2,0.408
+Maud W. Gleason,Jennifer Wright Knust,2,0.408
+Maud W. Gleason,Matthew Kuefler,3,0.53
+Maud W. Gleason,Thomas Laqueur,2,0.354
+Maud W. Gleason,Dale B. Martin,3,0.474
+Maud W. Gleason,Wayne Meeks,2,0.408
+Maud W. Gleason,Martha Nussbaum,2,0.354
+Maud W. Gleason,Judith Perkins,2,0.408
+Maud W. Gleason,Eve K. Sedgwick,3,0.53
+Maud W. Gleason,Giulia Sissa,2,0.354
+Maud W. Gleason,Guy Stroumsa,2,0.408
+Simon Goldhill,Erik Gunderson,2,0.471
+Simon Goldhill,Amy Hollywood,2,0.471
+Simon Goldhill,David Hunter,2,0.408
+Simon Goldhill,Helen King,4,0.667
+Simon Goldhill,Karen King,2,0.471
+Simon Goldhill,Jennifer Wright Knust,2,0.471
+Simon Goldhill,Thomas Laqueur,2,0.408
+Simon Goldhill,Dale B. Martin,3,0.548
+Simon Goldhill,Wayne Meeks,2,0.471
+Simon Goldhill,Stephen D. Moore,2,0.471
+Simon Goldhill,Martha Nussbaum,3,0.612
+Simon Goldhill,Judith Perkins,2,0.471
+Simon Goldhill,William R. Schoedel,2,0.471
+Simon Goldhill,Juha Sihvola,3,0.707
+Simon Goldhill,Giulia Sissa,3,0.612
+Simon Goldhill,Guy Stroumsa,2,0.471
+Simon Goldhill,Owsei Temkin,3,0.612
+Erik Gunderson,David Halperin,2,0.385
+Erik Gunderson,David Hunter,2,0.577
+Erik Gunderson,Jennifer Wright Knust,2,0.667
+Erik Gunderson,Dale B. Martin,2,0.516
+Erik Gunderson,Guy Stroumsa,2,0.667
+David Halperin,Amy Hollywood,2,0.385
+David Halperin,David Hunter,2,0.333
+David Halperin,Helen King,3,0.408
+David Halperin,Karen King,2,0.385
+David Halperin,Jennifer Wright Knust,3,0.577
+David Halperin,Matthew Kuefler,2,0.333
+David Halperin,Thomas Laqueur,2,0.333
+David Halperin,Dale B. Martin,4,0.596
+David Halperin,Wayne Meeks,2,0.385
+David Halperin,Stephen D. Moore,3,0.577
+David Halperin,Martha Nussbaum,3,0.5
+David Halperin,Judith Perkins,2,0.385
+David Halperin,William R. Schoedel,2,0.385
+David Halperin,Eve K. Sedgwick,4,0.667
+David Halperin,Juha Sihvola,2,0.385
+David Halperin,Giulia Sissa,4,0.667
+David Halperin,Guy Stroumsa,3,0.577
+David Halperin,Owsei Temkin,2,0.333
+Amy Hollywood,Helen King,3,0.707
+Amy Hollywood,Karen King,3,1.0
+Amy Hollywood,Thomas Laqueur,3,0.866
+Amy Hollywood,Miroslav Marcovich,2,0.667
+Amy Hollywood,Dale B. Martin,3,0.775
+Amy Hollywood,Wayne Meeks,3,1.0
+Amy Hollywood,Stephen D. Moore,2,0.667
+Amy Hollywood,Martha Nussbaum,2,0.577
+Amy Hollywood,Judith Perkins,3,1.0
+Amy Hollywood,William R. Schoedel,2,0.667
+Amy Hollywood,Giulia Sissa,2,0.577
+Amy Hollywood,Owsei Temkin,2,0.577
+David Hunter,Jennifer Wright Knust,2,0.577
+David Hunter,Matthew Kuefler,3,0.75
+David Hunter,Dale B. Martin,2,0.447
+David Hunter,Guy Stroumsa,2,0.577
+Helen King,Karen King,3,0.707
+Helen King,Thomas Laqueur,3,0.612
+Helen King,Miroslav Marcovich,2,0.471
+Helen King,Dale B. Martin,3,0.548
+Helen King,Wayne Meeks,3,0.707
+Helen King,Stephen D. Moore,2,0.471
+Helen King,Martha Nussbaum,3,0.612
+Helen King,Judith Perkins,3,0.707
+Helen King,William R. Schoedel,2,0.471
+Helen King,Juha Sihvola,3,0.707
+Helen King,Giulia Sissa,3,0.612
+Helen King,Owsei Temkin,3,0.612
+Karen King,Thomas Laqueur,3,0.866
+Karen King,Miroslav Marcovich,2,0.667
+Karen King,Dale B. Martin,3,0.775
+Karen King,Wayne Meeks,3,1.0
+Karen King,Stephen D. Moore,2,0.667
+Karen King,Martha Nussbaum,2,0.577
+Karen King,Judith Perkins,3,1.0
+Karen King,William R. Schoedel,2,0.667
+Karen King,Giulia Sissa,2,0.577
+Karen King,Owsei Temkin,2,0.577
+Jennifer Wright Knust,Dale B. Martin,3,0.775
+Jennifer Wright Knust,Stephen D. Moore,2,0.667
+Jennifer Wright Knust,Eve K. Sedgwick,2,0.577
+Jennifer Wright Knust,Guy Stroumsa,3,1.0
+Matthew Kuefler,Eve K. Sedgwick,2,0.5
+Thomas Laqueur,Miroslav Marcovich,2,0.577
+Thomas Laqueur,Dale B. Martin,3,0.671
+Thomas Laqueur,Wayne Meeks,3,0.866
+Thomas Laqueur,Stephen D. Moore,2,0.577
+Thomas Laqueur,Martha Nussbaum,2,0.5
+Thomas Laqueur,Judith Perkins,3,0.866
+Thomas Laqueur,Giulia Sissa,2,0.5
+Miroslav Marcovich,Dale B. Martin,2,0.516
+Miroslav Marcovich,Wayne Meeks,2,0.667
+Miroslav Marcovich,Stephen D. Moore,2,0.667
+Miroslav Marcovich,Martha Nussbaum,2,0.577
+Miroslav Marcovich,Judith Perkins,2,0.667
+Miroslav Marcovich,William R. Schoedel,2,0.667
+Miroslav Marcovich,Giulia Sissa,2,0.577
+Miroslav Marcovich,Owsei Temkin,2,0.577
+Dale B. Martin,Wayne Meeks,3,0.775
+Dale B. Martin,Stephen D. Moore,3,0.775
+Dale B. Martin,Martha Nussbaum,2,0.447
+Dale B. Martin,Judith Perkins,3,0.775
+Dale B. Martin,William R. Schoedel,2,0.516
+Dale B. Martin,Eve K. Sedgwick,2,0.447
+Dale B. Martin,Giulia Sissa,2,0.447
+Dale B. Martin,Guy Stroumsa,3,0.775
+Dale B. Martin,Owsei Temkin,2,0.447
+Wayne Meeks,Stephen D. Moore,2,0.667
+Wayne Meeks,Martha Nussbaum,2,0.577
+Wayne Meeks,Judith Perkins,3,1.0
+Wayne Meeks,William R. Schoedel,2,0.667
+Wayne Meeks,Giulia Sissa,2,0.577
+Wayne Meeks,Owsei Temkin,2,0.577
+Stephen D. Moore,Martha Nussbaum,2,0.577
+Stephen D. Moore,Judith Perkins,2,0.667
+Stephen D. Moore,William R. Schoedel,2,0.667
+Stephen D. Moore,Eve K. Sedgwick,2,0.577
+Stephen D. Moore,Giulia Sissa,2,0.577
+Stephen D. Moore,Guy Stroumsa,2,0.667
+Stephen D. Moore,Owsei Temkin,2,0.577
+Martha Nussbaum,Judith Perkins,2,0.577
+Martha Nussbaum,William R. Schoedel,2,0.577
+Martha Nussbaum,Juha Sihvola,2,0.577
+Martha Nussbaum,Giulia Sissa,3,0.75
+Martha Nussbaum,Owsei Temkin,2,0.5
+Judith Perkins,William R. Schoedel,2,0.667
+Judith Perkins,Giulia Sissa,2,0.577
+Judith Perkins,Owsei Temkin,2,0.577
+William R. Schoedel,Giulia Sissa,2,0.577
+Eve K. Sedgwick,Giulia Sissa,2,0.5
+Eve K. Sedgwick,Guy Stroumsa,2,0.577
+Juha Sihvola,Giulia Sissa,2,0.577
+Juha Sihvola,Owsei Temkin,2,0.577
+Giulia Sissa,Owsei Temkin,2,0.5
+Mary Beard,Mary Boatwright,2,0.516
+Mary Beard,Averil Cameron,2,0.4
+Mary Beard,John R. Clarke,4,0.73
+Mary Beard,F. Coarelli,3,0.775
+Mary Beard,David Cohen,3,0.6
+Mary Beard,Timothy J. Cornell,3,0.775
+Mary Beard,Eve D’Ambra,2,0.447
+Mary Beard,Fanny Dolansky,2,0.447
+Mary Beard,Catharine Edwards,4,0.73
+Mary Beard,Jas Elsner,2,0.4
+Mary Beard,Elaine Fantham,4,0.8
+Mary Beard,Rebecca Flemming,3,0.507
+Mary Beard,Fritz Graf,3,0.775
+Mary Beard,Mary Harlow,2,0.365
+Mary Beard,Emily Hemelrijk,2,0.4
+Mary Beard,Keith Hopkins,2,0.447
+Mary Beard,Sandra R. Joshel,3,0.671
+Mary Beard,Jacob Latham,3,0.775
+Mary Beard,Ramsay MacMullen,2,0.516
+Mary Beard,Thomas A.J. McGinn,3,0.6
+Mary Beard,Kelly Olson,2,0.4
+Mary Beard,Sarah B. Pomeroy,2,0.365
+Mary Beard,Nicholas Purcell,3,0.775
+Mary Beard,Amy Richlin,4,0.596
+Mary Beard,John Scheid,2,0.516
+Mary Beard,Judith Lynn Sebesta,2,0.447
+Mary Beard,Shaun Tougher,2,0.447
+Mary Beard,Bruce Winter,2,0.447
+Mary Boatwright,Elizabeth A. Clark,2,0.516
+Mary Boatwright,F. Coarelli,2,0.667
+Mary Boatwright,David Cohen,2,0.516
+Mary Boatwright,Timothy J. Cornell,2,0.667
+Mary Boatwright,Eve D’Ambra,3,0.866
+Mary Boatwright,Fanny Dolansky,3,0.866
+Mary Boatwright,Catharine Edwards,2,0.471
+Mary Boatwright,Jas Elsner,2,0.516
+Mary Boatwright,Elaine Fantham,2,0.516
+Mary Boatwright,Rebecca Flemming,2,0.436
+Mary Boatwright,Mary Harlow,2,0.471
+Mary Boatwright,Susan Hylen,2,0.667
+Mary Boatwright,Sandra R. Joshel,2,0.577
+Mary Boatwright,Jacob Latham,2,0.667
+Mary Boatwright,Thomas A.J. McGinn,2,0.516
+Mary Boatwright,Kelly Olson,2,0.516
+Mary Boatwright,Sarah B. Pomeroy,2,0.471
+Mary Boatwright,Nicholas Purcell,2,0.667
+Mary Boatwright,Amy Richlin,2,0.385
+Mary Boatwright,John Scheid,3,1.0
+Mary Boatwright,Judith Lynn Sebesta,2,0.577
+Mary Boatwright,Kate Wilkinson,2,0.667
+Mary Boatwright,Bruce Winter,2,0.577
+Peter Brown,Averil Cameron,3,0.507
+Peter Brown,Gillian Clark,3,0.655
+Peter Brown,Jas Elsner,3,0.507
+Peter Brown,Mary Harlow,2,0.309
+Peter Brown,Emily Hemelrijk,2,0.338
+Peter Brown,Judith Herrin,3,0.567
+Peter Brown,Kenneth Holum,3,0.655
+Peter Brown,Keith Hopkins,2,0.378
+Peter Brown,Susan Hylen,2,0.436
+Peter Brown,Liz James,3,0.655
+Peter Brown,Derek Krueger,3,0.655
+Peter Brown,Teresa de Lauretis,2,0.436
+Peter Brown,Ramsay MacMullen,2,0.436
+Peter Brown,Sarah B. Pomeroy,2,0.309
+Peter Brown,Shaun Tougher,2,0.378
+Peter Brown,Kate Wilkinson,2,0.436
+Virginia Burrus,Averil Cameron,3,0.6
+Virginia Burrus,Elizabeth A. Clark,2,0.4
+Virginia Burrus,Gillian Clark,2,0.516
+Virginia Burrus,Kate Cooper,2,0.516
+Virginia Burrus,Susanna Elm,2,0.447
+Virginia Burrus,Jas Elsner,3,0.6
+Virginia Burrus,Mary Harlow,2,0.365
+Virginia Burrus,Judith Herrin,3,0.671
+Virginia Burrus,Kenneth Holum,2,0.516
+Virginia Burrus,Keith Hopkins,3,0.671
+Virginia Burrus,Susan Hylen,2,0.516
+Virginia Burrus,Liz James,3,0.775
+Virginia Burrus,Derek Krueger,3,0.775
+Virginia Burrus,Teresa de Lauretis,2,0.516
+Virginia Burrus,Ramsay MacMullen,2,0.516
+Virginia Burrus,Amy Richlin,3,0.447
+Virginia Burrus,Shaun Tougher,3,0.671
+Virginia Burrus,Kate Wilkinson,2,0.516
+Averil Cameron,John R. Clarke,2,0.365
+Averil Cameron,Elizabeth A. Clark,2,0.4
+Averil Cameron,Gillian Clark,2,0.516
+Averil Cameron,David Cohen,2,0.4
+Averil Cameron,Kate Cooper,2,0.516
+Averil Cameron,Susanna Elm,2,0.447
+Averil Cameron,Jas Elsner,3,0.6
+Averil Cameron,Elaine Fantham,2,0.4
+Averil Cameron,Rebecca Flemming,2,0.338
+Averil Cameron,Fritz Graf,2,0.516
+Averil Cameron,Mary Harlow,3,0.548
+Averil Cameron,Judith Herrin,3,0.671
+Averil Cameron,Kenneth Holum,2,0.516
+Averil Cameron,Keith Hopkins,2,0.447
+Averil Cameron,David Hunter,3,0.671
+Averil Cameron,Susan Hylen,2,0.516
+Averil Cameron,Liz James,3,0.775
+Averil Cameron,Sandra R. Joshel,2,0.447
+Averil Cameron,Derek Krueger,3,0.775
+Averil Cameron,Matthew Kuefler,2,0.447
+Averil Cameron,Teresa de Lauretis,2,0.516
+Averil Cameron,Ramsay MacMullen,2,0.516
+Averil Cameron,Sarah B. Pomeroy,3,0.548
+Averil Cameron,Amy Richlin,3,0.447
+Averil Cameron,Shaun Tougher,2,0.447
+Averil Cameron,Kate Wilkinson,2,0.516
+Averil Cameron,Bruce Winter,2,0.447
+John R. Clarke,F. Coarelli,2,0.471
+John R. Clarke,David Cohen,2,0.365
+John R. Clarke,Timothy J. Cornell,2,0.471
+John R. Clarke,Eve D’Ambra,2,0.408
+John R. Clarke,Suzanne Dixon,3,0.707
+John R. Clarke,Fanny Dolansky,2,0.408
+John R. Clarke,Catharine Edwards,4,0.667
+John R. Clarke,Jas Elsner,2,0.365
+John R. Clarke,Elaine Fantham,3,0.548
+John R. Clarke,Rebecca Flemming,3,0.463
+John R. Clarke,Fritz Graf,3,0.707
+John R. Clarke,Mary Harlow,3,0.5
+John R. Clarke,Emily Hemelrijk,4,0.73
+John R. Clarke,Keith Hopkins,2,0.408
+John R. Clarke,Sandra R. Joshel,3,0.612
+John R. Clarke,Jacob Latham,2,0.471
+John R. Clarke,Ramsay MacMullen,2,0.471
+John R. Clarke,Thomas A.J. McGinn,3,0.548
+John R. Clarke,Kelly Olson,4,0.73
+John R. Clarke,Sarah B. Pomeroy,3,0.5
+John R. Clarke,Nicholas Purcell,2,0.471
+John R. Clarke,Amy Richlin,4,0.544
+John R. Clarke,Judith Lynn Sebesta,3,0.612
+John R. Clarke,Shaun Tougher,2,0.408
+John R. Clarke,Bruce Winter,2,0.408
+Elizabeth A. Clark,Gillian Clark,3,0.775
+Elizabeth A. Clark,Eve D’Ambra,2,0.447
+Elizabeth A. Clark,Fanny Dolansky,2,0.447
+Elizabeth A. Clark,Jas Elsner,2,0.4
+Elizabeth A. Clark,Mary Harlow,2,0.365
+Elizabeth A. Clark,Emily Hemelrijk,2,0.4
+Elizabeth A. Clark,Judith Herrin,2,0.447
+Elizabeth A. Clark,Kenneth Holum,2,0.516
+Elizabeth A. Clark,David Hunter,2,0.447
+Elizabeth A. Clark,Susan Hylen,3,0.775
+Elizabeth A. Clark,Liz James,2,0.516
+Elizabeth A. Clark,Derek Krueger,2,0.516
+Elizabeth A. Clark,Teresa de Lauretis,2,0.516
+Elizabeth A. Clark,Kelly Olson,2,0.4
+Elizabeth A. Clark,Sarah B. Pomeroy,3,0.548
+Elizabeth A. Clark,John Scheid,2,0.516
+Elizabeth A. Clark,Judith Lynn Sebesta,2,0.447
+Elizabeth A. Clark,Kate Wilkinson,3,0.775
+Gillian Clark,Jas Elsner,2,0.516
+Gillian Clark,Emily Hemelrijk,2,0.516
+Gillian Clark,Judith Herrin,2,0.577
+Gillian Clark,Kenneth Holum,2,0.667
+Gillian Clark,David Hunter,2,0.577
+Gillian Clark,Susan Hylen,2,0.667
+Gillian Clark,Liz James,2,0.667
+Gillian Clark,Derek Krueger,2,0.667
+Gillian Clark,Teresa de Lauretis,2,0.667
+Gillian Clark,Sarah B. Pomeroy,2,0.471
+Gillian Clark,Amy Richlin,2,0.385
+Gillian Clark,Kate Wilkinson,2,0.667
+F. Coarelli,David Cohen,3,0.775
+F. Coarelli,Timothy J. Cornell,2,0.667
+F. Coarelli,Eve D’Ambra,2,0.577
+F. Coarelli,Fanny Dolansky,2,0.577
+F. Coarelli,Catharine Edwards,3,0.707
+F. Coarelli,Jas Elsner,2,0.516
+F. Coarelli,Elaine Fantham,3,0.775
+F. Coarelli,Rebecca Flemming,2,0.436
+F. Coarelli,Sandra R. Joshel,2,0.577
+F. Coarelli,Jacob Latham,2,0.667
+F. Coarelli,Thomas A.J. McGinn,2,0.516
+F. Coarelli,Nicholas Purcell,2,0.667
+F. Coarelli,Amy Richlin,3,0.577
+F. Coarelli,John Scheid,2,0.667
+David Cohen,Timothy J. Cornell,2,0.516
+David Cohen,Eve D’Ambra,2,0.447
+David Cohen,Fanny Dolansky,2,0.447
+David Cohen,Catharine Edwards,3,0.548
+David Cohen,Jas Elsner,2,0.4
+David Cohen,Elaine Fantham,4,0.8
+David Cohen,Rebecca Flemming,2,0.338
+David Cohen,Mary Harlow,2,0.365
+David Cohen,Sandra R. Joshel,2,0.447
+David Cohen,Jacob Latham,2,0.516
+David Cohen,Thomas A.J. McGinn,2,0.4
+David Cohen,Sarah B. Pomeroy,2,0.365
+David Cohen,Nicholas Purcell,2,0.516
+David Cohen,John Scheid,2,0.516
+Kate Cooper,Jas Elsner,2,0.516
+Kate Cooper,Mary Harlow,2,0.471
+Kate Cooper,Judith Herrin,2,0.577
+Kate Cooper,Kenneth Holum,2,0.667
+Kate Cooper,Keith Hopkins,2,0.577
+Kate Cooper,David Hunter,2,0.577
+Kate Cooper,Liz James,2,0.667
+Kate Cooper,Derek Krueger,2,0.667
+Kate Cooper,Matthew Kuefler,2,0.577
+Kate Cooper,Ramsay MacMullen,2,0.667
+Kate Cooper,Shaun Tougher,2,0.577
+Timothy J. Cornell,Eve D’Ambra,2,0.577
+Timothy J. Cornell,Fanny Dolansky,2,0.577
+Timothy J. Cornell,Catharine Edwards,3,0.707
+Timothy J. Cornell,Jas Elsner,2,0.516
+Timothy J. Cornell,Elaine Fantham,3,0.775
+Timothy J. Cornell,Rebecca Flemming,2,0.436
+Timothy J. Cornell,Fritz Graf,2,0.667
+Timothy J. Cornell,Mary Harlow,2,0.471
+Timothy J. Cornell,Emily Hemelrijk,2,0.516
+Timothy J. Cornell,Keith Hopkins,2,0.577
+Timothy J. Cornell,Sandra R. Joshel,2,0.577
+Timothy J. Cornell,Jacob Latham,3,1.0
+Timothy J. Cornell,Ramsay MacMullen,2,0.667
+Timothy J. Cornell,Thomas A.J. McGinn,3,0.775
+Timothy J. Cornell,Kelly Olson,2,0.516
+Timothy J. Cornell,Nicholas Purcell,3,1.0
+Timothy J. Cornell,Amy Richlin,3,0.577
+Timothy J. Cornell,John Scheid,2,0.667
+Timothy J. Cornell,Judith Lynn Sebesta,2,0.577
+Timothy J. Cornell,Shaun Tougher,2,0.577
+Eve D’Ambra,Suzanne Dixon,2,0.577
+Eve D’Ambra,Fanny Dolansky,4,1.0
+Eve D’Ambra,Catharine Edwards,3,0.612
+Eve D’Ambra,Jas Elsner,3,0.671
+Eve D’Ambra,Elaine Fantham,2,0.447
+Eve D’Ambra,Rebecca Flemming,2,0.378
+Eve D’Ambra,Mary Harlow,3,0.612
+Eve D’Ambra,Emily Hemelrijk,2,0.447
+Eve D’Ambra,Susan Hylen,2,0.577
+Eve D’Ambra,Sandra R. Joshel,2,0.5
+Eve D’Ambra,Jacob Latham,2,0.577
+Eve D’Ambra,Thomas A.J. McGinn,3,0.671
+Eve D’Ambra,Kelly Olson,3,0.671
+Eve D’Ambra,Sarah B. Pomeroy,3,0.612
+Eve D’Ambra,Nicholas Purcell,2,0.577
+Eve D’Ambra,Amy Richlin,3,0.5
+Eve D’Ambra,John Scheid,3,0.866
+Eve D’Ambra,Judith Lynn Sebesta,3,0.75
+Eve D’Ambra,Kate Wilkinson,2,0.577
+Eve D’Ambra,Bruce Winter,2,0.5
+Suzanne Dixon,Fanny Dolansky,2,0.577
+Suzanne Dixon,Catharine Edwards,2,0.471
+Suzanne Dixon,Jas Elsner,2,0.516
+Suzanne Dixon,Rebecca Flemming,2,0.436
+Suzanne Dixon,Mary Harlow,2,0.471
+Suzanne Dixon,Emily Hemelrijk,3,0.775
+Suzanne Dixon,Sandra R. Joshel,2,0.577
+Suzanne Dixon,Thomas A.J. McGinn,2,0.516
+Suzanne Dixon,Kelly Olson,3,0.775
+Suzanne Dixon,Sarah B. Pomeroy,2,0.471
+Suzanne Dixon,Amy Richlin,2,0.385
+Suzanne Dixon,Judith Lynn Sebesta,2,0.577
+Fanny Dolansky,Catharine Edwards,3,0.612
+Fanny Dolansky,Jas Elsner,3,0.671
+Fanny Dolansky,Elaine Fantham,2,0.447
+Fanny Dolansky,Rebecca Flemming,2,0.378
+Fanny Dolansky,Mary Harlow,3,0.612
+Fanny Dolansky,Emily Hemelrijk,2,0.447
+Fanny Dolansky,Susan Hylen,2,0.577
+Fanny Dolansky,Sandra R. Joshel,2,0.5
+Fanny Dolansky,Jacob Latham,2,0.577
+Fanny Dolansky,Thomas A.J. McGinn,3,0.671
+Fanny Dolansky,Kelly Olson,3,0.671
+Fanny Dolansky,Sarah B. Pomeroy,3,0.612
+Fanny Dolansky,Nicholas Purcell,2,0.577
+Fanny Dolansky,Amy Richlin,3,0.5
+Fanny Dolansky,John Scheid,3,0.866
+Fanny Dolansky,Judith Lynn Sebesta,3,0.75
+Fanny Dolansky,Kate Wilkinson,2,0.577
+Fanny Dolansky,Bruce Winter,2,0.5
+Catharine Edwards,Jas Elsner,3,0.548
+Catharine Edwards,Elaine Fantham,4,0.73
+Catharine Edwards,Fritz Graf,2,0.471
+Catharine Edwards,Mary Harlow,3,0.5
+Catharine Edwards,Emily Hemelrijk,3,0.548
+Catharine Edwards,Keith Hopkins,2,0.408
+Catharine Edwards,Sandra R. Joshel,2,0.408
+Catharine Edwards,Jacob Latham,3,0.707
+Catharine Edwards,Ramsay MacMullen,2,0.471
+Catharine Edwards,Thomas A.J. McGinn,4,0.73
+Catharine Edwards,Kelly Olson,3,0.548
+Catharine Edwards,Sarah B. Pomeroy,2,0.333
+Catharine Edwards,Nicholas Purcell,3,0.707
+Catharine Edwards,Amy Richlin,5,0.68
+Catharine Edwards,John Scheid,2,0.471
+Catharine Edwards,Judith Lynn Sebesta,3,0.612
+Catharine Edwards,Shaun Tougher,2,0.408
+Susanna Elm,Jas Elsner,2,0.447
+Susanna Elm,Mary Harlow,2,0.408
+Susanna Elm,Judith Herrin,2,0.5
+Susanna Elm,Kenneth Holum,2,0.577
+Susanna Elm,Keith Hopkins,2,0.5
+Susanna Elm,David Hunter,2,0.5
+Susanna Elm,Liz James,2,0.577
+Susanna Elm,Derek Krueger,2,0.577
+Susanna Elm,Matthew Kuefler,2,0.5
+Susanna Elm,Ramsay MacMullen,2,0.577
+Susanna Elm,Shaun Tougher,2,0.5
+Jas Elsner,Elaine Fantham,2,0.4
+Jas Elsner,Rebecca Flemming,2,0.338
+Jas Elsner,Mary Harlow,3,0.548
+Jas Elsner,Emily Hemelrijk,2,0.4
+Jas Elsner,Judith Herrin,3,0.671
+Jas Elsner,Kenneth Holum,2,0.516
+Jas Elsner,Keith Hopkins,2,0.447
+Jas Elsner,David Hunter,3,0.671
+Jas Elsner,Susan Hylen,2,0.516
+Jas Elsner,Liz James,3,0.775
+Jas Elsner,Sandra R. Joshel,2,0.447
+Jas Elsner,Derek Krueger,3,0.775
+Jas Elsner,Matthew Kuefler,2,0.447
+Jas Elsner,Jacob Latham,2,0.516
+Jas Elsner,Teresa de Lauretis,2,0.516
+Jas Elsner,Ramsay MacMullen,2,0.516
+Jas Elsner,Thomas A.J. McGinn,3,0.6
+Jas Elsner,Kelly Olson,2,0.4
+Jas Elsner,Sarah B. Pomeroy,2,0.365
+Jas Elsner,Nicholas Purcell,2,0.516
+Jas Elsner,Amy Richlin,5,0.745
+Jas Elsner,John Scheid,2,0.516
+Jas Elsner,Judith Lynn Sebesta,2,0.447
+Jas Elsner,Shaun Tougher,2,0.447
+Jas Elsner,Kate Wilkinson,2,0.516
+Elaine Fantham,Rebecca Flemming,2,0.338
+Elaine Fantham,Fritz Graf,2,0.516
+Elaine Fantham,Mary Harlow,3,0.548
+Elaine Fantham,Emily Hemelrijk,2,0.4
+Elaine Fantham,Keith Hopkins,2,0.447
+Elaine Fantham,Sandra R. Joshel,2,0.447
+Elaine Fantham,Jacob Latham,3,0.775
+Elaine Fantham,Ramsay MacMullen,2,0.516
+Elaine Fantham,Thomas A.J. McGinn,3,0.6
+Elaine Fantham,Kelly Olson,2,0.4
+Elaine Fantham,Sarah B. Pomeroy,2,0.365
+Elaine Fantham,Nicholas Purcell,3,0.775
+Elaine Fantham,Amy Richlin,4,0.596
+Elaine Fantham,John Scheid,2,0.516
+Elaine Fantham,Judith Lynn Sebesta,2,0.447
+Elaine Fantham,Shaun Tougher,2,0.447
+Rebecca Flemming,Fritz Graf,2,0.436
+Rebecca Flemming,Emily Hemelrijk,2,0.338
+Rebecca Flemming,Sandra R. Joshel,4,0.756
+Rebecca Flemming,Jacob Latham,2,0.436
+Rebecca Flemming,Kelly Olson,2,0.338
+Rebecca Flemming,Sarah B. Pomeroy,2,0.309
+Rebecca Flemming,Nicholas Purcell,2,0.436
+Rebecca Flemming,John Scheid,2,0.436
+Fritz Graf,Mary Harlow,2,0.471
+Fritz Graf,Emily Hemelrijk,2,0.516
+Fritz Graf,Keith Hopkins,2,0.577
+Fritz Graf,Sandra R. Joshel,2,0.577
+Fritz Graf,Jacob Latham,2,0.667
+Fritz Graf,Ramsay MacMullen,2,0.667
+Fritz Graf,Thomas A.J. McGinn,2,0.516
+Fritz Graf,Kelly Olson,2,0.516
+Fritz Graf,Sarah B. Pomeroy,2,0.471
+Fritz Graf,Nicholas Purcell,2,0.667
+Fritz Graf,Amy Richlin,2,0.385
+Fritz Graf,Judith Lynn Sebesta,2,0.577
+Fritz Graf,Shaun Tougher,2,0.577
+Fritz Graf,Bruce Winter,2,0.577
+Mary Harlow,Emily Hemelrijk,3,0.548
+Mary Harlow,Judith Herrin,2,0.408
+Mary Harlow,Kenneth Holum,2,0.471
+Mary Harlow,Keith Hopkins,3,0.612
+Mary Harlow,David Hunter,2,0.408
+Mary Harlow,Susan Hylen,2,0.471
+Mary Harlow,Liz James,2,0.471
+Mary Harlow,Derek Krueger,2,0.471
+Mary Harlow,Matthew Kuefler,2,0.408
+Mary Harlow,Jacob Latham,2,0.471
+Mary Harlow,Ramsay MacMullen,3,0.707
+Mary Harlow,Thomas A.J. McGinn,3,0.548
+Mary Harlow,Kelly Olson,4,0.73
+Mary Harlow,Sarah B. Pomeroy,4,0.667
+Mary Harlow,Nicholas Purcell,2,0.471
+Mary Harlow,Amy Richlin,4,0.544
+Mary Harlow,John Scheid,2,0.471
+Mary Harlow,Judith Lynn Sebesta,4,0.816
+Mary Harlow,Shaun Tougher,3,0.612
+Mary Harlow,Kate Wilkinson,2,0.471
+Mary Harlow,Bruce Winter,2,0.408
+Emily Hemelrijk,Kenneth Holum,2,0.516
+Emily Hemelrijk,Keith Hopkins,2,0.447
+Emily Hemelrijk,Sandra R. Joshel,2,0.447
+Emily Hemelrijk,Jacob Latham,2,0.516
+Emily Hemelrijk,Ramsay MacMullen,2,0.516
+Emily Hemelrijk,Thomas A.J. McGinn,3,0.6
+Emily Hemelrijk,Kelly Olson,4,0.8
+Emily Hemelrijk,Sarah B. Pomeroy,3,0.548
+Emily Hemelrijk,Nicholas Purcell,2,0.516
+Emily Hemelrijk,Amy Richlin,3,0.447
+Emily Hemelrijk,Judith Lynn Sebesta,3,0.671
+Emily Hemelrijk,Shaun Tougher,2,0.447
+Judith Herrin,Kenneth Holum,2,0.577
+Judith Herrin,Keith Hopkins,2,0.5
+Judith Herrin,David Hunter,3,0.75
+Judith Herrin,Susan Hylen,2,0.577
+Judith Herrin,Liz James,3,0.866
+Judith Herrin,Derek Krueger,3,0.866
+Judith Herrin,Matthew Kuefler,2,0.5
+Judith Herrin,Teresa de Lauretis,2,0.577
+Judith Herrin,Ramsay MacMullen,2,0.577
+Judith Herrin,Amy Richlin,3,0.5
+Judith Herrin,Shaun Tougher,2,0.5
+Judith Herrin,Kate Wilkinson,2,0.577
+Kenneth Holum,Keith Hopkins,2,0.577
+Kenneth Holum,David Hunter,2,0.577
+Kenneth Holum,Liz James,2,0.667
+Kenneth Holum,Derek Krueger,2,0.667
+Kenneth Holum,Matthew Kuefler,2,0.577
+Kenneth Holum,Ramsay MacMullen,2,0.667
+Kenneth Holum,Sarah B. Pomeroy,2,0.471
+Kenneth Holum,Amy Richlin,2,0.385
+Kenneth Holum,Shaun Tougher,2,0.577
+Keith Hopkins,David Hunter,2,0.5
+Keith Hopkins,Liz James,2,0.577
+Keith Hopkins,Derek Krueger,2,0.577
+Keith Hopkins,Matthew Kuefler,3,0.75
+Keith Hopkins,Jacob Latham,2,0.577
+Keith Hopkins,Ramsay MacMullen,3,0.866
+Keith Hopkins,Thomas A.J. McGinn,2,0.447
+Keith Hopkins,Kelly Olson,2,0.447
+Keith Hopkins,Nicholas Purcell,2,0.577
+Keith Hopkins,Amy Richlin,3,0.5
+Keith Hopkins,Judith Lynn Sebesta,2,0.5
+Keith Hopkins,Shaun Tougher,4,1.0
+David Hunter,Susan Hylen,2,0.577
+David Hunter,Liz James,3,0.866
+David Hunter,Derek Krueger,3,0.866
+David Hunter,Teresa de Lauretis,2,0.577
+David Hunter,Ramsay MacMullen,2,0.577
+David Hunter,Amy Richlin,3,0.5
+David Hunter,Shaun Tougher,2,0.5
+David Hunter,Kate Wilkinson,2,0.577
+Susan Hylen,Liz James,2,0.667
+Susan Hylen,Derek Krueger,2,0.667
+Susan Hylen,Teresa de Lauretis,2,0.667
+Susan Hylen,Kelly Olson,2,0.516
+Susan Hylen,Sarah B. Pomeroy,2,0.471
+Susan Hylen,Amy Richlin,2,0.385
+Susan Hylen,John Scheid,2,0.667
+Susan Hylen,Judith Lynn Sebesta,2,0.577
+Susan Hylen,Kate Wilkinson,3,1.0
+Susan Hylen,Bruce Winter,2,0.577
+Liz James,Derek Krueger,3,1.0
+Liz James,Matthew Kuefler,2,0.577
+Liz James,Teresa de Lauretis,2,0.667
+Liz James,Ramsay MacMullen,2,0.667
+Liz James,Amy Richlin,3,0.577
+Liz James,Shaun Tougher,2,0.577
+Liz James,Kate Wilkinson,2,0.667
+Sandra R. Joshel,Jacob Latham,2,0.577
+Sandra R. Joshel,Thomas A.J. McGinn,2,0.447
+Sandra R. Joshel,Kelly Olson,2,0.447
+Sandra R. Joshel,Sarah B. Pomeroy,2,0.408
+Sandra R. Joshel,Nicholas Purcell,2,0.577
+Sandra R. Joshel,Amy Richlin,2,0.333
+Sandra R. Joshel,John Scheid,2,0.577
+Sandra R. Joshel,Bruce Winter,2,0.5
+Derek Krueger,Matthew Kuefler,2,0.577
+Derek Krueger,Teresa de Lauretis,2,0.667
+Derek Krueger,Ramsay MacMullen,2,0.667
+Derek Krueger,Amy Richlin,3,0.577
+Derek Krueger,Shaun Tougher,2,0.577
+Derek Krueger,Kate Wilkinson,2,0.667
+Matthew Kuefler,Ramsay MacMullen,2,0.577
+Matthew Kuefler,Amy Richlin,2,0.333
+Matthew Kuefler,Shaun Tougher,3,0.75
+Jacob Latham,Ramsay MacMullen,2,0.667
+Jacob Latham,Thomas A.J. McGinn,3,0.775
+Jacob Latham,Kelly Olson,2,0.516
+Jacob Latham,Nicholas Purcell,3,1.0
+Jacob Latham,Amy Richlin,3,0.577
+Jacob Latham,John Scheid,2,0.667
+Jacob Latham,Judith Lynn Sebesta,2,0.577
+Jacob Latham,Shaun Tougher,2,0.577
+Teresa de Lauretis,Amy Richlin,2,0.385
+Teresa de Lauretis,Kate Wilkinson,2,0.667
+Ramsay MacMullen,Thomas A.J. McGinn,2,0.516
+Ramsay MacMullen,Kelly Olson,2,0.516
+Ramsay MacMullen,Nicholas Purcell,2,0.667
+Ramsay MacMullen,Amy Richlin,3,0.577
+Ramsay MacMullen,Judith Lynn Sebesta,2,0.577
+Ramsay MacMullen,Shaun Tougher,3,0.866
+Thomas A.J. McGinn,Kelly Olson,3,0.6
+Thomas A.J. McGinn,Sarah B. Pomeroy,2,0.365
+Thomas A.J. McGinn,Nicholas Purcell,3,0.775
+Thomas A.J. McGinn,John Scheid,2,0.516
+Thomas A.J. McGinn,Judith Lynn Sebesta,3,0.671
+Thomas A.J. McGinn,Shaun Tougher,2,0.447
+Kelly Olson,Sarah B. Pomeroy,3,0.548
+Kelly Olson,Nicholas Purcell,2,0.516
+Kelly Olson,Amy Richlin,3,0.447
+Kelly Olson,John Scheid,2,0.516
+Kelly Olson,Judith Lynn Sebesta,4,0.894
+Kelly Olson,Shaun Tougher,2,0.447
+Kelly Olson,Kate Wilkinson,2,0.516
+Kelly Olson,Bruce Winter,2,0.447
+Sarah B. Pomeroy,Amy Richlin,2,0.272
+Sarah B. Pomeroy,John Scheid,2,0.471
+Sarah B. Pomeroy,Judith Lynn Sebesta,3,0.612
+Sarah B. Pomeroy,Kate Wilkinson,2,0.471
+Sarah B. Pomeroy,Bruce Winter,3,0.612
+Nicholas Purcell,Amy Richlin,3,0.577
+Nicholas Purcell,John Scheid,2,0.667
+Nicholas Purcell,Judith Lynn Sebesta,2,0.577
+Nicholas Purcell,Shaun Tougher,2,0.577
+Amy Richlin,John Scheid,2,0.385
+Amy Richlin,Judith Lynn Sebesta,3,0.5
+Amy Richlin,Shaun Tougher,3,0.5
+Amy Richlin,Kate Wilkinson,2,0.385
+John Scheid,Judith Lynn Sebesta,2,0.577
+John Scheid,Kate Wilkinson,2,0.667
+John Scheid,Bruce Winter,2,0.577
+Judith Lynn Sebesta,Shaun Tougher,2,0.5
+Judith Lynn Sebesta,Kate Wilkinson,2,0.577
+Judith Lynn Sebesta,Bruce Winter,2,0.5
+Kate Wilkinson,Bruce Winter,2,0.577
+Judith M. Barringer,Margarete Bieber,2,0.577
+Judith M. Barringer,Judith Butler,2,0.348
+Judith M. Barringer,Kathleen Coleman,2,0.667
+Judith M. Barringer,P. Easterling,2,0.667
+Judith M. Barringer,Christopher A. Faraone,2,0.667
+Judith M. Barringer,Mary Harlow,2,0.471
+Judith M. Barringer,Rachel Kousser,2,0.667
+Judith M. Barringer,Lloyd Llewellyn-Jones,2,0.667
+Judith M. Barringer,Carlos Norena,2,0.667
+Judith M. Barringer,Martha Nussbaum,2,0.577
+Judith M. Barringer,Werner Peek,2,0.667
+Judith M. Barringer,Sarah B. Pomeroy,2,0.471
+Judith M. Barringer,Anton Powell,2,0.667
+Judith M. Barringer,Emma Stafford,2,0.667
+Roland Barthes,Jas Elsner,2,0.447
+Roland Barthes,Maud W. Gleason,2,0.354
+Roland Barthes,Kristi Upson-Saia,2,0.577
+Ria Berg,Sue Blundell,2,0.577
+Ria Berg,John Boardman,2,0.667
+Ria Berg,Larissa Bonfante,2,0.516
+Ria Berg,Judith Butler,2,0.348
+Ria Berg,John R. Clarke,2,0.471
+Ria Berg,Eve D’Ambra,2,0.577
+Ria Berg,Veronique Dasen,2,0.667
+Ria Berg,Glenys Davies,2,0.577
+Ria Berg,Suzanne Dixon,2,0.667
+Ria Berg,Fanny Dolansky,2,0.577
+Ria Berg,Jonathon Edmondson,2,0.667
+Ria Berg,Maud W. Gleason,2,0.408
+Ria Berg,Judith Hallett,2,0.516
+Ria Berg,Mary Harlow,2,0.471
+Ria Berg,Emily Hemelrijk,2,0.516
+Ria Berg,Rosemary Joyce,2,0.667
+Ria Berg,Natalie Kampen,2,0.577
+Ria Berg,D.E.E. Kleiner,2,0.577
+Ria Berg,Christian Laes,2,0.667
+Ria Berg,Eleanor Leach,2,0.667
+Ria Berg,Mireille Lee,2,0.516
+Ria Berg,Lloyd Llewellyn-Jones,2,0.667
+Ria Berg,Kristina Milnor,2,0.577
+Ria Berg,Kelly Olson,3,0.775
+Ria Berg,Sarah B. Pomeroy,2,0.471
+Ria Berg,Judith Lynn Sebesta,2,0.577
+Ria Berg,Christiane Sourvinou-Inwood,2,0.577
+Ria Berg,Kristi Upson-Saia,2,0.667
+Ria Berg,Caroline Vout,2,0.577
+Ria Berg,Greg Woolf,2,0.667
+Margarete Bieber,Sue Blundell,2,0.5
+Margarete Bieber,Larissa Bonfante,2,0.447
+Margarete Bieber,T.C. Brennan,2,0.577
+Margarete Bieber,Judith Butler,2,0.302
+Margarete Bieber,Douglas Cairns,2,0.577
+Margarete Bieber,Eva Cantarella,3,0.567
+Margarete Bieber,John R. Clarke,2,0.408
+Margarete Bieber,Kathleen Coleman,2,0.577
+Margarete Bieber,Eve D’Ambra,2,0.5
+Margarete Bieber,Fanny Dolansky,2,0.5
+Margarete Bieber,Kenneth J. Dover,2,0.378
+Margarete Bieber,P. Easterling,2,0.577
+Margarete Bieber,Catharine Edwards,2,0.408
+Margarete Bieber,Jas Elsner,2,0.447
+Margarete Bieber,Christopher A. Faraone,3,0.866
+Margarete Bieber,Judith Hallett,3,0.671
+Margarete Bieber,Ann Ellis Hanson,2,0.577
+Margarete Bieber,Mary Harlow,2,0.408
+Margarete Bieber,Madeline M. Henry,2,0.577
+Margarete Bieber,Sharon L. James,3,0.866
+Margarete Bieber,Rosemary Joyce,2,0.577
+Margarete Bieber,Natalie Kampen,3,0.75
+Margarete Bieber,Alison Keith,2,0.577
+Margarete Bieber,Eva C. Keuls,2,0.577
+Margarete Bieber,D.E.E. Kleiner,2,0.5
+Margarete Bieber,Rachel Kousser,2,0.577
+Margarete Bieber,Rebecca Langlands,2,0.577
+Margarete Bieber,Eleanor Leach,2,0.577
+Margarete Bieber,Mireille Lee,2,0.447
+Margarete Bieber,Mary R. Lefkowitz,2,0.5
+Margarete Bieber,François Lissarrague,2,0.5
+Margarete Bieber,Lloyd Llewellyn-Jones,2,0.577
+Margarete Bieber,Hugh Lloyd-Jones,2,0.577
+Margarete Bieber,Nicole Loraux,2,0.577
+Margarete Bieber,Thomas A.J. McGinn,2,0.447
+Margarete Bieber,Kristina Milnor,2,0.5
+Margarete Bieber,Jenifer Neils,2,0.577
+Margarete Bieber,Carlos Norena,2,0.577
+Margarete Bieber,Martha Nussbaum,2,0.5
+Margarete Bieber,John Oakley,2,0.577
+Margarete Bieber,Werner Peek,3,0.866
+Margarete Bieber,Sarah B. Pomeroy,3,0.612
+Margarete Bieber,Anton Powell,3,0.866
+Margarete Bieber,Amy Richlin,2,0.333
+Margarete Bieber,Nancy Jean Serwint,2,0.577
+Margarete Bieber,Erika Simon,2,0.577
+Margarete Bieber,Christiane Sourvinou-Inwood,2,0.5
+Margarete Bieber,Emma Stafford,3,0.866
+Margarete Bieber,Tom Stevenson,2,0.577
+Margarete Bieber,Ian Storey,2,0.577
+Margarete Bieber,Robert F. Sutton,2,0.577
+Margarete Bieber,Susan Treggiari,3,0.866
+Margarete Bieber,Jean-Pierre Vernant,2,0.577
+Margarete Bieber,Andrew Wallace-Hadrill,2,0.577
+Margarete Bieber,Paul Zanker,2,0.5
+Sue Blundell,Judith Butler,3,0.452
+Sue Blundell,Kathleen Coleman,2,0.577
+Sue Blundell,Eve D’Ambra,2,0.5
+Sue Blundell,Fanny Dolansky,2,0.5
+Sue Blundell,P. Easterling,2,0.577
+Sue Blundell,Jonathon Edmondson,2,0.577
+Sue Blundell,Christopher A. Faraone,2,0.577
+Sue Blundell,Maud W. Gleason,2,0.354
+Sue Blundell,Mary Harlow,3,0.612
+Sue Blundell,Natalie Kampen,2,0.5
+Sue Blundell,D.E.E. Kleiner,2,0.5
+Sue Blundell,Rachel Kousser,2,0.577
+Sue Blundell,Eleanor Leach,2,0.577
+Sue Blundell,Lloyd Llewellyn-Jones,3,0.866
+Sue Blundell,Kristina Milnor,2,0.5
+Sue Blundell,Carlos Norena,2,0.577
+Sue Blundell,Martha Nussbaum,2,0.5
+Sue Blundell,Kelly Olson,2,0.447
+Sue Blundell,Werner Peek,2,0.577
+Sue Blundell,Sarah B. Pomeroy,3,0.612
+Sue Blundell,Anton Powell,2,0.577
+Sue Blundell,Judith Lynn Sebesta,2,0.5
+Sue Blundell,Emma Stafford,2,0.577
+Sue Blundell,Kristi Upson-Saia,2,0.577
+John Boardman,John R. Clarke,2,0.471
+John Boardman,Veronique Dasen,2,0.667
+John Boardman,Suzanne Dixon,2,0.667
+John Boardman,Judith Hallett,2,0.516
+John Boardman,Emily Hemelrijk,2,0.516
+John Boardman,Rosemary Joyce,2,0.667
+John Boardman,Christian Laes,2,0.667
+John Boardman,Kelly Olson,2,0.516
+John Boardman,Greg Woolf,2,0.667
+Larissa Bonfante,Judith Butler,3,0.405
+Larissa Bonfante,John R. Clarke,2,0.365
+Larissa Bonfante,Kathleen Coleman,2,0.516
+Larissa Bonfante,Eve D’Ambra,2,0.447
+Larissa Bonfante,Fanny Dolansky,2,0.447
+Larissa Bonfante,P. Easterling,2,0.516
+Larissa Bonfante,Jonathon Edmondson,3,0.775
+Larissa Bonfante,Catharine Edwards,2,0.365
+Larissa Bonfante,Christopher A. Faraone,2,0.516
+Larissa Bonfante,Maud W. Gleason,3,0.474
+Larissa Bonfante,Mary Harlow,4,0.73
+Larissa Bonfante,Emily Hemelrijk,2,0.4
+Larissa Bonfante,Natalie Kampen,2,0.447
+Larissa Bonfante,Alison Keith,2,0.516
+Larissa Bonfante,D.E.E. Kleiner,3,0.671
+Larissa Bonfante,Rachel Kousser,3,0.775
+Larissa Bonfante,Christian Laes,2,0.516
+Larissa Bonfante,Eleanor Leach,2,0.516
+Larissa Bonfante,Lloyd Llewellyn-Jones,3,0.775
+Larissa Bonfante,Thomas A.J. McGinn,2,0.4
+Larissa Bonfante,Kristina Milnor,3,0.671
+Larissa Bonfante,Carlos Norena,2,0.516
+Larissa Bonfante,Martha Nussbaum,2,0.447
+Larissa Bonfante,Kelly Olson,3,0.6
+Larissa Bonfante,Werner Peek,2,0.516
+Larissa Bonfante,Sarah B. Pomeroy,3,0.548
+Larissa Bonfante,Anton Powell,2,0.516
+Larissa Bonfante,Judith Lynn Sebesta,3,0.671
+Larissa Bonfante,Emma Stafford,2,0.516
+Larissa Bonfante,Tom Stevenson,2,0.516
+Larissa Bonfante,Kristi Upson-Saia,2,0.516
+Larissa Bonfante,Andrew Wallace-Hadrill,2,0.516
+Larissa Bonfante,William L. Westermann,2,0.516
+Larissa Bonfante,Craig A. Williams,2,0.4
+Larissa Bonfante,Greg Woolf,2,0.516
+T.C. Brennan,Judith Butler,2,0.348
+T.C. Brennan,Eva Cantarella,2,0.436
+T.C. Brennan,Eve D’Ambra,2,0.577
+T.C. Brennan,Fanny Dolansky,2,0.577
+T.C. Brennan,Catharine Edwards,2,0.471
+T.C. Brennan,Jas Elsner,2,0.516
+T.C. Brennan,Judith Hallett,2,0.516
+T.C. Brennan,Madeline M. Henry,2,0.667
+T.C. Brennan,Sharon L. James,2,0.667
+T.C. Brennan,Natalie Kampen,2,0.577
+T.C. Brennan,Alison Keith,2,0.667
+T.C. Brennan,D.E.E. Kleiner,2,0.577
+T.C. Brennan,Rebecca Langlands,2,0.667
+T.C. Brennan,Eleanor Leach,2,0.667
+T.C. Brennan,Thomas A.J. McGinn,2,0.516
+T.C. Brennan,Kristina Milnor,2,0.577
+T.C. Brennan,Martha Nussbaum,2,0.577
+T.C. Brennan,Anton Powell,2,0.667
+T.C. Brennan,Amy Richlin,2,0.385
+T.C. Brennan,Tom Stevenson,2,0.667
+T.C. Brennan,Susan Treggiari,2,0.667
+T.C. Brennan,Andrew Wallace-Hadrill,2,0.667
+T.C. Brennan,Paul Zanker,2,0.577
+Judith Butler,Douglas Cairns,2,0.348
+Judith Butler,Eva Cantarella,4,0.456
+Judith Butler,John R. Clarke,2,0.246
+Judith Butler,Eve D’Ambra,2,0.302
+Judith Butler,Veronique Dasen,2,0.348
+Judith Butler,Glenys Davies,2,0.302
+Judith Butler,Fanny Dolansky,2,0.302
+Judith Butler,P. Easterling,3,0.522
+Judith Butler,Jonathon Edmondson,2,0.348
+Judith Butler,Jas Elsner,2,0.27
+Judith Butler,Christopher A. Faraone,2,0.348
+Judith Butler,Judith Hallett,2,0.27
+Judith Butler,Mary Harlow,4,0.492
+Judith Butler,Emily Hemelrijk,2,0.27
+Judith Butler,Madeline M. Henry,2,0.348
+Judith Butler,Natalie Kampen,2,0.302
+Judith Butler,Eva C. Keuls,2,0.348
+Judith Butler,D.E.E. Kleiner,2,0.302
+Judith Butler,Rachel Kousser,2,0.348
+Judith Butler,Rebecca Langlands,2,0.348
+Judith Butler,Eleanor Leach,2,0.348
+Judith Butler,Mireille Lee,3,0.405
+Judith Butler,Mary R. Lefkowitz,3,0.452
+Judith Butler,François Lissarrague,3,0.452
+Judith Butler,Lloyd Llewellyn-Jones,3,0.522
+Judith Butler,Hugh Lloyd-Jones,2,0.348
+Judith Butler,Nicole Loraux,2,0.348
+Judith Butler,Myles McDonnell,2,0.302
+Judith Butler,Kristina Milnor,2,0.302
+Judith Butler,Jenifer Neils,2,0.348
+Judith Butler,Onno van Nijf,2,0.302
+Judith Butler,Carlos Norena,3,0.522
+Judith Butler,John Oakley,2,0.348
+Judith Butler,Kelly Olson,2,0.27
+Judith Butler,Werner Peek,2,0.348
+Judith Butler,Sarah B. Pomeroy,4,0.492
+Judith Butler,Anton Powell,2,0.348
+Judith Butler,Amy Richlin,3,0.302
+Judith Butler,Judith Lynn Sebesta,2,0.302
+Judith Butler,Nancy Jean Serwint,2,0.348
+Judith Butler,Erika Simon,2,0.348
+Judith Butler,Christiane Sourvinou-Inwood,2,0.302
+Judith Butler,Emma Stafford,2,0.348
+Judith Butler,Ian Storey,2,0.348
+Judith Butler,Robert F. Sutton,2,0.348
+Judith Butler,Kristi Upson-Saia,2,0.348
+Judith Butler,Jean-Pierre Vernant,2,0.348
+Judith Butler,William L. Westermann,2,0.348
+Judith Butler,Craig A. Williams,4,0.539
+Douglas Cairns,Kathleen Coleman,2,0.667
+Douglas Cairns,P. Easterling,2,0.667
+Douglas Cairns,Christopher A. Faraone,2,0.667
+Douglas Cairns,Mary Harlow,2,0.471
+Douglas Cairns,Rachel Kousser,2,0.667
+Douglas Cairns,Lloyd Llewellyn-Jones,2,0.667
+Douglas Cairns,Carlos Norena,2,0.667
+Douglas Cairns,Martha Nussbaum,2,0.577
+Douglas Cairns,Werner Peek,2,0.667
+Douglas Cairns,Sarah B. Pomeroy,2,0.471
+Douglas Cairns,Anton Powell,2,0.667
+Douglas Cairns,Emma Stafford,2,0.667
+Eva Cantarella,John R. Clarke,3,0.463
+Eva Cantarella,Kathleen Coleman,2,0.436
+Eva Cantarella,Eve D’Ambra,2,0.378
+Eva Cantarella,Fanny Dolansky,2,0.378
+Eva Cantarella,P. Easterling,3,0.655
+Eva Cantarella,Jonathon Edmondson,2,0.436
+Eva Cantarella,Catharine Edwards,4,0.617
+Eva Cantarella,Jas Elsner,2,0.338
+Eva Cantarella,Christopher A. Faraone,2,0.436
+Eva Cantarella,Maud W. Gleason,3,0.401
+Eva Cantarella,Judith Hallett,2,0.338
+Eva Cantarella,Mary Harlow,3,0.463
+Eva Cantarella,Emily Hemelrijk,3,0.507
+Eva Cantarella,Madeline M. Henry,3,0.655
+Eva Cantarella,Sharon L. James,2,0.436
+Eva Cantarella,Natalie Kampen,2,0.378
+Eva Cantarella,Alison Keith,3,0.655
+Eva Cantarella,D.E.E. Kleiner,3,0.567
+Eva Cantarella,Rachel Kousser,3,0.655
+Eva Cantarella,Christian Laes,2,0.436
+Eva Cantarella,Rebecca Langlands,2,0.436
+Eva Cantarella,Eleanor Leach,2,0.436
+Eva Cantarella,Mary R. Lefkowitz,2,0.378
+Eva Cantarella,Lloyd Llewellyn-Jones,2,0.436
+Eva Cantarella,Thomas A.J. McGinn,3,0.507
+Eva Cantarella,Kristina Milnor,3,0.567
+Eva Cantarella,Carlos Norena,2,0.436
+Eva Cantarella,Martha Nussbaum,2,0.378
+Eva Cantarella,Kelly Olson,2,0.338
+Eva Cantarella,Werner Peek,2,0.436
+Eva Cantarella,Sarah B. Pomeroy,3,0.463
+Eva Cantarella,Anton Powell,3,0.655
+Eva Cantarella,Judith Lynn Sebesta,2,0.378
+Eva Cantarella,Emma Stafford,2,0.436
+Eva Cantarella,Tom Stevenson,3,0.655
+Eva Cantarella,Susan Treggiari,2,0.436
+Eva Cantarella,Andrew Wallace-Hadrill,3,0.655
+Eva Cantarella,William L. Westermann,3,0.655
+Eva Cantarella,Craig A. Williams,3,0.507
+Eva Cantarella,Greg Woolf,2,0.436
+Paul Christesen,John R. Clarke,2,0.471
+Paul Christesen,Jonathon Edmondson,2,0.667
+Paul Christesen,Catharine Edwards,2,0.471
+Paul Christesen,Maud W. Gleason,2,0.408
+Paul Christesen,Mary Harlow,2,0.471
+Paul Christesen,Emily Hemelrijk,2,0.516
+Paul Christesen,Alison Keith,2,0.667
+Paul Christesen,D.E.E. Kleiner,2,0.577
+Paul Christesen,Rachel Kousser,2,0.667
+Paul Christesen,Christian Laes,2,0.667
+Paul Christesen,Thomas A.J. McGinn,2,0.516
+Paul Christesen,Kristina Milnor,2,0.577
+Paul Christesen,Kelly Olson,2,0.516
+Paul Christesen,Judith Lynn Sebesta,2,0.577
+Paul Christesen,Tom Stevenson,2,0.667
+Paul Christesen,Andrew Wallace-Hadrill,2,0.667
+Paul Christesen,William L. Westermann,2,0.667
+Paul Christesen,Craig A. Williams,2,0.516
+Paul Christesen,Greg Woolf,2,0.667
+John R. Clarke,Veronique Dasen,2,0.471
+John R. Clarke,Glenys Davies,2,0.408
+John R. Clarke,Kenneth J. Dover,3,0.463
+John R. Clarke,P. Easterling,2,0.471
+John R. Clarke,Jonathon Edmondson,2,0.471
+John R. Clarke,Christopher A. Faraone,2,0.471
+John R. Clarke,Maud W. Gleason,3,0.433
+John R. Clarke,Christopher H. Hallett,2,0.471
+John R. Clarke,Judith Hallett,3,0.548
+John R. Clarke,Ann Ellis Hanson,2,0.471
+John R. Clarke,Sharon L. James,2,0.471
+John R. Clarke,Rosemary Joyce,3,0.707
+John R. Clarke,Natalie Kampen,2,0.408
+John R. Clarke,Alison Keith,2,0.471
+John R. Clarke,Nigel M. Kennell,2,0.471
+John R. Clarke,D.E.E. Kleiner,2,0.408
+John R. Clarke,Rachel Kousser,2,0.471
+John R. Clarke,Christian Laes,3,0.707
+John R. Clarke,Mireille Lee,2,0.365
+John R. Clarke,Mary R. Lefkowitz,2,0.408
+John R. Clarke,Myles McDonnell,2,0.408
+John R. Clarke,Kristina Milnor,2,0.408
+John R. Clarke,Onno van Nijf,2,0.408
+John R. Clarke,Werner Peek,2,0.471
+John R. Clarke,Thomas F. Scanlon,2,0.471
+John R. Clarke,Christiane Sourvinou-Inwood,2,0.408
+John R. Clarke,Emma Stafford,2,0.471
+John R. Clarke,Tom Stevenson,2,0.471
+John R. Clarke,Susan Treggiari,2,0.471
+John R. Clarke,Caroline Vout,3,0.612
+John R. Clarke,Andrew Wallace-Hadrill,2,0.471
+John R. Clarke,William L. Westermann,3,0.707
+John R. Clarke,Craig A. Williams,3,0.548
+John R. Clarke,Greg Woolf,3,0.707
+John R. Clarke,Paul Zanker,2,0.408
+Kathleen Coleman,P. Easterling,2,0.667
+Kathleen Coleman,Christopher A. Faraone,2,0.667
+Kathleen Coleman,Mary Harlow,2,0.471
+Kathleen Coleman,Eva C. Keuls,2,0.667
+Kathleen Coleman,Rachel Kousser,2,0.667
+Kathleen Coleman,Mireille Lee,2,0.516
+Kathleen Coleman,François Lissarrague,2,0.577
+Kathleen Coleman,Lloyd Llewellyn-Jones,2,0.667
+Kathleen Coleman,Hugh Lloyd-Jones,2,0.667
+Kathleen Coleman,Nicole Loraux,2,0.667
+Kathleen Coleman,Jenifer Neils,2,0.667
+Kathleen Coleman,Carlos Norena,2,0.667
+Kathleen Coleman,John Oakley,2,0.667
+Kathleen Coleman,Werner Peek,2,0.667
+Kathleen Coleman,Sarah B. Pomeroy,2,0.471
+Kathleen Coleman,Anton Powell,2,0.667
+Kathleen Coleman,Nancy Jean Serwint,2,0.667
+Kathleen Coleman,Erika Simon,2,0.667
+Kathleen Coleman,Christiane Sourvinou-Inwood,2,0.577
+Kathleen Coleman,Emma Stafford,2,0.667
+Kathleen Coleman,Ian Storey,2,0.667
+Kathleen Coleman,Robert F. Sutton,2,0.667
+Kathleen Coleman,Jean-Pierre Vernant,2,0.667
+Eve D’Ambra,Glenys Davies,2,0.5
+Eve D’Ambra,Jonathon Edmondson,2,0.577
+Eve D’Ambra,Maud W. Gleason,2,0.354
+Eve D’Ambra,Judith Hallett,2,0.447
+Eve D’Ambra,Madeline M. Henry,2,0.577
+Eve D’Ambra,Sharon L. James,2,0.577
+Eve D’Ambra,Natalie Kampen,3,0.75
+Eve D’Ambra,Alison Keith,2,0.577
+Eve D’Ambra,D.E.E. Kleiner,3,0.75
+Eve D’Ambra,Rebecca Langlands,2,0.577
+Eve D’Ambra,Eleanor Leach,3,0.866
+Eve D’Ambra,Mireille Lee,2,0.447
+Eve D’Ambra,Lloyd Llewellyn-Jones,2,0.577
+Eve D’Ambra,Kristina Milnor,3,0.75
+Eve D’Ambra,Anton Powell,2,0.577
+Eve D’Ambra,Tom Stevenson,2,0.577
+Eve D’Ambra,Susan Treggiari,2,0.577
+Eve D’Ambra,Kristi Upson-Saia,2,0.577
+Eve D’Ambra,Andrew Wallace-Hadrill,2,0.577
+Eve D’Ambra,Paul Zanker,2,0.5
+Veronique Dasen,Suzanne Dixon,2,0.667
+Veronique Dasen,Kenneth J. Dover,2,0.436
+Veronique Dasen,Maud W. Gleason,2,0.408
+Veronique Dasen,Judith Hallett,2,0.516
+Veronique Dasen,Emily Hemelrijk,2,0.516
+Veronique Dasen,Rosemary Joyce,2,0.667
+Veronique Dasen,Christian Laes,2,0.667
+Veronique Dasen,Kelly Olson,2,0.516
+Veronique Dasen,Christiane Sourvinou-Inwood,2,0.577
+Veronique Dasen,Caroline Vout,2,0.577
+Veronique Dasen,Craig A. Williams,2,0.516
+Veronique Dasen,Greg Woolf,2,0.667
+Glenys Davies,Fanny Dolansky,2,0.5
+Glenys Davies,Jonathon Edmondson,3,0.866
+Glenys Davies,Catharine Edwards,2,0.408
+Glenys Davies,Maud W. Gleason,3,0.53
+Glenys Davies,Mary Harlow,3,0.612
+Glenys Davies,Emily Hemelrijk,2,0.447
+Glenys Davies,Natalie Kampen,2,0.5
+Glenys Davies,Alison Keith,2,0.577
+Glenys Davies,D.E.E. Kleiner,3,0.75
+Glenys Davies,Rachel Kousser,2,0.577
+Glenys Davies,Christian Laes,2,0.577
+Glenys Davies,Eleanor Leach,2,0.577
+Glenys Davies,Lloyd Llewellyn-Jones,2,0.577
+Glenys Davies,Thomas A.J. McGinn,2,0.447
+Glenys Davies,Kristina Milnor,3,0.75
+Glenys Davies,Kelly Olson,3,0.671
+Glenys Davies,Sarah B. Pomeroy,2,0.408
+Glenys Davies,Judith Lynn Sebesta,3,0.75
+Glenys Davies,Tom Stevenson,2,0.577
+Glenys Davies,Kristi Upson-Saia,2,0.577
+Glenys Davies,Andrew Wallace-Hadrill,2,0.577
+Glenys Davies,William L. Westermann,2,0.577
+Glenys Davies,Craig A. Williams,2,0.447
+Glenys Davies,Greg Woolf,2,0.577
+Suzanne Dixon,Judith Hallett,2,0.516
+Suzanne Dixon,Rosemary Joyce,2,0.667
+Suzanne Dixon,Christian Laes,2,0.667
+Suzanne Dixon,Christiane Sourvinou-Inwood,2,0.577
+Suzanne Dixon,Caroline Vout,2,0.577
+Suzanne Dixon,Greg Woolf,2,0.667
+Fanny Dolansky,Jonathon Edmondson,2,0.577
+Fanny Dolansky,Maud W. Gleason,2,0.354
+Fanny Dolansky,Judith Hallett,2,0.447
+Fanny Dolansky,Madeline M. Henry,2,0.577
+Fanny Dolansky,Sharon L. James,2,0.577
+Fanny Dolansky,Natalie Kampen,3,0.75
+Fanny Dolansky,Alison Keith,2,0.577
+Fanny Dolansky,D.E.E. Kleiner,3,0.75
+Fanny Dolansky,Rebecca Langlands,2,0.577
+Fanny Dolansky,Eleanor Leach,3,0.866
+Fanny Dolansky,Mireille Lee,2,0.447
+Fanny Dolansky,Lloyd Llewellyn-Jones,2,0.577
+Fanny Dolansky,Kristina Milnor,3,0.75
+Fanny Dolansky,Anton Powell,2,0.577
+Fanny Dolansky,Tom Stevenson,2,0.577
+Fanny Dolansky,Susan Treggiari,2,0.577
+Fanny Dolansky,Kristi Upson-Saia,2,0.577
+Fanny Dolansky,Andrew Wallace-Hadrill,2,0.577
+Fanny Dolansky,Paul Zanker,2,0.5
+Kenneth J. Dover,P. Easterling,3,0.655
+Kenneth J. Dover,Jonathon Edmondson,2,0.436
+Kenneth J. Dover,Christopher A. Faraone,2,0.436
+Kenneth J. Dover,Mary Harlow,3,0.463
+Kenneth J. Dover,Emily Hemelrijk,2,0.338
+Kenneth J. Dover,Alison Keith,2,0.436
+Kenneth J. Dover,D.E.E. Kleiner,2,0.378
+Kenneth J. Dover,Rachel Kousser,3,0.655
+Kenneth J. Dover,Christian Laes,2,0.436
+Kenneth J. Dover,Lloyd Llewellyn-Jones,2,0.436
+Kenneth J. Dover,Thomas A.J. McGinn,2,0.338
+Kenneth J. Dover,Kristina Milnor,2,0.378
+Kenneth J. Dover,Carlos Norena,2,0.436
+Kenneth J. Dover,Kelly Olson,2,0.338
+Kenneth J. Dover,Werner Peek,2,0.436
+Kenneth J. Dover,Sarah B. Pomeroy,2,0.309
+Kenneth J. Dover,Anton Powell,2,0.436
+Kenneth J. Dover,Judith Lynn Sebesta,2,0.378
+Kenneth J. Dover,Emma Stafford,2,0.436
+Kenneth J. Dover,Tom Stevenson,2,0.436
+Kenneth J. Dover,Andrew Wallace-Hadrill,2,0.436
+Kenneth J. Dover,William L. Westermann,3,0.655
+Kenneth J. Dover,Craig A. Williams,4,0.676
+Kenneth J. Dover,Greg Woolf,2,0.436
+P. Easterling,Catharine Edwards,2,0.471
+P. Easterling,Christopher A. Faraone,2,0.667
+P. Easterling,Maud W. Gleason,2,0.408
+P. Easterling,Mary Harlow,2,0.471
+P. Easterling,Eva C. Keuls,2,0.667
+P. Easterling,Rachel Kousser,2,0.667
+P. Easterling,Mireille Lee,2,0.516
+P. Easterling,François Lissarrague,2,0.577
+P. Easterling,Lloyd Llewellyn-Jones,2,0.667
+P. Easterling,Hugh Lloyd-Jones,2,0.667
+P. Easterling,Nicole Loraux,2,0.667
+P. Easterling,Jenifer Neils,2,0.667
+P. Easterling,Carlos Norena,2,0.667
+P. Easterling,Martha Nussbaum,2,0.577
+P. Easterling,John Oakley,2,0.667
+P. Easterling,Werner Peek,2,0.667
+P. Easterling,Sarah B. Pomeroy,2,0.471
+P. Easterling,Anton Powell,2,0.667
+P. Easterling,Amy Richlin,2,0.385
+P. Easterling,Nancy Jean Serwint,2,0.667
+P. Easterling,Erika Simon,2,0.667
+P. Easterling,Christiane Sourvinou-Inwood,2,0.577
+P. Easterling,Emma Stafford,2,0.667
+P. Easterling,Ian Storey,2,0.667
+P. Easterling,Robert F. Sutton,2,0.667
+P. Easterling,Jean-Pierre Vernant,2,0.667
+P. Easterling,William L. Westermann,2,0.667
+P. Easterling,Craig A. Williams,2,0.516
+Jonathon Edmondson,Catharine Edwards,2,0.471
+Jonathon Edmondson,Maud W. Gleason,3,0.612
+Jonathon Edmondson,Christopher H. Hallett,2,0.667
+Jonathon Edmondson,Mary Harlow,3,0.707
+Jonathon Edmondson,Emily Hemelrijk,2,0.516
+Jonathon Edmondson,Natalie Kampen,2,0.577
+Jonathon Edmondson,Alison Keith,2,0.667
+Jonathon Edmondson,Nigel M. Kennell,2,0.667
+Jonathon Edmondson,D.E.E. Kleiner,3,0.866
+Jonathon Edmondson,Rachel Kousser,2,0.667
+Jonathon Edmondson,Christian Laes,2,0.667
+Jonathon Edmondson,Eleanor Leach,2,0.667
+Jonathon Edmondson,Mireille Lee,3,0.775
+Jonathon Edmondson,Lloyd Llewellyn-Jones,2,0.667
+Jonathon Edmondson,Myles McDonnell,2,0.577
+Jonathon Edmondson,Thomas A.J. McGinn,2,0.516
+Jonathon Edmondson,Kristina Milnor,3,0.866
+Jonathon Edmondson,Onno van Nijf,2,0.577
+Jonathon Edmondson,Kelly Olson,3,0.775
+Jonathon Edmondson,Sarah B. Pomeroy,2,0.471
+Jonathon Edmondson,Amy Richlin,2,0.385
+Jonathon Edmondson,Thomas F. Scanlon,2,0.667
+Jonathon Edmondson,Judith Lynn Sebesta,3,0.866
+Jonathon Edmondson,Tom Stevenson,2,0.667
+Jonathon Edmondson,Kristi Upson-Saia,2,0.667
+Jonathon Edmondson,Caroline Vout,2,0.577
+Jonathon Edmondson,Andrew Wallace-Hadrill,2,0.667
+Jonathon Edmondson,William L. Westermann,2,0.667
+Jonathon Edmondson,Craig A. Williams,2,0.516
+Jonathon Edmondson,Greg Woolf,2,0.667
+Jonathon Edmondson,Paul Zanker,2,0.577
+Catharine Edwards,Christopher H. Hallett,2,0.471
+Catharine Edwards,Judith Hallett,2,0.365
+Catharine Edwards,Madeline M. Henry,2,0.471
+Catharine Edwards,Sharon L. James,2,0.471
+Catharine Edwards,Natalie Kampen,2,0.408
+Catharine Edwards,Alison Keith,3,0.707
+Catharine Edwards,Nigel M. Kennell,2,0.471
+Catharine Edwards,D.E.E. Kleiner,3,0.612
+Catharine Edwards,Rachel Kousser,2,0.471
+Catharine Edwards,Christian Laes,2,0.471
+Catharine Edwards,Rebecca Langlands,2,0.471
+Catharine Edwards,Eleanor Leach,2,0.471
+Catharine Edwards,Mireille Lee,2,0.365
+Catharine Edwards,Myles McDonnell,2,0.408
+Catharine Edwards,Kristina Milnor,3,0.612
+Catharine Edwards,Onno van Nijf,2,0.408
+Catharine Edwards,Anton Powell,2,0.471
+Catharine Edwards,Thomas F. Scanlon,2,0.471
+Catharine Edwards,Tom Stevenson,3,0.707
+Catharine Edwards,Susan Treggiari,2,0.471
+Catharine Edwards,Caroline Vout,2,0.408
+Catharine Edwards,Andrew Wallace-Hadrill,3,0.707
+Catharine Edwards,William L. Westermann,3,0.707
+Catharine Edwards,Craig A. Williams,3,0.548
+Catharine Edwards,Greg Woolf,2,0.471
+Catharine Edwards,Paul Zanker,3,0.612
+Jas Elsner,Maud W. Gleason,3,0.474
+Jas Elsner,Judith Hallett,3,0.6
+Jas Elsner,Madeline M. Henry,2,0.516
+Jas Elsner,Sharon L. James,2,0.516
+Jas Elsner,Natalie Kampen,2,0.447
+Jas Elsner,Alison Keith,2,0.516
+Jas Elsner,D.E.E. Kleiner,2,0.447
+Jas Elsner,Rebecca Langlands,3,0.775
+Jas Elsner,Eleanor Leach,2,0.516
+Jas Elsner,Mary R. Lefkowitz,2,0.447
+Jas Elsner,Myles McDonnell,2,0.447
+Jas Elsner,Kristina Milnor,2,0.447
+Jas Elsner,Onno van Nijf,2,0.447
+Jas Elsner,Carlos Norena,2,0.516
+Jas Elsner,Anton Powell,2,0.516
+Jas Elsner,Tom Stevenson,2,0.516
+Jas Elsner,Susan Treggiari,2,0.516
+Jas Elsner,Kristi Upson-Saia,2,0.516
+Jas Elsner,Andrew Wallace-Hadrill,2,0.516
+Jas Elsner,Craig A. Williams,2,0.4
+Jas Elsner,Paul Zanker,2,0.447
+Christopher A. Faraone,Judith Hallett,2,0.516
+Christopher A. Faraone,Ann Ellis Hanson,2,0.667
+Christopher A. Faraone,Mary Harlow,2,0.471
+Christopher A. Faraone,Sharon L. James,2,0.667
+Christopher A. Faraone,Rosemary Joyce,2,0.667
+Christopher A. Faraone,Natalie Kampen,2,0.577
+Christopher A. Faraone,Eva C. Keuls,2,0.667
+Christopher A. Faraone,Rachel Kousser,2,0.667
+Christopher A. Faraone,Mireille Lee,2,0.516
+Christopher A. Faraone,Mary R. Lefkowitz,2,0.577
+Christopher A. Faraone,François Lissarrague,2,0.577
+Christopher A. Faraone,Lloyd Llewellyn-Jones,2,0.667
+Christopher A. Faraone,Hugh Lloyd-Jones,2,0.667
+Christopher A. Faraone,Nicole Loraux,2,0.667
+Christopher A. Faraone,Jenifer Neils,2,0.667
+Christopher A. Faraone,Carlos Norena,2,0.667
+Christopher A. Faraone,Martha Nussbaum,2,0.577
+Christopher A. Faraone,John Oakley,2,0.667
+Christopher A. Faraone,Werner Peek,3,1.0
+Christopher A. Faraone,Sarah B. Pomeroy,3,0.707
+Christopher A. Faraone,Anton Powell,2,0.667
+Christopher A. Faraone,Nancy Jean Serwint,2,0.667
+Christopher A. Faraone,Erika Simon,2,0.667
+Christopher A. Faraone,Christiane Sourvinou-Inwood,2,0.577
+Christopher A. Faraone,Emma Stafford,3,1.0
+Christopher A. Faraone,Ian Storey,2,0.667
+Christopher A. Faraone,Robert F. Sutton,2,0.667
+Christopher A. Faraone,Susan Treggiari,2,0.667
+Christopher A. Faraone,Jean-Pierre Vernant,2,0.667
+Maud W. Gleason,Christopher H. Hallett,2,0.408
+Maud W. Gleason,Judith Hallett,2,0.316
+Maud W. Gleason,Mary Harlow,4,0.577
+Maud W. Gleason,Emily Hemelrijk,2,0.316
+Maud W. Gleason,Natalie Kampen,2,0.354
+Maud W. Gleason,Alison Keith,2,0.408
+Maud W. Gleason,Nigel M. Kennell,2,0.408
+Maud W. Gleason,D.E.E. Kleiner,3,0.53
+Maud W. Gleason,Rachel Kousser,2,0.408
+Maud W. Gleason,Christian Laes,2,0.408
+Maud W. Gleason,Rebecca Langlands,2,0.408
+Maud W. Gleason,Eleanor Leach,2,0.408
+Maud W. Gleason,Mireille Lee,3,0.474
+Maud W. Gleason,Mary R. Lefkowitz,2,0.354
+Maud W. Gleason,Lloyd Llewellyn-Jones,2,0.408
+Maud W. Gleason,Myles McDonnell,3,0.53
+Maud W. Gleason,Thomas A.J. McGinn,2,0.316
+Maud W. Gleason,Kristina Milnor,3,0.53
+Maud W. Gleason,Onno van Nijf,3,0.53
+Maud W. Gleason,Carlos Norena,2,0.408
+Maud W. Gleason,Kelly Olson,3,0.474
+Maud W. Gleason,Sarah B. Pomeroy,2,0.289
+Maud W. Gleason,Amy Richlin,5,0.589
+Maud W. Gleason,Thomas F. Scanlon,2,0.408
+Maud W. Gleason,Judith Lynn Sebesta,3,0.53
+Maud W. Gleason,Tom Stevenson,2,0.408
+Maud W. Gleason,Kristi Upson-Saia,3,0.612
+Maud W. Gleason,Caroline Vout,2,0.354
+Maud W. Gleason,Andrew Wallace-Hadrill,2,0.408
+Maud W. Gleason,William L. Westermann,3,0.612
+Maud W. Gleason,Craig A. Williams,5,0.791
+Maud W. Gleason,Greg Woolf,2,0.408
+Maud W. Gleason,Paul Zanker,2,0.354
+Christopher H. Hallett,Mary Harlow,2,0.471
+Christopher H. Hallett,Emily Hemelrijk,2,0.516
+Christopher H. Hallett,Alison Keith,2,0.667
+Christopher H. Hallett,D.E.E. Kleiner,2,0.577
+Christopher H. Hallett,Rachel Kousser,2,0.667
+Christopher H. Hallett,Christian Laes,2,0.667
+Christopher H. Hallett,Thomas A.J. McGinn,2,0.516
+Christopher H. Hallett,Kristina Milnor,2,0.577
+Christopher H. Hallett,Kelly Olson,2,0.516
+Christopher H. Hallett,Judith Lynn Sebesta,2,0.577
+Christopher H. Hallett,Tom Stevenson,2,0.667
+Christopher H. Hallett,Andrew Wallace-Hadrill,2,0.667
+Christopher H. Hallett,William L. Westermann,2,0.667
+Christopher H. Hallett,Craig A. Williams,2,0.516
+Christopher H. Hallett,Greg Woolf,2,0.667
+Judith Hallett,Ann Ellis Hanson,2,0.516
+Judith Hallett,Mary Harlow,2,0.365
+Judith Hallett,Emily Hemelrijk,2,0.4
+Judith Hallett,Madeline M. Henry,2,0.516
+Judith Hallett,Sharon L. James,3,0.775
+Judith Hallett,Rosemary Joyce,3,0.775
+Judith Hallett,Natalie Kampen,3,0.671
+Judith Hallett,Alison Keith,2,0.516
+Judith Hallett,D.E.E. Kleiner,2,0.447
+Judith Hallett,Christian Laes,2,0.516
+Judith Hallett,Rebecca Langlands,3,0.775
+Judith Hallett,Eleanor Leach,2,0.516
+Judith Hallett,Mary R. Lefkowitz,3,0.671
+Judith Hallett,Myles McDonnell,2,0.447
+Judith Hallett,Thomas A.J. McGinn,2,0.4
+Judith Hallett,Kristina Milnor,2,0.447
+Judith Hallett,Onno van Nijf,2,0.447
+Judith Hallett,Carlos Norena,2,0.516
+Judith Hallett,Kelly Olson,2,0.4
+Judith Hallett,Werner Peek,2,0.516
+Judith Hallett,Sarah B. Pomeroy,2,0.365
+Judith Hallett,Anton Powell,2,0.516
+Judith Hallett,Amy Richlin,3,0.447
+Judith Hallett,Christiane Sourvinou-Inwood,2,0.447
+Judith Hallett,Emma Stafford,2,0.516
+Judith Hallett,Tom Stevenson,2,0.516
+Judith Hallett,Susan Treggiari,3,0.775
+Judith Hallett,Caroline Vout,2,0.447
+Judith Hallett,Andrew Wallace-Hadrill,2,0.516
+Judith Hallett,Craig A. Williams,2,0.4
+Judith Hallett,Greg Woolf,2,0.516
+Judith Hallett,Paul Zanker,2,0.447
+Ann Ellis Hanson,Sharon L. James,2,0.667
+Ann Ellis Hanson,Rosemary Joyce,2,0.667
+Ann Ellis Hanson,Natalie Kampen,2,0.577
+Ann Ellis Hanson,Mary R. Lefkowitz,2,0.577
+Ann Ellis Hanson,Werner Peek,2,0.667
+Ann Ellis Hanson,Sarah B. Pomeroy,2,0.471
+Ann Ellis Hanson,Emma Stafford,2,0.667
+Ann Ellis Hanson,Susan Treggiari,2,0.667
+Mary Harlow,Natalie Kampen,2,0.408
+Mary Harlow,Alison Keith,2,0.471
+Mary Harlow,Nigel M. Kennell,2,0.471
+Mary Harlow,Eva C. Keuls,2,0.471
+Mary Harlow,D.E.E. Kleiner,3,0.612
+Mary Harlow,Rachel Kousser,3,0.707
+Mary Harlow,Christian Laes,2,0.471
+Mary Harlow,Rebecca Langlands,2,0.471
+Mary Harlow,Eleanor Leach,2,0.471
+Mary Harlow,Mireille Lee,4,0.73
+Mary Harlow,Mary R. Lefkowitz,2,0.408
+Mary Harlow,François Lissarrague,2,0.408
+Mary Harlow,Lloyd Llewellyn-Jones,3,0.707
+Mary Harlow,Hugh Lloyd-Jones,2,0.471
+Mary Harlow,Nicole Loraux,2,0.471
+Mary Harlow,Myles McDonnell,3,0.612
+Mary Harlow,Kristina Milnor,3,0.612
+Mary Harlow,Jenifer Neils,2,0.471
+Mary Harlow,Onno van Nijf,3,0.612
+Mary Harlow,Carlos Norena,3,0.707
+Mary Harlow,Martha Nussbaum,2,0.408
+Mary Harlow,John Oakley,2,0.471
+Mary Harlow,Werner Peek,2,0.471
+Mary Harlow,Anton Powell,2,0.471
+Mary Harlow,Thomas F. Scanlon,2,0.471
+Mary Harlow,Nancy Jean Serwint,2,0.471
+Mary Harlow,Erika Simon,2,0.471
+Mary Harlow,Christiane Sourvinou-Inwood,2,0.408
+Mary Harlow,Emma Stafford,2,0.471
+Mary Harlow,Tom Stevenson,2,0.471
+Mary Harlow,Ian Storey,2,0.471
+Mary Harlow,Robert F. Sutton,2,0.471
+Mary Harlow,Kristi Upson-Saia,2,0.471
+Mary Harlow,Jean-Pierre Vernant,2,0.471
+Mary Harlow,Caroline Vout,2,0.408
+Mary Harlow,Andrew Wallace-Hadrill,2,0.471
+Mary Harlow,William L. Westermann,2,0.471
+Mary Harlow,Craig A. Williams,3,0.548
+Mary Harlow,Greg Woolf,2,0.471
+Mary Harlow,Paul Zanker,2,0.408
+Emily Hemelrijk,Madeline M. Henry,2,0.516
+Emily Hemelrijk,Rosemary Joyce,2,0.516
+Emily Hemelrijk,Alison Keith,2,0.516
+Emily Hemelrijk,Nigel M. Kennell,2,0.516
+Emily Hemelrijk,D.E.E. Kleiner,2,0.447
+Emily Hemelrijk,Rachel Kousser,2,0.516
+Emily Hemelrijk,Christian Laes,3,0.775
+Emily Hemelrijk,Mireille Lee,2,0.4
+Emily Hemelrijk,Mary R. Lefkowitz,2,0.447
+Emily Hemelrijk,François Lissarrague,2,0.447
+Emily Hemelrijk,Myles McDonnell,2,0.447
+Emily Hemelrijk,Kristina Milnor,2,0.447
+Emily Hemelrijk,Onno van Nijf,2,0.447
+Emily Hemelrijk,Thomas F. Scanlon,2,0.516
+Emily Hemelrijk,Christiane Sourvinou-Inwood,2,0.447
+Emily Hemelrijk,Tom Stevenson,2,0.516
+Emily Hemelrijk,Caroline Vout,3,0.671
+Emily Hemelrijk,Andrew Wallace-Hadrill,2,0.516
+Emily Hemelrijk,William L. Westermann,2,0.516
+Emily Hemelrijk,Craig A. Williams,2,0.4
+Emily Hemelrijk,Greg Woolf,3,0.775
+Emily Hemelrijk,Paul Zanker,2,0.447
+Madeline M. Henry,Sharon L. James,2,0.667
+Madeline M. Henry,Natalie Kampen,2,0.577
+Madeline M. Henry,Alison Keith,2,0.667
+Madeline M. Henry,D.E.E. Kleiner,2,0.577
+Madeline M. Henry,Rebecca Langlands,2,0.667
+Madeline M. Henry,Eleanor Leach,2,0.667
+Madeline M. Henry,Mary R. Lefkowitz,2,0.577
+Madeline M. Henry,François Lissarrague,2,0.577
+Madeline M. Henry,Thomas A.J. McGinn,2,0.516
+Madeline M. Henry,Kristina Milnor,2,0.577
+Madeline M. Henry,Sarah B. Pomeroy,2,0.471
+Madeline M. Henry,Anton Powell,2,0.667
+Madeline M. Henry,Amy Richlin,2,0.385
+Madeline M. Henry,Tom Stevenson,2,0.667
+Madeline M. Henry,Susan Treggiari,2,0.667
+Madeline M. Henry,Andrew Wallace-Hadrill,2,0.667
+Madeline M. Henry,Paul Zanker,2,0.577
+Sharon L. James,Rosemary Joyce,2,0.667
+Sharon L. James,Natalie Kampen,3,0.866
+Sharon L. James,Alison Keith,2,0.667
+Sharon L. James,D.E.E. Kleiner,2,0.577
+Sharon L. James,Rebecca Langlands,2,0.667
+Sharon L. James,Eleanor Leach,2,0.667
+Sharon L. James,Mary R. Lefkowitz,2,0.577
+Sharon L. James,Thomas A.J. McGinn,2,0.516
+Sharon L. James,Kristina Milnor,2,0.577
+Sharon L. James,Werner Peek,2,0.667
+Sharon L. James,Sarah B. Pomeroy,2,0.471
+Sharon L. James,Anton Powell,2,0.667
+Sharon L. James,Amy Richlin,2,0.385
+Sharon L. James,Emma Stafford,2,0.667
+Sharon L. James,Tom Stevenson,2,0.667
+Sharon L. James,Susan Treggiari,3,1.0
+Sharon L. James,Andrew Wallace-Hadrill,2,0.667
+Sharon L. James,Paul Zanker,2,0.577
+Rosemary Joyce,Natalie Kampen,2,0.577
+Rosemary Joyce,Christian Laes,2,0.667
+Rosemary Joyce,Mary R. Lefkowitz,2,0.577
+Rosemary Joyce,Kelly Olson,2,0.516
+Rosemary Joyce,Werner Peek,2,0.667
+Rosemary Joyce,Sarah B. Pomeroy,2,0.471
+Rosemary Joyce,Christiane Sourvinou-Inwood,2,0.577
+Rosemary Joyce,Emma Stafford,2,0.667
+Rosemary Joyce,Susan Treggiari,2,0.667
+Rosemary Joyce,Caroline Vout,2,0.577
+Rosemary Joyce,Greg Woolf,2,0.667
+Natalie Kampen,Alison Keith,2,0.577
+Natalie Kampen,D.E.E. Kleiner,3,0.75
+Natalie Kampen,Rebecca Langlands,2,0.577
+Natalie Kampen,Eleanor Leach,3,0.866
+Natalie Kampen,Mireille Lee,2,0.447
+Natalie Kampen,Mary R. Lefkowitz,2,0.5
+Natalie Kampen,Lloyd Llewellyn-Jones,2,0.577
+Natalie Kampen,Thomas A.J. McGinn,2,0.447
+Natalie Kampen,Kristina Milnor,3,0.75
+Natalie Kampen,Kelly Olson,2,0.447
+Natalie Kampen,Werner Peek,2,0.577
+Natalie Kampen,Sarah B. Pomeroy,3,0.612
+Natalie Kampen,Anton Powell,2,0.577
+Natalie Kampen,Amy Richlin,2,0.333
+Natalie Kampen,Judith Lynn Sebesta,2,0.5
+Natalie Kampen,Emma Stafford,2,0.577
+Natalie Kampen,Tom Stevenson,2,0.577
+Natalie Kampen,Susan Treggiari,3,0.866
+Natalie Kampen,Kristi Upson-Saia,2,0.577
+Natalie Kampen,Andrew Wallace-Hadrill,2,0.577
+Natalie Kampen,Paul Zanker,2,0.5
+Alison Keith,Nigel M. Kennell,2,0.667
+Alison Keith,D.E.E. Kleiner,3,0.866
+Alison Keith,Rachel Kousser,2,0.667
+Alison Keith,Christian Laes,2,0.667
+Alison Keith,Rebecca Langlands,2,0.667
+Alison Keith,Eleanor Leach,2,0.667
+Alison Keith,Mireille Lee,2,0.516
+Alison Keith,Myles McDonnell,2,0.577
+Alison Keith,Thomas A.J. McGinn,3,0.775
+Alison Keith,Kristina Milnor,3,0.866
+Alison Keith,Onno van Nijf,2,0.577
+Alison Keith,Kelly Olson,2,0.516
+Alison Keith,Anton Powell,2,0.667
+Alison Keith,Amy Richlin,3,0.577
+Alison Keith,Thomas F. Scanlon,2,0.667
+Alison Keith,Judith Lynn Sebesta,2,0.577
+Alison Keith,Tom Stevenson,3,1.0
+Alison Keith,Susan Treggiari,2,0.667
+Alison Keith,Caroline Vout,2,0.577
+Alison Keith,Andrew Wallace-Hadrill,3,1.0
+Alison Keith,William L. Westermann,2,0.667
+Alison Keith,Craig A. Williams,2,0.516
+Alison Keith,Greg Woolf,2,0.667
+Alison Keith,Paul Zanker,3,0.866
+Nigel M. Kennell,D.E.E. Kleiner,2,0.577
+Nigel M. Kennell,Rachel Kousser,2,0.667
+Nigel M. Kennell,Christian Laes,2,0.667
+Nigel M. Kennell,Thomas A.J. McGinn,2,0.516
+Nigel M. Kennell,Kristina Milnor,2,0.577
+Nigel M. Kennell,Kelly Olson,2,0.516
+Nigel M. Kennell,Judith Lynn Sebesta,2,0.577
+Nigel M. Kennell,Tom Stevenson,2,0.667
+Nigel M. Kennell,Andrew Wallace-Hadrill,2,0.667
+Nigel M. Kennell,William L. Westermann,2,0.667
+Nigel M. Kennell,Craig A. Williams,2,0.516
+Nigel M. Kennell,Greg Woolf,2,0.667
+Eva C. Keuls,Rachel Kousser,2,0.667
+Eva C. Keuls,Lloyd Llewellyn-Jones,2,0.667
+Eva C. Keuls,Carlos Norena,2,0.667
+Eva C. Keuls,Martha Nussbaum,2,0.577
+Eva C. Keuls,Werner Peek,2,0.667
+Eva C. Keuls,Sarah B. Pomeroy,2,0.471
+Eva C. Keuls,Anton Powell,2,0.667
+Eva C. Keuls,Emma Stafford,2,0.667
+D.E.E. Kleiner,Rachel Kousser,2,0.577
+D.E.E. Kleiner,Christian Laes,2,0.577
+D.E.E. Kleiner,Rebecca Langlands,2,0.577
+D.E.E. Kleiner,Eleanor Leach,3,0.866
+D.E.E. Kleiner,Mireille Lee,3,0.671
+D.E.E. Kleiner,Lloyd Llewellyn-Jones,2,0.577
+D.E.E. Kleiner,Myles McDonnell,2,0.5
+D.E.E. Kleiner,Thomas A.J. McGinn,3,0.671
+D.E.E. Kleiner,Kristina Milnor,4,1.0
+D.E.E. Kleiner,Onno van Nijf,2,0.5
+D.E.E. Kleiner,Kelly Olson,3,0.671
+D.E.E. Kleiner,Sarah B. Pomeroy,2,0.408
+D.E.E. Kleiner,Anton Powell,2,0.577
+D.E.E. Kleiner,Amy Richlin,3,0.5
+D.E.E. Kleiner,Thomas F. Scanlon,2,0.577
+D.E.E. Kleiner,Judith Lynn Sebesta,3,0.75
+D.E.E. Kleiner,Tom Stevenson,3,0.866
+D.E.E. Kleiner,Susan Treggiari,2,0.577
+D.E.E. Kleiner,Kristi Upson-Saia,2,0.577
+D.E.E. Kleiner,Caroline Vout,2,0.5
+D.E.E. Kleiner,Andrew Wallace-Hadrill,3,0.866
+D.E.E. Kleiner,William L. Westermann,2,0.577
+D.E.E. Kleiner,Craig A. Williams,2,0.447
+D.E.E. Kleiner,Greg Woolf,2,0.577
+D.E.E. Kleiner,Paul Zanker,3,0.75
+Rachel Kousser,Christian Laes,2,0.667
+Rachel Kousser,Mireille Lee,3,0.775
+Rachel Kousser,François Lissarrague,2,0.577
+Rachel Kousser,Lloyd Llewellyn-Jones,2,0.667
+Rachel Kousser,Hugh Lloyd-Jones,2,0.667
+Rachel Kousser,Nicole Loraux,2,0.667
+Rachel Kousser,Myles McDonnell,2,0.577
+Rachel Kousser,Thomas A.J. McGinn,2,0.516
+Rachel Kousser,Kristina Milnor,2,0.577
+Rachel Kousser,Jenifer Neils,2,0.667
+Rachel Kousser,Onno van Nijf,2,0.577
+Rachel Kousser,Carlos Norena,2,0.667
+Rachel Kousser,Martha Nussbaum,2,0.577
+Rachel Kousser,John Oakley,2,0.667
+Rachel Kousser,Kelly Olson,2,0.516
+Rachel Kousser,Werner Peek,2,0.667
+Rachel Kousser,Sarah B. Pomeroy,2,0.471
+Rachel Kousser,Anton Powell,2,0.667
+Rachel Kousser,Amy Richlin,2,0.385
+Rachel Kousser,Thomas F. Scanlon,2,0.667
+Rachel Kousser,Judith Lynn Sebesta,2,0.577
+Rachel Kousser,Nancy Jean Serwint,2,0.667
+Rachel Kousser,Erika Simon,2,0.667
+Rachel Kousser,Christiane Sourvinou-Inwood,2,0.577
+Rachel Kousser,Emma Stafford,2,0.667
+Rachel Kousser,Tom Stevenson,2,0.667
+Rachel Kousser,Ian Storey,2,0.667
+Rachel Kousser,Robert F. Sutton,2,0.667
+Rachel Kousser,Jean-Pierre Vernant,2,0.667
+Rachel Kousser,Caroline Vout,2,0.577
+Rachel Kousser,Andrew Wallace-Hadrill,2,0.667
+Rachel Kousser,William L. Westermann,2,0.667
+Rachel Kousser,Craig A. Williams,2,0.516
+Rachel Kousser,Greg Woolf,2,0.667
+Rachel Kousser,Paul Zanker,2,0.577
+Christian Laes,Mireille Lee,2,0.516
+Christian Laes,Myles McDonnell,2,0.577
+Christian Laes,Thomas A.J. McGinn,2,0.516
+Christian Laes,Kristina Milnor,2,0.577
+Christian Laes,Onno van Nijf,2,0.577
+Christian Laes,Kelly Olson,3,0.775
+Christian Laes,Amy Richlin,2,0.385
+Christian Laes,Thomas F. Scanlon,2,0.667
+Christian Laes,Judith Lynn Sebesta,2,0.577
+Christian Laes,Christiane Sourvinou-Inwood,2,0.577
+Christian Laes,Tom Stevenson,2,0.667
+Christian Laes,Caroline Vout,3,0.866
+Christian Laes,Andrew Wallace-Hadrill,2,0.667
+Christian Laes,William L. Westermann,2,0.667
+Christian Laes,Craig A. Williams,2,0.516
+Christian Laes,Greg Woolf,3,1.0
+Christian Laes,Paul Zanker,2,0.577
+Rebecca Langlands,Eleanor Leach,2,0.667
+Rebecca Langlands,Mary R. Lefkowitz,2,0.577
+Rebecca Langlands,Myles McDonnell,2,0.577
+Rebecca Langlands,Thomas A.J. McGinn,2,0.516
+Rebecca Langlands,Kristina Milnor,2,0.577
+Rebecca Langlands,Onno van Nijf,2,0.577
+Rebecca Langlands,Carlos Norena,2,0.667
+Rebecca Langlands,Anton Powell,2,0.667
+Rebecca Langlands,Amy Richlin,3,0.577
+Rebecca Langlands,Tom Stevenson,2,0.667
+Rebecca Langlands,Susan Treggiari,2,0.667
+Rebecca Langlands,Andrew Wallace-Hadrill,2,0.667
+Rebecca Langlands,Craig A. Williams,2,0.516
+Rebecca Langlands,Paul Zanker,2,0.577
+Eleanor Leach,Mireille Lee,2,0.516
+Eleanor Leach,Lloyd Llewellyn-Jones,2,0.667
+Eleanor Leach,Thomas A.J. McGinn,2,0.516
+Eleanor Leach,Kristina Milnor,3,0.866
+Eleanor Leach,Kelly Olson,2,0.516
+Eleanor Leach,Sarah B. Pomeroy,2,0.471
+Eleanor Leach,Anton Powell,2,0.667
+Eleanor Leach,Amy Richlin,2,0.385
+Eleanor Leach,Judith Lynn Sebesta,2,0.577
+Eleanor Leach,Tom Stevenson,2,0.667
+Eleanor Leach,Susan Treggiari,2,0.667
+Eleanor Leach,Kristi Upson-Saia,2,0.667
+Eleanor Leach,Andrew Wallace-Hadrill,2,0.667
+Eleanor Leach,Paul Zanker,2,0.577
+Mireille Lee,Lloyd Llewellyn-Jones,3,0.775
+Mireille Lee,Thomas A.J. McGinn,2,0.4
+Mireille Lee,Kristina Milnor,3,0.671
+Mireille Lee,Carlos Norena,2,0.516
+Mireille Lee,Martha Nussbaum,2,0.447
+Mireille Lee,Kelly Olson,3,0.6
+Mireille Lee,Werner Peek,2,0.516
+Mireille Lee,Sarah B. Pomeroy,3,0.548
+Mireille Lee,Anton Powell,2,0.516
+Mireille Lee,Judith Lynn Sebesta,3,0.671
+Mireille Lee,Emma Stafford,2,0.516
+Mireille Lee,Tom Stevenson,2,0.516
+Mireille Lee,Kristi Upson-Saia,2,0.516
+Mireille Lee,Andrew Wallace-Hadrill,2,0.516
+Mireille Lee,William L. Westermann,2,0.516
+Mireille Lee,Craig A. Williams,2,0.4
+Mireille Lee,Greg Woolf,2,0.516
+Mary R. Lefkowitz,François Lissarrague,2,0.5
+Mary R. Lefkowitz,Myles McDonnell,2,0.5
+Mary R. Lefkowitz,Onno van Nijf,2,0.5
+Mary R. Lefkowitz,Carlos Norena,2,0.577
+Mary R. Lefkowitz,Werner Peek,2,0.577
+Mary R. Lefkowitz,Sarah B. Pomeroy,3,0.612
+Mary R. Lefkowitz,Amy Richlin,2,0.333
+Mary R. Lefkowitz,Emma Stafford,2,0.577
+Mary R. Lefkowitz,Susan Treggiari,2,0.577
+Mary R. Lefkowitz,Craig A. Williams,2,0.447
+François Lissarrague,Lloyd Llewellyn-Jones,2,0.577
+François Lissarrague,Carlos Norena,2,0.577
+François Lissarrague,Martha Nussbaum,2,0.5
+François Lissarrague,Werner Peek,2,0.577
+François Lissarrague,Sarah B. Pomeroy,3,0.612
+François Lissarrague,Anton Powell,2,0.577
+François Lissarrague,Emma Stafford,2,0.577
+Lloyd Llewellyn-Jones,Hugh Lloyd-Jones,2,0.667
+Lloyd Llewellyn-Jones,Nicole Loraux,2,0.667
+Lloyd Llewellyn-Jones,Kristina Milnor,2,0.577
+Lloyd Llewellyn-Jones,Jenifer Neils,2,0.667
+Lloyd Llewellyn-Jones,Carlos Norena,2,0.667
+Lloyd Llewellyn-Jones,Martha Nussbaum,2,0.577
+Lloyd Llewellyn-Jones,John Oakley,2,0.667
+Lloyd Llewellyn-Jones,Kelly Olson,2,0.516
+Lloyd Llewellyn-Jones,Werner Peek,2,0.667
+Lloyd Llewellyn-Jones,Sarah B. Pomeroy,3,0.707
+Lloyd Llewellyn-Jones,Anton Powell,2,0.667
+Lloyd Llewellyn-Jones,Judith Lynn Sebesta,2,0.577
+Lloyd Llewellyn-Jones,Nancy Jean Serwint,2,0.667
+Lloyd Llewellyn-Jones,Erika Simon,2,0.667
+Lloyd Llewellyn-Jones,Christiane Sourvinou-Inwood,2,0.577
+Lloyd Llewellyn-Jones,Emma Stafford,2,0.667
+Lloyd Llewellyn-Jones,Ian Storey,2,0.667
+Lloyd Llewellyn-Jones,Robert F. Sutton,2,0.667
+Lloyd Llewellyn-Jones,Kristi Upson-Saia,2,0.667
+Lloyd Llewellyn-Jones,Jean-Pierre Vernant,2,0.667
+Hugh Lloyd-Jones,Carlos Norena,2,0.667
+Hugh Lloyd-Jones,Martha Nussbaum,2,0.577
+Hugh Lloyd-Jones,Werner Peek,2,0.667
+Hugh Lloyd-Jones,Sarah B. Pomeroy,2,0.471
+Hugh Lloyd-Jones,Anton Powell,2,0.667
+Hugh Lloyd-Jones,Emma Stafford,2,0.667
+Nicole Loraux,Carlos Norena,2,0.667
+Nicole Loraux,Martha Nussbaum,2,0.577
+Nicole Loraux,Werner Peek,2,0.667
+Nicole Loraux,Sarah B. Pomeroy,2,0.471
+Nicole Loraux,Anton Powell,2,0.667
+Nicole Loraux,Emma Stafford,2,0.667
+Myles McDonnell,Thomas A.J. McGinn,2,0.447
+Myles McDonnell,Kristina Milnor,2,0.5
+Myles McDonnell,Carlos Norena,2,0.577
+Myles McDonnell,Kelly Olson,2,0.447
+Myles McDonnell,Judith Lynn Sebesta,2,0.5
+Myles McDonnell,Tom Stevenson,2,0.577
+Myles McDonnell,Andrew Wallace-Hadrill,2,0.577
+Myles McDonnell,William L. Westermann,2,0.577
+Myles McDonnell,Craig A. Williams,3,0.671
+Myles McDonnell,Greg Woolf,2,0.577
+Thomas A.J. McGinn,Kristina Milnor,3,0.671
+Thomas A.J. McGinn,Onno van Nijf,2,0.447
+Thomas A.J. McGinn,Anton Powell,2,0.516
+Thomas A.J. McGinn,Thomas F. Scanlon,2,0.516
+Thomas A.J. McGinn,Tom Stevenson,3,0.775
+Thomas A.J. McGinn,Susan Treggiari,2,0.516
+Thomas A.J. McGinn,Caroline Vout,2,0.447
+Thomas A.J. McGinn,Andrew Wallace-Hadrill,3,0.775
+Thomas A.J. McGinn,William L. Westermann,2,0.516
+Thomas A.J. McGinn,Craig A. Williams,2,0.4
+Thomas A.J. McGinn,Greg Woolf,2,0.516
+Thomas A.J. McGinn,Paul Zanker,3,0.671
+Kristina Milnor,Onno van Nijf,2,0.5
+Kristina Milnor,Kelly Olson,3,0.671
+Kristina Milnor,Sarah B. Pomeroy,2,0.408
+Kristina Milnor,Anton Powell,2,0.577
+Kristina Milnor,Amy Richlin,3,0.5
+Kristina Milnor,Thomas F. Scanlon,2,0.577
+Kristina Milnor,Judith Lynn Sebesta,3,0.75
+Kristina Milnor,Tom Stevenson,3,0.866
+Kristina Milnor,Susan Treggiari,2,0.577
+Kristina Milnor,Kristi Upson-Saia,2,0.577
+Kristina Milnor,Caroline Vout,2,0.5
+Kristina Milnor,Andrew Wallace-Hadrill,3,0.866
+Kristina Milnor,William L. Westermann,2,0.577
+Kristina Milnor,Craig A. Williams,2,0.447
+Kristina Milnor,Greg Woolf,2,0.577
+Kristina Milnor,Paul Zanker,3,0.75
+Jenifer Neils,Carlos Norena,2,0.667
+Jenifer Neils,Martha Nussbaum,2,0.577
+Jenifer Neils,Werner Peek,2,0.667
+Jenifer Neils,Sarah B. Pomeroy,2,0.471
+Jenifer Neils,Anton Powell,2,0.667
+Jenifer Neils,Emma Stafford,2,0.667
+Onno van Nijf,Carlos Norena,2,0.577
+Onno van Nijf,Kelly Olson,2,0.447
+Onno van Nijf,Judith Lynn Sebesta,2,0.5
+Onno van Nijf,Tom Stevenson,2,0.577
+Onno van Nijf,Andrew Wallace-Hadrill,2,0.577
+Onno van Nijf,William L. Westermann,2,0.577
+Onno van Nijf,Craig A. Williams,3,0.671
+Onno van Nijf,Greg Woolf,2,0.577
+Carlos Norena,Martha Nussbaum,2,0.577
+Carlos Norena,John Oakley,2,0.667
+Carlos Norena,Werner Peek,2,0.667
+Carlos Norena,Sarah B. Pomeroy,2,0.471
+Carlos Norena,Anton Powell,2,0.667
+Carlos Norena,Amy Richlin,2,0.385
+Carlos Norena,Nancy Jean Serwint,2,0.667
+Carlos Norena,Erika Simon,2,0.667
+Carlos Norena,Christiane Sourvinou-Inwood,2,0.577
+Carlos Norena,Emma Stafford,2,0.667
+Carlos Norena,Ian Storey,2,0.667
+Carlos Norena,Robert F. Sutton,2,0.667
+Carlos Norena,Jean-Pierre Vernant,2,0.667
+Carlos Norena,Craig A. Williams,2,0.516
+Martha Nussbaum,John Oakley,2,0.577
+Martha Nussbaum,Werner Peek,2,0.577
+Martha Nussbaum,Sarah B. Pomeroy,2,0.408
+Martha Nussbaum,Anton Powell,2,0.577
+Martha Nussbaum,Nancy Jean Serwint,2,0.577
+Martha Nussbaum,Erika Simon,2,0.577
+Martha Nussbaum,Christiane Sourvinou-Inwood,2,0.5
+Martha Nussbaum,Emma Stafford,2,0.577
+Martha Nussbaum,Ian Storey,2,0.577
+Martha Nussbaum,Robert F. Sutton,2,0.577
+Martha Nussbaum,Jean-Pierre Vernant,2,0.577
+John Oakley,Werner Peek,2,0.667
+John Oakley,Sarah B. Pomeroy,2,0.471
+John Oakley,Anton Powell,2,0.667
+John Oakley,Emma Stafford,2,0.667
+Kelly Olson,Thomas F. Scanlon,2,0.516
+Kelly Olson,Christiane Sourvinou-Inwood,2,0.447
+Kelly Olson,Tom Stevenson,2,0.516
+Kelly Olson,Kristi Upson-Saia,2,0.516
+Kelly Olson,Caroline Vout,3,0.671
+Kelly Olson,Andrew Wallace-Hadrill,2,0.516
+Kelly Olson,William L. Westermann,2,0.516
+Kelly Olson,Craig A. Williams,2,0.4
+Kelly Olson,Greg Woolf,3,0.775
+Kelly Olson,Paul Zanker,2,0.447
+Werner Peek,Sarah B. Pomeroy,3,0.707
+Werner Peek,Anton Powell,2,0.667
+Werner Peek,Nancy Jean Serwint,2,0.667
+Werner Peek,Erika Simon,2,0.667
+Werner Peek,Christiane Sourvinou-Inwood,2,0.577
+Werner Peek,Emma Stafford,3,1.0
+Werner Peek,Ian Storey,2,0.667
+Werner Peek,Robert F. Sutton,2,0.667
+Werner Peek,Susan Treggiari,2,0.667
+Werner Peek,Jean-Pierre Vernant,2,0.667
+Sarah B. Pomeroy,Anton Powell,2,0.471
+Sarah B. Pomeroy,Nancy Jean Serwint,2,0.471
+Sarah B. Pomeroy,Erika Simon,2,0.471
+Sarah B. Pomeroy,Christiane Sourvinou-Inwood,2,0.408
+Sarah B. Pomeroy,Emma Stafford,3,0.707
+Sarah B. Pomeroy,Ian Storey,2,0.471
+Sarah B. Pomeroy,Robert F. Sutton,2,0.471
+Sarah B. Pomeroy,Susan Treggiari,2,0.471
+Sarah B. Pomeroy,Kristi Upson-Saia,2,0.471
+Sarah B. Pomeroy,Jean-Pierre Vernant,2,0.471
+Anton Powell,Amy Richlin,2,0.385
+Anton Powell,Nancy Jean Serwint,2,0.667
+Anton Powell,Erika Simon,2,0.667
+Anton Powell,Christiane Sourvinou-Inwood,2,0.577
+Anton Powell,Emma Stafford,2,0.667
+Anton Powell,Tom Stevenson,2,0.667
+Anton Powell,Ian Storey,2,0.667
+Anton Powell,Robert F. Sutton,2,0.667
+Anton Powell,Susan Treggiari,2,0.667
+Anton Powell,Jean-Pierre Vernant,2,0.667
+Anton Powell,Andrew Wallace-Hadrill,2,0.667
+Anton Powell,Paul Zanker,2,0.577
+Amy Richlin,Tom Stevenson,3,0.577
+Amy Richlin,Susan Treggiari,2,0.385
+Amy Richlin,Kristi Upson-Saia,2,0.385
+Amy Richlin,Andrew Wallace-Hadrill,3,0.577
+Amy Richlin,William L. Westermann,3,0.577
+Amy Richlin,Craig A. Williams,4,0.596
+Amy Richlin,Greg Woolf,2,0.385
+Thomas F. Scanlon,Judith Lynn Sebesta,2,0.577
+Thomas F. Scanlon,Tom Stevenson,2,0.667
+Thomas F. Scanlon,Andrew Wallace-Hadrill,2,0.667
+Thomas F. Scanlon,William L. Westermann,2,0.667
+Thomas F. Scanlon,Craig A. Williams,2,0.516
+Thomas F. Scanlon,Greg Woolf,2,0.667
+Judith Lynn Sebesta,Tom Stevenson,2,0.577
+Judith Lynn Sebesta,Kristi Upson-Saia,2,0.577
+Judith Lynn Sebesta,Caroline Vout,2,0.5
+Judith Lynn Sebesta,Andrew Wallace-Hadrill,2,0.577
+Judith Lynn Sebesta,William L. Westermann,2,0.577
+Judith Lynn Sebesta,Craig A. Williams,2,0.447
+Judith Lynn Sebesta,Greg Woolf,2,0.577
+Judith Lynn Sebesta,Paul Zanker,2,0.5
+Nancy Jean Serwint,Emma Stafford,2,0.667
+Erika Simon,Emma Stafford,2,0.667
+Christiane Sourvinou-Inwood,Emma Stafford,2,0.577
+Christiane Sourvinou-Inwood,Greg Woolf,2,0.577
+Emma Stafford,Ian Storey,2,0.667
+Emma Stafford,Robert F. Sutton,2,0.667
+Emma Stafford,Susan Treggiari,2,0.667
+Emma Stafford,Jean-Pierre Vernant,2,0.667
+Tom Stevenson,Susan Treggiari,2,0.667
+Tom Stevenson,Caroline Vout,2,0.577
+Tom Stevenson,Andrew Wallace-Hadrill,3,1.0
+Tom Stevenson,William L. Westermann,2,0.667
+Tom Stevenson,Craig A. Williams,2,0.516
+Tom Stevenson,Greg Woolf,2,0.667
+Tom Stevenson,Paul Zanker,3,0.866
+Susan Treggiari,Andrew Wallace-Hadrill,2,0.667
+Susan Treggiari,Paul Zanker,2,0.577
+Caroline Vout,Andrew Wallace-Hadrill,2,0.577
+Caroline Vout,William L. Westermann,2,0.577
+Caroline Vout,Craig A. Williams,2,0.447
+Caroline Vout,Greg Woolf,3,0.866
+Andrew Wallace-Hadrill,William L. Westermann,2,0.667
+Andrew Wallace-Hadrill,Craig A. Williams,2,0.516
+Andrew Wallace-Hadrill,Greg Woolf,2,0.667
+Andrew Wallace-Hadrill,Paul Zanker,3,0.866
+William L. Westermann,Craig A. Williams,3,0.775
+William L. Westermann,Greg Woolf,2,0.667
+William L. Westermann,Paul Zanker,2,0.577
+Craig A. Williams,Greg Woolf,2,0.516
+Craig A. Williams,Paul Zanker,2,0.447
+Greg Woolf,Paul Zanker,2,0.577
+Shlomo Dov Goitein,Christiane Klapisch-Zuber,2,0.667
+Shlomo Dov Goitein,Thomas Kuehn,2,0.667
+Roger S. Bagnall,Mary Beard,2,0.4
+Roger S. Bagnall,John R. Clarke,2,0.365
+Roger S. Bagnall,Lawrence Conrad,2,0.516
+Roger S. Bagnall,Raffaella Cribiore,3,0.775
+Roger S. Bagnall,James N. Davidson,2,0.447
+Roger S. Bagnall,Mary R. Lefkowitz,2,0.447
+Roger S. Bagnall,Holt N. Parker,2,0.4
+Roger S. Bagnall,Henri Willy Pleket,2,0.447
+Roger S. Bagnall,Sarah B. Pomeroy,2,0.365
+Roger S. Bagnall,Marilyn B. Skinner,2,0.365
+Roger S. Bagnall,Antonio Varone,2,0.516
+Roger S. Bagnall,Martin L. West,2,0.447
+Mary Beard,Margarete Bieber,2,0.447
+Mary Beard,James N. Davidson,2,0.447
+Mary Beard,Matthew W. Dickie,3,0.775
+Mary Beard,Judith Hallett,2,0.4
+Mary Beard,Sharon L. James,2,0.516
+Mary Beard,Natalie Kampen,2,0.447
+Mary Beard,Amélie Kuhrt,2,0.447
+Mary Beard,Daniel Ogden,2,0.4
+Mary Beard,Holt N. Parker,4,0.8
+Mary Beard,Henri Willy Pleket,3,0.671
+Mary Beard,Ruth Scodel,2,0.516
+Mary Beard,Marilyn B. Skinner,4,0.73
+Mary Beard,Susan Treggiari,2,0.516
+Mary Beard,Antonio Varone,3,0.775
+Mary Beard,Martin L. West,3,0.671
+Margarete Bieber,Averil Cameron,2,0.447
+Margarete Bieber,James N. Davidson,2,0.5
+Margarete Bieber,Matthew W. Dickie,2,0.577
+Margarete Bieber,Rebecca Flemming,2,0.378
+Margarete Bieber,Simon Goldhill,2,0.408
+Margarete Bieber,Stephen Halliwell,2,0.577
+Margarete Bieber,Thomas Harrison,2,0.577
+Margarete Bieber,Sandra R. Joshel,2,0.5
+Margarete Bieber,Helen King,2,0.408
+Margarete Bieber,Daniel Ogden,3,0.671
+Margarete Bieber,Holt N. Parker,2,0.447
+Margarete Bieber,Ruth Scodel,3,0.866
+Margarete Bieber,Juha Sihvola,2,0.577
+Margarete Bieber,Marilyn B. Skinner,3,0.612
+Margarete Bieber,Martin L. West,2,0.5
+Averil Cameron,James N. Davidson,2,0.447
+Averil Cameron,Christopher A. Faraone,2,0.516
+Averil Cameron,Simon Goldhill,3,0.548
+Averil Cameron,Judith Hallett,2,0.4
+Averil Cameron,Stephen Halliwell,2,0.516
+Averil Cameron,Thomas Harrison,3,0.775
+Averil Cameron,Helen King,2,0.365
+Averil Cameron,Amélie Kuhrt,2,0.447
+Averil Cameron,Mary R. Lefkowitz,2,0.447
+Averil Cameron,Daniel Ogden,2,0.4
+Averil Cameron,Werner Peek,2,0.516
+Averil Cameron,Ruth Scodel,2,0.516
+Averil Cameron,Juha Sihvola,2,0.516
+Averil Cameron,Marilyn B. Skinner,2,0.365
+Averil Cameron,Emma Stafford,2,0.516
+Averil Cameron,Martin L. West,2,0.447
+John R. Clarke,James N. Davidson,2,0.408
+John R. Clarke,Matthew W. Dickie,2,0.471
+John R. Clarke,Helen King,2,0.333
+John R. Clarke,Amélie Kuhrt,2,0.408
+John R. Clarke,Holt N. Parker,4,0.73
+John R. Clarke,Henri Willy Pleket,3,0.612
+John R. Clarke,Marilyn B. Skinner,3,0.5
+John R. Clarke,Antonio Varone,3,0.707
+John R. Clarke,Martin L. West,3,0.612
+Lawrence Conrad,Raffaella Cribiore,2,0.667
+Raffaella Cribiore,Mary R. Lefkowitz,2,0.577
+Raffaella Cribiore,Sarah B. Pomeroy,2,0.471
+James N. Davidson,Christopher A. Faraone,2,0.577
+James N. Davidson,Thomas Harrison,2,0.577
+James N. Davidson,Helen King,2,0.408
+James N. Davidson,Holt N. Parker,2,0.447
+James N. Davidson,Werner Peek,2,0.577
+James N. Davidson,Sarah B. Pomeroy,2,0.408
+James N. Davidson,Ruth Scodel,2,0.577
+James N. Davidson,Juha Sihvola,2,0.577
+James N. Davidson,Marilyn B. Skinner,3,0.612
+James N. Davidson,Emma Stafford,2,0.577
+James N. Davidson,Antonio Varone,2,0.577
+James N. Davidson,Martin L. West,3,0.75
+Matthew W. Dickie,Rebecca Flemming,2,0.436
+Matthew W. Dickie,Fritz Graf,2,0.667
+Matthew W. Dickie,Judith Hallett,2,0.516
+Matthew W. Dickie,Sharon L. James,2,0.667
+Matthew W. Dickie,Sandra R. Joshel,2,0.577
+Matthew W. Dickie,Natalie Kampen,2,0.577
+Matthew W. Dickie,Amélie Kuhrt,2,0.577
+Matthew W. Dickie,Daniel Ogden,2,0.516
+Matthew W. Dickie,Holt N. Parker,3,0.775
+Matthew W. Dickie,Henri Willy Pleket,2,0.577
+Matthew W. Dickie,Ruth Scodel,2,0.667
+Matthew W. Dickie,Marilyn B. Skinner,3,0.707
+Matthew W. Dickie,Susan Treggiari,2,0.667
+Matthew W. Dickie,Antonio Varone,2,0.667
+Matthew W. Dickie,Martin L. West,2,0.577
+Christopher A. Faraone,Simon Goldhill,2,0.471
+Christopher A. Faraone,Stephen Halliwell,2,0.667
+Christopher A. Faraone,Thomas Harrison,2,0.667
+Christopher A. Faraone,Helen King,2,0.471
+Christopher A. Faraone,Daniel Ogden,2,0.516
+Christopher A. Faraone,Ruth Scodel,2,0.667
+Christopher A. Faraone,Juha Sihvola,2,0.667
+Christopher A. Faraone,Marilyn B. Skinner,2,0.471
+Christopher A. Faraone,Martin L. West,2,0.577
+Rebecca Flemming,Judith Hallett,3,0.507
+Rebecca Flemming,Sharon L. James,2,0.436
+Rebecca Flemming,Rosemary Joyce,2,0.436
+Rebecca Flemming,Natalie Kampen,2,0.378
+Rebecca Flemming,Daniel Ogden,2,0.338
+Rebecca Flemming,Holt N. Parker,3,0.507
+Rebecca Flemming,Ruth Scodel,2,0.436
+Rebecca Flemming,Marilyn B. Skinner,3,0.463
+Rebecca Flemming,Susan Treggiari,2,0.436
+Simon Goldhill,Thomas Harrison,2,0.471
+Simon Goldhill,Amélie Kuhrt,2,0.408
+Simon Goldhill,Werner Peek,2,0.471
+Simon Goldhill,Sarah B. Pomeroy,2,0.333
+Simon Goldhill,Ruth Scodel,2,0.471
+Simon Goldhill,Marilyn B. Skinner,3,0.5
+Simon Goldhill,Emma Stafford,2,0.471
+Simon Goldhill,Martin L. West,2,0.408
+Fritz Graf,Amélie Kuhrt,2,0.577
+Fritz Graf,Holt N. Parker,2,0.516
+Fritz Graf,Henri Willy Pleket,2,0.577
+Fritz Graf,Marilyn B. Skinner,2,0.471
+Fritz Graf,Antonio Varone,2,0.667
+Fritz Graf,Martin L. West,2,0.577
+Judith Hallett,Thomas Harrison,2,0.516
+Judith Hallett,Sandra R. Joshel,3,0.671
+Judith Hallett,Helen King,2,0.365
+Judith Hallett,Daniel Ogden,2,0.4
+Judith Hallett,Holt N. Parker,3,0.6
+Judith Hallett,Ruth Scodel,2,0.516
+Judith Hallett,Marilyn B. Skinner,2,0.365
+Stephen Halliwell,Thomas Harrison,2,0.667
+Stephen Halliwell,Helen King,2,0.471
+Stephen Halliwell,Werner Peek,2,0.667
+Stephen Halliwell,Sarah B. Pomeroy,2,0.471
+Stephen Halliwell,Ruth Scodel,2,0.667
+Stephen Halliwell,Juha Sihvola,2,0.667
+Stephen Halliwell,Marilyn B. Skinner,2,0.471
+Stephen Halliwell,Emma Stafford,2,0.667
+Stephen Halliwell,Martin L. West,2,0.577
+Thomas Harrison,Helen King,2,0.471
+Thomas Harrison,Mary R. Lefkowitz,2,0.577
+Thomas Harrison,Daniel Ogden,2,0.516
+Thomas Harrison,Werner Peek,2,0.667
+Thomas Harrison,Sarah B. Pomeroy,2,0.471
+Thomas Harrison,Ruth Scodel,2,0.667
+Thomas Harrison,Juha Sihvola,2,0.667
+Thomas Harrison,Marilyn B. Skinner,2,0.471
+Thomas Harrison,Emma Stafford,2,0.667
+Thomas Harrison,Martin L. West,2,0.577
+Sharon L. James,Sandra R. Joshel,2,0.577
+Sharon L. James,Daniel Ogden,2,0.516
+Sharon L. James,Holt N. Parker,2,0.516
+Sharon L. James,Ruth Scodel,2,0.667
+Sharon L. James,Marilyn B. Skinner,2,0.471
+Sandra R. Joshel,Rosemary Joyce,2,0.577
+Sandra R. Joshel,Natalie Kampen,2,0.5
+Sandra R. Joshel,Helen King,2,0.408
+Sandra R. Joshel,Daniel Ogden,2,0.447
+Sandra R. Joshel,Holt N. Parker,3,0.671
+Sandra R. Joshel,Ruth Scodel,2,0.577
+Sandra R. Joshel,Marilyn B. Skinner,2,0.408
+Sandra R. Joshel,Susan Treggiari,2,0.577
+Rosemary Joyce,Helen King,2,0.471
+Rosemary Joyce,Holt N. Parker,2,0.516
+Natalie Kampen,Helen King,2,0.408
+Natalie Kampen,Daniel Ogden,3,0.671
+Natalie Kampen,Caroline Osiek,2,0.577
+Natalie Kampen,Holt N. Parker,2,0.447
+Natalie Kampen,Ruth Scodel,2,0.577
+Natalie Kampen,Marilyn B. Skinner,2,0.408
+Natalie Kampen,Bruce Winter,2,0.5
+Helen King,Daniel Ogden,3,0.548
+Helen King,Caroline Osiek,2,0.471
+Helen King,Holt N. Parker,2,0.365
+Helen King,Werner Peek,2,0.471
+Helen King,Sarah B. Pomeroy,3,0.5
+Helen King,Ruth Scodel,2,0.471
+Helen King,Marilyn B. Skinner,3,0.5
+Helen King,Emma Stafford,2,0.471
+Helen King,Martin L. West,2,0.408
+Helen King,Bruce Winter,2,0.408
+Amélie Kuhrt,Holt N. Parker,2,0.447
+Amélie Kuhrt,Henri Willy Pleket,2,0.5
+Amélie Kuhrt,Marilyn B. Skinner,2,0.408
+Amélie Kuhrt,Antonio Varone,2,0.577
+Amélie Kuhrt,Martin L. West,2,0.5
+Daniel Ogden,Caroline Osiek,2,0.516
+Daniel Ogden,Holt N. Parker,2,0.4
+Daniel Ogden,Werner Peek,2,0.516
+Daniel Ogden,Sarah B. Pomeroy,3,0.548
+Daniel Ogden,Ruth Scodel,3,0.775
+Daniel Ogden,Juha Sihvola,2,0.516
+Daniel Ogden,Marilyn B. Skinner,3,0.548
+Daniel Ogden,Emma Stafford,2,0.516
+Daniel Ogden,Susan Treggiari,2,0.516
+Daniel Ogden,Martin L. West,2,0.447
+Daniel Ogden,Bruce Winter,2,0.447
+Caroline Osiek,Sarah B. Pomeroy,2,0.471
+Holt N. Parker,Henri Willy Pleket,3,0.671
+Holt N. Parker,Ruth Scodel,2,0.516
+Holt N. Parker,Marilyn B. Skinner,4,0.73
+Holt N. Parker,Susan Treggiari,2,0.516
+Holt N. Parker,Antonio Varone,3,0.775
+Holt N. Parker,Martin L. West,3,0.671
+Werner Peek,Ruth Scodel,2,0.667
+Werner Peek,Juha Sihvola,2,0.667
+Werner Peek,Marilyn B. Skinner,2,0.471
+Werner Peek,Martin L. West,2,0.577
+Henri Willy Pleket,Marilyn B. Skinner,3,0.612
+Henri Willy Pleket,Antonio Varone,3,0.866
+Henri Willy Pleket,Martin L. West,3,0.75
+Sarah B. Pomeroy,Ruth Scodel,2,0.471
+Sarah B. Pomeroy,Juha Sihvola,2,0.471
+Sarah B. Pomeroy,Marilyn B. Skinner,2,0.333
+Sarah B. Pomeroy,Martin L. West,2,0.408
+Ruth Scodel,Juha Sihvola,2,0.667
+Ruth Scodel,Marilyn B. Skinner,3,0.707
+Ruth Scodel,Emma Stafford,2,0.667
+Ruth Scodel,Susan Treggiari,2,0.667
+Ruth Scodel,Martin L. West,2,0.577
+Juha Sihvola,Marilyn B. Skinner,2,0.471
+Juha Sihvola,Emma Stafford,2,0.667
+Juha Sihvola,Martin L. West,2,0.577
+Marilyn B. Skinner,Emma Stafford,2,0.471
+Marilyn B. Skinner,Owsei Temkin,2,0.408
+Marilyn B. Skinner,Susan Treggiari,2,0.471
+Marilyn B. Skinner,Antonio Varone,3,0.707
+Marilyn B. Skinner,Martin L. West,4,0.816
+Emma Stafford,Martin L. West,2,0.577
+Antonio Varone,Martin L. West,3,0.866
+Carlin Barton,Larissa Bonfante,2,0.447
+Carlin Barton,John Boswell,2,0.577
+Carlin Barton,Glenys Davies,2,0.5
+Carlin Barton,Jonathon Edmondson,2,0.577
+Carlin Barton,Lin Foxhall,2,0.5
+Carlin Barton,Lynda Garland,2,0.577
+Carlin Barton,Edith Hall,2,0.447
+Carlin Barton,Mary Harlow,3,0.612
+Carlin Barton,Keith Hopkins,2,0.5
+Carlin Barton,D.E.E. Kleiner,2,0.5
+Carlin Barton,Mireille Lee,2,0.447
+Carlin Barton,Ramsay MacMullen,2,0.577
+Carlin Barton,Myles McDonnell,2,0.5
+Carlin Barton,Kristina Milnor,2,0.5
+Carlin Barton,Onno van Nijf,2,0.5
+Carlin Barton,Kelly Olson,2,0.447
+Carlin Barton,Amy Richlin,2,0.333
+Carlin Barton,John Salmon,2,0.577
+Carlin Barton,Judith Lynn Sebesta,2,0.5
+Carlin Barton,Ronald Syme,2,0.577
+Carlin Barton,Shaun Tougher,2,0.5
+Carlin Barton,Craig A. Williams,2,0.447
+Carlin Barton,Maria Wyke,2,0.577
+Mary Beard,Eva Cantarella,3,0.507
+Mary Beard,Kenneth J. Dover,2,0.338
+Mary Beard,Maud W. Gleason,2,0.316
+Mary Beard,Thomas N. Habinek,3,0.775
+Mary Beard,Edith Hall,2,0.4
+Mary Beard,Benjamin H. Isaac,2,0.516
+Mary Beard,Alison Keith,2,0.516
+Mary Beard,D.E.E. Kleiner,2,0.447
+Mary Beard,Saara Lilja,2,0.516
+Mary Beard,Kristina Milnor,2,0.447
+Mary Beard,Tom Stevenson,2,0.516
+Mary Beard,Ronald Syme,2,0.516
+Mary Beard,Andrew Wallace-Hadrill,2,0.516
+Mary Beard,William L. Westermann,2,0.516
+Mary Beard,Craig A. Williams,2,0.4
+Mary Beard,Gordon Williams,2,0.516
+Mary Beard,Maria Wyke,2,0.516
+Mary Beard,Paul Zanker,2,0.447
+Larissa Bonfante,Elaine Fantham,2,0.4
+Larissa Bonfante,Thorsten Fögen,2,0.516
+Larissa Bonfante,Edith Hall,2,0.4
+Larissa Bonfante,Marilyn B. Skinner,2,0.365
+Larissa Bonfante,Martin L. West,2,0.447
+Larissa Bonfante,Gordon Williams,2,0.516
+Larissa Bonfante,Maria Wyke,2,0.516
+John Boswell,Kenneth J. Dover,2,0.436
+John Boswell,Lin Foxhall,2,0.577
+John Boswell,Lynda Garland,2,0.667
+John Boswell,Maud W. Gleason,3,0.612
+John Boswell,Edith Hall,2,0.516
+John Boswell,Mary Harlow,2,0.471
+John Boswell,Keith Hopkins,3,0.866
+John Boswell,Ramsay MacMullen,2,0.667
+John Boswell,Myles McDonnell,2,0.577
+John Boswell,Onno van Nijf,2,0.577
+John Boswell,Amy Richlin,2,0.385
+John Boswell,John Salmon,2,0.667
+John Boswell,Ronald Syme,2,0.667
+John Boswell,Shaun Tougher,3,0.866
+John Boswell,Craig A. Williams,3,0.775
+Eva Cantarella,Timothy J. Cornell,2,0.436
+Eva Cantarella,Matthew W. Dickie,2,0.436
+Eva Cantarella,Elaine Fantham,4,0.676
+Eva Cantarella,Thorsten Fögen,2,0.436
+Eva Cantarella,Thomas N. Habinek,3,0.655
+Eva Cantarella,Edith Hall,3,0.507
+Eva Cantarella,Benjamin H. Isaac,2,0.436
+Eva Cantarella,Jacob Latham,2,0.436
+Eva Cantarella,Holt N. Parker,3,0.507
+Eva Cantarella,Nicholas Purcell,2,0.436
+Eva Cantarella,Marilyn B. Skinner,4,0.617
+Eva Cantarella,Ronald Syme,2,0.436
+Eva Cantarella,Antonio Varone,2,0.436
+Eva Cantarella,Martin L. West,3,0.567
+Eva Cantarella,Gordon Williams,3,0.655
+Eva Cantarella,Maria Wyke,2,0.436
+John R. Clarke,Thomas N. Habinek,2,0.471
+John R. Clarke,Edith Hall,2,0.365
+John R. Clarke,Benjamin H. Isaac,2,0.471
+John R. Clarke,Saara Lilja,2,0.471
+Timothy J. Cornell,Matthew W. Dickie,2,0.667
+Timothy J. Cornell,Thomas N. Habinek,2,0.667
+Timothy J. Cornell,Alison Keith,2,0.667
+Timothy J. Cornell,D.E.E. Kleiner,2,0.577
+Timothy J. Cornell,Kristina Milnor,2,0.577
+Timothy J. Cornell,Holt N. Parker,2,0.516
+Timothy J. Cornell,Marilyn B. Skinner,2,0.471
+Timothy J. Cornell,Tom Stevenson,2,0.667
+Timothy J. Cornell,Ronald Syme,2,0.667
+Timothy J. Cornell,Andrew Wallace-Hadrill,2,0.667
+Timothy J. Cornell,Gordon Williams,2,0.667
+Timothy J. Cornell,Maria Wyke,2,0.667
+Timothy J. Cornell,Paul Zanker,2,0.577
+Glenys Davies,Maria Wyke,2,0.577
+Matthew W. Dickie,Catharine Edwards,2,0.471
+Matthew W. Dickie,Elaine Fantham,2,0.516
+Matthew W. Dickie,Thomas N. Habinek,2,0.667
+Matthew W. Dickie,Alison Keith,2,0.667
+Matthew W. Dickie,D.E.E. Kleiner,2,0.577
+Matthew W. Dickie,Jacob Latham,2,0.667
+Matthew W. Dickie,Thomas A.J. McGinn,2,0.516
+Matthew W. Dickie,Kristina Milnor,2,0.577
+Matthew W. Dickie,Nicholas Purcell,2,0.667
+Matthew W. Dickie,Amy Richlin,2,0.385
+Matthew W. Dickie,Tom Stevenson,2,0.667
+Matthew W. Dickie,Ronald Syme,2,0.667
+Matthew W. Dickie,Andrew Wallace-Hadrill,2,0.667
+Matthew W. Dickie,Gordon Williams,2,0.667
+Matthew W. Dickie,Maria Wyke,2,0.667
+Matthew W. Dickie,Paul Zanker,2,0.577
+Kenneth J. Dover,Elaine Fantham,3,0.507
+Kenneth J. Dover,Thorsten Fögen,2,0.436
+Kenneth J. Dover,Thomas N. Habinek,2,0.436
+Kenneth J. Dover,Edith Hall,3,0.507
+Kenneth J. Dover,Keith Hopkins,2,0.378
+Kenneth J. Dover,Benjamin H. Isaac,2,0.436
+Kenneth J. Dover,Holt N. Parker,2,0.338
+Kenneth J. Dover,Marilyn B. Skinner,3,0.463
+Kenneth J. Dover,Shaun Tougher,2,0.378
+Kenneth J. Dover,Antonio Varone,2,0.436
+Kenneth J. Dover,Martin L. West,3,0.567
+Kenneth J. Dover,Gordon Williams,2,0.436
+Jonathon Edmondson,Maria Wyke,2,0.667
+Catharine Edwards,Thomas N. Habinek,3,0.707
+Catharine Edwards,Edith Hall,2,0.365
+Catharine Edwards,Benjamin H. Isaac,2,0.471
+Catharine Edwards,Saara Lilja,2,0.471
+Catharine Edwards,Holt N. Parker,3,0.548
+Catharine Edwards,Henri Willy Pleket,2,0.408
+Catharine Edwards,Marilyn B. Skinner,3,0.5
+Catharine Edwards,Ronald Syme,2,0.471
+Catharine Edwards,Antonio Varone,2,0.471
+Catharine Edwards,Martin L. West,2,0.408
+Catharine Edwards,Gordon Williams,2,0.471
+Catharine Edwards,Maria Wyke,2,0.471
+Elaine Fantham,Thorsten Fögen,2,0.516
+Elaine Fantham,Lin Foxhall,2,0.447
+Elaine Fantham,Maud W. Gleason,2,0.316
+Elaine Fantham,Mark Golden,2,0.516
+Elaine Fantham,Thomas N. Habinek,3,0.775
+Elaine Fantham,Edith Hall,3,0.6
+Elaine Fantham,Benjamin H. Isaac,2,0.516
+Elaine Fantham,Alison Keith,2,0.516
+Elaine Fantham,Martin Kilmer,2,0.516
+Elaine Fantham,D.E.E. Kleiner,2,0.447
+Elaine Fantham,Rachel Kousser,2,0.516
+Elaine Fantham,Mireille Lee,2,0.4
+Elaine Fantham,Saara Lilja,2,0.516
+Elaine Fantham,Kristina Milnor,2,0.447
+Elaine Fantham,Holt N. Parker,3,0.6
+Elaine Fantham,Henri Willy Pleket,2,0.447
+Elaine Fantham,David Sansone,2,0.516
+Elaine Fantham,Marilyn B. Skinner,4,0.73
+Elaine Fantham,Jocelyn Penny Small,2,0.516
+Elaine Fantham,Tom Stevenson,2,0.516
+Elaine Fantham,Ronald Syme,2,0.516
+Elaine Fantham,Antonio Varone,2,0.516
+Elaine Fantham,Andrew Wallace-Hadrill,2,0.516
+Elaine Fantham,William L. Westermann,2,0.516
+Elaine Fantham,Martin L. West,3,0.671
+Elaine Fantham,Craig A. Williams,2,0.4
+Elaine Fantham,Gordon Williams,3,0.775
+Elaine Fantham,Maria Wyke,2,0.516
+Elaine Fantham,Paul Zanker,2,0.447
+Thorsten Fögen,Lin Foxhall,2,0.577
+Thorsten Fögen,Lynda Garland,2,0.667
+Thorsten Fögen,Maud W. Gleason,2,0.408
+Thorsten Fögen,Mark Golden,2,0.667
+Thorsten Fögen,Erik Gunderson,2,0.667
+Thorsten Fögen,Edith Hall,2,0.516
+Thorsten Fögen,Mary Harlow,2,0.471
+Thorsten Fögen,Benjamin H. Isaac,2,0.667
+Thorsten Fögen,Martin Kilmer,2,0.667
+Thorsten Fögen,Rachel Kousser,2,0.667
+Thorsten Fögen,Amélie Kuhrt,2,0.577
+Thorsten Fögen,Mireille Lee,2,0.516
+Thorsten Fögen,Amy Richlin,2,0.385
+Thorsten Fögen,David Sansone,2,0.667
+Thorsten Fögen,Joan W. Scott,2,0.516
+Thorsten Fögen,Marilyn B. Skinner,2,0.471
+Thorsten Fögen,Jocelyn Penny Small,2,0.667
+Thorsten Fögen,Martin L. West,2,0.577
+Thorsten Fögen,Gordon Williams,2,0.667
+Lin Foxhall,Lynda Garland,2,0.577
+Lin Foxhall,Maud W. Gleason,2,0.354
+Lin Foxhall,Edith Hall,3,0.671
+Lin Foxhall,Mary Harlow,3,0.612
+Lin Foxhall,Keith Hopkins,2,0.5
+Lin Foxhall,Rachel Kousser,2,0.577
+Lin Foxhall,Ramsay MacMullen,2,0.577
+Lin Foxhall,Marilyn B. Skinner,2,0.408
+Lin Foxhall,Ronald Syme,2,0.577
+Lin Foxhall,Shaun Tougher,2,0.5
+Lin Foxhall,Martin L. West,2,0.5
+Lin Foxhall,Craig A. Williams,2,0.447
+Lin Foxhall,Gordon Williams,2,0.577
+Lynda Garland,Maud W. Gleason,3,0.612
+Lynda Garland,Erik Gunderson,2,0.667
+Lynda Garland,Edith Hall,2,0.516
+Lynda Garland,Mary Harlow,2,0.471
+Lynda Garland,Keith Hopkins,2,0.577
+Lynda Garland,Benjamin H. Isaac,2,0.667
+Lynda Garland,Amélie Kuhrt,2,0.577
+Lynda Garland,Ramsay MacMullen,2,0.667
+Lynda Garland,Myles McDonnell,2,0.577
+Lynda Garland,Onno van Nijf,2,0.577
+Lynda Garland,Amy Richlin,3,0.577
+Lynda Garland,John Salmon,2,0.667
+Lynda Garland,Joan W. Scott,2,0.516
+Lynda Garland,Ronald Syme,2,0.667
+Lynda Garland,Shaun Tougher,2,0.577
+Lynda Garland,Craig A. Williams,2,0.516
+Maud W. Gleason,Thomas N. Habinek,2,0.408
+Maud W. Gleason,Edith Hall,3,0.474
+Maud W. Gleason,Keith Hopkins,3,0.53
+Maud W. Gleason,Benjamin H. Isaac,3,0.612
+Maud W. Gleason,Amélie Kuhrt,2,0.354
+Maud W. Gleason,Saara Lilja,2,0.408
+Maud W. Gleason,Ramsay MacMullen,2,0.408
+Maud W. Gleason,Holt N. Parker,2,0.316
+Maud W. Gleason,Henri Willy Pleket,2,0.354
+Maud W. Gleason,John Salmon,2,0.408
+Maud W. Gleason,Joan W. Scott,2,0.316
+Maud W. Gleason,Marilyn B. Skinner,2,0.289
+Maud W. Gleason,Ronald Syme,2,0.408
+Maud W. Gleason,Shaun Tougher,3,0.53
+Maud W. Gleason,Antonio Varone,2,0.408
+Maud W. Gleason,Martin L. West,2,0.354
+Maud W. Gleason,Maria Wyke,2,0.408
+Mark Golden,Edith Hall,2,0.516
+Mark Golden,Mary Harlow,2,0.471
+Mark Golden,Rachel Kousser,2,0.667
+Mark Golden,Marilyn B. Skinner,2,0.471
+Mark Golden,Martin L. West,2,0.577
+Mark Golden,Gordon Williams,2,0.667
+Erik Gunderson,Benjamin H. Isaac,2,0.667
+Erik Gunderson,Amélie Kuhrt,2,0.577
+Erik Gunderson,Amy Richlin,2,0.385
+Erik Gunderson,Joan W. Scott,2,0.516
+Thomas N. Habinek,Edith Hall,2,0.516
+Thomas N. Habinek,Benjamin H. Isaac,2,0.667
+Thomas N. Habinek,Alison Keith,2,0.667
+Thomas N. Habinek,D.E.E. Kleiner,2,0.577
+Thomas N. Habinek,Jacob Latham,2,0.667
+Thomas N. Habinek,Saara Lilja,2,0.667
+Thomas N. Habinek,Thomas A.J. McGinn,2,0.516
+Thomas N. Habinek,Kristina Milnor,2,0.577
+Thomas N. Habinek,Holt N. Parker,3,0.775
+Thomas N. Habinek,Henri Willy Pleket,2,0.577
+Thomas N. Habinek,Nicholas Purcell,2,0.667
+Thomas N. Habinek,Amy Richlin,3,0.577
+Thomas N. Habinek,Marilyn B. Skinner,3,0.707
+Thomas N. Habinek,Tom Stevenson,2,0.667
+Thomas N. Habinek,Ronald Syme,2,0.667
+Thomas N. Habinek,Antonio Varone,2,0.667
+Thomas N. Habinek,Andrew Wallace-Hadrill,2,0.667
+Thomas N. Habinek,William L. Westermann,2,0.667
+Thomas N. Habinek,Martin L. West,2,0.577
+Thomas N. Habinek,Craig A. Williams,2,0.516
+Thomas N. Habinek,Gordon Williams,2,0.667
+Thomas N. Habinek,Maria Wyke,2,0.667
+Thomas N. Habinek,Paul Zanker,2,0.577
+Edith Hall,Mary Harlow,3,0.548
+Edith Hall,Keith Hopkins,2,0.447
+Edith Hall,Benjamin H. Isaac,2,0.516
+Edith Hall,Martin Kilmer,2,0.516
+Edith Hall,Rachel Kousser,2,0.516
+Edith Hall,Mireille Lee,2,0.4
+Edith Hall,Saara Lilja,2,0.516
+Edith Hall,Ramsay MacMullen,2,0.516
+Edith Hall,Myles McDonnell,2,0.447
+Edith Hall,Onno van Nijf,2,0.447
+Edith Hall,Holt N. Parker,2,0.4
+Edith Hall,Henri Willy Pleket,2,0.447
+Edith Hall,Amy Richlin,3,0.447
+Edith Hall,John Salmon,2,0.516
+Edith Hall,David Sansone,2,0.516
+Edith Hall,Marilyn B. Skinner,3,0.548
+Edith Hall,Jocelyn Penny Small,2,0.516
+Edith Hall,Ronald Syme,2,0.516
+Edith Hall,Shaun Tougher,2,0.447
+Edith Hall,Antonio Varone,2,0.516
+Edith Hall,William L. Westermann,2,0.516
+Edith Hall,Martin L. West,3,0.671
+Edith Hall,Craig A. Williams,3,0.6
+Edith Hall,Gordon Williams,2,0.516
+Mary Harlow,Martin Kilmer,2,0.471
+Mary Harlow,John Salmon,2,0.471
+Mary Harlow,David Sansone,2,0.471
+Mary Harlow,Marilyn B. Skinner,2,0.333
+Mary Harlow,Jocelyn Penny Small,2,0.471
+Mary Harlow,Ronald Syme,2,0.471
+Mary Harlow,Martin L. West,2,0.408
+Mary Harlow,Gordon Williams,2,0.471
+Mary Harlow,Maria Wyke,2,0.471
+Emily Hemelrijk,Holt N. Parker,2,0.4
+Keith Hopkins,Myles McDonnell,2,0.5
+Keith Hopkins,Onno van Nijf,2,0.5
+Keith Hopkins,John Salmon,2,0.577
+Keith Hopkins,Ronald Syme,2,0.577
+Keith Hopkins,Craig A. Williams,3,0.671
+Benjamin H. Isaac,Amélie Kuhrt,2,0.577
+Benjamin H. Isaac,Saara Lilja,2,0.667
+Benjamin H. Isaac,Holt N. Parker,2,0.516
+Benjamin H. Isaac,Henri Willy Pleket,2,0.577
+Benjamin H. Isaac,Amy Richlin,3,0.577
+Benjamin H. Isaac,Joan W. Scott,2,0.516
+Benjamin H. Isaac,Marilyn B. Skinner,2,0.471
+Benjamin H. Isaac,Antonio Varone,2,0.667
+Benjamin H. Isaac,William L. Westermann,2,0.667
+Benjamin H. Isaac,Martin L. West,2,0.577
+Benjamin H. Isaac,Craig A. Williams,2,0.516
+Alison Keith,Jacob Latham,2,0.667
+Alison Keith,Holt N. Parker,2,0.516
+Alison Keith,Nicholas Purcell,2,0.667
+Alison Keith,Marilyn B. Skinner,2,0.471
+Alison Keith,Ronald Syme,2,0.667
+Alison Keith,Gordon Williams,2,0.667
+Alison Keith,Maria Wyke,2,0.667
+Martin Kilmer,Rachel Kousser,2,0.667
+Martin Kilmer,Marilyn B. Skinner,2,0.471
+Martin Kilmer,Martin L. West,2,0.577
+Martin Kilmer,Gordon Williams,2,0.667
+D.E.E. Kleiner,Jacob Latham,2,0.577
+D.E.E. Kleiner,Holt N. Parker,2,0.447
+D.E.E. Kleiner,Nicholas Purcell,2,0.577
+D.E.E. Kleiner,Marilyn B. Skinner,2,0.408
+D.E.E. Kleiner,Ronald Syme,2,0.577
+D.E.E. Kleiner,Gordon Williams,2,0.577
+D.E.E. Kleiner,Maria Wyke,3,0.866
+Rachel Kousser,David Sansone,2,0.667
+Rachel Kousser,Marilyn B. Skinner,2,0.471
+Rachel Kousser,Jocelyn Penny Small,2,0.667
+Rachel Kousser,Martin L. West,2,0.577
+Rachel Kousser,Gordon Williams,2,0.667
+Amélie Kuhrt,Amy Richlin,2,0.333
+Amélie Kuhrt,Joan W. Scott,2,0.447
+Christian Laes,Holt N. Parker,2,0.516
+Jacob Latham,Kristina Milnor,2,0.577
+Jacob Latham,Holt N. Parker,2,0.516
+Jacob Latham,Marilyn B. Skinner,2,0.471
+Jacob Latham,Tom Stevenson,2,0.667
+Jacob Latham,Ronald Syme,2,0.667
+Jacob Latham,Andrew Wallace-Hadrill,2,0.667
+Jacob Latham,Gordon Williams,2,0.667
+Jacob Latham,Maria Wyke,2,0.667
+Jacob Latham,Paul Zanker,2,0.577
+Mireille Lee,Marilyn B. Skinner,2,0.365
+Mireille Lee,Martin L. West,2,0.447
+Mireille Lee,Gordon Williams,2,0.516
+Mireille Lee,Maria Wyke,2,0.516
+Saara Lilja,Holt N. Parker,2,0.516
+Saara Lilja,Marilyn B. Skinner,2,0.471
+Saara Lilja,Antonio Varone,2,0.667
+Saara Lilja,William L. Westermann,2,0.667
+Saara Lilja,Martin L. West,2,0.577
+Saara Lilja,Craig A. Williams,2,0.516
+Ramsay MacMullen,Myles McDonnell,2,0.577
+Ramsay MacMullen,Onno van Nijf,2,0.577
+Ramsay MacMullen,John Salmon,2,0.667
+Ramsay MacMullen,Ronald Syme,2,0.667
+Ramsay MacMullen,Craig A. Williams,2,0.516
+Myles McDonnell,Ronald Syme,2,0.577
+Myles McDonnell,Shaun Tougher,2,0.5
+Thomas A.J. McGinn,Holt N. Parker,2,0.4
+Thomas A.J. McGinn,Marilyn B. Skinner,2,0.365
+Thomas A.J. McGinn,Ronald Syme,2,0.516
+Thomas A.J. McGinn,Gordon Williams,2,0.516
+Thomas A.J. McGinn,Maria Wyke,2,0.516
+Kristina Milnor,Holt N. Parker,2,0.447
+Kristina Milnor,Nicholas Purcell,2,0.577
+Kristina Milnor,Marilyn B. Skinner,2,0.408
+Kristina Milnor,Ronald Syme,2,0.577
+Kristina Milnor,Gordon Williams,2,0.577
+Kristina Milnor,Maria Wyke,3,0.866
+Onno van Nijf,Ronald Syme,2,0.577
+Onno van Nijf,Shaun Tougher,2,0.5
+Kelly Olson,Holt N. Parker,2,0.4
+Kelly Olson,Maria Wyke,2,0.516
+Holt N. Parker,Nicholas Purcell,2,0.516
+Holt N. Parker,Amy Richlin,3,0.447
+Holt N. Parker,Tom Stevenson,2,0.516
+Holt N. Parker,Ronald Syme,2,0.516
+Holt N. Parker,Caroline Vout,2,0.447
+Holt N. Parker,Andrew Wallace-Hadrill,2,0.516
+Holt N. Parker,William L. Westermann,2,0.516
+Holt N. Parker,Craig A. Williams,2,0.4
+Holt N. Parker,Gordon Williams,2,0.516
+Holt N. Parker,Greg Woolf,2,0.516
+Holt N. Parker,Maria Wyke,2,0.516
+Holt N. Parker,Paul Zanker,2,0.447
+Henri Willy Pleket,William L. Westermann,2,0.577
+Henri Willy Pleket,Craig A. Williams,2,0.447
+Nicholas Purcell,Marilyn B. Skinner,2,0.471
+Nicholas Purcell,Tom Stevenson,2,0.667
+Nicholas Purcell,Ronald Syme,2,0.667
+Nicholas Purcell,Andrew Wallace-Hadrill,2,0.667
+Nicholas Purcell,Gordon Williams,2,0.667
+Nicholas Purcell,Maria Wyke,2,0.667
+Nicholas Purcell,Paul Zanker,2,0.577
+Amy Richlin,Joan W. Scott,2,0.298
+Amy Richlin,Marilyn B. Skinner,3,0.408
+Amy Richlin,Ronald Syme,3,0.577
+Amy Richlin,Antonio Varone,2,0.385
+Amy Richlin,Martin L. West,2,0.333
+Amy Richlin,Gordon Williams,2,0.385
+Amy Richlin,Maria Wyke,2,0.385
+John Salmon,Ronald Syme,2,0.667
+John Salmon,Shaun Tougher,2,0.577
+John Salmon,Craig A. Williams,2,0.516
+David Sansone,Marilyn B. Skinner,2,0.471
+David Sansone,Martin L. West,2,0.577
+David Sansone,Gordon Williams,2,0.667
+Judith Lynn Sebesta,Maria Wyke,2,0.577
+Marilyn B. Skinner,Jocelyn Penny Small,2,0.471
+Marilyn B. Skinner,Tom Stevenson,2,0.471
+Marilyn B. Skinner,Ronald Syme,2,0.471
+Marilyn B. Skinner,Andrew Wallace-Hadrill,2,0.471
+Marilyn B. Skinner,William L. Westermann,2,0.471
+Marilyn B. Skinner,Craig A. Williams,2,0.365
+Marilyn B. Skinner,Gordon Williams,3,0.707
+Marilyn B. Skinner,Maria Wyke,2,0.471
+Marilyn B. Skinner,Paul Zanker,2,0.408
+Jocelyn Penny Small,Martin L. West,2,0.577
+Jocelyn Penny Small,Gordon Williams,2,0.667
+Tom Stevenson,Ronald Syme,2,0.667
+Tom Stevenson,Gordon Williams,2,0.667
+Tom Stevenson,Maria Wyke,2,0.667
+Ronald Syme,Shaun Tougher,2,0.577
+Ronald Syme,Andrew Wallace-Hadrill,2,0.667
+Ronald Syme,Craig A. Williams,2,0.516
+Ronald Syme,Gordon Williams,2,0.667
+Ronald Syme,Maria Wyke,2,0.667
+Ronald Syme,Paul Zanker,2,0.577
+Shaun Tougher,Craig A. Williams,3,0.671
+Antonio Varone,William L. Westermann,2,0.667
+Antonio Varone,Craig A. Williams,2,0.516
+Andrew Wallace-Hadrill,Gordon Williams,2,0.667
+Andrew Wallace-Hadrill,Maria Wyke,2,0.667
+William L. Westermann,Martin L. West,2,0.577
+Martin L. West,Craig A. Williams,2,0.447
+Martin L. West,Gordon Williams,2,0.577
+Gordon Williams,Maria Wyke,2,0.667
+Gordon Williams,Paul Zanker,2,0.577
+Maria Wyke,Paul Zanker,2,0.577
+Roger S. Bagnall,Judith Butler,2,0.27
+Roger S. Bagnall,Alan Cameron,2,0.447
+Roger S. Bagnall,Eva Cantarella,2,0.338
+Peter Brown,Alan Cameron,3,0.567
+Peter Brown,George A. Kennedy,2,0.436
+Peter Brown,Mary R. Lefkowitz,2,0.378
+Judith Butler,Alan Cameron,3,0.452
+Judith Butler,Elizabeth A. Clark,2,0.27
+Judith Butler,Kenneth Holum,2,0.348
+Judith Butler,George A. Kennedy,2,0.348
+Alan Cameron,Eva Cantarella,2,0.378
+Alan Cameron,Elizabeth A. Clark,2,0.447
+Alan Cameron,Gillian Clark,2,0.577
+Alan Cameron,Kenneth Holum,2,0.577
+Alan Cameron,George A. Kennedy,2,0.577
+Alan Cameron,Mary R. Lefkowitz,2,0.5
+Eva Cantarella,George A. Kennedy,2,0.436
+Elizabeth A. Clark,George A. Kennedy,2,0.516
+Gillian Clark,George A. Kennedy,2,0.667
+Kenneth Holum,Mary R. Lefkowitz,2,0.577
+George A. Kennedy,François Lissarrague,2,0.577
+George A. Kennedy,Sarah B. Pomeroy,2,0.471
+Paul J. Achtemeier,Elizabeth A. Clark,2,0.516
+Paul J. Achtemeier,Shaye J. D. Cohen,2,0.516
+Paul J. Achtemeier,Susan Hylen,2,0.667
+Paul J. Achtemeier,Saba Mahmood,2,0.667
+Paul J. Achtemeier,Annette Yoshiko Reed,2,0.667
+Paul J. Achtemeier,Kristi Upson-Saia,2,0.667
+Paul J. Achtemeier,Kate Wilkinson,2,0.667
+Ria Berg,Helen King,2,0.471
+Sue Blundell,Christopher Gill,2,0.5
+Sue Blundell,Helen King,2,0.408
+Mary Boatwright,Natalie Kampen,2,0.577
+Mary Boatwright,D.E.E. Kleiner,2,0.577
+Mary Boatwright,Eleanor Leach,2,0.667
+Mary Boatwright,Kristina Milnor,2,0.577
+Mary Boatwright,Daniel Ogden,2,0.516
+Mary Boatwright,Maria Wyke,2,0.667
+Larissa Bonfante,Christopher Gill,2,0.447
+Larissa Bonfante,Helen King,2,0.365
+Daniel Boyarin,Elizabeth A. Clark,2,0.365
+Daniel Boyarin,Shaye J. D. Cohen,3,0.548
+Daniel Boyarin,Susan Hylen,2,0.471
+Daniel Boyarin,Saba Mahmood,2,0.471
+Daniel Boyarin,Annette Yoshiko Reed,2,0.471
+Daniel Boyarin,Kristi Upson-Saia,2,0.471
+Daniel Boyarin,Kate Wilkinson,2,0.471
+Denise Kimber Buell,Elizabeth A. Clark,2,0.447
+Denise Kimber Buell,Shaye J. D. Cohen,3,0.671
+Denise Kimber Buell,Susan Hylen,2,0.577
+Denise Kimber Buell,Saba Mahmood,2,0.577
+Denise Kimber Buell,Laura Nasrallah,2,0.577
+Denise Kimber Buell,Annette Yoshiko Reed,3,0.866
+Denise Kimber Buell,Elisabeth Schüssler Fiorenza,2,0.577
+Denise Kimber Buell,Kristi Upson-Saia,2,0.577
+Denise Kimber Buell,Kate Wilkinson,2,0.577
+Judith Butler,Shaye J. D. Cohen,2,0.27
+Judith Butler,Daniel Ogden,2,0.27
+Elizabeth Castelli,Susan Hylen,2,0.516
+Elizabeth Castelli,Saba Mahmood,2,0.516
+Elizabeth Castelli,Annette Yoshiko Reed,2,0.516
+Elizabeth Castelli,Kristi Upson-Saia,2,0.516
+Elizabeth Castelli,Kate Wilkinson,2,0.516
+Elizabeth A. Clark,Maud W. Gleason,2,0.316
+Elizabeth A. Clark,Saba Mahmood,2,0.516
+Elizabeth A. Clark,Dale B. Martin,2,0.4
+Elizabeth A. Clark,Annette Yoshiko Reed,2,0.516
+Elizabeth A. Clark,Kristi Upson-Saia,2,0.516
+Shaye J. D. Cohen,Christopher Gill,2,0.447
+Shaye J. D. Cohen,Maud W. Gleason,3,0.474
+Shaye J. D. Cohen,Susan Hylen,2,0.516
+Shaye J. D. Cohen,Saba Mahmood,2,0.516
+Shaye J. D. Cohen,Dale B. Martin,3,0.6
+Shaye J. D. Cohen,Annette Yoshiko Reed,3,0.775
+Shaye J. D. Cohen,Kristi Upson-Saia,2,0.516
+Shaye J. D. Cohen,Kate Wilkinson,2,0.516
+Eve D’Ambra,Daniel Ogden,2,0.447
+Eve D’Ambra,Maria Wyke,2,0.577
+Fanny Dolansky,Daniel Ogden,2,0.447
+Fanny Dolansky,Maria Wyke,2,0.577
+Christopher Gill,Mary Harlow,2,0.408
+Christopher Gill,Mireille Lee,2,0.447
+Christopher Gill,Lloyd Llewellyn-Jones,2,0.577
+Christopher Gill,Laura Nasrallah,2,0.577
+Christopher Gill,Daniel Ogden,2,0.447
+Christopher Gill,Sarah B. Pomeroy,2,0.408
+Christopher Gill,Annette Yoshiko Reed,2,0.577
+Christopher Gill,Elisabeth Schüssler Fiorenza,2,0.577
+Maud W. Gleason,Susan Hylen,2,0.408
+Maud W. Gleason,Saba Mahmood,2,0.408
+Maud W. Gleason,Annette Yoshiko Reed,2,0.408
+Maud W. Gleason,Kate Wilkinson,2,0.408
+Mary Harlow,Helen King,2,0.333
+Mary Harlow,Daniel Ogden,2,0.365
+Susan Hylen,Saba Mahmood,2,0.667
+Susan Hylen,Dale B. Martin,2,0.516
+Susan Hylen,Annette Yoshiko Reed,2,0.667
+Susan Hylen,Kristi Upson-Saia,2,0.667
+Natalie Kampen,John Scheid,2,0.577
+Natalie Kampen,Maria Wyke,2,0.577
+Helen King,Mireille Lee,2,0.365
+Helen King,Lloyd Llewellyn-Jones,2,0.471
+Helen King,Kelly Olson,2,0.365
+D.E.E. Kleiner,Daniel Ogden,2,0.447
+D.E.E. Kleiner,John Scheid,2,0.577
+Eleanor Leach,Daniel Ogden,2,0.516
+Eleanor Leach,John Scheid,2,0.667
+Eleanor Leach,Maria Wyke,2,0.667
+Lloyd Llewellyn-Jones,Daniel Ogden,2,0.516
+Saba Mahmood,Dale B. Martin,2,0.516
+Saba Mahmood,Annette Yoshiko Reed,2,0.667
+Saba Mahmood,Kristi Upson-Saia,2,0.667
+Saba Mahmood,Kate Wilkinson,2,0.667
+Dale B. Martin,Laura Nasrallah,2,0.516
+Dale B. Martin,Annette Yoshiko Reed,3,0.775
+Dale B. Martin,Elisabeth Schüssler Fiorenza,2,0.516
+Dale B. Martin,Kristi Upson-Saia,2,0.516
+Dale B. Martin,Kate Wilkinson,2,0.516
+Kristina Milnor,Daniel Ogden,2,0.447
+Kristina Milnor,John Scheid,2,0.577
+Laura Nasrallah,Annette Yoshiko Reed,2,0.667
+Daniel Ogden,John Scheid,2,0.516
+Daniel Ogden,Maria Wyke,2,0.516
+Annette Yoshiko Reed,Elisabeth Schüssler Fiorenza,2,0.667
+Annette Yoshiko Reed,Kristi Upson-Saia,2,0.667
+Annette Yoshiko Reed,Kate Wilkinson,2,0.667
+John Scheid,Maria Wyke,2,0.667
+Kristi Upson-Saia,Kate Wilkinson,2,0.667
+John Behr,Daniel Boyarin,2,0.471
+John Behr,Bernadette Brooten,2,0.577
+John Behr,Judith Butler,2,0.348
+John Behr,Caroline Walker Bynum,3,1.0
+John Behr,Elizabeth Castelli,2,0.516
+John Behr,Susanna Elm,2,0.577
+John Behr,Michel Foucault,3,0.522
+John Behr,Simon Goldhill,2,0.471
+John Behr,David Halperin,2,0.385
+John Behr,Dale B. Martin,2,0.516
+Daniel Boyarin,Caroline Walker Bynum,2,0.471
+Daniel Boyarin,Monique Wittig,2,0.471
+T.C. Brennan,Rebecca Flemming,2,0.436
+T.C. Brennan,Marilyn B. Skinner,2,0.471
+Bernadette Brooten,Caroline Walker Bynum,2,0.577
+Bernadette Brooten,Susanna Elm,2,0.5
+Bernadette Brooten,Monique Wittig,2,0.577
+Judith Butler,Caroline Walker Bynum,2,0.348
+Judith Butler,Susanna Elm,2,0.302
+Judith Butler,Marilyn B. Skinner,3,0.369
+Caroline Walker Bynum,Elizabeth Castelli,2,0.516
+Caroline Walker Bynum,Susanna Elm,2,0.577
+Caroline Walker Bynum,Michel Foucault,3,0.522
+Caroline Walker Bynum,Simon Goldhill,2,0.471
+Caroline Walker Bynum,David Halperin,2,0.385
+Caroline Walker Bynum,Dale B. Martin,2,0.516
+Michel Foucault,Marilyn B. Skinner,3,0.369
+David Halperin,Marilyn B. Skinner,3,0.408
+Martha Nussbaum,Marilyn B. Skinner,2,0.408
+Giulia Sissa,Marilyn B. Skinner,3,0.612
+Kecia Ali,Lawrence Conrad,2,0.667
+Kecia Ali,Hamilton A. Gibb,2,0.667
+Kecia Ali,Shlomo Dov Goitein,2,0.667
+Kecia Ali,Joseph Schacht,2,0.667
+Peter Brown,Mary Douglas,2,0.338
+Lawrence Conrad,Hamilton A. Gibb,2,0.667
+Lawrence Conrad,Shlomo Dov Goitein,2,0.667
+Lawrence Conrad,David Powers,2,0.577
+Lawrence Conrad,Joseph Schacht,2,0.667
+Hamilton A. Gibb,Shlomo Dov Goitein,2,0.667
+Hamilton A. Gibb,David Powers,2,0.577
+Shlomo Dov Goitein,David Powers,2,0.577
+Shlomo Dov Goitein,Joseph Schacht,2,0.667
+David Powers,Joseph Schacht,2,0.577
+Mary Beard,Gian Biagio Conte,2,0.516
+Judith Butler,David Cohen,2,0.27
+Judith Butler,Edward E. Cohen,3,0.452
+Judith Butler,James N. Davidson,2,0.302
+Judith Butler,Mary Douglas,3,0.405
+Judith Butler,Elaine Fantham,2,0.27
+Judith Butler,Nick Fisher,2,0.348
+Judith Butler,Elizabeth Freeman,2,0.348
+Judith Butler,Edith Hall,3,0.405
+Judith Butler,Martin L. West,2,0.302
+Judith Butler,John J. Winkler,2,0.348
+Judith Butler,Froma I. Zeitlin,2,0.348
+Alan Cameron,Edward E. Cohen,2,0.5
+Alan Cameron,Gian Biagio Conte,2,0.577
+Alan Cameron,Kimberlé Crenshaw,2,0.577
+Alan Cameron,Mary Douglas,2,0.447
+Alan Cameron,Michel Foucault,3,0.452
+Alan Cameron,Maud W. Gleason,3,0.53
+Alan Cameron,Edith Hall,2,0.447
+Alan Cameron,David Halperin,2,0.333
+Alan Cameron,Benjamin H. Isaac,2,0.577
+Alan Cameron,Amy Richlin,3,0.5
+Alan Cameron,Craig A. Williams,2,0.447
+Alan Cameron,Froma I. Zeitlin,2,0.577
+Eva Cantarella,F. Coarelli,2,0.436
+Eva Cantarella,Gian Biagio Conte,2,0.436
+Eva Cantarella,Mary Douglas,2,0.338
+Eva Cantarella,Giulia Sissa,2,0.378
+Eva Cantarella,Froma I. Zeitlin,2,0.436
+John R. Clarke,Kimberlé Crenshaw,2,0.471
+F. Coarelli,Gian Biagio Conte,2,0.667
+F. Coarelli,Thomas N. Habinek,2,0.667
+F. Coarelli,Holt N. Parker,2,0.516
+F. Coarelli,Marilyn B. Skinner,2,0.471
+David Cohen,Gian Biagio Conte,2,0.516
+David Cohen,Mary Douglas,2,0.4
+David Cohen,P. Easterling,2,0.516
+David Cohen,Thomas N. Habinek,2,0.516
+David Cohen,Edith Hall,2,0.4
+David Cohen,Holt N. Parker,2,0.4
+David Cohen,Giulia Sissa,2,0.447
+David Cohen,Marilyn B. Skinner,3,0.548
+David Cohen,Martin L. West,2,0.447
+David Cohen,Froma I. Zeitlin,2,0.516
+Edward E. Cohen,Mary Douglas,2,0.447
+Edward E. Cohen,P. Easterling,2,0.577
+Edward E. Cohen,Elaine Fantham,2,0.447
+Edward E. Cohen,Maud W. Gleason,2,0.354
+Edward E. Cohen,Edith Hall,3,0.671
+Edward E. Cohen,Giulia Sissa,2,0.5
+Edward E. Cohen,Marilyn B. Skinner,2,0.408
+Edward E. Cohen,Martin L. West,2,0.5
+Edward E. Cohen,Craig A. Williams,2,0.447
+Edward E. Cohen,Froma I. Zeitlin,2,0.577
+Gian Biagio Conte,Kimberlé Crenshaw,2,0.667
+Gian Biagio Conte,Mary Douglas,2,0.516
+Gian Biagio Conte,Catharine Edwards,2,0.471
+Gian Biagio Conte,Elaine Fantham,2,0.516
+Gian Biagio Conte,Michel Foucault,2,0.348
+Gian Biagio Conte,Maud W. Gleason,2,0.408
+Gian Biagio Conte,Thomas N. Habinek,2,0.667
+Gian Biagio Conte,David Halperin,2,0.385
+Gian Biagio Conte,Benjamin H. Isaac,2,0.667
+Gian Biagio Conte,Holt N. Parker,2,0.516
+Gian Biagio Conte,Amy Richlin,3,0.577
+Gian Biagio Conte,Marilyn B. Skinner,2,0.471
+Gian Biagio Conte,Froma I. Zeitlin,2,0.667
+Kimberlé Crenshaw,Mary Douglas,2,0.516
+Kimberlé Crenshaw,Michel Foucault,2,0.348
+Kimberlé Crenshaw,Maud W. Gleason,2,0.408
+Kimberlé Crenshaw,David Halperin,2,0.385
+Kimberlé Crenshaw,Benjamin H. Isaac,2,0.667
+Kimberlé Crenshaw,Holt N. Parker,2,0.516
+Kimberlé Crenshaw,Amy Richlin,2,0.385
+Kimberlé Crenshaw,Froma I. Zeitlin,2,0.667
+James N. Davidson,Mary Douglas,2,0.447
+James N. Davidson,P. Easterling,2,0.577
+James N. Davidson,Elaine Fantham,2,0.447
+James N. Davidson,Edith Hall,2,0.447
+James N. Davidson,Giulia Sissa,2,0.5
+James N. Davidson,Froma I. Zeitlin,2,0.577
+Mary Douglas,Kenneth J. Dover,3,0.507
+Mary Douglas,P. Easterling,2,0.516
+Mary Douglas,Elaine Fantham,2,0.4
+Mary Douglas,Nick Fisher,2,0.516
+Mary Douglas,Michel Foucault,4,0.539
+Mary Douglas,Elizabeth Freeman,2,0.516
+Mary Douglas,Maud W. Gleason,3,0.474
+Mary Douglas,Edith Hall,2,0.4
+Mary Douglas,David Halperin,4,0.596
+Mary Douglas,Benjamin H. Isaac,2,0.516
+Mary Douglas,José Esteban Muñoz,2,0.447
+Mary Douglas,Amy Richlin,2,0.298
+Mary Douglas,Eve K. Sedgwick,2,0.447
+Mary Douglas,Giulia Sissa,2,0.447
+Mary Douglas,Marilyn B. Skinner,2,0.365
+Mary Douglas,Martin L. West,2,0.447
+Mary Douglas,Craig A. Williams,2,0.4
+Mary Douglas,John J. Winkler,2,0.516
+Mary Douglas,Froma I. Zeitlin,3,0.775
+Kenneth J. Dover,Elizabeth Freeman,2,0.436
+Kenneth J. Dover,José Esteban Muñoz,2,0.378
+Kenneth J. Dover,Froma I. Zeitlin,2,0.436
+P. Easterling,Elaine Fantham,2,0.516
+P. Easterling,Nick Fisher,2,0.667
+P. Easterling,Michel Foucault,2,0.348
+P. Easterling,Edith Hall,2,0.516
+P. Easterling,David Halperin,2,0.385
+P. Easterling,Giulia Sissa,2,0.577
+P. Easterling,Marilyn B. Skinner,2,0.471
+P. Easterling,Martin L. West,2,0.577
+P. Easterling,John J. Winkler,2,0.667
+P. Easterling,Froma I. Zeitlin,2,0.667
+Elaine Fantham,Nick Fisher,2,0.516
+Elaine Fantham,Michel Foucault,2,0.27
+Elaine Fantham,David Halperin,2,0.298
+Elaine Fantham,Giulia Sissa,2,0.447
+Elaine Fantham,John J. Winkler,2,0.516
+Elaine Fantham,Froma I. Zeitlin,2,0.516
+Nick Fisher,Edith Hall,2,0.516
+Nick Fisher,Giulia Sissa,2,0.577
+Nick Fisher,Marilyn B. Skinner,2,0.471
+Nick Fisher,Martin L. West,2,0.577
+Nick Fisher,Froma I. Zeitlin,2,0.667
+Michel Foucault,Elizabeth Freeman,3,0.522
+Michel Foucault,Edith Hall,3,0.405
+Michel Foucault,Benjamin H. Isaac,2,0.348
+Michel Foucault,Martin L. West,2,0.302
+Michel Foucault,Craig A. Williams,3,0.405
+Michel Foucault,Froma I. Zeitlin,3,0.522
+Elizabeth Freeman,Maud W. Gleason,2,0.408
+Elizabeth Freeman,David Halperin,3,0.577
+Elizabeth Freeman,José Esteban Muñoz,3,0.866
+Elizabeth Freeman,Eve K. Sedgwick,3,0.866
+Elizabeth Freeman,Craig A. Williams,2,0.516
+Maud W. Gleason,José Esteban Muñoz,2,0.354
+Maud W. Gleason,Froma I. Zeitlin,2,0.408
+Edith Hall,David Halperin,2,0.298
+Edith Hall,Giulia Sissa,2,0.447
+Edith Hall,John J. Winkler,2,0.516
+Edith Hall,Froma I. Zeitlin,2,0.516
+David Halperin,Benjamin H. Isaac,2,0.385
+David Halperin,Martin L. West,2,0.333
+David Halperin,Craig A. Williams,2,0.298
+David Halperin,Froma I. Zeitlin,3,0.577
+Benjamin H. Isaac,Froma I. Zeitlin,2,0.667
+José Esteban Muñoz,Eve K. Sedgwick,3,0.75
+José Esteban Muñoz,Craig A. Williams,2,0.447
+Amy Richlin,Froma I. Zeitlin,2,0.385
+Eve K. Sedgwick,Craig A. Williams,2,0.447
+Giulia Sissa,Martin L. West,2,0.5
+Giulia Sissa,John J. Winkler,2,0.577
+Giulia Sissa,Froma I. Zeitlin,2,0.577
+Marilyn B. Skinner,John J. Winkler,2,0.471
+Marilyn B. Skinner,Froma I. Zeitlin,2,0.471
+Martin L. West,John J. Winkler,2,0.577
+Martin L. West,Froma I. Zeitlin,2,0.577
+John J. Winkler,Froma I. Zeitlin,2,0.667
+Karen Bassi,G. Bowersock,2,0.667
+Karen Bassi,Judith Butler,2,0.348
+Karen Bassi,Averil Cameron,2,0.516
+Karen Bassi,Edith Hall,2,0.516
+Karen Bassi,Mary Harlow,2,0.471
+Karen Bassi,Thomas Harrison,2,0.667
+Karen Bassi,Carlos Norena,2,0.667
+John Behr,Peter Brown,2,0.436
+John Behr,Virginia Burrus,2,0.516
+John Behr,Alan Cameron,2,0.577
+John Behr,Averil Cameron,2,0.516
+John Behr,Jas Elsner,2,0.516
+John Behr,Lynda Garland,2,0.667
+John Behr,Maud W. Gleason,2,0.408
+John Behr,Judith Herrin,2,0.577
+John Behr,David Hunter,2,0.577
+John Behr,Liz James,2,0.667
+John Behr,Derek Krueger,2,0.667
+John Behr,Amy Richlin,2,0.385
+John Boswell,Bernadette Brooten,2,0.577
+John Boswell,Virginia Burrus,2,0.516
+John Boswell,Judith Butler,2,0.348
+John Boswell,Michel Foucault,2,0.348
+John Boswell,Matthew Kuefler,2,0.577
+G. Bowersock,Averil Cameron,2,0.516
+G. Bowersock,Edward E. Cohen,2,0.577
+G. Bowersock,Lin Foxhall,2,0.577
+G. Bowersock,Edith Hall,2,0.516
+G. Bowersock,Mary Harlow,2,0.471
+G. Bowersock,Thomas Harrison,2,0.667
+G. Bowersock,Carlos Norena,2,0.667
+Bernadette Brooten,Keith Hopkins,2,0.5
+Bernadette Brooten,Shaun Tougher,2,0.5
+Bernadette Brooten,Craig A. Williams,2,0.447
+Peter Brown,Caroline Walker Bynum,2,0.436
+Peter Brown,Lynda Garland,2,0.436
+Virginia Burrus,Caroline Walker Bynum,2,0.516
+Virginia Burrus,Alan Cameron,2,0.447
+Virginia Burrus,Lynda Garland,2,0.516
+Virginia Burrus,Craig A. Williams,2,0.4
+Judith Butler,Averil Cameron,2,0.27
+Judith Butler,Lin Foxhall,2,0.302
+Judith Butler,Thomas Harrison,2,0.348
+Judith Butler,Keith Hopkins,2,0.302
+Judith Butler,Shaun Tougher,2,0.302
+Caroline Walker Bynum,Alan Cameron,2,0.577
+Caroline Walker Bynum,Averil Cameron,2,0.516
+Caroline Walker Bynum,Jas Elsner,2,0.516
+Caroline Walker Bynum,Lynda Garland,2,0.667
+Caroline Walker Bynum,Maud W. Gleason,2,0.408
+Caroline Walker Bynum,Judith Herrin,2,0.577
+Caroline Walker Bynum,David Hunter,2,0.577
+Caroline Walker Bynum,Liz James,2,0.667
+Caroline Walker Bynum,Derek Krueger,2,0.667
+Caroline Walker Bynum,Amy Richlin,2,0.385
+Alan Cameron,Averil Cameron,2,0.447
+Alan Cameron,Jas Elsner,2,0.447
+Alan Cameron,Lynda Garland,2,0.577
+Alan Cameron,Judith Herrin,2,0.5
+Alan Cameron,David Hunter,2,0.5
+Alan Cameron,Liz James,2,0.577
+Alan Cameron,Derek Krueger,2,0.577
+Averil Cameron,Edward E. Cohen,2,0.447
+Averil Cameron,Michel Foucault,3,0.405
+Averil Cameron,Lin Foxhall,2,0.447
+Averil Cameron,Lynda Garland,2,0.516
+Averil Cameron,Maud W. Gleason,2,0.316
+Averil Cameron,Edith Hall,2,0.4
+Averil Cameron,Carlos Norena,2,0.516
+Edward E. Cohen,Mary Harlow,2,0.408
+Edward E. Cohen,Thomas Harrison,2,0.577
+Edward E. Cohen,Carlos Norena,2,0.577
+Jas Elsner,Michel Foucault,2,0.27
+Jas Elsner,Lynda Garland,2,0.516
+Jas Elsner,Ronald Syme,2,0.516
+Michel Foucault,Lynda Garland,2,0.348
+Michel Foucault,Mary Harlow,2,0.246
+Michel Foucault,Thomas Harrison,2,0.348
+Michel Foucault,Judith Herrin,2,0.302
+Michel Foucault,Keith Hopkins,2,0.302
+Michel Foucault,Liz James,2,0.348
+Michel Foucault,Derek Krueger,2,0.348
+Michel Foucault,Carlos Norena,2,0.348
+Michel Foucault,Shaun Tougher,2,0.302
+Lin Foxhall,Thomas Harrison,2,0.577
+Lin Foxhall,Carlos Norena,2,0.577
+Lynda Garland,Judith Herrin,2,0.577
+Lynda Garland,David Hunter,2,0.577
+Lynda Garland,Liz James,2,0.667
+Lynda Garland,Derek Krueger,2,0.667
+Maud W. Gleason,Judith Herrin,2,0.354
+Maud W. Gleason,Liz James,2,0.408
+Maud W. Gleason,Derek Krueger,2,0.408
+Judith Hallett,Ronald Syme,2,0.516
+Edith Hall,Thomas Harrison,2,0.516
+Edith Hall,Carlos Norena,2,0.516
+Mary Harlow,Thomas Harrison,2,0.471
+Thomas Harrison,Carlos Norena,2,0.667
+Matthew Kuefler,Craig A. Williams,2,0.447
+Rebecca Langlands,Ronald Syme,2,0.667
+Daniel Boyarin,Mary Douglas,2,0.365
+Daniel Boyarin,Charlotte Elisheva Fonrobert,2,0.471
+Daniel Boyarin,Clifford Geertz,3,0.612
+Daniel Boyarin,Ross Kraemer,2,0.471
+Daniel Boyarin,Claude Lévi-Strauss,2,0.408
+Daniel Boyarin,Jacob Neusner,2,0.471
+Virginia Burrus,Shaye J. D. Cohen,2,0.4
+Virginia Burrus,Mary Douglas,2,0.4
+Virginia Burrus,Charlotte Elisheva Fonrobert,2,0.516
+Virginia Burrus,Clifford Geertz,2,0.447
+Virginia Burrus,Ross Kraemer,2,0.516
+Virginia Burrus,Claude Lévi-Strauss,2,0.447
+Virginia Burrus,Jacob Neusner,2,0.516
+Judith Butler,Claude Lévi-Strauss,2,0.302
+Shaye J. D. Cohen,Mary Douglas,2,0.4
+Shaye J. D. Cohen,Elizabeth Freeman,2,0.516
+Shaye J. D. Cohen,Clifford Geertz,2,0.447
+Shaye J. D. Cohen,David Halperin,3,0.447
+Shaye J. D. Cohen,Ross Kraemer,2,0.516
+Shaye J. D. Cohen,Claude Lévi-Strauss,2,0.447
+Shaye J. D. Cohen,José Esteban Muñoz,2,0.447
+Shaye J. D. Cohen,Jacob Neusner,3,0.775
+Shaye J. D. Cohen,Eve K. Sedgwick,2,0.447
+Mary Douglas,Charlotte Elisheva Fonrobert,2,0.516
+Mary Douglas,Clifford Geertz,2,0.447
+Mary Douglas,Ross Kraemer,2,0.516
+Mary Douglas,Claude Lévi-Strauss,3,0.671
+Mary Douglas,Jacob Neusner,2,0.516
+Kenneth J. Dover,Claude Lévi-Strauss,2,0.378
+Charlotte Elisheva Fonrobert,Clifford Geertz,2,0.577
+Charlotte Elisheva Fonrobert,Maud W. Gleason,2,0.408
+Charlotte Elisheva Fonrobert,David Halperin,2,0.385
+Charlotte Elisheva Fonrobert,Ross Kraemer,2,0.667
+Charlotte Elisheva Fonrobert,Claude Lévi-Strauss,2,0.577
+Charlotte Elisheva Fonrobert,Jacob Neusner,2,0.667
+Michel Foucault,Clifford Geertz,2,0.302
+Michel Foucault,Ross Kraemer,2,0.348
+Michel Foucault,Claude Lévi-Strauss,3,0.452
+Michel Foucault,Jacob Neusner,3,0.522
+Elizabeth Freeman,Jacob Neusner,2,0.667
+Clifford Geertz,Maud W. Gleason,2,0.354
+Clifford Geertz,David Halperin,2,0.333
+Clifford Geertz,Ross Kraemer,2,0.577
+Clifford Geertz,Claude Lévi-Strauss,2,0.5
+Clifford Geertz,Jacob Neusner,2,0.577
+Maud W. Gleason,Ross Kraemer,2,0.408
+Maud W. Gleason,Claude Lévi-Strauss,2,0.354
+Maud W. Gleason,Jacob Neusner,2,0.408
+David Halperin,Ross Kraemer,2,0.385
+David Halperin,Claude Lévi-Strauss,3,0.5
+David Halperin,Jacob Neusner,3,0.577
+Ross Kraemer,Claude Lévi-Strauss,2,0.577
+Ross Kraemer,Jacob Neusner,2,0.667
+Claude Lévi-Strauss,Jacob Neusner,2,0.577
+José Esteban Muñoz,Jacob Neusner,2,0.577
+Jacob Neusner,Eve K. Sedgwick,2,0.577
+Susan Ackerman,Claude Lévi-Strauss,2,0.577
+Susan Ackerman,Joan W. Scott,2,0.516
+Claude Lévi-Strauss,Joan W. Scott,2,0.447
+Margarete Bieber,Jan Bremmer,2,0.5
+Margarete Bieber,David Cohen,2,0.447
+Margarete Bieber,Elaine Fantham,2,0.447
+Margarete Bieber,Gordon Williams,2,0.577
+Jan Bremmer,Elaine Fantham,2,0.447
+Jan Bremmer,Anton Powell,2,0.577
+Jan Bremmer,Ruth Scodel,2,0.577
+Jan Bremmer,Marilyn B. Skinner,2,0.408
+Jan Bremmer,Gordon Williams,2,0.577
+Averil Cameron,Mary Douglas,2,0.4
+Averil Cameron,Thorsten Fögen,2,0.516
+Averil Cameron,David Halperin,2,0.298
+Averil Cameron,George A. Kennedy,2,0.516
+Averil Cameron,Claude Lévi-Strauss,2,0.447
+Averil Cameron,Victor W. Turner,2,0.516
+Averil Cameron,Froma I. Zeitlin,2,0.516
+Eva Cantarella,Ruth Scodel,2,0.436
+David Cohen,Anton Powell,2,0.516
+David Cohen,Ruth Scodel,2,0.516
+David Cohen,Gordon Williams,2,0.516
+Mary Douglas,Thorsten Fögen,2,0.516
+Mary Douglas,Simon Goldhill,2,0.365
+Mary Douglas,George A. Kennedy,2,0.516
+Mary Douglas,Victor W. Turner,2,0.516
+Elaine Fantham,Daniel Ogden,2,0.4
+Elaine Fantham,Anton Powell,2,0.516
+Elaine Fantham,Ruth Scodel,2,0.516
+Thorsten Fögen,Michel Foucault,2,0.348
+Thorsten Fögen,Simon Goldhill,2,0.471
+Thorsten Fögen,David Halperin,2,0.385
+Thorsten Fögen,George A. Kennedy,2,0.667
+Thorsten Fögen,Claude Lévi-Strauss,2,0.577
+Thorsten Fögen,Victor W. Turner,2,0.667
+Thorsten Fögen,Froma I. Zeitlin,2,0.667
+Michel Foucault,George A. Kennedy,2,0.348
+Michel Foucault,Victor W. Turner,2,0.348
+Simon Goldhill,George A. Kennedy,2,0.471
+Simon Goldhill,Claude Lévi-Strauss,2,0.408
+Simon Goldhill,Victor W. Turner,2,0.471
+Simon Goldhill,Froma I. Zeitlin,2,0.471
+David Halperin,George A. Kennedy,2,0.385
+David Halperin,Victor W. Turner,2,0.385
+George A. Kennedy,Claude Lévi-Strauss,2,0.577
+George A. Kennedy,Victor W. Turner,2,0.667
+George A. Kennedy,Froma I. Zeitlin,2,0.667
+Helen King,Christiane Sourvinou-Inwood,2,0.408
+Claude Lévi-Strauss,Victor W. Turner,2,0.577
+Claude Lévi-Strauss,Froma I. Zeitlin,2,0.577
+Daniel Ogden,Anton Powell,2,0.516
+Daniel Ogden,Gordon Williams,2,0.516
+Anton Powell,Ruth Scodel,2,0.667
+Anton Powell,Marilyn B. Skinner,2,0.471
+Anton Powell,Gordon Williams,2,0.667
+Ruth Scodel,Gordon Williams,2,0.667
+Victor W. Turner,Froma I. Zeitlin,2,0.667
+Roland Barthes,Richard Bauckham,2,0.577
+Roland Barthes,Denise Kimber Buell,2,0.5
+Roland Barthes,Shaye J. D. Cohen,2,0.447
+Roland Barthes,Jennifer Wright Knust,2,0.577
+Roland Barthes,Dale B. Martin,2,0.447
+Roland Barthes,Jacob Neusner,2,0.577
+Roland Barthes,Annette Yoshiko Reed,2,0.577
+Roland Barthes,Joan W. Scott,2,0.447
+Roland Barthes,Guy Stroumsa,2,0.577
+Richard Bauckham,Shaye J. D. Cohen,2,0.516
+Richard Bauckham,Jacob Neusner,2,0.667
+Richard Bauckham,Annette Yoshiko Reed,2,0.667
+Richard Bauckham,Joan W. Scott,2,0.516
+Denise Kimber Buell,Jacob Neusner,2,0.577
+Denise Kimber Buell,Joan W. Scott,2,0.447
+Michel de Certeau,Joan W. Scott,2,0.516
+Shaye J. D. Cohen,Jennifer Wright Knust,2,0.516
+Shaye J. D. Cohen,Joan W. Scott,2,0.4
+Shaye J. D. Cohen,Guy Stroumsa,2,0.516
+Michel Foucault,Annette Yoshiko Reed,2,0.348
+Michel Foucault,Joan W. Scott,2,0.27
+David Halperin,Annette Yoshiko Reed,2,0.385
+David Halperin,Joan W. Scott,2,0.298
+Jennifer Wright Knust,Jacob Neusner,2,0.667
+Jennifer Wright Knust,Annette Yoshiko Reed,2,0.667
+Jennifer Wright Knust,Joan W. Scott,2,0.516
+Dale B. Martin,Jacob Neusner,2,0.516
+Dale B. Martin,Joan W. Scott,2,0.4
+Jacob Neusner,Annette Yoshiko Reed,2,0.667
+Jacob Neusner,Joan W. Scott,2,0.516
+Jacob Neusner,Guy Stroumsa,2,0.667
+Annette Yoshiko Reed,Joan W. Scott,2,0.516
+Annette Yoshiko Reed,Guy Stroumsa,2,0.667
+Joan W. Scott,Guy Stroumsa,2,0.516
+Mieke Bal,Gian Biagio Conte,2,0.667
+Mieke Bal,Jas Elsner,2,0.516
+Mieke Bal,Ross Kraemer,2,0.667
+Mieke Bal,Amy Richlin,2,0.385
+Daniel Boyarin,Joan W. Scott,2,0.365
+Daniel Boyarin,Victor W. Turner,2,0.471
+Gian Biagio Conte,Jas Elsner,2,0.516
+Gian Biagio Conte,Ross Kraemer,2,0.667
+Gian Biagio Conte,Arnaldo Momigliano,2,0.667
+Jas Elsner,Ross Kraemer,2,0.516
+Jas Elsner,Arnaldo Momigliano,2,0.516
+Clifford Geertz,Joan W. Scott,2,0.447
+Clifford Geertz,Victor W. Turner,2,0.577
+Ross Kraemer,Arnaldo Momigliano,2,0.667
+Ross Kraemer,Amy Richlin,2,0.385
+Arnaldo Momigliano,Amy Richlin,2,0.385
+Joan W. Scott,Victor W. Turner,2,0.516
