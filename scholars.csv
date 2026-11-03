@@ -1,180 +1,249 @@
-scholar_id,name,cited_by_phd_28,antiquity_of_10,late_antiquity_of_10,medieval_islamic_of_8,field_colour_group,cited_by_with_theses_34,gender,status_nov_2026,death_year,status_evidence
-butler|judith,Judith Butler,11,3,6,2,cross-field,12,nonbinary,living (no death notice found),,
-foucault|michel,Michel Foucault,11,3,7,1,cross-field,11,man,deceased,1984,Draft confirmed
-richlin|amy,Amy Richlin,9,5,4,0,cross-field,13,woman,living (no death notice found),,
-halperin|david,David Halperin,9,3,5,1,cross-field,9,man,living (no death notice found),,
-gleason|maud,Maud W. Gleason,8,3,5,0,cross-field,11,woman,living (no death notice found),,
-cantarella|eva,Eva Cantarella,7,6,1,0,antiquity,8,woman,living (no death notice found),,living (no death found)
-dover|kenneth,Kenneth J. Dover,7,5,2,0,antiquity,8,man,deceased,2010,Draft confirmed
-brown|peter,Peter Brown,7,0,6,1,late antiquity,8,man,living (no death notice found),,"living (no death found); b. 1935, Wikipedia present tense. https://en.wikipedia.org/wiki/Peter_Brown_(historian)"
-flemming|rebecca,Rebecca Flemming,7,3,4,0,cross-field,7,woman,living (no death notice found),,
-skinner|marilyn,Marilyn B. Skinner,6,5,1,0,antiquity,9,woman,living (no death notice found),,No death found; Wikipedia mirror lists her under Living people.
-clarke|john,John R. Clarke,6,5,1,0,antiquity,8,man,living (no death notice found),,
-king|helen,Helen King,6,3,3,0,cross-field,7,woman,living (no death notice found),,
+scholar_id,name,cited_by_phd_32,antiquity_of_14,late_antiquity_of_10,medieval_islamic_of_8,field_colour_group,cited_by_with_theses_38,gender,status_nov_2026,death_year,status_evidence
+foucault|michel,Michel Foucault,14,6,7,1,cross-field,14,man,deceased,1984,Draft confirmed
+butler|judith,Judith Butler,12,4,6,2,cross-field,13,nonbinary,living (no death notice found),,
+richlin|amy,Amy Richlin,11,7,4,0,cross-field,15,woman,living (no death notice found),,
+halperin|david,David Halperin,11,5,5,1,cross-field,11,man,living (no death notice found),,
+dover|kenneth,Kenneth J. Dover,10,8,2,0,antiquity,11,man,deceased,2010,Draft confirmed
+gleason|maud,Maud W. Gleason,9,4,5,0,cross-field,12,woman,living (no death notice found),,
+skinner|marilyn,Marilyn B. Skinner,8,7,1,0,antiquity,11,woman,living (no death notice found),,No death found; Wikipedia mirror lists her under Living people.
+cantarella|eva,Eva Cantarella,8,7,1,0,antiquity,9,woman,living (no death notice found),,living (no death found)
+brown|peter,Peter Brown,8,1,6,1,late antiquity,9,man,living (no death notice found),,"living (no death found); b. 1935, Wikipedia present tense. https://en.wikipedia.org/wiki/Peter_Brown_(historian)"
+edwards|catharine,Catharine Edwards,8,6,2,0,antiquity,8,woman,living (no death notice found),,
+flemming|rebecca,Rebecca Flemming,8,4,4,0,cross-field,8,woman,living (no death notice found),,
+goldhill|simon,Simon Goldhill,8,5,3,0,cross-field,8,man,living (no death notice found),,
+clarke|john,John R. Clarke,7,6,1,0,antiquity,9,man,living (no death notice found),,
+king|helen,Helen King,7,4,3,0,cross-field,8,woman,living (no death notice found),,
+ogden|daniel,Daniel Ogden,7,6,1,0,antiquity,7,man,living (no death notice found),,
+cohen|david,David Cohen,7,6,1,0,antiquity,7,man,living (no death notice found),,
+mcginn|thomas,Thomas McGinn,7,5,2,0,antiquity,7,man,living (no death notice found),,
+fantham|elaine,Elaine Fantham,6,5,1,0,antiquity,9,woman,deceased,2016,Draft confirmed
+williams|craig,Craig A. Williams,6,4,2,0,antiquity,8,man,living (no death notice found),,
+parker|holt,Holt Parker,6,6,0,0,antiquity,8,man,living (no death notice found),,
+hemelrijk|emily,Emily Hemelrijk,6,4,2,0,antiquity,7,woman,living (no death notice found),,
+davidson|james,James N. Davidson,6,6,0,0,antiquity,7,man,living (no death notice found),,
+olson|kelly,Kelly Olson,6,4,2,0,antiquity,7,woman,living (no death notice found),,
 pomeroy|sarah,Sarah B. Pomeroy,6,3,3,0,cross-field,7,woman,living (no death notice found),,living (no death found); b. 1938 https://en.wikipedia.org/wiki/Sarah_B._Pomeroy
-edwards|catharine,Catharine Edwards,6,4,2,0,antiquity,6,woman,living (no death notice found),,
 boyarin|daniel,Daniel Boyarin,6,0,5,1,late antiquity,6,man,living (no death notice found),,No death notice found in search.
+hall|edith,Edith Hall,6,5,1,0,antiquity,6,woman,living (no death notice found),,
+clark|elizabeth,Elizabeth A. Clark,6,1,5,0,late antiquity,6,woman,deceased,2021,Died Sept 2021 aged 82 (Duke Today). https://today.duke.edu/2021/09/elizabeth-clark-taught-religion-duke-four-decades-dies-age-82
+castelli|elizabeth,Elizabeth Castelli,6,1,5,0,late antiquity,6,woman,living (no death notice found),,
+zeitlin|froma,Froma I. Zeitlin,6,5,1,0,antiquity,6,woman,living (no death notice found),,living (no death found); b. 1933; Princeton 90th-birthday notice https://classics.princeton.edu/department/news/emerita-froma-zeitlin-celebrates-90th-birthday
+winkler|john,John J. Winkler,6,6,0,0,antiquity,6,man,deceased,1990,matches draft
+hallett|judith,Judith Hallett,6,5,1,0,antiquity,6,woman,living (no death notice found),,No death notice found in search.
+foxhall|lin,Lin Foxhall,6,5,1,0,antiquity,6,woman,living (no death notice found),,
 harlow|mary,Mary Harlow,6,3,3,0,cross-field,6,woman,living (no death notice found),,
-goldhill|simon,Simon Goldhill,6,3,3,0,cross-field,6,man,living (no death notice found),,
-fantham|elaine,Elaine Fantham,5,4,1,0,antiquity,8,woman,deceased,2016,Draft confirmed
+zanker|paul,Paul Zanker,6,6,0,0,antiquity,6,man,living (no death notice found),,living (no death found); b. 1937; Cultori di Roma prize 2024 https://en.wikipedia.org/wiki/Paul_Zanker
 beard|mary,Mary Beard,5,4,1,0,antiquity,8,woman,living (no death notice found),,
-williams|craig,Craig A. Williams,5,3,2,0,cross-field,7,man,living (no death notice found),,
-parker|holt,Holt N. Parker,5,5,0,0,antiquity,7,man,living (no death notice found),,
+kleiner|diana,D.E.E. Kleiner,5,4,1,0,antiquity,6,woman,deceased,2023,Died 2023 (1947-2023). Yale News In Memoriam: https://news.yale.edu/2023/11/27/diana-kleiner-art-historian-and-founding-director-yale-open-courses
 martin|dale,Dale B. Martin,5,0,5,0,late antiquity,6,man,deceased,2023,"Died 17 Nov 2023, Galveston TX. Wikipedia https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Dale_B._Martin"
-hemelrijk|emily,Emily Hemelrijk,5,3,2,0,cross-field,6,woman,living (no death notice found),,
+lissarrague|francois,François Lissarrague,5,4,1,0,antiquity,6,man,deceased,2021,matches draft
 scott|joan,Joan W. Scott,5,2,2,1,cross-field,6,woman,living (no death notice found),,No death notice found in search.
-olson|kelly,Kelly Olson,5,3,2,0,cross-field,6,woman,living (no death notice found),,
+sebesta|judith,Judith Lynn Sebesta,5,3,2,0,cross-field,6,woman,living (no death notice found),,"living (no death found); USD classics emerita, honoured 2012 https://rogueclassicism.com/2012/04/21/honours-for-judith-lynn-sebesta/"
+lefkowitz|mary,Mary R. Lefkowitz,5,3,2,0,cross-field,6,woman,living (no death notice found),,living (no death found); b. 1935; Athens Prize May 2024; Wikipedia lists as living https://en.wikipedia.org/wiki/Mary_Lefkowitz
+kampen|natalie,Natalie Kampen,5,4,1,0,antiquity,6,woman,deceased,2012,1944-2012. WIA Report: https://wiareport.com/2012/08/in-memoriam-natalie-boymel-kampen-1944-2012/ ; Columbia Art History notice.
 cohen|shaye,Shaye J. D. Cohen,5,0,5,0,late antiquity,6,man,living (no death notice found),,No death found; Harvard CJS retirement notice July 2025.
 cameron|averil,Averil Cameron,5,2,3,0,cross-field,5,woman,deceased,2026,"Professor Dame Averil Cameron (1940-2026), d. April 2026. Keble College: https://www.keble.ox.ac.uk/news/professor-dame-averil-cameron-1940-2026/ ; Church Times obituary 22 May 2026."
-ogden|daniel,Daniel Ogden,5,4,1,0,antiquity,5,man,living (no death notice found),,
-cohen|david,David Cohen,5,4,1,0,antiquity,5,man,living (no death notice found),,
-hall|edith,Edith Hall,5,4,1,0,antiquity,5,woman,living (no death notice found),,
-clark|elizabeth,Elizabeth A. Clark,5,0,5,0,late antiquity,5,woman,deceased,2021,Died Sept 2021 aged 82 (Duke Today). https://today.duke.edu/2021/09/elizabeth-clark-taught-religion-duke-four-decades-dies-age-82
-castelli|elizabeth,Elizabeth Castelli,5,0,5,0,late antiquity,5,woman,living (no death notice found),,
+sourvinou-inwood|christiane,Christiane Sourvinou-Inwood,5,5,0,0,antiquity,5,woman,deceased,2007,matches draft
+faraone|christopher,Christopher A. Faraone,5,5,0,0,antiquity,5,man,living (no death notice found),,
+hunter|david,David Hunter,5,1,4,0,late antiquity,5,man,living (no death notice found),,
+cohen|edward,Edward E. Cohen,5,4,1,0,antiquity,5,man,living (no death notice found),,No death notice found in search.
+sedgwick|eve,Eve K. Sedgwick,5,2,3,0,cross-field,5,woman,deceased,2009,matches draft
 elsner|jas,Jas Elsner,5,2,3,0,cross-field,5,man,living (no death notice found),,
-hallett|judith,Judith Hallett,5,4,1,0,antiquity,5,woman,living (no death notice found),,No death notice found in search.
+oakley|john,John Oakley,5,5,0,0,antiquity,5,man,living (no death notice found),,
+milnor|kristina,Kristina Milnor,5,4,1,0,antiquity,5,woman,living (no death notice found),,
 bonfante|larissa,Larissa Bonfante,5,4,1,0,antiquity,5,woman,deceased,2019,Draft confirmed
+west|martin,Martin L. West,5,5,0,0,antiquity,5,man,deceased,2015,matches draft
 douglas|mary,Mary Douglas,5,2,2,1,cross-field,5,woman,deceased,2007,Draft confirmed
 lee|mireille,Mireille Lee,5,4,1,0,antiquity,5,woman,living (no death notice found),,
+loraux|nicole,Nicole Loraux,5,5,0,0,antiquity,5,woman,deceased,2003,matches draft
+bourdieu|pierre,Pierre Bourdieu,5,2,2,1,cross-field,5,man,deceased,2002,Draft confirmed
+langlands|rebecca,Rebecca Langlands,5,4,1,0,antiquity,5,woman,living (no death notice found),,
 bagnall|roger,Roger S. Bagnall,5,2,2,1,cross-field,5,man,living (no death notice found),,No death found; Columbia professors emeriti page.
-mcginn|thomas,Thomas A.J. McGinn,5,3,2,0,cross-field,5,man,living (no death notice found),,
+joshel|sandra,Sandra R. Joshel,5,4,1,0,antiquity,5,woman,living (no death notice found),,living (no death found)
+elm|susanna,Susanna Elm,5,1,4,0,late antiquity,5,woman,living (no death notice found),,
 burrus|virginia,Virginia Burrus,5,0,5,0,late antiquity,5,woman,living (no death notice found),,
+burkert|walter,Walter Burkert,5,5,0,0,antiquity,5,man,deceased,2015,Wikipedia/LibraryThing: 1931-2015.
+henderson|jeffrey,Jeffrey Henderson,5,5,0,0,antiquity,2,man,living (no death notice found),,"No death found; 2025-26 obituaries found for same-name non-academics (Phenix City AL b.1950 etc.), not the classicist."
+anderson|william,William S. Anderson,4,3,1,0,antiquity,6,man,deceased,2022,"Berkeley in memoriam: William Scovil Anderson, 16 Sep 1927 - 22 Mar 2022. https://dagrs.berkeley.edu/node/1096"
 cameron|alan,Alan Cameron,4,1,3,0,late antiquity,5,man,deceased,2017,Draft confirmed
+varone|antonio,Antonio Varone,4,4,0,0,antiquity,5,man,living (no death notice found),,No death notice found in search.
 brooten|bernadette,Bernadette Brooten,4,0,4,0,late antiquity,5,woman,living (no death notice found),,living (no death found); Brandeis faculty page https://www.brandeis.edu/departments/nejs/faculty/brooten.html
 winter|bruce,Bruce Winter,4,1,3,0,late antiquity,5,man,living (no death notice found),,living (no death found); Bruce W. Winter b. 1939 https://en.wikipedia.org/wiki/Bruce_W._Winter
-kleiner|diana,D.E.E. Kleiner,4,3,1,0,antiquity,5,woman,deceased,2023,Died 2023 (1947-2023). Yale News In Memoriam: https://news.yale.edu/2023/11/27/diana-kleiner-art-historian-and-founding-director-yale-open-courses
+konstan|david,David Konstan,4,3,1,0,antiquity,5,man,deceased,2024,Died 2 May 2024 (b. 1940). SCS In Memoriam: https://classicalstudies.org/scs-news/memoriam-david-konstan ; Brown Classics notice.
 dambra|eve,Eve D’Ambra,4,2,2,0,cross-field,5,woman,living (no death notice found),,
 dolansky|fanny,Fanny Dolansky,4,2,2,0,cross-field,5,woman,living (no death notice found),,
-lissarrague|francois,François Lissarrague,4,3,1,0,antiquity,5,man,deceased,2021,matches draft
+clark|gillian,Gillian Clark,4,1,3,0,late antiquity,5,woman,living (no death notice found),,No death notice found in search.
 davies|glenys,Glenys Davies,4,3,1,0,antiquity,5,woman,living (no death notice found),,No death notice found in search.
-davidson|james,James N. Davidson,4,4,0,0,antiquity,5,man,living (no death notice found),,
-sebesta|judith,Judith Lynn Sebesta,4,2,2,0,cross-field,5,woman,living (no death notice found),,"living (no death found); USD classics emerita, honoured 2012 https://rogueclassicism.com/2012/04/21/honours-for-judith-lynn-sebesta/"
-lefkowitz|mary,Mary R. Lefkowitz,4,2,2,0,cross-field,5,woman,living (no death notice found),,living (no death found); b. 1935; Athens Prize May 2024; Wikipedia lists as living https://en.wikipedia.org/wiki/Mary_Lefkowitz
 kuefler|matthew,Matthew Kuefler,4,0,4,0,late antiquity,5,man,living (no death notice found),,
-kampen|natalie,Natalie Kampen,4,3,1,0,antiquity,5,woman,deceased,2012,1944-2012. WIA Report: https://wiareport.com/2012/08/in-memoriam-natalie-boymel-kampen-1944-2012/ ; Columbia Art History notice.
+kraemer|ross,Ross Kraemer,4,2,2,0,cross-field,5,woman,living (no death notice found),,No death found; Brown lists her as Professor Emerita.
+treggiari|susan,Susan Treggiari,4,4,0,0,antiquity,5,woman,living (no death notice found),,living (no death found) https://en.wikipedia.org/wiki/Susan_Treggiari
+braund|susanna,Susanna M. Braund,4,4,0,0,antiquity,5,woman,living (no death notice found),,
 laqueur|thomas,Thomas Laqueur,4,0,4,0,late antiquity,5,man,living (no death notice found),,No death found; listed as Berkeley emeritus faculty.
+glazebrook|allison,Allison Glazebrook,4,4,0,0,antiquity,4,woman,living (no death notice found),,No death found; inducted FRSC Nov 2025 (Brock news).
 kuhrt|amelie,Amélie Kuhrt,4,3,1,0,antiquity,4,woman,deceased,2023,Died 2 Jan 2023. UCL notice https://www.ucl.ac.uk/history/news/2023/feb/professor-amelie-kuhrt-fba-23-september-1944-2-january-2023
+wallace-hadrill|andrew,Andrew Wallace-Hadrill,4,4,0,0,antiquity,4,man,living (no death notice found),,No death notice found in search.
+hanson|ann,Ann Ellis Hanson,4,3,1,0,antiquity,4,woman,living (no death notice found),,living (no death found)
 barton|carlin,Carlin Barton,4,1,3,0,late antiquity,4,woman,living (no death notice found),,
 vout|caroline,Caroline Vout,4,4,0,0,antiquity,4,woman,living (no death notice found),,
-sourvinou-inwood|christiane,Christiane Sourvinou-Inwood,4,4,0,0,antiquity,4,woman,deceased,2007,matches draft
 gill|christopher,Christopher Gill,4,1,3,0,late antiquity,4,man,living (no death notice found),,No death found; 2025 Routledge book 'Stoic Ethics: The Basics' (with Polat).
 levi-strauss|claude,Claude Lévi-Strauss,4,2,2,0,cross-field,4,man,deceased,2009,matches draft
 geertz|clifford,Clifford Geertz,4,0,2,2,cross-field,4,man,deceased,2006,Draft confirmed
-hunter|david,David Hunter,4,0,4,0,late antiquity,4,man,living (no death notice found),,
 powers|david,David Powers,4,0,0,4,medieval & Islamic,4,man,living (no death notice found),,
 buell|denise,Denise Kimber Buell,4,0,4,0,late antiquity,4,woman,living (no death notice found),,
-cohen|edward,Edward E. Cohen,4,3,1,0,antiquity,4,man,living (no death notice found),,No death notice found in search.
-sedgwick|eve,Eve K. Sedgwick,4,1,3,0,late antiquity,4,woman,deceased,2009,matches draft
+leach|eleanor,Eleanor Leach,4,3,1,0,antiquity,4,woman,deceased,2018,"Eleanor Winsor Leach, 1937 - 16 Feb 2018. IU Classics in memoriam https://classics.indiana.edu/about/history/in-memoriam/leach-eleanor.html"
+gunderson|erik,Erik Gunderson,4,2,2,0,cross-field,4,man,living (no death notice found),,
+graf|fritz,Fritz Graf,4,3,1,0,antiquity,4,man,living (no death notice found),,"No death found; Goettingen/OSU profiles, Fribourg hon. doctorate 2018."
 sissa|giulia,Giulia Sissa,4,2,2,0,cross-field,4,woman,living (no death notice found),,
+ferrari|gloria,Gloria Ferrari,4,4,0,0,antiquity,4,woman,deceased,2023,Died 2023 (1941-2023). Harvard Classics notice 4 Oct 2023: https://classics.fas.harvard.edu/news/gloria-ferrari-pinney ; CHS In Memoriam: https://chs.harvard.edu/in-memoriam-gloria-ferrari-pinney/
 pleket|henri,Henri Willy Pleket,4,4,0,0,antiquity,4,man,deceased,2025,Died 5 Jan 2025. Leiden University in memoriam https://www.universiteitleiden.nl/nieuws/2025/01/in-memoriam-prof-dr-henri-pleket
+lloyd-jones|hugh,Hugh Lloyd-Jones,4,4,0,0,antiquity,4,man,deceased,2009,matches draft
 bremmer|jan,Jan Bremmer,4,3,1,0,antiquity,4,man,living (no death notice found),,No death notice found in search.
+vernant|jean,Jean-Pierre Vernant,4,4,0,0,antiquity,4,man,deceased,2007,matches draft
 munoz|jose,José Esteban Muñoz,4,1,2,1,cross-field,4,man,deceased,2013,matches draft
 herrin|judith,Judith Herrin,4,0,3,1,late antiquity,4,woman,living (no death notice found),,No death notice found in search.
+barringer|judith,Judith M. Barringer,4,4,0,0,antiquity,4,woman,living (no death notice found),,
+bassi|karen,Karen Bassi,4,3,1,0,antiquity,4,woman,living (no death notice found),,
+cooper|kate,Kate Cooper,4,1,3,0,late antiquity,4,woman,living (no death notice found),,
+coleman|kathleen,Kathleen Coleman,4,3,1,0,antiquity,4,woman,living (no death notice found),,
 hopkins|keith,Keith Hopkins,4,1,3,0,late antiquity,4,man,deceased,2004,Draft confirmed
-milnor|kristina,Kristina Milnor,4,3,1,0,antiquity,4,woman,living (no death notice found),,
-foxhall|lin,Lin Foxhall,4,3,1,0,antiquity,4,woman,living (no death notice found),,
+henry|madeline,Madeline M. Henry,4,3,1,0,antiquity,4,woman,living (no death notice found),,
 bieber|margarete,Margarete Bieber,4,4,0,0,antiquity,4,woman,deceased,1978,Draft confirmed
+golden|mark,Mark Golden,4,4,0,0,antiquity,4,man,deceased,2020,Died 9 April 2020 in Winnipeg (b. 1948). CAMWS memorial: https://camws.org/node/1774 ; CAC bulletin 26.07.2 (2020).
+griffith|mark,Mark Griffith,4,4,0,0,antiquity,4,man,living (no death notice found),,"No death found; funeral-home obits for other Mark Griffiths (Mark David, Mark Edward) are different people. Wikipedia: retired 2020."
 nussbaum|martha,Martha Nussbaum,4,2,2,0,cross-field,4,woman,living (no death notice found),,"No death found; 2025-26 activity (Kluge Prize news, forthcoming OUP book on opera)."
-west|martin,Martin L. West,4,4,0,0,antiquity,4,man,deceased,2015,matches draft
 mcdonnell|myles,Myles McDonnell,4,3,1,0,antiquity,4,man,living (no death notice found),,
+demand|nancy,Nancy Demand,4,4,0,0,antiquity,4,woman,living (no death notice found),,No death found; IU History lists her as Emerita Professor: https://history.indiana.edu/faculty_staff/faculty_emeriti/demand_nancy.html
+rabinowitz|nancy,Nancy Sorkin Rabinowitz,4,3,1,0,antiquity,4,woman,living (no death notice found),,No death notice found in search.
 nijf|onno,Onno van Nijf,4,3,1,0,antiquity,4,man,living (no death notice found),,
 temkin|owsei,Owsei Temkin,4,1,3,0,late antiquity,4,man,deceased,2002,matches draft
-zanker|paul,Paul Zanker,4,4,0,0,antiquity,4,man,living (no death notice found),,living (no death found); b. 1937; Cultori di Roma prize 2024 https://en.wikipedia.org/wiki/Paul_Zanker
-bourdieu|pierre,Pierre Bourdieu,4,1,2,1,cross-field,4,man,deceased,2002,Draft confirmed
+sutton|robert,Robert F. Sutton,4,4,0,0,antiquity,4,man,living (no death notice found),,No death found; AIA member spotlight (2022).
 barthes|roland,Roland Barthes,4,2,2,0,cross-field,4,man,deceased,1980,Draft confirmed
-joshel|sandra,Sandra R. Joshel,4,3,1,0,antiquity,4,woman,living (no death notice found),,living (no death found)
+rehm|rush,Rush Rehm,4,4,0,0,antiquity,4,man,living (no death notice found),,No death notice found in search.
+scodel|ruth,Ruth Scodel,4,4,0,0,antiquity,4,woman,living (no death notice found),,
+james|sharon,Sharon L. James,4,4,0,0,antiquity,4,woman,living (no death notice found),,
 tougher|shaun,Shaun Tougher,4,1,3,0,late antiquity,4,man,living (no death notice found),,
 blundell|sue,Sue Blundell,4,3,1,0,antiquity,4,woman,living (no death notice found),,living (no death found)
-elm|susanna,Susanna Elm,4,0,4,0,late antiquity,4,woman,living (no death notice found),,
+dixon|suzanne,Suzanne Dixon,4,3,1,0,antiquity,4,woman,living (no death notice found),,"living (no death found); b. 1946, Wikipedia lists no death."
+webster|thomas,Thomas Bertram Lonsdale Webster,4,4,0,0,antiquity,4,man,deceased,1974,UCL news 'T B L Webster (1905-1974)'; VIAF 1905-1974.
+hubbard|thomas,Thomas K. Hubbard,4,4,0,0,antiquity,4,man,living (no death notice found),,No death found; same-name obits are other people.
 keith|alison,Alison Keith,3,3,0,0,antiquity,7,woman,living (no death notice found),,
 scheid|john,John Scheid,3,1,2,0,late antiquity,5,man,living (no death notice found),,No death notice found in search.
 syme|ronald,Ronald Syme,3,2,1,0,antiquity,5,man,deceased,1989,matches draft
-varone|antonio,Antonio Varone,3,3,0,0,antiquity,4,man,living (no death notice found),,No death notice found in search.
-clark|gillian,Gillian Clark,3,0,3,0,late antiquity,4,woman,living (no death notice found),,No death notice found in search.
+brakke|david,David Brakke,3,1,2,0,late antiquity,4,man,living (no death notice found),,
+gilmore|david,David Gilmore,3,1,2,0,late antiquity,4,man,living (no death notice found),,"No death found for anthropologist David D. Gilmore. (A 2025 obituary for a different David Gilmore, SIU photography professor, is a namesake.)"
+bartman|elizabeth,Elizabeth Bartman,3,3,0,0,antiquity,4,woman,living (no death notice found),,
+frontisi-ducroux|francoise,Françoise Frontisi-Ducroux,3,3,0,0,antiquity,4,woman,living (no death notice found),,living (no death found); b. 1937
 woolf|greg,Greg Woolf,3,3,0,0,antiquity,4,man,living (no death notice found),,
 latham|jacob,Jacob Latham,3,2,1,0,antiquity,4,man,living (no death notice found),,
 boardman|john,John Boardman,3,3,0,0,antiquity,4,man,deceased,2024,Draft confirmed (died May 2024)
 llewellyn-jones|lloyd,Lloyd Llewellyn-Jones,3,2,1,0,antiquity,4,man,living (no death notice found),,
 wyke|maria,Maria Wyke,3,2,1,0,antiquity,4,woman,living (no death notice found),,
 boatwright|mary,Mary Boatwright,3,1,2,0,late antiquity,4,woman,living (no death notice found),,
+george|michele,Michele George,3,2,1,0,antiquity,4,woman,living (no death notice found),,
 macmullen|ramsay,Ramsay MacMullen,3,1,2,0,late antiquity,4,man,deceased,2022,Died 28 Nov 2022. Yale News https://news.yale.edu/2022/11/30/ramsay-macmullen-distinguished-roman-historian-and-yale-citizen
 berg|ria,Ria Berg,3,2,1,0,antiquity,4,woman,living (no death notice found),,
-kraemer|ross,Ross Kraemer,3,1,2,0,late antiquity,4,woman,living (no death notice found),,No death found; Brown lists her as Professor Emerita.
-treggiari|susan,Susan Treggiari,3,3,0,0,antiquity,4,woman,living (no death notice found),,living (no death found) https://en.wikipedia.org/wiki/Susan_Treggiari
 brennan|tad,T.C. Brennan,3,2,1,0,antiquity,4,man,living (no death notice found),,
 turner|victor,Victor W. Turner,3,1,1,1,cross-field,4,man,deceased,1983,matches draft
+cain|a,A. Cain,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
+harrison|alwyn,Alwyn Harrison,3,2,0,1,antiquity,3,man,deceased,1969,"Wikipedia: Alick Robin Walsham Harrison, 1900-18 May 1969 https://en.wikipedia.org/wiki/Robin_Harrison"
 hollywood|amy,Amy Hollywood,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
-wallace-hadrill|andrew,Andrew Wallace-Hadrill,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
-hanson|ann,Ann Ellis Hanson,3,2,1,0,antiquity,3,woman,living (no death notice found),,living (no death found)
+lardinois|andre,André Lardinois,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 reed|annette,Annette Yoshiko Reed,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
+corbeill|anthony,Anthony Corbeill,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 powell|a,Anton Powell,3,3,0,0,antiquity,3,man,living (no death notice found),,
 momigliano|arnaldo,Arnaldo Momigliano,3,2,1,0,antiquity,3,man,deceased,1987,matches draft
+lincoln|b,B. Lincoln,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 dunning|benjamin,Benjamin Dunning,3,0,3,0,late antiquity,3,man,living (no death notice found),,
 isaac|benjamin,Benjamin H. Isaac,3,2,1,0,antiquity,3,man,living (no death notice found),,living (no death found); b. 1945. https://en.wikipedia.org/wiki/Benjamin_Isaac
+austin|c,C. Austin,3,3,0,0,antiquity,3,man,deceased,2010,Colin Austin 1941-2010 (NLI authority; rogueclassicism d.m. Aug 2010).
 norena|carlos,Carlos Norena,3,2,1,0,antiquity,3,man,living (no death notice found),,
 osiek|caroline,Caroline Osiek,3,1,2,0,late antiquity,3,woman,living (no death notice found),,No death notice found in search.
 bynum|caroline,Caroline Walker Bynum,3,0,3,0,late antiquity,3,woman,living (no death notice found),,living (no death found); St Andrews honorary doctorate 2026 https://graduation.wp.st-andrews.ac.uk/2026/laureation-address-professor-caroline-walker-bynum/
+johns|catherine,Catherine Johns,3,2,1,0,antiquity,3,woman,living (no death notice found),,Wikipedia (b. 1941) gives no death date; no obituary found.
 fonrobert|charlotte,Charlotte Elisheva Fonrobert,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
 laes|christian,Christian Laes,3,3,0,0,antiquity,3,man,living (no death notice found),,
 klapisch-zuber|christiane,Christiane Klapisch-Zuber,3,0,0,3,medieval & Islamic,3,woman,deceased,2024,Died Paris 29 Nov 2024. https://en.wikipedia.org/wiki/Christiane_Klapisch-Zuber
-faraone|christopher,Christopher A. Faraone,3,3,0,0,antiquity,3,man,living (no death notice found),,
 hallett|christopher,Christopher H. Hallett,3,3,0,0,antiquity,3,man,living (no death notice found),,
+calame|claude,Claude Calame,3,3,0,0,antiquity,3,man,living (no death notice found),,No death found; Wikipedia (b. 1943) no death date; not in 2026 Swiss deaths list.
+bain|david,David Bain,3,3,0,0,antiquity,3,man,deceased,2004,"David Michael Bain, b. 3 Jul 1945 Carlisle, d. 30 Nov 2004 Manchester (de.wikipedia via https://de-academic.com/dic.nsf/dewiki/306288)"
 sansone|david,David Sansone,3,3,0,0,antiquity,3,man,living (no death notice found),,No death found; listed among Illinois retired faculty.
+schaps|david,David Schaps,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
+kamen|deborah,Deborah Kamen,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
+steiner|deborah,Deborah Steiner,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 krueger|derek,Derek Krueger,3,0,3,0,late antiquity,3,man,living (no death notice found),,
 cairns|douglas,Douglas Cairns,3,3,0,0,antiquity,3,man,living (no death notice found),,
-leach|eleanor,Eleanor Leach,3,2,1,0,antiquity,3,woman,deceased,2018,"Eleanor Winsor Leach, 1937 - 16 Feb 2018. IU Classics in memoriam https://classics.indiana.edu/about/history/in-memoriam/leach-eleanor.html"
+elliott|dyan,Dyan Elliott,3,2,1,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
+csapo|e,E. Csapo,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
+segal|erich,E. Segal,3,3,0,0,antiquity,3,man,deceased,2010,Died Jan 2010 (well documented; Wikipedia).
+stehle|e,E. Stehle,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
+fraenkel|eduard,Eduard Fraenkel,3,3,0,0,antiquity,3,man,deceased,1970,Died 1970 (Wikipedia).
+schwartz|eduard,Eduard Schwartz,3,2,1,0,antiquity,3,man,deceased,1940,Deutsche Biographie: 1858-1940.
+dickey|eleanor,Eleanor Dickey,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 schussler fiorenza|elisabeth,Elisabeth Schüssler Fiorenza,3,0,3,0,late antiquity,3,man,living (no death notice found),,
 freeman|elizabeth,Elizabeth Freeman,3,1,2,0,late antiquity,3,woman,living (no death notice found),,
 stafford|emma,Emma Stafford,3,3,0,0,antiquity,3,woman,living (no death notice found),,
-gunderson|erik,Erik Gunderson,3,1,2,0,late antiquity,3,man,living (no death notice found),,
+osborn|eric,Eric Osborn,3,1,2,0,late antiquity,3,man,deceased,2007,Wikipedia: Eric Francis Osborn (1922-2007).
+dodds|eric,Eric Robertson Dodds,3,3,0,0,antiquity,3,man,deceased,1979,Wikipedia: 1893-1979.
 simon|erika,Erika Simon,3,3,0,0,antiquity,3,woman,deceased,2019,matches draft
+goffman|erving,Erving Goffman,3,2,0,1,antiquity,3,man,deceased,1982,Died 1982 (Wikipedia).
+rocca|eugenio,Eugenio La Rocca,3,3,0,0,antiquity,3,man,living (no death notice found),,"No death notice found (Academia Europaea profile, no death)."
 keuls|eva,Eva C. Keuls,3,3,0,0,antiquity,3,woman,deceased,2014,"LibraryThing author page: b. 18 Dec 1923 Amsterdam, d. 13 Mar 2014 Le Vigan, France: https://www.librarything.com/a/33210 . (A user-edited source; I found no formal obituary.)"
 coarelli|f,F. Coarelli,3,2,1,0,antiquity,3,man,living (no death notice found),,living (no death found); Filippo Coarelli b. 1936. https://en.wikipedia.org/wiki/Filippo_Coarelli
-graf|fritz,Fritz Graf,3,2,1,0,antiquity,3,man,living (no death notice found),,"No death found; Goettingen/OSU profiles, Fribourg hon. doctorate 2018."
-zeitlin|froma,Froma I. Zeitlin,3,2,1,0,antiquity,3,woman,living (no death notice found),,living (no death found); b. 1933; Princeton 90th-birthday notice https://classics.princeton.edu/department/news/emerita-froma-zeitlin-celebrates-90th-birthday
+mchardy|fiona,Fiona McHardy,3,2,1,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 bowersock|g,G. Bowersock,3,1,2,0,late antiquity,3,man,living (no death notice found),,"living (no death found); Glen W. Bowersock b. 1936, Wikipedia lists no death. https://en.wikipedia.org/wiki/Glen_Bowersock"
+zuntz|g,G. Zuntz,3,3,0,0,antiquity,3,man,deceased,1992,Wikipedia/Deutsche Biographie: 1902-1992.
+rubin|gayle,Gayle Rubin,3,2,1,0,antiquity,3,woman,living (no death notice found),,"Wikipedia uses she/her throughout, no nonbinary/trans self-description found; UMich bio gives no pronouns. https://en.wikipedia.org/wiki/Gayle_Rubin"
 kennedy|george,George A. Kennedy,3,1,2,0,late antiquity,3,man,deceased,2022,Died 28 July 2022 (b. 1928). https://en.wikipedia.org/wiki/George_A._Kennedy_(classicist)
 conte|gian,Gian Biagio Conte,3,2,1,0,antiquity,3,man,living (no death notice found),,"living (no death found); b. 1941 (search hits on 'Biagio Conte' death 2023 are the Palermo missionary, a different person). https://en.wikipedia.org/wiki/Gian_Biagio_Conte"
 williams|gordon,Gordon Williams,3,3,0,0,antiquity,3,man,deceased,2010,matches draft
 stroumsa|guy,Guy Stroumsa,3,0,3,0,late antiquity,3,man,living (no death notice found),,No death notice found in search.
+shapiro|h,H. Shapiro,3,3,0,0,antiquity,3,man,living (no death notice found),,JHU emeritus; no death found.
 gibb|hamilton,Hamilton A. Gibb,3,0,0,3,medieval & Islamic,3,man,deceased,1971,Draft confirmed
-lloyd-jones|hugh,Hugh Lloyd-Jones,3,3,0,0,antiquity,3,man,deceased,2009,matches draft
+jenkins|i,I. Jenkins,3,3,0,0,antiquity,3,man,deceased,2020,Died Dec 2020 (1953-2020); Apollo tribute https://apollo-magazine.com/tribute-ian-jenkins-1953-2020/ ; Wikipedia https://en.wikipedia.org/wiki/Ian_Jenkins_(curator)
+morris|ian,Ian Morris,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 storey|ian,Ian Storey,3,3,0,0,antiquity,3,man,living (no death notice found),,
+gould|j,J. Gould,3,3,0,0,antiquity,3,man,deceased,2001,Wikipedia: 20 Dec 1927-19 Oct 2001.
+frazer|jg,J.G. Frazer,3,3,0,0,antiquity,3,man,deceased,1941,"Trinity College Cambridge archives: Frazer, Sir James George (1854-1941): https://archives.trin.cam.ac.uk/index.php/frazer-sir-james-george-1854-1941-knight-social-anthropologist"
+balsdon|john,J.P.V.D. Balsdon,3,3,0,0,antiquity,3,man,deceased,1977,"Wikipedia: J. P. V. D. Balsdon, d. 1977."
 neusner|jacob,Jacob Neusner,3,0,3,0,late antiquity,3,man,deceased,2016,matches draft
 brundage|james,James Brundage,3,0,1,2,medieval & Islamic,3,man,deceased,2021,Confirmed: obituary Nov 2021 https://www2.ljworld.com/life-events/obituaries/2021/nov/14/james-brundage/
-vernant|jean,Jean-Pierre Vernant,3,3,0,0,antiquity,3,man,deceased,2007,matches draft
+griffin|jasper,Jasper Griffin,3,3,0,0,antiquity,3,man,deceased,2019,"British Academy memoir 'Griffin, Jasper, 1937-2019'."
 neils|jenifer,Jenifer Neils,3,3,0,0,antiquity,3,woman,living (no death notice found),,"No death found; Case Western emerita, Hovorka Prize news."
+trimble|jennifer,Jennifer Trimble,3,2,1,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 knust|jennifer,Jennifer Wright Knust,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
+pollitt|jerome,Jerome J. Pollitt,3,3,0,0,antiquity,3,man,deceased,2024,Died 24 April 2024; Yale News in memoriam https://news.yale.edu/2024/07/07/jerome-pollitt-erudite-scholar-admired-teacher-university-citizen
+connelly|joan,Joan B. Connelly,3,2,1,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 small|jocelyn,Jocelyn Penny Small,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 behr|john,John Behr,3,0,3,0,late antiquity,3,man,living (no death notice found),,
 boswell|john,John Boswell,3,1,2,0,late antiquity,3,man,deceased,1994,Draft confirmed
-winkler|john,John J. Winkler,3,3,0,0,antiquity,3,man,deceased,1990,matches draft
-oakley|john,John Oakley,3,3,0,0,antiquity,3,man,living (no death notice found),,
 salmon|john,John Salmon,3,2,1,0,antiquity,3,man,living (no death notice found),,"living (no death found). Assumed J. B. Salmon (Wealthy Corinth, 1984; Nottingham); no birth year or obituary found. Not to be confused with J.H.M. Salmon (French historian, 1925-2005) or E.T. Salmon (Samnium, d. 1988)"
 brockopp|jonathan,Jonathan Brockopp,3,0,0,3,medieval & Islamic,3,man,living (no death notice found),,
+fontenrose|joseph,Joseph Fontenrose,3,3,0,0,antiquity,3,man,deceased,1986,Wikipedia/relbib: 1903-1986.
 schacht|joseph,Joseph Schacht,3,0,0,3,medieval & Islamic,3,man,deceased,1969,matches draft
-barringer|judith,Judith M. Barringer,3,3,0,0,antiquity,3,woman,living (no death notice found),,
 perkins|judith,Judith Perkins,3,0,3,0,late antiquity,3,woman,living (no death notice found),,living (no death found); b. 13 June 1944 https://en.wikipedia.org/wiki/Judith_Perkins
 sihvola|juha,Juha Sihvola,3,2,1,0,antiquity,3,man,deceased,2012,matches draft
-bassi|karen,Karen Bassi,3,2,1,0,antiquity,3,woman,living (no death notice found),,
+dowden|k,K. Dowden,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 king|karen,Karen King,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
-cooper|kate,Kate Cooper,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
 wilkinson|kate,Kate Wilkinson,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
-coleman|kathleen,Kathleen Coleman,3,2,1,0,antiquity,3,woman,living (no death notice found),,
 ali|kecia,Kecia Ali,3,0,0,3,medieval & Islamic,3,woman,living (no death notice found),,
 holum|kenneth,Kenneth Holum,3,0,3,0,late antiquity,3,man,deceased,2017,BAR 'Milestones: Kenneth G. Holum 1939-2017'; UMD History memorial. https://library.biblicalarchaeology.org/department/milestones-kenneth-g-holum-1939-2017/
 crenshaw|kimberle,Kimberlé Crenshaw,3,2,1,0,antiquity,3,woman,living (no death notice found),,
 upson-saia|kristi,Kristi Upson-Saia,3,1,2,0,late antiquity,3,woman,living (no death notice found),,
+caldwell|l,L. Caldwell,3,2,1,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 nasrallah|laura,Laura Nasrallah,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
 conrad|lawrence,Lawrence Conrad,3,1,0,2,medieval & Islamic,3,man,living (no death notice found),,living (no death found); Lawrence I. Conrad b. 1949. https://en.wikipedia.org/wiki/Lawrence_Conrad
+dean-jones|lesley,Lesley A. Dean-Jones,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
+kurke|leslie,Leslie Kurke,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 peirce|leslie,Leslie Peirce,3,1,0,2,medieval & Islamic,3,woman,living (no death notice found),,
 james|liz,Liz James,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
 garland|lynda,Lynda Garland,3,1,2,0,late antiquity,3,woman,living (no death notice found),,
-henry|madeline,Madeline M. Henry,3,2,1,0,antiquity,3,woman,living (no death notice found),,
+gagarin|m,M. Gagarin,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 marin|manuela,Manuela Marín,3,0,0,3,medieval & Islamic,3,woman,deceased,2026,Died 19 July 2026; retired CSIC Research Professor. Casa Arabe: https://en.casaarabe.es/noticias-arabes/show/arabist-manuela-marin-passes-away
-golden|mark,Mark Golden,3,3,0,0,antiquity,3,man,deceased,2020,Died 9 April 2020 in Winnipeg (b. 1948). CAMWS memorial: https://camws.org/node/1774 ; CAC bulletin 26.07.2 (2020).
+alexiou|margaret,Margaret Alexiou,3,2,1,0,antiquity,3,woman,living (no death notice found),,Wikipedia (b. 25 Mar 1939) no death date; Harvard emerita listing; no obituary found.
 kilmer|martin,Martin Kilmer,3,3,0,0,antiquity,3,man,deceased,2018,"Martin Foster Kilmer, 23 May 1943 - 5 Nov 2018, obituary in Canadian Classical Bulletin https://cac-scec.ca/wp-content/uploads/bulletin/ccb25/ccb25.04.0.html"
 avila|maria,María Luisa Ávila,3,0,0,3,medieval & Islamic,3,woman,living (no death notice found),,
+dillon|matthew,Matthew Dillon,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
+roller|matthew,Matthew Roller,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 dickie|matthew,Matthew W. Dickie,3,3,0,0,antiquity,3,man,living (no death notice found),,"living (no death found); UIC lists him as Professor Emeritus, not on In Memoriam page. https://clasmed.uic.edu/profiles/matthew-w-dickie"
 shatzmiller|maya,Maya Shatzmiller,3,0,0,3,medieval & Islamic,3,woman,living (no death notice found),,No death found; Western CV dated May 2022.
 certeau|michel,Michel de Certeau,3,0,2,1,late antiquity,3,man,deceased,1986,Draft confirmed
@@ -182,30 +251,33 @@ bal|mieke,Mieke Bal,3,2,1,0,antiquity,3,woman,living (no death notice found),,No
 marcovich|miroslav,Miroslav Marcovich,3,1,2,0,late antiquity,3,man,deceased,2001,matches draft
 wittig|monique,Monique Wittig,3,0,2,1,late antiquity,3,woman,deceased,2003,matches draft
 serwint|nancy,Nancy Jean Serwint,3,3,0,0,antiquity,3,woman,living (no death notice found),,
+slater|niall,Niall W. Slater,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 purcell|nicholas,Nicholas Purcell,3,2,1,0,antiquity,3,man,living (no death notice found),,
 fisher|nick,Nick Fisher,3,3,0,0,antiquity,3,man,living (no death notice found),,"No death found for the Cardiff historian. (A 2022 obituary for a different Nick Fisher, journalist/screenwriter, is a namesake.)"
-loraux|nicole,Nicole Loraux,3,3,0,0,antiquity,3,woman,deceased,2003,matches draft
 kennell|nigel,Nigel M. Kennell,3,3,0,0,antiquity,3,man,living (no death notice found),,
 calder|norman,Norman Calder,3,0,0,3,medieval & Islamic,3,man,deceased,1998,Draft confirmed
 easterling|p,P. Easterling,3,3,0,0,antiquity,3,woman,deceased,2026,"Pat Easterling (1934-2026), tribute dated 29 Aug 2026. https://www.alastairmacaulay.com/all-essays/pat-easterling-1934-2026"
 christesen|paul,Paul Christesen,3,3,0,0,antiquity,3,man,living (no death notice found),,
 achtemeier|paul,Paul J. Achtemeier,3,0,3,0,late antiquity,3,man,deceased,2013,Draft confirmed (died Jan 2013)
+just|r,R. Just,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found.
+kassel|r,R. Kassel,3,3,0,0,antiquity,3,man,deceased,2020,Died 26 Feb 2020 (b. 1926); Wikipedia https://en.wikipedia.org/wiki/Rudolf_Kassel
 kousser|rachel,Rachel Kousser,3,3,0,0,antiquity,3,woman,living (no death notice found),,
 cribiore|raffaella,Raffaella Cribiore,3,1,1,1,cross-field,3,woman,deceased,2023,Died 2023 (1948-2023). SCS: https://classicalstudies.org/scs-news/memoriam-raffaella-cribiore-1948-2023 ; Columbia Classics In Memoriam July 2023.
-langlands|rebecca,Rebecca Langlands,3,2,1,0,antiquity,3,woman,living (no death notice found),,
+laurence|ray,Ray Laurence,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 bauckham|richard,Richard Bauckham,3,0,3,0,late antiquity,3,man,living (no death notice found),,No death notice found in search.
-sutton|robert,Robert F. Sutton,3,3,0,0,antiquity,3,man,living (no death notice found),,No death found; AIA member spotlight (2022).
+saller|richard,Richard P. Saller,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
+kaster|robert,Robert A. Kaster,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 joyce|rosemary,Rosemary Joyce,3,3,0,0,antiquity,3,woman,living (no death notice found),,
-scodel|ruth,Ruth Scodel,3,3,0,0,antiquity,3,woman,living (no death notice found),,
+casali|s,S. Casali,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
+deacy|s,S. Deacy,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
+lape|s,S. Lape,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death notice found in search.
 lilja|saara,Saara Lilja,3,3,0,0,antiquity,3,woman,not determined,,LOW CONFIDENCE: only source LibraryThing Common Knowledge 'Saara Lilja (1923-2003)' https://www.librarything.de/author/liljasaara ; no obituary found
 mahmood|saba,Saba Mahmood,3,0,2,1,late antiquity,3,woman,deceased,2018,matches draft
-james|sharon,Sharon L. James,3,3,0,0,antiquity,3,woman,living (no death notice found),,
 goitein|shlomo,Shlomo Dov Goitein,3,0,0,3,medieval & Islamic,3,man,deceased,1985,Draft confirmed
 moore|stephen,Stephen D. Moore,3,0,3,0,late antiquity,3,man,living (no death notice found),,
 halliwell|stephen,Stephen Halliwell,3,3,0,0,antiquity,3,man,living (no death notice found),,
 ackerman|susan,Susan Ackerman,3,2,1,0,antiquity,3,woman,living (no death notice found),,
 hylen|susan,Susan Hylen,3,0,3,0,late antiquity,3,woman,living (no death notice found),,
-dixon|suzanne,Suzanne Dixon,3,2,1,0,antiquity,3,woman,living (no death notice found),,"living (no death found); b. 1946, Wikipedia lists no death."
 lauretis|teresa,Teresa de Lauretis,3,0,2,1,late antiquity,3,woman,deceased,2026,"Died 3 Feb 2026 in San Francisco, aged 87. El Salto obituary: https://www.elsaltodiario.com/obituario/muere-teresa-lauretis-creadora-teoria-queer"
 scanlon|thomas,Thomas F. Scanlon,3,3,0,0,antiquity,3,man,living (no death notice found),,
 harrison|thomas,Thomas Harrison,3,2,1,0,antiquity,3,man,living (no death notice found),,
@@ -214,49 +286,57 @@ habinek|thomas,Thomas N. Habinek,3,3,0,0,antiquity,3,man,deceased,2019,Draft con
 fogen|thorsten,Thorsten Fögen,3,2,1,0,antiquity,3,man,living (no death notice found),,
 cornell|timothy,Timothy J. Cornell,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 stevenson|tom,Tom Stevenson,3,3,0,0,antiquity,3,man,living (no death notice found),,
+holscher|tonio,Tonio Holscher,3,3,0,0,antiquity,3,man,living (no death notice found),,No death notice found (b. 1940).
 dasen|veronique,Veronique Dasen,3,2,1,0,antiquity,3,woman,living (no death notice found),,
+wohl|victoria,Victoria Wohl,3,3,0,0,antiquity,3,woman,living (no death notice found),,No death found; current Toronto faculty / Berkeley Sather Professor.
 hallaq|wael,Wael B. Hallaq,3,0,0,3,medieval & Islamic,3,man,living (no death notice found),,
+scheidel|walter,Walter Scheidel,3,2,1,0,antiquity,3,man,living (no death notice found),,No death notice found in search.
 meeks|wayne,Wayne Meeks,3,0,3,0,late antiquity,3,man,deceased,2023,Wayne A. Meeks 1932-2023 (Jan 2023). YDS https://divinity.yale.edu/news/wayne-meeks-1932-2023 ; Yale News https://news.yale.edu/2023/01/17/wayne-meeks-influential-scholar-new-testament-studies
+mayer|wendy,Wendy Mayer,3,1,2,0,late antiquity,3,woman,living (no death notice found),,No death notice found in search.
 peek|werner,Werner Peek,3,3,0,0,antiquity,3,man,deceased,1994,matches draft
 westermann|william,William L. Westermann,3,3,0,0,antiquity,3,man,deceased,1954,matches draft
 schoedel|william,William R. Schoedel,3,0,3,0,late antiquity,3,man,living (no death notice found),,living (no death found); b. 1930; listed as Professor Emeritus at UIUC https://religion.illinois.edu/directory/profile/schoedel
 rapoport|yossef,Yossef Rapoport,3,0,0,3,medieval & Islamic,3,man,living (no death notice found),,
 mir-hosseini|ziba,Ziba Mir-Hosseini,3,0,0,3,medieval & Islamic,3,woman,living (no death notice found),,
 edmondson|jonathon,Jonathon Edmondson,3,2,1,0,antiquity,2,man,living (no death notice found),,
+parker|robert,Robert Parker,3,2,1,0,antiquity,1,man,living (no death notice found),,No death notice found in search.
+segal|charles,Charles Segal,1,,,,,5,man,deceased,2002,matches draft
 eckstein|arthur,Arthur M. Eckstein,2,,,,,4,man,living (no death notice found),,living (no death found)
-segal|charles,Charles Segal,0,,,,,4,man,deceased,2002,matches draft
+schultz|celia,Celia E. Schultz,0,,,,,4,woman,living (no death notice found),,
 fagan|garrett,Garrett G. Fagan,2,,,,,4,man,deceased,2017,Draft confirmed
+flower|harriet,Harriet Flower,2,,,,,4,woman,living (no death notice found),,
+richardson|lawrence,Lawrence Richardson,1,,,,,4,man,deceased,2013,matches draft
 brisson|luc,Luc Brisson,2,,,,,4,man,living (no death notice found),,No death found; CNRS UMR 8230 member page.
 roller|lynn,Lynn E. Roller,2,,,,,4,woman,living (no death notice found),,No death found; UC Davis faculty profile.
 roscoe|will,Will Roscoe,2,,,,,4,man,living (no death notice found),,
-anderson|william,William S. Anderson,2,,,,,4,man,deceased,2022,"Berkeley in memoriam: William Scovil Anderson, 16 Sep 1927 - 22 Mar 2022. https://dagrs.berkeley.edu/node/1096"
 sharrock|alison,Alison Sharrock,0,,,,,3,woman,living (no death notice found),,
+carson|anne,Anne Carson,0,,,,,3,woman,living (no death notice found),,Living; won 2026 Nobel Prize in Literature (Oct 2026).
 barrett|anthony,Anthony A. Barrett,0,,,,,3,man,living (no death notice found),,No death notice found in search.
 staples|ariadne,Ariadne Staples,0,,,,,3,woman,living (no death notice found),,
-schultz|celia,Celia E. Schultz,0,,,,,3,woman,living (no death notice found),,
-brakke|david,David Brakke,2,,,,,3,man,living (no death notice found),,
-gilmore|david,David Gilmore,2,,,,,3,man,living (no death notice found),,"No death found for anthropologist David D. Gilmore. (A 2025 obituary for a different David Gilmore, SIU photography professor, is a namesake.)"
-konstan|david,David Konstan,2,,,,,3,man,deceased,2024,Died 2 May 2024 (b. 1940). SCS In Memoriam: https://classicalstudies.org/scs-news/memoriam-david-konstan ; Brown Classics notice.
 macdonald|dennis,Dennis Ronald MacDonald,2,,,,,3,man,living (no death notice found),,No death notice found in search.
 courtney|edward,Edward Courtney,0,,,,,3,man,deceased,2019,UVA Classics in memoriam: died 24 Nov 2019. https://classics.as.virginia.edu/memoriam-edward-courtney
-bartman|elizabeth,Elizabeth Bartman,0,,,,,3,woman,living (no death notice found),,
 orlin|eric,Eric Orlin,2,,,,,3,man,living (no death notice found),,
 gruen|erich,Erich S. Gruen,2,,,,,3,man,living (no death notice found),,living (no death found); b. 1935. https://en.wikipedia.org/wiki/Erich_S._Gruen
-frontisi-ducroux|francoise,Françoise Frontisi-Ducroux,2,,,,,3,woman,living (no death notice found),,living (no death found); b. 1937
-flower|harriet,Harriet Flower,1,,,,,3,woman,living (no death notice found),,
+mouritsen|henrik,Henrik Mouritsen,2,,,,,3,man,living (no death notice found),,
 gardner|jane,Jane F. Gardner,2,,,,,3,woman,deceased,2023,"Reading Classics blog: 'Professor Jane F Gardner, 1934–2023' (Feb 2023). https://blogs.reading.ac.uk/classics-at-reading/2023/02/03"
+hersch|karen,Karen Klaiber Hersch,0,,,,,3,woman,living (no death notice found),,
+bradley|keith,Keith R. Bradley,2,,,,,3,man,living (no death notice found),,Notre Dame emeritus page lists 2025 research projects
+harper|kyle,Kyle Harper,0,,,,,3,man,living (no death notice found),,
 totelin|laurence,Laurence Totelin,2,,,,,3,woman,living (no death notice found),,
-richardson|lawrence,Lawrence Richardson,0,,,,,3,man,deceased,2013,matches draft
 curran|leo,Leo C. Curran,0,,,,,3,man,deceased,2007,UB news release 12 Oct 2007: died 29 Sep 2007 aged 73. https://www.buffalo.edu/news/releases/2007/10/8891.html
+macdonald|margaret,Margaret Y. MacDonald,2,,,,,3,woman,living (no death notice found),,
 dangelo|mary,Mary Rose D’Angelo,2,,,,,3,woman,living (no death notice found),,No death notice found in search.
-george|michele,Michele George,2,,,,,3,woman,living (no death notice found),,
+myerowitz|molly,Molly Myerowitz,2,,,,,3,woman,living (no death notice found),,"Howard University faculty profile, 2026"
+mclynn|neil,Neil McLynn,0,,,,,3,man,living (no death notice found),,
+watson|patricia,Patricia Watson,0,,,,,3,woman,living (no death notice found),,b. 1947; no death notice found
+stewart|peter,Peter Stewart,2,,,,,3,man,living (no death notice found),,
 taylor|rabun,Rabun Taylor,2,,,,,3,man,living (no death notice found),,
 jackson|ralph,Ralph Jackson,2,,,,,3,man,living (no death notice found),,
+wildfang|robin,Robin Lorsch Wildfang,0,,,,,3,woman,living (no death notice found),,
 nauta|ruud,Ruud R. Nauta,2,,,,,3,man,living (no death notice found),,
 bond|sarah,Sarah E. Bond,2,,,,,3,woman,living (no death notice found),,
 bartsch|shadi,Shadi Bartsch,2,,,,,3,man,living (no death notice found),,
 bell|sinclair,Sinclair Bell,2,,,,,3,man,living (no death notice found),,
-braund|susanna,Susanna M. Braund,2,,,,,3,woman,living (no death notice found),,
 ilan|tal,Tal Ilan,2,,,,,3,woman,living (no death notice found),,
 zajko|vanda,Vanda Zajko,1,,,,,3,woman,living (no death notice found),,
 stevenson|walter,Walter Stevenson,1,,,,,3,man,living (no death notice found),,

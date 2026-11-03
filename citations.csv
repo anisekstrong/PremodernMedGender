@@ -150,7 +150,7 @@ Butterfield_2017,laqueur|thomas,Thomas Laqueur
 Butterfield_2017,lightman|majorie,Majorie Lightman
 Butterfield_2017,loewenberg|frank,Frank M Loewenberg
 Butterfield_2017,maclean|arthur,Arthur John Maclean
-Butterfield_2017,mcginn|thomas,Thomas A.J McGinn
+Butterfield_2017,mcginn|thomas,Thomas McGinn
 Butterfield_2017,mcnamara|jo,Jo Ann McNamara
 Butterfield_2017,methuen|charlotte,Charlotte Methuen
 Butterfield_2017,munier|charles,Charles Munier
@@ -211,18 +211,18 @@ CattanPrugl_2018BA,lyly|john,John Lyly
 CattanPrugl_2018BA,martin|dale,Dale B Martin
 CattanPrugl_2018BA,matterson|mark,Mark Matterson
 CattanPrugl_2018BA,meyer|robert,Robert J Meyer
-CattanPrugl_2018BA,parker|holt,Holt N Parker
+CattanPrugl_2018BA,parker|holt,Holt Parker
 CattanPrugl_2018BA,paster|gail,Gail Kern Paster
 CattanPrugl_2018BA,philip hardie|alessandro,Alessandro Barchiesi Philip Hardie
 CattanPrugl_2018BA,rackin|phyllis,Phyllis Rackin
 CattanPrugl_2018BA,richlin|amy,Amy Richlin
 CattanPrugl_2018BA,romano|allen,Allen J Romano
 CattanPrugl_2018BA,saxonhouse|arlene,Arlene W Saxonhouse
-CattanPrugl_2018BA,segal|charles,Charles Segal
+CattanPrugl_2018BA,segal|charles,C Segal
 CattanPrugl_2018BA,shannon|laurie,Laurie Shannon
 CattanPrugl_2018BA,sharrock|alison,Alison Sharrock
 CattanPrugl_2018BA,shepard|alexandra,Alexandra Shepard
-CattanPrugl_2018BA,skinner|marilyn,Marilyn B Skinner
+CattanPrugl_2018BA,skinner|marilyn,Marilyn Skinner
 CattanPrugl_2018BA,smith|bruce,Bruce R Smith
 CattanPrugl_2018BA,spiller|elizabeth,Elizabeth Spiller
 CattanPrugl_2018BA,vaught|jennifer,Jennifer C Vaught
@@ -395,6 +395,318 @@ Delgado_2022,vaglio|stefano,Stefano Vaglio
 Delgado_2022,vidal castro|francisco,Francisco Vidal Castro
 Delgado_2022,wehr|hans,Hans Wehr
 Delgado_2022,zomeno|amalia,Amalia Zomeño
+Feltovich_2011,acidalius|v,V Acidalius
+Feltovich_2011,advanced studies|university,University of London Advanced Studies
+Feltovich_2011,anderson|william,William S Anderson
+Feltovich_2011,arnott|wg,W.G Arnott
+Feltovich_2011,auhagen|u,U Auhagen
+Feltovich_2011,austin|c,C Austin
+Feltovich_2011,bain|david,David Bain
+Feltovich_2011,barigazzi|a,A Barigazzi
+Feltovich_2011,barns|jwb,J.W.B Barns
+Feltovich_2011,bertini|f,F Bertini
+Feltovich_2011,blanchard|a,A Blanchard
+Feltovich_2011,blok|j,J Blok
+Feltovich_2011,borkowski|a,A Borkowski
+Feltovich_2011,bowie|am,A.M Bowie
+Feltovich_2011,braund|susanna,Susanna M Braund
+Feltovich_2011,brown|peter g. mcc.,P.G.M Brown
+Feltovich_2011,burkert|walter,Walter Burkert
+Feltovich_2011,bywater|i,I Bywater
+Feltovich_2011,capps|e,E Capps
+Feltovich_2011,carney|tf,T.F Carney
+Feltovich_2011,celik|o,Ö Çelik
+Feltovich_2011,cohen|david,David Cohen
+Feltovich_2011,cohen|edward,Edward E Cohen
+Feltovich_2011,corbier|m,M Corbier
+Feltovich_2011,corte|f,F della Corte
+Feltovich_2011,crisafulli|t,T Crisafulli
+Feltovich_2011,deacy|s,S Deacy
+Feltovich_2011,dedoussi|c,C Dedoussi
+Feltovich_2011,deubner|l,L Deubner
+Feltovich_2011,dillon|matthew,Matthew Dillon
+Feltovich_2011,dover|kenneth,Kenneth J Dover
+Feltovich_2011,duckworth|ge,G.E Duckworth
+Feltovich_2011,dutsch|dm,D.M Dutsch
+Feltovich_2011,dziatzko|c,C Dziatzko
+Feltovich_2011,edmonds|jm,J.M Edmonds
+Feltovich_2011,fantham|elaine,Elaine Fantham
+Feltovich_2011,faraone|christopher,Christopher A Faraone
+Feltovich_2011,fetterley|judith,Judith Fetterley
+Feltovich_2011,finnegan|ruth,Ruth Finnegan
+Feltovich_2011,fleckeisen|a,A Fleckeisen
+Feltovich_2011,foley|hp,H.P Foley
+Feltovich_2011,foucault|michel,Michel Foucault
+Feltovich_2011,fraenkel|eduard,Eduard Fraenkel
+Feltovich_2011,french|valerie,Valerie French
+Feltovich_2011,furley|wd,W.D Furley
+Feltovich_2011,gaiser|k,K Gaiser
+Feltovich_2011,gestri|l,L Gestri
+Feltovich_2011,gilhuly|k,K Gilhuly
+Feltovich_2011,gilula|d,D Gilula
+Feltovich_2011,glazebrook|allison,Allison Glazebrook
+Feltovich_2011,goldberg|sm,S.M Goldberg
+Feltovich_2011,goldhill|simon,Simon Goldhill
+Feltovich_2011,gomme|aw,A.W Gomme
+Feltovich_2011,griffith|mark,Mark Griffith
+Feltovich_2011,gruen|sw,S.W Gruen
+Feltovich_2011,gutzwiller|kj,K.J Gutzwiller
+Feltovich_2011,hall|fw,F.W Hall
+Feltovich_2011,halperin|david,David Halperin
+Feltovich_2011,handley|ew,E.W Handley
+Feltovich_2011,harrison|alwyn,Alwyn Harrison
+Feltovich_2011,hartkamp|rf,R.F Hartkamp
+Feltovich_2011,havet|l,L Havet
+Feltovich_2011,henry|madeline,Madeline M Henry
+Feltovich_2011,hofmann|h,H Hofmann
+Feltovich_2011,hough|jn,J.N Hough
+Feltovich_2011,hunter|rl,R.L Hunter
+Feltovich_2011,ireland|s,S Ireland
+Feltovich_2011,jachmann|g,G Jachmann
+Feltovich_2011,james|sharon,Sharon L James
+Feltovich_2011,kapparis|kk,K.K Kapparis
+Feltovich_2011,karakasis|e,E Karakasis
+Feltovich_2011,kassel|r,R Kassel
+Feltovich_2011,kauer|r,R Kauer
+Feltovich_2011,knorr|o,O Knorr
+Feltovich_2011,koerte|a,A Koerte
+Feltovich_2011,konstan|david,David Konstan
+Feltovich_2011,krauss|an,A.N Krauss
+Feltovich_2011,krieter-spiro|m,M Krieter-Spiro
+Feltovich_2011,lacey|wk,W.K Lacey
+Feltovich_2011,langen|p,P Langen
+Feltovich_2011,lape|s,S Lape
+Feltovich_2011,lardinois|andre,André Lardinois
+Feltovich_2011,legrand|pe,P.E Legrand
+Feltovich_2011,leisner-jensen|m,M Leisner-Jensen
+Feltovich_2011,lindsay|wm,W.M Lindsay
+Feltovich_2011,lowe|jcb,J.C.B Lowe
+Feltovich_2011,luca|km,K.M De Luca
+Feltovich_2011,maccary|wt,W.T MacCary
+Feltovich_2011,macdowell|dm,D.M MacDowell
+Feltovich_2011,martina|a,A Martina
+Feltovich_2011,martin|richard,Richard Martin
+Feltovich_2011,maurach|g,G Maurach
+Feltovich_2011,mccarthy|k,K McCarthy
+Feltovich_2011,mcginn|thomas,Thomas McGinn
+Feltovich_2011,mras|k,K Mras
+Feltovich_2011,munari|f,F Munari
+Feltovich_2011,naudet|j,J Naudet
+Feltovich_2011,oeri|hg,H.G Oeri
+Feltovich_2011,ogden|daniel,Daniel Ogden
+Feltovich_2011,ohiggins|l,L O’Higgins
+Feltovich_2011,olson|kelly,Kelly Olson
+Feltovich_2011,omitowoju|r,R Omitowoju
+Feltovich_2011,padel|r,R Padel
+Feltovich_2011,page|dl,D.L Page
+Feltovich_2011,pepe|gm,G.M Pepe
+Feltovich_2011,petrone|g,G Petrone
+Feltovich_2011,pierce|kf,K.F Pierce
+Feltovich_2011,poster|c,C Poster
+Feltovich_2011,prehn|b,B Prehn
+Feltovich_2011,questa|c,C Questa
+Feltovich_2011,rabe|h,H Rabe
+Feltovich_2011,rabinowitz|nancy,Nancy Sorkin Rabinowitz
+Feltovich_2011,rambelli|g,G Rambelli
+Feltovich_2011,richlin|amy,Amy Richlin
+Feltovich_2011,rosivach|vj,V.J Rosivach
+Feltovich_2011,sandbach|fh,F.H Sandbach
+Feltovich_2011,scafuro|ac,A.C Scafuro
+Feltovich_2011,schultz|celia,Celia E Schultz
+Feltovich_2011,segal|erich,E Segal
+Feltovich_2011,shaw|m,M Shaw
+Feltovich_2011,shelton|j,J Shelton
+Feltovich_2011,skinner|marilyn,Marilyn Skinner
+Feltovich_2011,slater|niall,Niall W Slater
+Feltovich_2011,smith|lp,L.P Smith
+Feltovich_2011,sommerstein|alan,A.H Sommerstein
+Feltovich_2011,steen|g,G Van Steen
+Feltovich_2011,stehle|e,E Stehle
+Feltovich_2011,stella|s,S Stella
+Feltovich_2011,stellung|rolle,Rolle Stellung
+Feltovich_2011,taaffe|lk,L.K Taaffe
+Feltovich_2011,tannen|deborah,Deborah Tannen
+Feltovich_2011,tierney|m,M Tierney
+Feltovich_2011,traill|a,A Traill
+Feltovich_2011,treggiari|susan,Susan Treggiari
+Feltovich_2011,tzanetou|a,A Tzanetou
+Feltovich_2011,university college|london,London University College
+Feltovich_2011,vaio|j,J Vaio
+Feltovich_2011,wagenvoort|h,H Wagenvoort
+Feltovich_2011,webster|thomas,Thomas Bertram Lonsdale Webster
+Feltovich_2011,wessner|p,P Wessner
+Feltovich_2011,west|s,S West
+Feltovich_2011,winkler|john,John J Winkler
+Feltovich_2011,zagagi|n,N Zagagi
+Feltovich_2011,zeitlin|a,A Zeitlin
+Feltovich_2011,zeitlin|froma,Froma I Zeitlin
+Feltovich_2011,zeune|ja,J.A Zeune
+Funke_2013,allen|tw,T.W Allen
+Funke_2013,ament|ej,E.J Ament
+Funke_2013,anderson|william,William S Anderson
+Funke_2013,athanassiou|n,N Athanassiou
+Funke_2013,austin|c,C Austin
+Funke_2013,barrett|w. s.,W.S Barrett
+Funke_2013,barringer|judith,Judith M Barringer
+Funke_2013,bassi|karen,Karen Bassi
+Funke_2013,benedetto|v,V Di Benedetto
+Funke_2013,billing|cm,C.M Billing
+Funke_2013,blok|jh,J.H Blok
+Funke_2013,bowie|a,A Bowie
+Funke_2013,burkert|walter,Walter Burkert
+Funke_2013,buxton|rga,R.G.A Buxton
+Funke_2013,caedel|eb,E.B Caedel
+Funke_2013,calame|claude,Claude Calame
+Funke_2013,casali|s,S Casali
+Funke_2013,cawthorne|k,K Cawthorne
+Funke_2013,chong-gossard|jhko,J.H.K.O Chong-Gossard
+Funke_2013,collard|c,C Collard
+Funke_2013,conacher|d,D Conacher
+Funke_2013,cropp|m,M Cropp
+Funke_2013,csapo|e,E Csapo
+Funke_2013,davidson|james,James N Davidson
+Funke_2013,demand|nancy,Nancy Demand
+Funke_2013,denniston|jd,J.D Denniston
+Funke_2013,diggle|j,J Diggle
+Funke_2013,dindorf|kw,K.W Dindorf
+Funke_2013,dodds|eric,Eric Robertson Dodds
+Funke_2013,donovan|be,B.E Donovan
+Funke_2013,dover|kenneth,Kenneth J Dover
+Funke_2013,due|c,C Due
+Funke_2013,ekroth|g,G Ekroth
+Funke_2013,fassino|m,M Fassino
+Funke_2013,ferrari|gloria,Gloria Ferrari
+Funke_2013,foley|h,H Foley
+Funke_2013,foucault|michel,Michel Foucault
+Funke_2013,foxhall|lin,Lin Foxhall
+Funke_2013,fraenkel|eduard,Eduard Fraenkel
+Funke_2013,frazer|jg,J.G Frazer
+Funke_2013,gagarin|m,M Gagarin
+Funke_2013,gallavotti|c,C Gallavotti
+Funke_2013,gibert|jc,J.C Gibert
+Funke_2013,glazebrook|allison,Allison Glazebrook
+Funke_2013,goldhill|simon,Simon Goldhill
+Funke_2013,gomme|aw,A.W Gomme
+Funke_2013,gould|j,J Gould
+Funke_2013,green|r,R Green
+Funke_2013,griffin|jasper,Jasper Griffin
+Funke_2013,griffith|mark,Mark Griffith
+Funke_2013,grotius|i,I Grotius
+Funke_2013,haffner|m,M Haffner
+Funke_2013,hall|edith,Edith Hall
+Funke_2013,hall|fw,F.W Hall
+Funke_2013,hamilton|r,R Hamilton
+Funke_2013,harmon|aw,A.W Harmon
+Funke_2013,harriott|r,R Harriott
+Funke_2013,hartung|ja,J.A Hartung
+Funke_2013,harvey|d,D Harvey
+Funke_2013,hausmann|u,U Hausmann
+Funke_2013,hercher|r,R Hercher
+Funke_2013,hubbard|thomas,Thomas K Hubbard
+Funke_2013,hunt|alice,Alice Hunt
+Funke_2013,huys|m,M Huys
+Funke_2013,jackson|robin,R Jackson
+Funke_2013,johnstone|s,S Johnstone
+Funke_2013,jouan|f,F Jouan
+Funke_2013,just|r,R Just
+Funke_2013,kambitsis|j,J Kambitsis
+Funke_2013,kamerbeek|jc,J.C Kamerbeek
+Funke_2013,kannicht|r,R Kannicht
+Funke_2013,kassel|r,R Kassel
+Funke_2013,klimek-winter|r,R Klimek-Winter
+Funke_2013,knox|b,B Knox
+Funke_2013,konstan|david,David Konstan
+Funke_2013,kovacs|d,D Kovacs
+Funke_2013,kurke|leslie,Leslie Kurke
+Funke_2013,lape|s,S Lape
+Funke_2013,lee|kh,K.H Lee
+Funke_2013,lefkowitz|mary,Mary R Lefkowitz
+Funke_2013,lewis|rg,R.G Lewis
+Funke_2013,lissarrague|francois,François Lissarrague
+Funke_2013,lloyd-jones|hugh,Hugh Lloyd-Jones
+Funke_2013,lloyd|m,M Lloyd
+Funke_2013,longman|ga,G.A Longman
+Funke_2013,looy|h,H Van Looy
+Funke_2013,loraux|nicole,Nicole Loraux
+Funke_2013,luppe|w,W Luppe
+Funke_2013,macdowell|dm,D.M MacDowell
+Funke_2013,mahaffy|jp,J.P Mahaffy
+Funke_2013,mahat|a,A Mahat
+Funke_2013,marshall|pk,P.K Marshall
+Funke_2013,mastronarde|d,D Mastronarde
+Funke_2013,matthiae|a,A Matthiae
+Funke_2013,mayer|m,M Mayer
+Funke_2013,mchardy|fiona,Fiona McHardy
+Funke_2013,mcnally|sheila,Sheila McNally
+Funke_2013,merro|g,G Merro
+Funke_2013,meursius|i,I Meursius
+Funke_2013,michelini|a,A Michelini
+Funke_2013,moorton|r,R Moorton
+Funke_2013,morgan|t,T Morgan
+Funke_2013,mulke|c,C Mülke
+Funke_2013,mulvey|l,L Mulvey
+Funke_2013,murray|g,G Murray
+Funke_2013,nauck|a,A Nauck
+Funke_2013,nightingale|aw,A.W Nightingale
+Funke_2013,oakley|john,John Oakley
+Funke_2013,ogden|daniel,Daniel Ogden
+Funke_2013,omitowoju|r,R Omitowoju
+Funke_2013,ormand|k,K Ormand
+Funke_2013,osborne|c,C Osborne
+Funke_2013,osborn|eric,Eric Osborn
+Funke_2013,pack|roger,Roger Pack
+Funke_2013,page|dl,D.L Page
+Funke_2013,parsons|p,P Parsons
+Funke_2013,patterson|c,C Patterson
+Funke_2013,pechstein|n,N Pechstein
+Funke_2013,podlecki|a,A Podlecki
+Funke_2013,poole|w,W Poole
+Funke_2013,rabinowitz|nancy,Nancy Sorkin Rabinowitz
+Funke_2013,radt|sl,S.L Radt
+Funke_2013,rau|p,P Rau
+Funke_2013,reckford|kj,K.J Reckford
+Funke_2013,rehm|rush,Rush Rehm
+Funke_2013,rist|jm,J.M Rist
+Funke_2013,rivier|a,A Rivier
+Funke_2013,roisman|h,H Roisman
+Funke_2013,romeri|l,L Romeri
+Funke_2013,rose|m,M Rose
+Funke_2013,rossum-steenbeek|m,M Van Rossum-Steenbeek
+Funke_2013,rubenstein|l,L Rubenstein
+Funke_2013,rubin|gayle,Gayle Rubin
+Funke_2013,russell|da,D.A Russell
+Funke_2013,rusten|j,J Rusten
+Funke_2013,schaps|david,David Schaps
+Funke_2013,schmidt|michael,M Schmidt
+Funke_2013,schmid|w,W Schmid
+Funke_2013,schwartz|eduard,Eduard Schwartz
+Funke_2013,scodel|ruth,Ruth Scodel
+Funke_2013,segal|charles,C Segal
+Funke_2013,segal|eliezer,Eliezer Segal
+Funke_2013,sfyroeras|p,P Sfyroeras
+Funke_2013,slater|p,P Slater
+Funke_2013,snell|b,B Snell
+Funke_2013,sommerstein|ah,A.H Sommerstein
+Funke_2013,stehle|e,E Stehle
+Funke_2013,steiner|deborah,Deborah Steiner
+Funke_2013,thurn|j,J Thurn
+Funke_2013,tzanetou|a,A Tzanetou
+Funke_2013,valckenaer|lc,L.C Valckenaer
+Funke_2013,voelke|p,P Voelke
+Funke_2013,wachsmuth|c,C Wachsmuth
+Funke_2013,watson|patricia,Patricia Watson
+Funke_2013,webster|thomas,Thomas Bertram Lonsdale Webster
+Funke_2013,weil|h,H Weil
+Funke_2013,whitmarsh|tim,Tim Whitmarsh
+Funke_2013,wilamowitz-moellendorff|u,U Wilamowitz-Moellendorff
+Funke_2013,wilkins|j,J Wilkins
+Funke_2013,williams|gareth,G Williams
+Funke_2013,winkler|john,John J Winkler
+Funke_2013,wohl|victoria,Victoria Wohl
+Funke_2013,wright|m,M Wright
+Funke_2013,zeitlin|froma,Froma I Zeitlin
+Funke_2013,zuhlke|b,B Zühlke
+Funke_2013,zuntz|g,G Zuntz
 Grozdanoski_2019,abbott|nabia,Nabia Abbott
 Grozdanoski_2019,adang|c,C Adang
 Grozdanoski_2019,adornment|personal,Personal Adornment
@@ -482,7 +794,7 @@ Grozdanoski_2019,giffen|la,L.A Giffen
 Grozdanoski_2019,giffney|n,N Giffney
 Grozdanoski_2019,girshick|lb,L.B Girshick
 Grozdanoski_2019,glick|tf,T.F Glick
-Grozdanoski_2019,goffman|e,E Goffman
+Grozdanoski_2019,goffman|erving,Erving Goffman
 Grozdanoski_2019,grabar|o,O Grabar
 Grozdanoski_2019,graino|segura,Segura Graiño
 Grozdanoski_2019,greenberg|s,S Greenberg
@@ -578,7 +890,7 @@ Grozdanoski_2019,schirmann|jefim,Jefim Schirmann
 Grozdanoski_2019,segura graino|c,C Segura Graiño
 Grozdanoski_2019,sekido|r,R Sekido
 Grozdanoski_2019,shakespeare|w,W Shakespeare
-Grozdanoski_2019,shaw|m,M Shaw
+Grozdanoski_2019,shaw|martin,M Shaw
 Grozdanoski_2019,sher ali|m,M Sher Alī
 Grozdanoski_2019,shugart|ha,H.A Shugart
 Grozdanoski_2019,sidik|r,R Sidik
@@ -768,7 +1080,7 @@ Hancock_2012,white crawford|sidnie,Sidnie White Crawford
 Hancock_2012,white|sidnie,Sidnie Ann White
 Hancock_2012,wilke|margrith,Margrith et al Wilke
 Hancock_2012,wills|lawrence,Lawrence M Wills
-Hancock_2012,wilson|r,R Wilson
+Hancock_2012,wilson|robert r.,R Wilson
 Hancock_2012,wuckelt|agnes,Agnes Wuckelt
 Hancock_2012,wyler|bea,Bea Wyler
 Hancock_2012,yanagisako|sylvia,Sylvia Junko Yanagisako
@@ -822,7 +1134,7 @@ Haworth_2023,calder|louise,Louise Calder
 Haworth_2023,camp|john,John McKesson Camp
 Haworth_2023,cantarella|eva,Eva Cantarella
 Haworth_2023,capozzoli|vincenzo,Vincenzo Capozzoli
-Haworth_2023,caro|stefano,Stefano De Caro
+Haworth_2023,caro|stefano,Stefano de Caro
 Haworth_2023,cartledge|paul,Paul Cartledge
 Haworth_2023,chaniotes|angelos,Angelos Chaniotes
 Haworth_2023,chichester|west,West Sussex Chichester
@@ -921,7 +1233,7 @@ Haworth_2023,hindley|clifford,Clifford Hindley
 Haworth_2023,hodges|frederick,Frederick M Hodges
 Haworth_2023,hoffmann|herbert,Herbert Hoffmann
 Haworth_2023,hollander|anne,Anne Hollander
-Haworth_2023,holscher|tonio,Tonio Hölscher
+Haworth_2023,holscher|tonio,Tonio Holscher
 Haworth_2023,hubbard|thomas,Thomas K Hubbard
 Haworth_2023,huebner|r,R Huebner
 Haworth_2023,hull|denison,Denison Bingham Hull
@@ -1555,7 +1867,7 @@ Heffron_2020,mathews|t,T Mathews
 Heffron_2020,maxwell|jaclyn,Jaclyn Maxwell
 Heffron_2020,mayer|wendy,Wendy Mayer
 Heffron_2020,mccormick|michael,Michael McCormick
-Heffron_2020,mcginn|thomas,Thomas A.J McGinn
+Heffron_2020,mcginn|thomas,Thomas McGinn
 Heffron_2020,mckee|a,A McKee
 Heffron_2020,mckitterick|r,R McKitterick
 Heffron_2020,mclynn|neil,Neil McLynn
@@ -1564,7 +1876,6 @@ Heffron_2020,memory|phoenix,Phoenix Memory’
 Heffron_2020,merrifield|a,A Merrifield
 Heffron_2020,meyer|w,W Meyer
 Heffron_2020,miller|townsend,Townsend Miller
-Heffron_2020,mommsen|theodor,Theodor Mommsen
 Heffron_2020,mother|his,His Mother
 Heffron_2020,murer|c,C Murer
 Heffron_2020,nathan|g,G Nathan
@@ -1597,7 +1908,7 @@ Heffron_2020,rapp|claudia,Claudia Rapp
 Heffron_2020,regions|eleventh,Eleventh Regions
 Heffron_2020,relationships|slave,Slave Relationships
 Heffron_2020,renberg|g,G Renberg
-Heffron_2020,richardson|lawrence,Lawrence Richardson
+Heffron_2020,richardson|lawrence,L Richardson
 Heffron_2020,richlin|amy,Amy Richlin
 Heffron_2020,robathan|d,D Robathan
 Heffron_2020,robinson|o,O Robinson
@@ -1676,7 +1987,7 @@ Hollaender_2021,ancient rome|exhibition,Exhibition catalogue New Haven Ancient R
 Hollaender_2021,ancient world|blackwell,Blackwell Companions to the Ancient World Ancient World
 Hollaender_2021,ancient world|intersectionality,Intersectionality in Classical Antiquity Ancient World
 Hollaender_2021,anderson|jk,J.K Anderson
-Hollaender_2021,andreae|b,B Andreae
+Hollaender_2021,andreae|bernard,Bernard Andreae
 Hollaender_2021,angelis|f,F de Angelis
 Hollaender_2021,anguissola|a,A Anguissola
 Hollaender_2021,antikensammlungen munchen|exhibition,Exhibition catalogue Munich Antikensammlungen München
@@ -1713,11 +2024,11 @@ Hollaender_2021,bergamasco|a,A Bergamasco
 Hollaender_2021,bergemann|j,J Bergemann
 Hollaender_2021,berger|ernst,Ernst Berger
 Hollaender_2021,berger|j,J Berger
-Hollaender_2021,bergmann|b,B Bergmann
-Hollaender_2021,bergmann|m,M Bergmann
+Hollaender_2021,bergmann|bettina,Bettina Bergmann
+Hollaender_2021,bergmann|marianne,Marianne Bergmann
 Hollaender_2021,berg|ria,Ria Berg
 Hollaender_2021,bernhard|ml,M.-L Bernhard
-Hollaender_2021,bianchi bandinelli|r,R Bianchi Bandinelli
+Hollaender_2021,bianchi bandinelli|ranuccio,Ranuccio Bianchi Bandinelli
 Hollaender_2021,bieber|margarete,Margarete Bieber
 Hollaender_2021,bielfeldt|ruth,Ruth Bielfeldt
 Hollaender_2021,bignamini|i,I Bignamini
@@ -1747,7 +2058,7 @@ Hollaender_2021,boucher|s,S Boucher
 Hollaender_2021,boulotis|c,C Boulotis
 Hollaender_2021,boyd|bw,B.W Boyd
 Hollaender_2021,brandenburg|h,H Brandenburg
-Hollaender_2021,brendel|o,O Brendel
+Hollaender_2021,brendel|otto,Otto Brendel
 Hollaender_2021,brennan|tad,T.C Brennan
 Hollaender_2021,brewer|d,D Brewer
 Hollaender_2021,brewster|eh,E.H Brewster
@@ -1773,7 +2084,7 @@ Hollaender_2021,cancik-lindmaier|h,H Cancik-Lindmaier
 Hollaender_2021,candilio|d,D Candilio
 Hollaender_2021,cantarella|eva,Eva Cantarella
 Hollaender_2021,caprino|c,C Caprino
-Hollaender_2021,carandini|a,A Carandini
+Hollaender_2021,carandini|andrea,Andrea Carandini
 Hollaender_2021,cardauns|b,B Cardauns
 Hollaender_2021,carey|s,S Carey
 Hollaender_2021,carinci|f,F Carinci
@@ -1813,7 +2124,7 @@ Hollaender_2021,consumption|public,Public Consumption
 Hollaender_2021,contexts|identities,Identities Contexts
 Hollaender_2021,context|archaeological,Archaeological Context
 Hollaender_2021,cook|bf,B.F Cook
-Hollaender_2021,cooley|ae,A.E Cooley
+Hollaender_2021,cooley|alison,Alison Cooley
 Hollaender_2021,copley|fo,F.O Copley
 Hollaender_2021,coralini|a,A Coralini
 Hollaender_2021,costume|wisconsin,Wisconsin Studies in Classics Costume
@@ -1992,7 +2303,7 @@ Hollaender_2021,hodske|j,J Hodske
 Hollaender_2021,hoffmann|b,B Hoffmann
 Hollaender_2021,holkeskamp|kj,K.J Hölkeskamp
 Hollaender_2021,holscher|klassische,Klassische Archäologie Hölscher
-Hollaender_2021,holscher|tonio,Tonio Hölscher
+Hollaender_2021,holscher|tonio,Tonio Holscher
 Hollaender_2021,honour|achilles,Achilles‘ Lost Honour
 Hollaender_2021,hopkinson|n,N Hopkinson
 Hollaender_2021,horig|m,M Hörig
@@ -2092,7 +2403,7 @@ Hollaender_2021,linant de bellefonds|p,P Linant de Bellefonds
 Hollaender_2021,lincoln|b,B Lincoln
 Hollaender_2021,lindheim|sh,S.H Lindheim
 Hollaender_2021,lindsay|h,H Lindsay
-Hollaender_2021,ling|r,R Ling
+Hollaender_2021,ling|roger,Roger Ling
 Hollaender_2021,lippold|g,G Lippold
 Hollaender_2021,lissarrague|francois,François Lissarrague
 Hollaender_2021,liventhal|v,V Liventhal
@@ -2129,7 +2440,7 @@ Hollaender_2021,mcbain|b,B McBain
 Hollaender_2021,mccracken|g,G McCracken
 Hollaender_2021,mccullough|anna,Anna McCullough
 Hollaender_2021,mcdonnell|myles,Myles McDonnell
-Hollaender_2021,mcginn|thomas,Thomas A.J McGinn
+Hollaender_2021,mcginn|thomas,Thomas McGinn
 Hollaender_2021,mcinerney|jeremy,Jeremy McInerney
 Hollaender_2021,mcphee|i,I McPhee
 Hollaender_2021,mediterranean|bloomsbury,Bloomsbury Classical Studies Monographs Mediterranean
@@ -2165,7 +2476,7 @@ Hollaender_2021,mulvey|l,L Mulvey
 Hollaender_2021,murray|at,A.T Murray
 Hollaender_2021,musso|l,L Musso
 Hollaender_2021,mustilli|d,D Mustilli
-Hollaender_2021,muth|s,S Muth
+Hollaender_2021,muth|susanne,Susanne Muth
 Hollaender_2021,mutschler|fh,F.H Mutschler
 Hollaender_2021,myerowitz|molly,Molly Myerowitz
 Hollaender_2021,nagy|am,Á.M Nagy
@@ -2224,7 +2535,7 @@ Hollaender_2021,pipili|m,M Pipili
 Hollaender_2021,pironti|g,G Pironti
 Hollaender_2021,poinssot|ml,M.L Poinssot
 Hollaender_2021,polinskaya|i,I Polinskaya
-Hollaender_2021,pollini|j,J Pollini
+Hollaender_2021,pollini|john,John Pollini
 Hollaender_2021,pollitt|jerome,Jerome J Pollitt
 Hollaender_2021,pomeroy|sarah,Sarah B Pomeroy
 Hollaender_2021,porten palange|fp,F.P Porten Palange
@@ -2256,7 +2567,7 @@ Hollaender_2021,reinsberg|c,C Reinsberg
 Hollaender_2021,reliefs|actaaarthist,ActaAArtHist 22 Reliefs
 Hollaender_2021,renaissance|technology,Technology Renaissance
 Hollaender_2021,replication|visual,Visual Replication
-Hollaender_2021,richardson|lawrence,Lawrence Richardson
+Hollaender_2021,richardson|lawrence,L Richardson
 Hollaender_2021,richlin|amy,Amy Richlin
 Hollaender_2021,richter|gisela,Gisela Marie Augusta Richter
 Hollaender_2021,ridder|a,A De Ridder
@@ -2269,12 +2580,12 @@ Hollaender_2021,roach|me,M.-E Roach
 Hollaender_2021,robben|acgm,A.C.G.M Robben
 Hollaender_2021,robert|c,C Robert
 Hollaender_2021,robinson|hr,H.R Robinson
-Hollaender_2021,rocca|e,E La Rocca
+Hollaender_2021,rocca|eugenio,Eugenio La Rocca
 Hollaender_2021,rodenwaldt|g,G Rodenwaldt
 Hollaender_2021,rogge|s,S Rogge
 Hollaender_2021,rolfe|jc,J.C Rolfe
 Hollaender_2021,rolland|h,H Rolland
-Hollaender_2021,roller|mb,M.B Roller
+Hollaender_2021,roller|matthew,Matthew Roller
 Hollaender_2021,roman artists|patrons,Patrons Roman Artists
 Hollaender_2021,roman costume|wisconsin,Wisconsin Studies in Classics Roman Costume
 Hollaender_2021,roman sculpture|oxford,Oxford Handbooks Roman Sculpture
@@ -2300,7 +2611,7 @@ Hollaender_2021,schefold|k,K Schefold
 Hollaender_2021,schild-xenidou|v,V Schild-Xenidou
 Hollaender_2021,schild-xenidou|w,W Schild-Xenidou
 Hollaender_2021,schmidt|e,E Schmidt
-Hollaender_2021,schmidt|m,M Schmidt
+Hollaender_2021,schmidt|margot,M Schmidt
 Hollaender_2021,schmitt pantel|p,P Schmitt Pantel
 Hollaender_2021,schmuhl|y,Y Schmuhl
 Hollaender_2021,schnapp|alain,Alain Schnapp
@@ -2655,7 +2966,7 @@ Irving_2016,conrad|lawrence,Lawrence Conrad
 Irving_2016,conti-o'hare|marion,Marion Conti-O'Hare
 Irving_2016,continuity'|linguistic,Linguistic Continuity'
 Irving_2016,conze|alexander,Alexander Conze
-Irving_2016,corte|matteo,Matteo Della Corte
+Irving_2016,corte|matteo,Matteo della Corte
 Irving_2016,coventry|lucinda,Lucinda Coventry
 Irving_2016,cribiore|raffaella,Raffaella Cribiore
 Irving_2016,cross|jay,Jay Cross
@@ -2828,7 +3139,7 @@ Irving_2016,okin|susan,Susan Moller Okin
 Irving_2016,oosthuizen|gerhardus,Gerhardus C Oosthuizen
 Irving_2016,osiek|caroline,Caroline Osiek
 Irving_2016,painting|early,Early Medieval Painting
-Irving_2016,parker|holt,Holt N Parker
+Irving_2016,parker|holt,Holt Parker
 Irving_2016,paton|william,William Roger Paton
 Irving_2016,patterns|naming,Naming Patterns
 Irving_2016,peek|werner,Werner Peek
@@ -2885,7 +3196,7 @@ Irving_2016,schugurensky|daniel,Daniel Schugurensky
 Irving_2016,sciences|allied,Allied Sciences
 Irving_2016,science|experimental,Experimental Science
 Irving_2016,scodel|ruth,Ruth Scodel
-Irving_2016,scott|sp,S.P Scott
+Irving_2016,scott|s. p.,S.P Scott
 Irving_2016,serarcangeli|caria,Caria Serarcangeli
 Irving_2016,sertima|ivan,Ivan van Sertima
 Irving_2016,shapiro|arthur,Arthur K Shapiro
@@ -2894,7 +3205,7 @@ Irving_2016,shaw|susan,Susan M Shaw
 Irving_2016,sichel|betty,Betty A Sichel
 Irving_2016,siddons|philip,Philip Siddons
 Irving_2016,sihvola|juha,Juha Sihvola
-Irving_2016,skinner|marilyn,Marilyn B Skinner
+Irving_2016,skinner|marilyn,Marilyn Skinner
 Irving_2016,slings|sr,S.R Slings
 Irving_2016,smith-bannister|scott,Scott Smith-Bannister
 Irving_2016,smith|bonnie,Bonnie G Smith
@@ -2960,6 +3271,177 @@ Irving_2016,world?' the classical quarterly|new,New Series World?' The Classical
 Irving_2016,wright|colin,Colin W Wright
 Irving_2016,wright|john,John Henry Wright
 Irving_2016,zimbalist rosaldo|louise,Louise Lamphere Zimbalist Rosaldo
+LevinRichardson_2009,allison|penelope,Penelope M Allison
+LevinRichardson_2009,andreae|bernard,Bernard Andreae
+LevinRichardson_2009,bain|david,David Bain
+LevinRichardson_2009,ball|larry,Larry Ball
+LevinRichardson_2009,bartman|elizabeth,Elizabeth Bartman
+LevinRichardson_2009,bechi|guglielmo,Guglielmo Bechi
+LevinRichardson_2009,bergmann|bettina,Bettina Bergmann
+LevinRichardson_2009,bergmann|marianne,Marianne Bergmann
+LevinRichardson_2009,berry|dh,D.H Berry
+LevinRichardson_2009,beyen|hendrik,Hendrik Beyen
+LevinRichardson_2009,bianchi bandinelli|ranuccio,Ranuccio Bianchi Bandinelli
+LevinRichardson_2009,borbein|adolf,Adolf Borbein
+LevinRichardson_2009,borriello|mariarosaria,Mariarosaria Borriello
+LevinRichardson_2009,bourdieu|pierre,Pierre Bourdieu
+LevinRichardson_2009,bradley|keith,Keith R Bradley
+LevinRichardson_2009,bragantini|irene,Irene Bragantini
+LevinRichardson_2009,braund|susanna,Susanna M Braund
+LevinRichardson_2009,brendel|otto,Otto Brendel
+LevinRichardson_2009,brilliant|richard,Richard Brilliant
+LevinRichardson_2009,buren|albert,Albert Van Buren
+LevinRichardson_2009,butler|judith,Judith Butler
+LevinRichardson_2009,cantarella|eva,Eva Cantarella
+LevinRichardson_2009,capri|paola,Paola Poli Capri
+LevinRichardson_2009,carandini|andrea,Andrea Carandini
+LevinRichardson_2009,caro|stefano,Stefano de Caro
+LevinRichardson_2009,cassanelli|roberto,Roberto et al Cassanelli
+LevinRichardson_2009,castren|paavo,Paavo Castren
+LevinRichardson_2009,clarke|john,John R Clarke
+LevinRichardson_2009,coleman|kathleen,Kathleen Coleman
+LevinRichardson_2009,cooley|alison,Alison Cooley
+LevinRichardson_2009,corbeill|anthony,Anthony Corbeill
+LevinRichardson_2009,corte|matteo,Matteo della Corte
+LevinRichardson_2009,d'arms|john,John D'Arms
+LevinRichardson_2009,davidson|james,James N Davidson
+LevinRichardson_2009,der peol|halsted,Halsted Van der Peol
+LevinRichardson_2009,desire|male,Male Homosocial Desire
+LevinRichardson_2009,dickey|eleanor,Eleanor Dickey
+LevinRichardson_2009,dobbins|john,John J Dobbins
+LevinRichardson_2009,dover|kenneth,Kenneth J Dover
+LevinRichardson_2009,edwards|catharine,Catharine Edwards
+LevinRichardson_2009,eisner|jas,Jas Eisner
+LevinRichardson_2009,fausto-sterling|anne,Anne Fausto-Sterling
+LevinRichardson_2009,fentress|elizabeth,Elizabeth Fentress
+LevinRichardson_2009,finley|moses,Moses I Finley
+LevinRichardson_2009,fino|lucio,Lucio Fino
+LevinRichardson_2009,fiorelli|giuseppe,Giuseppe Fiorelli
+LevinRichardson_2009,fitzgerald|william,William Fitzgerald
+LevinRichardson_2009,flemming|rebecca,Rebecca Flemming
+LevinRichardson_2009,flower|harriet,Harriet I Flower
+LevinRichardson_2009,follette|laetitia,Laetitia La Follette
+LevinRichardson_2009,foucault|michel,Michel Foucault
+LevinRichardson_2009,franklin|james,James L Franklin
+LevinRichardson_2009,frederick|david,David Frederick
+LevinRichardson_2009,friggeri|rosanna,Rosanna Friggeri
+LevinRichardson_2009,frommel|christoph,Christoph Luitpold Frommel
+LevinRichardson_2009,frontisi-ducroux|francoise,Françoise Frontisi-Ducroux
+LevinRichardson_2009,galan vioque|guillermo,Guillermo Galan Vioque
+LevinRichardson_2009,gell|alfred,Alfred Gell
+LevinRichardson_2009,gell|sir,Sir William Gell
+LevinRichardson_2009,george|michele,Michele George
+LevinRichardson_2009,gibson|roy,Roy K Gibson
+LevinRichardson_2009,giove|teresa,Teresa Giove
+LevinRichardson_2009,giuliani|luca,Luca Giuliani
+LevinRichardson_2009,gleason|maud,Maude Gleason
+LevinRichardson_2009,goffman|erving,Erving Goffman
+LevinRichardson_2009,goldstein|jan,Jan Goldstein
+LevinRichardson_2009,gordon|arthur,Arthur E Gordon
+LevinRichardson_2009,grahame|mark,Mark Grahame
+LevinRichardson_2009,grant|michael,Michael Grant
+LevinRichardson_2009,grimal|pierre,Pierre Grimal
+LevinRichardson_2009,guarini|raimondo,Raimondo Guarini
+LevinRichardson_2009,guidobaldi|maria,Maria Paola Guidobaldi
+LevinRichardson_2009,gunderson|erik,Erik Gunderson
+LevinRichardson_2009,guzzo|pietro,Pietro Giovanni Guzzo
+LevinRichardson_2009,hallett|judith,Judith Hallett
+LevinRichardson_2009,halperin|david,David Halperin
+LevinRichardson_2009,harris|william,William V Harris
+LevinRichardson_2009,hemelrijk|emily,Emily Hemelrijk
+LevinRichardson_2009,henderson|jeffrey,Jeffrey Henderson
+LevinRichardson_2009,holscher|tonio,Tonio Holscher
+LevinRichardson_2009,jacobelli|luciana,Luciana Jacobelli
+LevinRichardson_2009,james|paula,Paula James
+LevinRichardson_2009,johns|catherine,Catherine Johns
+LevinRichardson_2009,jones|christopher p.,C Jones
+LevinRichardson_2009,jongman|willem,Willem Jongman
+LevinRichardson_2009,joshel|sandra,Sandra R Joshel
+LevinRichardson_2009,kamen|deborah,Deborah Kamen
+LevinRichardson_2009,kampen|natalie,Natalie Kampen
+LevinRichardson_2009,karras|ruth,Ruth Mazo Karras
+LevinRichardson_2009,kaster|robert,Robert A Kaster
+LevinRichardson_2009,kellum|barbara,Barbara Kellum
+LevinRichardson_2009,kilpatrick|ross,Ross Stuart Kilpatrick
+LevinRichardson_2009,kleiner|diana,D.E.E Kleiner
+LevinRichardson_2009,koloski-ostrow|ann,Ann Olga Koloski-Ostrow
+LevinRichardson_2009,langlands|rebecca,Rebecca Langlands
+LevinRichardson_2009,laurence|ray,Ray Laurence
+LevinRichardson_2009,leach|eleanor,Eleanor Leach
+LevinRichardson_2009,lendon|jon,Jon E Lendon
+LevinRichardson_2009,ling|roger,Roger Ling
+LevinRichardson_2009,lloyd|robert,Robert Lloyd
+LevinRichardson_2009,lyne|r,R Lyne
+LevinRichardson_2009,maiuri|amedeo,Amedeo Maiuri
+LevinRichardson_2009,maulucci vivolo|francesco,Francesco Paolo Maulucci Vivolo
+LevinRichardson_2009,mau|august,August Mau
+LevinRichardson_2009,mazois|francois,Francois Mazois
+LevinRichardson_2009,mcginn|thomas,Thomas McGinn
+LevinRichardson_2009,mckay|alexander,Alexander McKay
+LevinRichardson_2009,mckechnie|paul,Paul McKechnie
+LevinRichardson_2009,miiller|frank,Frank Miiller
+LevinRichardson_2009,milnor|kristina,Kristina Milnor
+LevinRichardson_2009,mino|maria,Maria Rita Sanzi di Mino
+LevinRichardson_2009,moeller|walter,Walter O Moeller
+LevinRichardson_2009,mommsen|theodore,Theodore Mommsen
+LevinRichardson_2009,moreno soldevila|rosario,Rosario Moreno Soldevila
+LevinRichardson_2009,morris|ian,Ian Morris
+LevinRichardson_2009,mouritsen|henrik,Henrik Mouritsen
+LevinRichardson_2009,mulroy|david,David Mulroy
+LevinRichardson_2009,murnaghan|sheila,Sheila Murnaghan
+LevinRichardson_2009,muth|susanne,Susanne Muth
+LevinRichardson_2009,myerowitz|molly,Molly Myerowitz
+LevinRichardson_2009,niccolini|felice,Felice Niccolini
+LevinRichardson_2009,orelli|casp,Casp Orelli
+LevinRichardson_2009,parker|holt,Holt Parker
+LevinRichardson_2009,parker|wh,W.H Parker
+LevinRichardson_2009,pesando|fabrizio,Fabrizio Pesando
+LevinRichardson_2009,petersen|lauren,Lauren H Petersen
+LevinRichardson_2009,pollini|john,John Pollini
+LevinRichardson_2009,pollitt|jerome,Jerome J Pollitt
+LevinRichardson_2009,presentation|self,Self Presentation
+LevinRichardson_2009,richardson|lawrence,L Richardson
+LevinRichardson_2009,richlin|amy,Amy Richlin
+LevinRichardson_2009,riggsby|andrew,Andrew Riggsby
+LevinRichardson_2009,rocca|eugenio,Eugenio La Rocca
+LevinRichardson_2009,roller|matthew,Matthew Roller
+LevinRichardson_2009,sailer|richard,Richard Sailer
+LevinRichardson_2009,sampaolo|valeria,Valeria Sampaolo
+LevinRichardson_2009,sandys|john,John Edwin Sandys
+LevinRichardson_2009,scheidel|walter,Walter Scheidel
+LevinRichardson_2009,schmidt|robert,Robert Schmidt
+LevinRichardson_2009,schmitz|leonhard,Leonhard Schmitz
+LevinRichardson_2009,scott|sarah,Sarah Scott
+LevinRichardson_2009,sebesta|judith,Judith L Sebesta
+LevinRichardson_2009,sedgwick|eve,Eve K Sedgwick
+LevinRichardson_2009,shackleton bailey|dr,D.R Shackleton Bailey
+LevinRichardson_2009,shaw|brent,Brent D Shaw
+LevinRichardson_2009,skinner|marilyn,Marilyn Skinner
+LevinRichardson_2009,solin|heikki,Heikki Solin
+LevinRichardson_2009,stewart|peter,Peter Stewart
+LevinRichardson_2009,stone|shelley,Shelley Stone
+LevinRichardson_2009,swain|simon,Simon Swain
+LevinRichardson_2009,taloni|mirtella,Mirtella Taloni
+LevinRichardson_2009,thompson|f,F Thompson
+LevinRichardson_2009,trimble|jennifer,Jennifer Trimble
+LevinRichardson_2009,ullman|bl,B.L Ullman
+LevinRichardson_2009,ussani|vincenzo,Vincenzo Scarano Ussani
+LevinRichardson_2009,varone|antonio,Antonio Varone
+LevinRichardson_2009,vasaly|ann,Ann Vasaly
+LevinRichardson_2009,viewers|non,Non- Elite Viewers
+LevinRichardson_2009,voss|barbara,Barbara L Voss
+LevinRichardson_2009,vos|arnold,Arnold de Vos
+LevinRichardson_2009,vos|mariette,Mariette de Vos
+LevinRichardson_2009,wallace-hadrill|andrew,Andrew Wallace-Hadrill
+LevinRichardson_2009,walsh|pg,P.G Walsh
+LevinRichardson_2009,walters|jonathan,Jonathan Walters
+LevinRichardson_2009,williams|craig,Craig A Williams
+LevinRichardson_2009,winkler|john,John J Winkler
+LevinRichardson_2009,wray|david,David Wray
+LevinRichardson_2009,wyler|stephanie,Stephanie Wyler
+LevinRichardson_2009,zangemeister|carolus,Carolus Zangemeister
+LevinRichardson_2009,zanker|paul,Paul Zanker
+LevinRichardson_2009,zeitlin|froma,Froma I Zeitlin
 McAvoy_2017,adams|james,James N Adams
 McAvoy_2017,aldrete|alicia,Alicia Aldrete
 McAvoy_2017,aldrete|gregory,Gregory S Aldrete
@@ -3166,7 +3648,7 @@ McAvoy_2017,mcavoy|ioan,Ioan M McAvoy
 McAvoy_2017,mccoskey|denise,Denise E McCoskey
 McAvoy_2017,mcdonnell|myles,Myles McDonnell
 McAvoy_2017,mcging|brian,Brian C McGing
-McAvoy_2017,mcginn|thomas,Thomas A.J McGinn
+McAvoy_2017,mcginn|thomas,Thomas McGinn
 McAvoy_2017,mclaughlin|raoul,Raoul McLaughlin
 McAvoy_2017,mclean|bradley,Bradley Hudson McLean
 McAvoy_2017,meijer|fik,Fik Meijer
@@ -3193,7 +3675,7 @@ McAvoy_2017,osborne|robin,Robin Osborne
 McAvoy_2017,ostenberg|ida,Ida Östenberg
 McAvoy_2017,pakkanen|jari,Jari Pakkanen
 McAvoy_2017,parker|grant,Grant Parker
-McAvoy_2017,parker|holt,Holt N Parker
+McAvoy_2017,parker|holt,Holt Parker
 McAvoy_2017,parramore|lynn,Lynn Parramore
 McAvoy_2017,pelling|christopher,Christopher B Pelling
 McAvoy_2017,percival|john,John Percival
@@ -3250,7 +3732,7 @@ McAvoy_2017,sherwin-white|susan,Susan M Sherwin-White
 McAvoy_2017,sievers|joseph,Joseph Sievers
 McAvoy_2017,simon|francisco,Francisco M Simón
 McAvoy_2017,skinner|joseph,Joseph E Skinner
-McAvoy_2017,skinner|marilyn,Marilyn B Skinner
+McAvoy_2017,skinner|marilyn,Marilyn Skinner
 McAvoy_2017,small|jocelyn,Jocelyn Penny Small
 McAvoy_2017,small|stuart,Stuart G Small
 McAvoy_2017,smith|robert,Robert R Smith
@@ -3426,7 +3908,7 @@ Minardi_2011,jarratt|susan,Susan Jarratt
 Minardi_2011,jeffreys|elizabeth,Elizabeth Jeffreys
 Minardi_2011,jerome|saint,Saint Jerome
 Minardi_2011,johnson|nan,Nan Johnson
-Minardi_2011,kaster|ra,R.A Kaster
+Minardi_2011,kaster|robert,Robert A Kaster
 Minardi_2011,katz|marilyn,Marilyn A Katz
 Minardi_2011,kelly|william,William Kelly
 Minardi_2011,kennedy|george,George A Kennedy
@@ -3933,10 +4415,10 @@ Palmer_2023MA,roscoe|will,Will Roscoe
 Palmer_2023MA,roughgarden|joan,Joan Roughgarden
 Palmer_2023MA,russell|craig,Craig M Russell
 Palmer_2023MA,schleicher|marianne,Marianne Schleicher
-Palmer_2023MA,segal|charles,Charles Segal
+Palmer_2023MA,segal|charles,C Segal
 Palmer_2023MA,shamugia|nikoloz,Nikoloz Shamugia
 Palmer_2023MA,sharrock|alison,Alison Sharrock
-Palmer_2023MA,skinner|marilyn,Marilyn B Skinner
+Palmer_2023MA,skinner|marilyn,Marilyn Skinner
 Palmer_2023MA,stackelberg|katharine,Katharine T Von Stackelberg
 Palmer_2023MA,stevenson|walter,Walter Stevenson
 Palmer_2023MA,townsley|jeramy,Jeramy Townsley
@@ -4152,7 +4634,7 @@ Petrey_2010,sesboue|bernard,Bernard Sesboüé
 Petrey_2010,setzer|claudia,Claudia Setzer
 Petrey_2010,shaw|teresa,Teresa M Shaw
 Petrey_2010,sissa|giulia,Giulia Sissa
-Petrey_2010,skinner|marilyn,Marilyn B Skinner
+Petrey_2010,skinner|marilyn,Marilyn Skinner
 Petrey_2010,spelman|elizabeth,Elizabeth V Spelman
 Petrey_2010,steenberg|m,M Steenberg
 Petrey_2010,temkin|owsei,Owsei Temkin
@@ -4410,7 +4892,7 @@ Sapsford_2017,hunter|r,R Hunter
 Sapsford_2017,isaac|benjamin,Benjamin H Isaac
 Sapsford_2017,jones|f,F Jones
 Sapsford_2017,kahn|charles,Charles H Kahn
-Sapsford_2017,kamen|d,D Kamen
+Sapsford_2017,kamen|deborah,Deborah Kamen
 Sapsford_2017,kanavou|n,N Kanavou
 Sapsford_2017,kapparis|k,K Kapparis
 Sapsford_2017,kennedy|b,B Kennedy
@@ -4447,7 +4929,7 @@ Sapsford_2017,olsen|d,D Olsen
 Sapsford_2017,ophuijsen|jm,J.M Van Ophuijsen
 Sapsford_2017,orrells|d,D Orrells
 Sapsford_2017,palmer|lr,L.R Palmer
-Sapsford_2017,parker|holt,Holt N Parker
+Sapsford_2017,parker|holt,Holt Parker
 Sapsford_2017,parsons|p,P Parsons
 Sapsford_2017,patel|a,A Patel
 Sapsford_2017,paulsen|t,T Paulsen
@@ -4472,7 +4954,7 @@ Sapsford_2017,sedgwick|eve,Eve K Sedgwick
 Sapsford_2017,segal|erich,E Segal
 Sapsford_2017,setaioli|a,A Setaioli
 Sapsford_2017,sissa|giulia,Giulia Sissa
-Sapsford_2017,skinner|marilyn,Marilyn B Skinner
+Sapsford_2017,skinner|marilyn,Marilyn Skinner
 Sapsford_2017,slater|w,W Slater
 Sapsford_2017,sommerstein|a,A Sommerstein
 Sapsford_2017,stephens|s,S Stephens
@@ -4539,9 +5021,9 @@ Schenck_2017MA,mary|dangelo,D’Angelo Mary
 Schenck_2017MA,mouritsen|henrik,Henrik Mouritsen
 Schenck_2017MA,murphy-oconnor|jerome,Jerome Murphy-O’Connor
 Schenck_2017MA,orlin|eric,Eric Orlin
-Schenck_2017MA,parker|holt,Holt N Parker
+Schenck_2017MA,parker|holt,Holt Parker
 Schenck_2017MA,rawson|b,B Rawson
-Schenck_2017MA,richardson|lawrence,Lawrence Richardson
+Schenck_2017MA,richardson|lawrence,L Richardson
 Schenck_2017MA,richlin|amy,Amy Richlin
 Schenck_2017MA,roller|lynn,Lynn E Roller
 Schenck_2017MA,rupke|j,J Rüpke
@@ -4549,7 +5031,7 @@ Schenck_2017MA,satterfield|susan,Susan Satterfield
 Schenck_2017MA,scheid|john,John Scheid
 Schenck_2017MA,schultz|celia,Celia E Schultz
 Schenck_2017MA,scroggs|robin,Robin Scroggs
-Schenck_2017MA,skinner|marilyn,Marilyn B Skinner
+Schenck_2017MA,skinner|marilyn,Marilyn Skinner
 Schenck_2017MA,staples|ariadne,Ariadne Staples
 Schenck_2017MA,summers|kirk,Kirk Summers
 Schenck_2017MA,takacs|sarolta,Sarolta Takacs
@@ -5150,7 +5632,7 @@ Valtadorou_2020,austin|n,N Austin
 Valtadorou_2020,avezzu|verona,Verona Avezzù
 Valtadorou_2020,banuls oller|j,J Bañuls Oller
 Valtadorou_2020,barber|c,C Barber
-Valtadorou_2020,barrett|w,W Barrett
+Valtadorou_2020,barrett|w. s.,W.S Barrett
 Valtadorou_2020,barringer|judith,Judith M Barringer
 Valtadorou_2020,basaran|s,S Başaran
 Valtadorou_2020,bassi|karen,Karen Bassi
@@ -5307,7 +5789,7 @@ Valtadorou_2020,easterling|p,P Easterling
 Valtadorou_2020,easterlin|n,N Easterlin
 Valtadorou_2020,edmunds|l,L Edmunds
 Valtadorou_2020,edwards|charles m.,C Edwards
-Valtadorou_2020,eisner|j,J Eisner
+Valtadorou_2020,eisner|jas,Jas Eisner
 Valtadorou_2020,eisner|r,R Eisner
 Valtadorou_2020,eliade|m,M Eliade
 Valtadorou_2020,emotion|genre,Genre Emotion
@@ -5361,7 +5843,7 @@ Valtadorou_2020,gierke|d,D Gierke
 Valtadorou_2020,gill|christopher,Christopher Gill
 Valtadorou_2020,giolo|g,G Giolo
 Valtadorou_2020,glazebrook|allison,Allison Glazebrook
-Valtadorou_2020,goffman|e,E Goffman
+Valtadorou_2020,goffman|erving,Erving Goffman
 Valtadorou_2020,goff|b,B Goff
 Valtadorou_2020,golann|c,C Golann
 Valtadorou_2020,golden|l,L Golden
@@ -5376,7 +5858,7 @@ Valtadorou_2020,gould|j,J Gould
 Valtadorou_2020,gounaridou|k,K Gounaridou
 Valtadorou_2020,gourevitch|danielle,Danielle Gourevitch
 Valtadorou_2020,gow|a,A Gow
-Valtadorou_2020,grant|m,M Grant
+Valtadorou_2020,grant|michael,Michael Grant
 Valtadorou_2020,greco|g,G Greco
 Valtadorou_2020,greece|magna,Magna Graecia Greece
 Valtadorou_2020,greece|new,New Haven Greece
@@ -5468,7 +5950,7 @@ Valtadorou_2020,just|r,R Just
 Valtadorou_2020,kaimio|m,M Kaimio
 Valtadorou_2020,kajava|m,M Kajava
 Valtadorou_2020,kalogerakos|i,I Kalogerakos
-Valtadorou_2020,kamen|d,D Kamen
+Valtadorou_2020,kamen|deborah,Deborah Kamen
 Valtadorou_2020,kamerbeek|amsterdam,Amsterdam Kamerbeek
 Valtadorou_2020,kamerbeek|j,J Kamerbeek
 Valtadorou_2020,kampakoglou|a,A Kampakoglou
@@ -5584,7 +6066,7 @@ Valtadorou_2020,muller|e,E Müller
 Valtadorou_2020,muller|g,G Müller
 Valtadorou_2020,munck|v,V De Munck
 Valtadorou_2020,mureddu|p,P Mureddu
-Valtadorou_2020,murnaghan|s,S Murnaghan
+Valtadorou_2020,murnaghan|sheila,Sheila Murnaghan
 Valtadorou_2020,murray|g,G Murray
 Valtadorou_2020,murray|robert,Robert Murray
 Valtadorou_2020,musgrave|s,S Musgrave
@@ -5723,7 +6205,7 @@ Valtadorou_2020,schaps|david,David Schaps
 Valtadorou_2020,scharffenberger|e,E Scharffenberger
 Valtadorou_2020,schein|s,S Schein
 Valtadorou_2020,schierup|s,S Schierup
-Valtadorou_2020,schmidt|m,M Schmidt
+Valtadorou_2020,schmidt|moritz,M Schmidt
 Valtadorou_2020,schmidt|s,S Schmidt
 Valtadorou_2020,schmid|w,W Schmid
 Valtadorou_2020,schmiel|r,R Schmiel
@@ -5739,7 +6221,7 @@ Valtadorou_2020,seaford|r,R Seaford
 Valtadorou_2020,sebo|h,H Sebo
 Valtadorou_2020,sechan|l,L Séchan
 Valtadorou_2020,seeck|ga,G.A Seeck
-Valtadorou_2020,segal|charles,Charles Segal
+Valtadorou_2020,segal|charles,C Segal
 Valtadorou_2020,segal|erich,E Segal
 Valtadorou_2020,serwint|nancy,Nancy Jean Serwint
 Valtadorou_2020,sex|ancient,Ancient Greek Sex’
@@ -5755,7 +6237,7 @@ Valtadorou_2020,silk|m,M Silk
 Valtadorou_2020,simon|erika,Erika Simon
 Valtadorou_2020,siropoulos|s,S Siropoulos
 Valtadorou_2020,sissa|giulia,Giulia Sissa
-Valtadorou_2020,skinner|marilyn,Marilyn B Skinner
+Valtadorou_2020,skinner|marilyn,Marilyn Skinner
 Valtadorou_2020,skouroumouni-stavrinou|a,A Skouroumouni-Stavrinou
 Valtadorou_2020,skutsch|o,O Skutsch
 Valtadorou_2020,slater|niall,Niall W Slater
@@ -5962,7 +6444,7 @@ Vogler_2020,niece|susan,Susan La Niece
 Vogler_2020,nightingale|florence,Florence Nightingale
 Vogler_2020,olson|kelly,Kelly Olson
 Vogler_2020,owens|deirdre,Deirdre Cooper Owens
-Vogler_2020,parker|holt,Holt N Parker
+Vogler_2020,parker|holt,Holt Parker
 Vogler_2020,perkins|phil,Phil Perkins
 Vogler_2020,perrin|liese,Liese M Perrin
 Vogler_2020,perry|matthew,Matthew J Perry
@@ -5992,11 +6474,159 @@ Vogler_2020,vout|caroline,Caroline Vout
 Vogler_2020,vuolanto|ville,Ville Vuolanto
 Vogler_2020,webster|jane,Jane Webster
 Vogler_2020,whitehouse|ruth,Ruth D Whitehouse
-Vogler_2020,wilson|rja,R.J.A Wilson
+Vogler_2020,wilson|roger j. a.,R.J.A Wilson
 Vogler_2020,woolf|greg,Greg Woolf
 Vogler_2020,wright|katherine,Katherine I Wright
 Vogler_2020,wylie|alison,Alison Wylie
 Vogler_2020,wynne-jones|stephanie,Stephanie Wynne-Jones
+Walker_2017,alexiou|margaret,Margaret Alexiou
+Walker_2017,amundsen|d,D Amundsen
+Walker_2017,balsdon|john,J.P.V.D Balsdon
+Walker_2017,bartholomew|r,R Bartholomew
+Walker_2017,bascom|w,W Bascom
+Walker_2017,bing|p,P Bing
+Walker_2017,bonnell|v,V Bonnell
+Walker_2017,boulay|j,J du Boulay
+Walker_2017,brakke|david,David Brakke
+Walker_2017,brenk|f,F Brenk
+Walker_2017,brown|peter,Peter Brown
+Walker_2017,brule|p,P Brulé
+Walker_2017,bugge|j,J Bugge
+Walker_2017,burkert|walter,Walter Burkert
+Walker_2017,cain|a,A Cain
+Walker_2017,caldwell|l,L Caldwell
+Walker_2017,carpenter|th,T.H Carpenter
+Walker_2017,carson|anne,Anne Carson
+Walker_2017,casey|e,E Casey
+Walker_2017,castelli|elizabeth,Elizabeth Castelli
+Walker_2017,catonne|j,J Catonné
+Walker_2017,cazzaniga|e,E Cazzaniga
+Walker_2017,clark|a,A Clark
+Walker_2017,clark|elizabeth,Elizabeth A Clark
+Walker_2017,clark|gillian,Gillian Clark
+Walker_2017,clay|j,J Clay
+Walker_2017,clinton|k,K Clinton
+Walker_2017,cohen|david,David Cohen
+Walker_2017,cohn-haft|l,L Cohn-Haft
+Walker_2017,collins|d,D Collins
+Walker_2017,connelly|joan,Joan B Connelly
+Walker_2017,cooper|kate,Kate Cooper
+Walker_2017,cutileiro|j,J Cutileiro
+Walker_2017,danforth|l,L Danforth
+Walker_2017,daux|georges,Georges Daux
+Walker_2017,davies|s,S Davies
+Walker_2017,dean-jones|lesley,Lesley A Dean-Jones
+Walker_2017,demand|nancy,Nancy Demand
+Walker_2017,dixon|suzanne,Suzanne Dixon
+Walker_2017,dodd|d,D Dodd
+Walker_2017,dowden|k,K Dowden
+Walker_2017,droge|a,A Droge
+Walker_2017,durkheim|e,E Durkheim
+Walker_2017,duval|ym,Y.-M Duval
+Walker_2017,edmonds iii|r,R Edmonds III
+Walker_2017,edwards|catharine,Catharine Edwards
+Walker_2017,elliott|dyan,Dyan Elliott
+Walker_2017,elm|susanna,Susanna Elm
+Walker_2017,erdmann|w,W Erdmann
+Walker_2017,faraone|christopher,Christopher A Faraone
+Walker_2017,feinstein|a,A Feinstein
+Walker_2017,ferrari|gloria,Gloria Ferrari
+Walker_2017,flanagan|c,C Flanagan
+Walker_2017,foley|f,F Foley
+Walker_2017,fontenrose|joseph,Joseph Fontenrose
+Walker_2017,foxhall|lin,Lin Foxhall
+Walker_2017,frankfurter|david,David Frankfurter
+Walker_2017,frazer|j,J Frazer
+Walker_2017,gager|j,J Gager
+Walker_2017,garland|r,R Garland
+Walker_2017,gilmore|david,David Gilmore
+Walker_2017,golden|mark,Mark Golden
+Walker_2017,gondek|r,R Gondek
+Walker_2017,gould|j,J Gould
+Walker_2017,graf|fritz,Fritz Graf
+Walker_2017,griffin|m,M Griffin
+Walker_2017,guthrie|william,William Keith Chambers Guthrie
+Walker_2017,halleux|r,R Halleux
+Walker_2017,hansen|m,M Hansen
+Walker_2017,hanson|ann,Ann Ellis Hanson
+Walker_2017,harper|kyle,Kyle Harper
+Walker_2017,hersch|karen,Karen Klaiber Hersch
+Walker_2017,hubbard|thomas,Thomas K Hubbard
+Walker_2017,hunter|david,David Hunter
+Walker_2017,jacobs|andrew,Andrew S Jacobs
+Walker_2017,jenkins|i,I Jenkins
+Walker_2017,jews|martyrdom,Martyrdom Among Jews
+Walker_2017,johnston|s,S Johnston
+Walker_2017,jones|t,T Jones
+Walker_2017,just|r,R Just
+Walker_2017,kaimakis|d,D Kaimakis
+Walker_2017,kapferer|b,B Kapferer
+Walker_2017,kaster|robert,Robert A Kaster
+Walker_2017,kelly|j. n. d.,J Kelly
+Walker_2017,king|helen,Helen King
+Walker_2017,king|m,M King
+Walker_2017,kontoleon|n,N Kontoleon
+Walker_2017,kraemer|ross,Ross Kraemer
+Walker_2017,kroppenberg|i,I Kroppenberg
+Walker_2017,kurtz|d,D Kurtz
+Walker_2017,lain entralgo|p,P Laín Entralgo
+Walker_2017,lange-kulewska|m,M Lange-Kulewska
+Walker_2017,langlands|rebecca,Rebecca Langlands
+Walker_2017,larson|j,J Larson
+Walker_2017,lattimore|r,R Lattimore
+Walker_2017,lawson|j,J Lawson
+Walker_2017,leader|r,R Leader
+Walker_2017,leemans|j,J Leemans
+Walker_2017,lewis|i,I Lewis
+Walker_2017,liebeschuetz|j,J Liebeschuetz
+Walker_2017,lincoln|b,B Lincoln
+Walker_2017,loraux|nicole,Nicole Loraux
+Walker_2017,macdonald|margaret,Margaret Y MacDonald
+Walker_2017,malina|b,B Malina
+Walker_2017,manuli|p,P Manuli
+Walker_2017,mayer|wendy,Wendy Mayer
+Walker_2017,mclynn|neil,Neil McLynn
+Walker_2017,miller|e,E Miller
+Walker_2017,newman|barbara,Barbara Newman
+Walker_2017,nielsen|h,H Nielsen
+Walker_2017,north|h,H North
+Walker_2017,oakley|john,John Oakley
+Walker_2017,pagels|elaine,Elaine Pagels
+Walker_2017,pickering|w,W Pickering
+Walker_2017,pinault|j,J Pinault
+Walker_2017,plevnik|joseph,Joseph Plevnik
+Walker_2017,polinskaya|i,I Polinskaya
+Walker_2017,popper|k,K Popper
+Walker_2017,redfield|j,J Redfield
+Walker_2017,rehm|rush,Rush Rehm
+Walker_2017,rose|h,H Rose
+Walker_2017,rousselle|aline,Aline Rousselle
+Walker_2017,ruether|r,R Ruether
+Walker_2017,sabetai|v,V Sabetai
+Walker_2017,saller|richard,Richard P Saller
+Walker_2017,scarpi|p,P Scarpi
+Walker_2017,schneider|j,J Schneider
+Walker_2017,schulenburg|jane,Jane Tibbetts Schulenburg
+Walker_2017,shapiro|h,H Shapiro
+Walker_2017,singer|e,E Singer
+Walker_2017,sivan|h,H Sivan
+Walker_2017,smith|wesley d.,W Smith
+Walker_2017,sommerstein|alan,A.H Sommerstein
+Walker_2017,sourvinou-inwood|christiane,Christiane Sourvinou-Inwood
+Walker_2017,stears|k,K Stears
+Walker_2017,stehl|e,E Stehl
+Walker_2017,sutton|robert,Robert F Sutton
+Walker_2017,thumiger|c,C Thumiger
+Walker_2017,trout|d,D Trout
+Walker_2017,vermeule|e,E Vermeule
+Walker_2017,vernant|jean,Jean-Pierre Vernant
+Walker_2017,versnel|h,H Versnel
+Walker_2017,vuolanto|ville,Ville Vuolanto
+Walker_2017,west|martin,Martin L West
+Walker_2017,wildfang|robin,Robin Lorsch Wildfang
+Walker_2017,wypustek|a,A Wypustek
+Walker_2017,zanker|paul,Paul Zanker
+Walker_2017,zuntz|g,G Zuntz
 Waller_2021,amin|kadji,Kadji Amin
 Waller_2021,barthes|roland,Roland Barthes
 Waller_2021,bauckham|richard,Richard Bauckham
@@ -6580,7 +7210,7 @@ Wise_2017,joshel|sandra,Sandra R Joshel
 Wise_2017,kampen|natalie,Natalie Kampen
 Wise_2017,keegan|peter,Peter Keegan
 Wise_2017,keith|alison,Alison M Keith
-Wise_2017,kellum|b,B Kellum
+Wise_2017,kellum|barbara,Barbara Kellum
 Wise_2017,kennedy|d,D Kennedy
 Wise_2017,kertzer|d,D Kertzer
 Wise_2017,king|r,R King
@@ -6611,7 +7241,7 @@ Wise_2017,mastrorosa|i,I Mastrorosa
 Wise_2017,mattern|t,T Mattern
 Wise_2017,matthes|m,M Matthes
 Wise_2017,mcdonough|cm,C.M McDonough
-Wise_2017,mcginn|thomas,Thomas A.J McGinn
+Wise_2017,mcginn|thomas,Thomas McGinn
 Wise_2017,mckeown|jc,J.C McKeown
 Wise_2017,merli|e,E Merli
 Wise_2017,miles|g,G Miles
@@ -6635,7 +7265,7 @@ Wise_2017,pagan|victoria,Victoria Pagán
 Wise_2017,palmer|rea,R.E.A Palmer
 Wise_2017,parker|david,David C Parker
 Wise_2017,parker|hc,H.C Parker
-Wise_2017,parker|holt,Holt N Parker
+Wise_2017,parker|holt,Holt Parker
 Wise_2017,pasco-pranger|m,M Pasco-Pranger
 Wise_2017,pensabene|p,P Pensabene
 Wise_2017,peterson|h,H Peterson
@@ -6652,9 +7282,9 @@ Wise_2017,richlin|amy,Amy Richlin
 Wise_2017,rich|john,John W Rich
 Wise_2017,rives|j,J Rives
 Wise_2017,robinson|m,M Robinson
-Wise_2017,rocca|e,E La Rocca
+Wise_2017,rocca|eugenio,Eugenio La Rocca
 Wise_2017,roller|lynn,Lynn E Roller
-Wise_2017,roller|m,M Roller
+Wise_2017,roller|matthew,Matthew Roller
 Wise_2017,rose|hj,H.J Rose
 Wise_2017,rousselle|r,R Rousselle
 Wise_2017,santoro lhoir|f,F Santoro L’Hoir
@@ -6663,10 +7293,10 @@ Wise_2017,scheid|john,John Scheid
 Wise_2017,schiesaro|a,A Schiesaro
 Wise_2017,schilling|r,R Schilling
 Wise_2017,scodel|ruth,Ruth Scodel
-Wise_2017,segal|charles,Charles Segal
+Wise_2017,segal|charles,C Segal
 Wise_2017,sharrock|alison,Alison Sharrock
 Wise_2017,shultz|c,C Shultz
-Wise_2017,skinner|marilyn,Marilyn B Skinner
+Wise_2017,skinner|marilyn,Marilyn Skinner
 Wise_2017,smethurst|se,S.E Smethurst
 Wise_2017,spaeth|b,B Spaeth
 Wise_2017,stamper|j,J Stamper
@@ -6685,7 +7315,7 @@ Wise_2017,ursini|f,F Ursini
 Wise_2017,valladares|h,H Valladares
 Wise_2017,vandiver|e,E Vandiver
 Wise_2017,varhelyi|z,Z Varhelyi
-Wise_2017,vasaly|a,A Vasaly
+Wise_2017,vasaly|ann,Ann Vasaly
 Wise_2017,verducci|f,F Verducci
 Wise_2017,vermaseren|mj,M.J Vermaseren
 Wise_2017,vermeule|cc,C.C Vermeule
@@ -7014,7 +7644,7 @@ Woodacre_2011,sanchez marco|carlos,Carlos Sanchez Marco
 Woodacre_2011,santamaria rekarte|fernando,Fernando Santamaria Rekarte
 Woodacre_2011,sciascia|laura,Laura Sciascia
 Woodacre_2011,scott|martin,Martin Scott
-Woodacre_2011,scott|sp,S.P Scott
+Woodacre_2011,scott|s. p.,S.P Scott
 Woodacre_2011,segura gramo|cristina,Cristina Segura Gramo
 Woodacre_2011,segura urra|felix,Felix Segura Urra
 Woodacre_2011,servois|g,G Servois
